@@ -20,6 +20,8 @@ pulse-news/
 └── README.md                        # This file
 ```
 
+## Test.........
+
 ## Quick start (run it locally)
 
 1. Download or clone this repo.
@@ -50,4 +52,5 @@ Your full history is saved on every commit, so you can always look back or undo 
 The page shows **short original summaries** and **links to the source** — it does not copy full articles. Keep it that way: republishing others' full content for profit is copyright infringement. See `docs/business-plan.md` for the legal notes.
 
 ---
-*Brand name "PULSE" is a placeholder — rename it anywhere it appears in `index.html`.*
+
+_Brand name "PULSE" is a placeholder — rename it anywhere it appears in `index.html`._
