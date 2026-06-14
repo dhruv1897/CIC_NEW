@@ -1,0 +1,10 @@
+===== CIC_NEW cleanup log =====
+rm 'BACKEND-GUIDE.md'
+rm 'dashboard.html'
+rm 'index.html'
+rm 'data/sample-analytics.json'
+rm 'data/stories.json'
+rm 'docs/business-plan.md'
+rm 'docs/launch-guide.md'
+rm 'docs/project-handbook.md'
+rm 'docs/sample-briefing-2026-06-11.md'

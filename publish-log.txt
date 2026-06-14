@@ -1,2 +1,70 @@
 ===== CIC_NEW publish log =====
 Initialized empty Git repository in E:/CIC AI/CIC_NEW/.git/
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'FIX-AND-PUBLISH.bat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/data/stories.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/BACKEND-GUIDE.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/business-docs/business-plan.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/business-docs/launch-guide.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/business-docs/project-handbook.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/business-docs/sample-briefing-2026-06-11.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/dashboard.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/data/sample-analytics.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'publish-log.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'update.bat', LF will be replaced by CRLF the next time Git touches it
+[main (root-commit) 4727a76] Publish public site and private backend
+ 25 files changed, 2682 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 BACKEND-GUIDE.md
+ create mode 100644 CLAUDE.md
+ create mode 100644 FIX-AND-PUBLISH.bat
+ create mode 100644 LICENSE
+ create mode 100644 README.md
+ create mode 100644 dashboard.html
+ create mode 100644 data/sample-analytics.json
+ create mode 100644 data/stories.json
+ create mode 100644 docs/business-plan.md
+ create mode 100644 docs/data/stories.json
+ create mode 100644 docs/index.html
+ create mode 100644 docs/launch-guide.md
+ create mode 100644 docs/project-handbook.md
+ create mode 100644 docs/sample-briefing-2026-06-11.md
+ create mode 100644 index.html
+ create mode 100644 private/BACKEND-GUIDE.md
+ create mode 100644 private/business-docs/business-plan.md
+ create mode 100644 private/business-docs/launch-guide.md
+ create mode 100644 private/business-docs/project-handbook.md
+ create mode 100644 private/business-docs/sample-briefing-2026-06-11.md
+ create mode 100644 private/dashboard.html
+ create mode 100644 private/data/sample-analytics.json
+ create mode 100644 publish-log.txt
+ create mode 100644 update.bat
+From https://github.com/dhruv1897/CIC_NEW
+ * branch            main       -> FETCH_HEAD
+ * [new branch]      main       -> origin/main
+warning: in the working copy of 'publish-log.txt', LF will be replaced by CRLF the next time Git touches it
+Auto-merging FIX-AND-PUBLISH.bat
+Merge made by the 'ort' strategy.
+branch 'main' set up to track 'origin/main'.
+To https://github.com/dhruv1897/CIC_NEW.git
+   c87d8ea..ceb0d20  main -> main
+
+===== FINAL STATE =====
+origin	https://github.com/dhruv1897/CIC_NEW.git (fetch)
+origin	https://github.com/dhruv1897/CIC_NEW.git (push)
+ceb0d20 Merge branch 'main' of https://github.com/dhruv1897/CIC_NEW
+4727a76 Publish public site and private backend
+c87d8ea Merge branch 'main' of https://github.com/dhruv1897/CIC_NEW
+3c62efb Add analytics dashboard and project files
+d27cb57 Merge branch 'main' of https://github.com/dhruv1897/CIC_NEW
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   publish-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
