@@ -1,0 +1,2 @@
+===== CIC_NEW publish log =====
+Initialized empty Git repository in E:/CIC AI/CIC_NEW/.git/
