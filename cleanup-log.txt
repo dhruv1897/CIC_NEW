@@ -8,3 +8,52 @@ rm 'docs/business-plan.md'
 rm 'docs/launch-guide.md'
 rm 'docs/project-handbook.md'
 rm 'docs/sample-briefing-2026-06-11.md'
+warning: in the working copy of 'publish-log.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'CLEANUP.bat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'cleanup-log.txt', LF will be replaced by CRLF the next time Git touches it
+[main 41c2411] Clean up duplicates: keep only public docs/ and private/
+ 12 files changed, 118 insertions(+), 1252 deletions(-)
+ delete mode 100644 BACKEND-GUIDE.md
+ create mode 100644 CLEANUP.bat
+ create mode 100644 cleanup-log.txt
+ delete mode 100644 dashboard.html
+ delete mode 100644 data/sample-analytics.json
+ delete mode 100644 data/stories.json
+ delete mode 100644 docs/business-plan.md
+ delete mode 100644 docs/launch-guide.md
+ delete mode 100644 docs/project-handbook.md
+ delete mode 100644 docs/sample-briefing-2026-06-11.md
+ delete mode 100644 index.html
+To https://github.com/dhruv1897/CIC_NEW.git
+   ceb0d20..41c2411  main -> main
+
+===== FILES NOW TRACKED =====
+.gitignore
+CLAUDE.md
+CLEANUP.bat
+FIX-AND-PUBLISH.bat
+LICENSE
+README.md
+cleanup-log.txt
+docs/data/stories.json
+docs/index.html
+private/BACKEND-GUIDE.md
+private/business-docs/business-plan.md
+private/business-docs/launch-guide.md
+private/business-docs/project-handbook.md
+private/business-docs/sample-briefing-2026-06-11.md
+private/dashboard.html
+private/data/sample-analytics.json
+publish-log.txt
+update.bat
+
+===== STATUS =====
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   cleanup-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
