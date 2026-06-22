@@ -1,2 +1,95 @@
 ===== CIC_NEW publish log =====
 Initialized empty Git repository in E:/CIC AI/CIC_NEW/.git/
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'CLAUDE.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'CLEANUP.bat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'FIX-AND-PUBLISH.bat', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'LICENSE', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'cleanup-log.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/data/analytics-latest.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/data/status.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/data/stories.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'docs/index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/BACKEND-GUIDE.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/TEST-CHECKLIST.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/audit-dashboard.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/business-docs/business-plan.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/business-docs/launch-guide.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/business-docs/project-handbook.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/business-docs/sample-briefing-2026-06-11.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/dashboard.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/data/sample-analytics.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/team-reports/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/team-reports/example-review.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/team-reports/weekly-review-2026-06-22.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/team/00-orchestration.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/team/analyst.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/team/manager.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/team/marketer.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/team/sales.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'private/team/weekly-review-task.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'publish-log.txt', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'update.bat', LF will be replaced by CRLF the next time Git touches it
+[main (root-commit) 5ed5569] Publish public site and private backend
+ 33 files changed, 2459 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 CLAUDE.md
+ create mode 100644 CLEANUP.bat
+ create mode 100644 FIX-AND-PUBLISH.bat
+ create mode 100644 LICENSE
+ create mode 100644 README.md
+ create mode 100644 cleanup-log.txt
+ create mode 100644 docs/data/analytics-latest.json
+ create mode 100644 docs/data/status.json
+ create mode 100644 docs/data/stories.json
+ create mode 100644 docs/index.html
+ create mode 100644 docs/index.html.bak-truncated
+ create mode 100644 docs/share.png
+ create mode 100644 private/BACKEND-GUIDE.md
+ create mode 100644 private/TEST-CHECKLIST.md
+ create mode 100644 private/audit-dashboard.html
+ create mode 100644 private/business-docs/business-plan.md
+ create mode 100644 private/business-docs/launch-guide.md
+ create mode 100644 private/business-docs/project-handbook.md
+ create mode 100644 private/business-docs/sample-briefing-2026-06-11.md
+ create mode 100644 private/dashboard.html
+ create mode 100644 private/data/sample-analytics.json
+ create mode 100644 private/team-reports/README.md
+ create mode 100644 private/team-reports/example-review.md
+ create mode 100644 private/team-reports/weekly-review-2026-06-22.md
+ create mode 100644 private/team/00-orchestration.md
+ create mode 100644 private/team/analyst.md
+ create mode 100644 private/team/manager.md
+ create mode 100644 private/team/marketer.md
+ create mode 100644 private/team/sales.md
+ create mode 100644 private/team/weekly-review-task.md
+ create mode 100644 publish-log.txt
+ create mode 100644 update.bat
+From https://github.com/dhruv1897/CIC_NEW
+ * branch            main       -> FETCH_HEAD
+ * [new branch]      main       -> origin/main
+warning: in the working copy of 'publish-log.txt', LF will be replaced by CRLF the next time Git touches it
+Auto-merging publish-log.txt
+Merge made by the 'ort' strategy.
+branch 'main' set up to track 'origin/main'.
+To https://github.com/dhruv1897/CIC_NEW.git
+   7ee1ce3..26da269  main -> main
+
+===== FINAL STATE =====
+origin	https://github.com/dhruv1897/CIC_NEW.git (fetch)
+origin	https://github.com/dhruv1897/CIC_NEW.git (push)
+26da269 Merge branch 'main' of https://github.com/dhruv1897/CIC_NEW
+5ed5569 Publish public site and private backend
+7ee1ce3 Update Mon 06/22/2026 12:51:52.23
+89d0f39 Update Mon 06/22/2026 12:10:57.83
+f9e0158 Merge branch 'main' of https://github.com/dhruv1897/CIC_NEW
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   publish-log.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
