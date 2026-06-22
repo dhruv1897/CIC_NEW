@@ -4,6 +4,20 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>PULSE — Your Daily World Briefing</title>
+<meta name="description" content="PULSE is a fast, skimmable daily briefing of the most important world, business, tech, markets, science, health, sports and culture stories — each summarized and linked to the original source.">
+<link rel="canonical" href="https://dhruv1897.github.io/CIC_NEW/">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3Crect%20width='32'%20height='32'%20rx='7'%20fill='%230b0e14'/%3E%3Ccircle%20cx='16'%20cy='16'%20r='9'%20fill='%23ff5a3c'/%3E%3C/svg%3E">
+<!-- Social share preview -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="PULSE">
+<meta property="og:title" content="PULSE — Your Daily World Briefing">
+<meta property="og:description" content="The most important stories of the day across world, business, tech, markets, science, health, sports and culture — one fast, skimmable briefing.">
+<meta property="og:url" content="https://dhruv1897.github.io/CIC_NEW/">
+<meta property="og:image" content="https://dhruv1897.github.io/CIC_NEW/share.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PULSE — Your Daily World Briefing">
+<meta name="twitter:description" content="The most important stories of the day, summarized and linked to the source.">
+<meta name="twitter:image" content="https://dhruv1897.github.io/CIC_NEW/share.png">
 <style>
   :root{
     --bg:#0b0e14; --panel:#141925; --panel2:#1b2231; --line:#28324a;
@@ -107,7 +121,7 @@
     <a class="brand" href="#"><span class="dot"></span><span>PULSE<small>WORLD BRIEFING</small></span></a>
     <span class="badge-live"><span class="pulse"></span>LIVE</span>
     <div class="spacer"></div>
-    <div class="search"><span>🔎</span><input id="q" placeholder="Search all stories…" oninput="render()"></div>
+    <div class="search"><span>🔎</span><input id="q" aria-label="Search all stories" placeholder="Search all stories…" oninput="render()"></div>
     <button class="iconbtn" onclick="toggleTheme()" title="Toggle theme">🌓</button>
   </div>
   <div class="ticker"><span class="run" id="ticker"></span></div>
@@ -215,10 +229,10 @@ function buildHero(){
     <span class="tag">${fmtDate()} · Top Story</span>
     <h1>${lead.title}</h1>
     <p>${lead.summary}</p>
-    <a class="src" href="${lead.url}" target="_blank">Read at ${lead.source} →</a>`;
+    <a class="src" href="${lead.url}" target="_blank" rel="noopener">Read at ${lead.source} →</a>`;
   const side = STORIES.filter(s=>!s.lead).slice(0,4);
   document.getElementById('sidelist').innerHTML = side.map(s=>`
-    <a class="mini" href="${s.url}" target="_blank">
+    <a class="mini" href="${s.url}" target="_blank" rel="noopener">
       <div class="k">${s.cat}</div><h4>${s.title}</h4><div class="src">${s.source}</div>
     </a>`).join('');
 }
@@ -241,7 +255,7 @@ function render(){
   const feed = document.getElementById('feed');
   if(!list.length){feed.innerHTML = '<div class="empty">No stories match your search.</div>';return;}
   feed.innerHTML = list.map(s=>`
-    <a class="card" href="${s.url}" target="_blank">
+    <a class="card" href="${s.url}" target="_blank" rel="noopener">
       <span class="chip">${s.cat}</span>
       <h3>${s.title}</h3>
       <p>${s.summary}</p>
