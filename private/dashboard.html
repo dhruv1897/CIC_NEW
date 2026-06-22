@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>PULSE — Project Analytics Backend</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root{
+    --bg:#0b1020; --panel:#141a2e; --panel2:#1b2340; --line:#26304f;
+    --txt:#e7ecf7; --muted:#9aa6c4; --accent:#5b8cff; --accent2:#36d399;
+    --warn:#ffb454; --bad:#ff6b6b; --good:#36d399; --chip:#222b49;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+       background:var(--bg);color:var(--txt);font-size:15px;line-height:1.45}
+  header{padding:22px 28px;border-bottom:1px solid var(--line);display:flex;align-items:center;
+         justify-content:space-between;flex-wrap:wrap;gap:12px;background:linear-gradient(180deg,#10162b,#0b1020)}
+  h1{margin:0;font-size:22px;letter-spacing:.3px}
+  h1 span{color:var(--accent)}
+  .sub{color:var(--muted);font-size:13px;margin-top:3px}
+  .wrap{padding:24px 28px;max-width:1240px;margin:0 auto}
+  .row{display:grid;gap:16px}
+  .kpis{grid-template-columns:repeat(auto-fit,minmax(180px,1fr));margin-bottom:22px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px}
+  .kpi .label{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.6px}
+  .kpi .val{font-size:30px;font-weight:700;margin-top:6px}
+  .kpi .delta{font-size:12px;margin-top:4px}
+  .delta.up{color:var(--good)} .delta.down{color:var(--bad)} .delta.flat{color:var(--muted)}
+  .tabs{display:flex;gap:8px;flex-wrap:wrap;margin:6px 0 18px}
+  .tab{background:var(--chip);border:1px solid var(--line);color:var(--muted);padding:9px 16px;
+       border-radius:999px;cursor:pointer;font-size:13px;font-weight:600;transition:.15s}
+  .tab.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .panelttl{font-size:15px;font-weight:700;margin:0 0 4px}
+  .panelsub{color:var(--muted);font-size:12px;margin:0 0 14px}
+  .grid2{grid-template-columns:1fr 1fr}
+  .grid3{grid-template-columns:repeat(3,1fr)}
+  @media(max-width:860px){.grid2,.grid3{grid-template-columns:1fr}}
+  canvas{max-width:100%}
+  .view{display:none} .view.active{display:block}
+  .btn{background:var(--accent);color:#fff;border:none;border-radius:10px;padding:10px 16px;
+       font-size:14px;font-weight:600;cursor:pointer}
+  .btn.sec{background:var(--chip);color:var(--txt);border:1px solid var(--line)}
+  .btn.ghost{background:transparent;color:var(--muted);border:1px solid var(--line)}
+  .btnrow{display:flex;gap:10px;flex-wrap:wrap;margin-top:6px}
+  label{display:block;font-size:12px;color:var(--muted);margin:0 0 5px;text-transform:uppercase;letter-spacing:.5px}
+  input,textarea,select{width:100%;background:var(--panel2);border:1px solid var(--line);color:var(--txt);
+       border-radius:9px;padding:9px 11px;font-size:14px;font-family:inherit}
+  input:focus,textarea:focus{outline:none;border-color:var(--accent)}
+  .formgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px}
+  .formsec{margin-top:18px}
+  .formsec h4{margin:0 0 12px;font-size:13px;color:var(--accent);text-transform:uppercase;letter-spacing:.6px}
+  .insight{display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-bottom:1px solid var(--line)}
+  .insight:last-child{border-bottom:none}
+  .insight .ic{font-size:18px;line-height:1.2}
+  .insight .tx{font-size:14px}
+  .insight .tx b{color:var(--txt)}
+  .pill{display:inline-block;padding:2px 9px;border-radius:999px;font-size:11px;font-weight:700}
+  .pill.good{background:rgba(54,211,153,.15);color:var(--good)}
+  .pill.bad{background:rgba(255,107,107,.15);color:var(--bad)}
+  .pill.flat{background:rgba(154,166,196,.15);color:var(--muted)}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line)}
+  th{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.5px}
+  td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+  .muted{color:var(--muted)}
+  .toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%);background:var(--accent2);
+         color:#04210f;padding:11px 20px;border-radius:10px;font-weight:700;font-size:14px;
+         opacity:0;pointer-events:none;transition:.25s}
+  .toast.show{opacity:1}
+  .empty{color:var(--muted);text-align:center;padding:40px 10px;font-size:14px}
+  .delx{color:var(--bad);cursor:pointer;font-weight:700}
+  details summary{cursor:pointer;color:var(--accent);font-size:13px;margin-top:8px}
+  .hint{font-size:12px;color:var(--muted);margin-top:6px}
+</style>
+</head>
+<body>
+<header>
+  <div>
+    <h1><span>PULSE</span> — Project Analytics</h1>
+    <div class="sub">Your daily command center · log it, watch the trends, adjust the strategy</div>
+  </div>
+  <div class="btnrow">
+    <button class="btn" onclick="openLog()">+ Log Today</button>
+    <button class="btn sec" onclick="exportData()">Export</button>
+    <label class="btn sec" style="margin:0;text-transform:none;letter-spacing:0;display:inline-flex;align-items:center;cursor:pointer">
+      Import<input type="file" id="importFile" accept="application/json" style="display:none" onchange="importData(event)">
+    </label>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <!-- KPI CARDS -->
+  <div class="row kpis" id="kpis"></div>
+
+  <!-- TABS -->
+  <div class="tabs">
+    <div class="tab active" data-view="overview" onclick="switchTab(this)">Overview</div>
+    <div class="tab" data-view="traffic" onclick="switchTab(this)">Website Traffic</div>
+    <div class="tab" data-view="work" onclick="switchTab(this)">My Project Work</div>
+    <div class="tab" data-view="content" onclick="switchTab(this)">News Content</div>
+    <div class="tab" data-view="revenue" onclick="switchTab(this)">Revenue</div>
+    <div class="tab" data-view="log" onclick="switchTab(this)">Daily Log</div>
+  </div>
+
+  <!-- OVERVIEW -->
+  <div class="view active" id="view-overview">
+    <div class="card" style="margin-bottom:16px">
+      <p class="panelttl">📌 Strategy Insights</p>
+      <p class="panelsub">Auto-generated from your data — refreshes every time you log a day</p>
+      <div id="insights"></div>
+    </div>
+    <div class="row grid2">
+      <div class="card"><p class="panelttl">Visitors & Signups</p><canvas id="ovTraffic" height="170"></canvas></div>
+      <div class="card"><p class="panelttl">Daily Revenue ($)</p><canvas id="ovRevenue" height="170"></canvas></div>
+    </div>
+  </div>
+
+  <!-- TRAFFIC -->
+  <div class="view" id="view-traffic">
+    <div class="row grid3" id="trafficKpis"></div>
+    <div class="card" style="margin-top:16px"><p class="panelttl">Visitors vs Pageviews</p><canvas id="chTraffic" height="120"></canvas></div>
+    <div class="row grid2" style="margin-top:16px">
+      <div class="card"><p class="panelttl">Daily Signups</p><canvas id="chSignups" height="170"></canvas></div>
+      <div class="card"><p class="panelttl">Signup Conversion %</p><canvas id="chConv" height="170"></canvas></div>
+    </div>
+    <details><summary>How do I capture real visitor numbers automatically?</summary>
+      <p class="hint">This dashboard reads numbers you log. To auto-count visitors on a static GitHub Pages site, add a free privacy-friendly counter (e.g. GoatCounter) to your <code>index.html</code> — one line of script — then copy its daily count into the log. Full steps are in <b>BACKEND-GUIDE.md</b>.</p>
+    </details>
+  </div>
+
+  <!-- WORK -->
+  <div class="view" id="view-work">
+    <div class="row grid3" id="workKpis"></div>
+    <div class="row grid2" style="margin-top:16px">
+      <div class="card"><p class="panelttl">Minutes Worked / Day</p><canvas id="chMinutes" height="170"></canvas></div>
+      <div class="card"><p class="panelttl">Commits / Day</p><canvas id="chCommits" height="170"></canvas></div>
+    </div>
+    <div class="card" style="margin-top:16px">
+      <p class="panelttl">Consistency — last 30 days</p>
+      <p class="panelsub">Green = you worked on the project that day</p>
+      <div id="streakGrid" style="display:flex;flex-wrap:wrap;gap:5px"></div>
+    </div>
+  </div>
+
+  <!-- CONTENT -->
+  <div class="view" id="view-content">
+    <div class="row grid3" id="contentKpis"></div>
+    <div class="row grid2" style="margin-top:16px">
+      <div class="card"><p class="panelttl">Stories Published / Day</p><canvas id="chStories" height="170"></canvas></div>
+      <div class="card"><p class="panelttl">Category Mix (all-time)</p><canvas id="chCats" height="170"></canvas></div>
+    </div>
+  </div>
+
+  <!-- REVENUE -->
+  <div class="view" id="view-revenue">
+    <div class="row grid3" id="revKpis"></div>
+    <div class="card" style="margin-top:16px"><p class="panelttl">Revenue by Source / Day</p><canvas id="chRevStack" height="120"></canvas></div>
+    <div class="card" style="margin-top:16px"><p class="panelttl">Revenue Mix (all-time)</p><canvas id="chRevMix" height="170" style="max-height:240px"></canvas></div>
+  </div>
+
+  <!-- LOG -->
+  <div class="view" id="view-log">
+    <div class="card">
+      <p class="panelttl" id="logTitle">Log a Day</p>
+      <p class="panelsub">Fill what you have — blanks count as zero. Logging the same date overwrites it.</p>
+      <form id="logForm" onsubmit="saveDay(event)">
+        <div class="formsec">
+          <h4>Date</h4>
+          <div class="formgrid"><div><label>Date</label><input type="date" id="f_date" required></div></div>
+        </div>
+        <div class="formsec">
+          <h4>🌐 Website Traffic</h4>
+          <div class="formgrid">
+            <div><label>Visitors</label><input type="number" min="0" id="f_visitors" placeholder="0"></div>
+            <div><label>Pageviews</label><input type="number" min="0" id="f_pageviews" placeholder="0"></div>
+            <div><label>New Signups</label><input type="number" min="0" id="f_signups" placeholder="0"></div>
+          </div>
+        </div>
+        <div class="formsec">
+          <h4>🛠️ My Project Work</h4>
+          <div class="formgrid">
+            <div><label>Worked today?</label><select id="f_worked"><option value="1">Yes</option><option value="0">No</option></select></div>
+            <div><label>Minutes spent</label><input type="number" min="0" id="f_minutes" placeholder="0"></div>
+            <div><label>Git commits</label><input type="number" min="0" id="f_commits" placeholder="0"></div>
+          </div>
+          <div style="margin-top:14px"><label>What I did</label><input type="text" id="f_tasks" placeholder="e.g. Added category filter, wrote business plan"></div>
+        </div>
+        <div class="formsec">
+          <h4>📰 News Content</h4>
+          <div class="formgrid">
+            <div><label>Stories published</label><input type="number" min="0" id="f_stories" placeholder="0"></div>
+            <div><label>World/US</label><input type="number" min="0" id="f_cWorld" placeholder="0"></div>
+            <div><label>Tech &amp; AI</label><input type="number" min="0" id="f_cTech" placeholder="0"></div>
+            <div><label>Business</label><input type="number" min="0" id="f_cBiz" placeholder="0"></div>
+            <div><label>Science</label><input type="number" min="0" id="f_cSci" placeholder="0"></div>
+            <div><label>Sources used</label><input type="number" min="0" id="f_sources" placeholder="0"></div>
+          </div>
+        </div>
+        <div class="formsec">
+          <h4>💰 Revenue ($)</h4>
+          <div class="formgrid">
+            <div><label>Ads</label><input type="number" min="0" step="0.01" id="f_ads" placeholder="0"></div>
+            <div><label>Sponsors</label><input type="number" min="0" step="0.01" id="f_sponsor" placeholder="0"></div>
+            <div><label>Subscriptions</label><input type="number" min="0" step="0.01" id="f_subs" placeholder="0"></div>
+            <div><label>Affiliate</label><input type="number" min="0" step="0.01" id="f_aff" placeholder="0"></div>
+          </div>
+        </div>
+        <div class="formsec">
+          <h4>📝 Notes / Strategy</h4>
+          <div><textarea id="f_notes" rows="2" placeholder="Anything you want to remember about today"></textarea></div>
+        </div>
+        <div class="btnrow" style="margin-top:18px">
+          <button type="submit" class="btn">Save Day</button>
+          <button type="button" class="btn ghost" onclick="resetForm()">Clear</button>
+        </div>
+      </form>
+    </div>
+
+    <div class="card" style="margin-top:16px">
+      <p class="panelttl">Logged Days</p>
+      <div id="logTable"></div>
+    </div>
+    <div class="card" style="margin-top:16px">
+      <p class="panelttl">Data</p>
+      <p class="panelsub">Your data lives in this browser. Export to back it up to your repo; import to restore or move it to another device.</p>
+      <div class="btnrow">
+        <button class="btn sec" onclick="exportData()">⬇ Export JSON</button>
+        <label class="btn sec" style="margin:0;text-transform:none;letter-spacing:0;display:inline-flex;align-items:center;cursor:pointer">
+          ⬆ Import JSON<input type="file" accept="application/json" style="display:none" onchange="importData(event)">
+        </label>
+        <button class="btn ghost" onclick="loadSample()">Load sample data</button>
+        <button class="btn ghost" onclick="wipe()">Erase all</button>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const KEY = "pulse_analytics_v1";
+let DATA = load();
+let charts = {};
+
+function load(){
+  try{ const r = localStorage.getItem(KEY); if(r) return JSON.parse(r); }catch(e){}
+  return { days: [] };
+}
+function persist(){ localStorage.setItem(KEY, JSON.stringify(DATA)); }
+function toast(msg){ const t=document.getElementById('toast'); t.textContent=msg; t.classList.add('show'); setTimeout(()=>t.classList.remove('show'),1800); }
+
+function sorted(){ return [...DATA.days].sort((a,b)=>a.date.localeCompare(b.date)); }
+function num(v){ return Number(v)||0; }
+function money(n){ return "$"+(Math.round(n*100)/100).toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2}); }
+function dayRev(d){ return num(d.ads)+num(d.sponsor)+num(d.subs)+num(d.aff); }
+
+/* ---------- TABS ---------- */
+function switchTab(el){
+  document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
+  el.classList.add('active');
+  const v = el.dataset.view;
+  document.querySelectorAll('.view').forEach(x=>x.classList.remove('active'));
+  document.getElementById('view-'+v).classList.add('active');
+  if(v==='log') renderLogTable();
+  render();
+}
+function openLog(){
+  document.querySelector('.tab[data-view="log"]').click();
+  if(!document.getElementById('f_date').value) document.getElementById('f_date').value = today();
+}
+function today(){ const d=new Date(); return d.toISOString().slice(0,10); }
+
+/* ---------- FORM ---------- */
+function saveDay(e){
+  e.preventDefault();
+  const d = {
+    date: document.getElementById('f_date').value,
+    visitors:val('f_visitors'), pageviews:val('f_pageviews'), signups:val('f_signups'),
+    worked:document.getElementById('f_worked').value==="1"?1:0,
+    minutes:val('f_minutes'), commits:val('f_commits'), tasks:document.getElementById('f_tasks').value.trim(),
+    stories:val('f_stories'), cWorld:val('f_cWorld'), cTech:val('f_cTech'), cBiz:val('f_cBiz'), cSci:val('f_cSci'), sources:val('f_sources'),
+    ads:val('f_ads'), sponsor:val('f_sponsor'), subs:val('f_subs'), aff:val('f_aff'),
+    notes:document.getElementById('f_notes').value.trim()
+  };
+  DATA.days = DATA.days.filter(x=>x.date!==d.date);
+  DATA.days.push(d);
+  persist(); resetForm(); renderLogTable(); render();
+  toast("Saved "+d.date);
+}
+function val(id){ return num(document.getElementById(id).value); }
+function resetForm(){ document.getElementById('logForm').reset(); document.getElementById('logTitle').textContent="Log a Day"; document.getElementById('f_date').value=today(); }
+function editDay(date){
+  const d = DATA.days.find(x=>x.date===date); if(!d) return;
+  document.querySelector('.tab[data-view="log"]').click();
+  const set=(id,v)=>document.getElementById(id).value=(v===0?'' : (v??''));
+  document.getElementById('f_date').value=d.date;
+  set('f_visitors',d.visitors);set('f_pageviews',d.pageviews);set('f_signups',d.signups);
+  document.getElementById('f_worked').value=d.worked?"1":"0";
+  set('f_minutes',d.minutes);set('f_commits',d.commits);document.getElementById('f_tasks').value=d.tasks||'';
+  set('f_stories',d.stories);set('f_cWorld',d.cWorld);set('f_cTech',d.cTech);set('f_cBiz',d.cBiz);set('f_cSci',d.cSci);set('f_sources',d.sources);
+  set('f_ads',d.ads);set('f_sponsor',d.sponsor);set('f_subs',d.subs);set('f_aff',d.aff);
+  document.getElementById('f_notes').value=d.notes||'';
+  document.getElementById('logTitle').textContent="Editing "+d.date;
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+function delDay(date){ if(!confirm("Delete "+date+"?"))return; DATA.days=DATA.days.filter(x=>x.date!==date); persist(); renderLogTable(); render(); toast("Deleted "+date); }
+
+/* ---------- DATA IO ---------- */
+function exportData(){
+  const blob=new Blob([JSON.stringify(DATA,null,2)],{type:"application/json"});
+  const a=document.createElement('a'); a.href=URL.createObjectURL(blob);
+  a.download="pulse-analytics-"+today()+".json"; a.click();
+  toast("Exported");
+}
+function importData(e){
+  const f=e.target.files[0]; if(!f)return;
+  const r=new FileReader();
+  r.onload=()=>{ try{ const j=JSON.parse(r.result); if(!j.days) throw 0; DATA=j; persist(); renderLogTable(); render(); toast("Imported "+DATA.days.length+" days"); }catch(_){ alert("That file isn't a valid PULSE export."); } };
+  r.readAsText(f); e.target.value="";
+}
+function wipe(){ if(!confirm("Erase ALL logged data? Export first if unsure."))return; DATA={days:[]}; persist(); renderLogTable(); render(); toast("Erased"); }
+
+/* ---------- RENDER ---------- */
+function render(){ renderKpis(); renderInsights(); renderCharts(); }
+
+function totals(){
+  const s=sorted();
+  const t={visitors:0,pageviews:0,signups:0,minutes:0,commits:0,stories:0,sources:0,rev:0,
+           cWorld:0,cTech:0,cBiz:0,cSci:0,ads:0,sponsor:0,subs:0,aff:0,workedDays:0};
+  s.forEach(d=>{t.visitors+=num(d.visitors);t.pageviews+=num(d.pageviews);t.signups+=num(d.signups);
+    t.minutes+=num(d.minutes);t.commits+=num(d.commits);t.stories+=num(d.stories);t.sources+=num(d.sources);
+    t.cWorld+=num(d.cWorld);t.cTech+=num(d.cTech);t.cBiz+=num(d.cBiz);t.cSci+=num(d.cSci);
+    t.ads+=num(d.ads);t.sponsor+=num(d.sponsor);t.subs+=num(d.subs);t.aff+=num(d.aff);t.rev+=dayRev(d);
+    if(d.worked)t.workedDays++;});
+  return t;
+}
+function deltaPill(curr,prev){
+  if(prev===0 && curr===0) return '<span class="delta flat">—</span>';
+  if(prev===0) return '<span class="delta up">▲ new</span>';
+  const p=Math.round((curr-prev)/prev*100);
+  if(p>0) return '<span class="delta up">▲ '+p+'%</span>';
+  if(p<0) return '<span class="delta down">▼ '+Math.abs(p)+'%</span>';
+  return '<span class="delta flat">— 0%</span>';
+}
+function last7vsPrev(field){
+  const s=sorted(); const n=s.length;
+  const sum=(arr)=>arr.reduce((a,d)=>a+(field==='rev'?dayRev(d):num(d[field])),0);
+  const cur=sum(s.slice(Math.max(0,n-7)));
+  const prev=sum(s.slice(Math.max(0,n-14),Math.max(0,n-7)));
+  return [cur,prev];
+}
+function streak(){
+  const s=sorted(); let st=0;
+  for(let i=s.length-1;i>=0;i--){ if(s[i].worked){st++;}else break; }
+  return st;
+}
+function renderKpis(){
+  const t=totals();
+  const conv = t.visitors? (t.signups/t.visitors*100):0;
+  const [v7,vp]=last7vsPrev('visitors'); const [r7,rp]=last7vsPrev('rev'); const [sg7,sgp]=last7vsPrev('signups');
+  const cards=[
+    {label:"Total Visitors",val:t.visitors.toLocaleString(),d:deltaPill(v7,vp)+' <span class="muted" style="font-size:11px">7d</span>'},
+    {label:"Total Signups",val:t.signups.toLocaleString(),d:deltaPill(sg7,sgp)+' <span class="muted" style="font-size:11px">7d</span>'},
+    {label:"Signup Conv.",val:conv.toFixed(1)+"%",d:'<span class="muted" style="font-size:11px">signups ÷ visitors</span>'},
+    {label:"Total Revenue",val:money(t.rev),d:deltaPill(r7,rp)+' <span class="muted" style="font-size:11px">7d</span>'},
+    {label:"Work Streak",val:streak()+"d",d:'<span class="muted" style="font-size:11px">'+t.workedDays+' active days</span>'},
+  ];
+  document.getElementById('kpis').innerHTML = cards.map(c=>
+    `<div class="card kpi"><div class="label">${c.label}</div><div class="val">${c.val}</div><div class="delta">${c.d}</div></div>`).join('');
+
+  // sub-tab kpis
+  mini('trafficKpis',[["Visitors",t.visitors.toLocaleString()],["Pageviews",t.pageviews.toLocaleString()],["Signups",t.signups.toLocaleString()]]);
+  mini('workKpis',[["Active Days",t.workedDays],["Total Minutes",t.minutes.toLocaleString()],["Total Commits",t.commits.toLocaleString()]]);
+  mini('contentKpis',[["Stories Published",t.stories],["Avg Sources/Day",avg('sources').toFixed(1)],["Days Published",sorted().filter(d=>num(d.stories)>0).length]]);
+  mini('revKpis',[["Total Revenue",money(t.rev)],["Rev / Visitor",money(t.visitors? t.rev/t.visitors:0)],["Best Source",bestSource(t)]]);
+}
+function mini(id,pairs){ const el=document.getElementById(id); if(!el)return;
+  el.className="row grid3"; el.innerHTML=pairs.map(p=>`<div class="card kpi"><div class="label">${p[0]}</div><div class="val" style="font-size:24px">${p[1]}</div></div>`).join(''); }
+function avg(f){ const s=sorted(); if(!s.length)return 0; return s.reduce((a,d)=>a+num(d[f]),0)/s.length; }
+function bestSource(t){ const m={Ads:t.ads,Sponsors:t.sponsor,Subs:t.subs,Affiliate:t.aff}; let b="—",bv=-1; for(const k in m){if(m[k]>bv){bv=m[k];b=k;}} return bv>0?b:"—"; }
+
+/* ---------- INSIGHTS ---------- */
+function renderInsights(){
+  const s=sorted(); const box=document.getElementById('insights');
+  if(s.length<1){ box.innerHTML='<div class="empty">No data yet. Hit <b>+ Log Today</b> or <b>Load sample data</b> to see this come alive.</div>'; return; }
+  const t=totals(); const out=[];
+  const conv=t.visitors?(t.signups/t.visitors*100):0;
+  // conversion
+  if(t.visitors>0){
+    if(conv>=4) out.push(["🎯",`Strong signup conversion at <b>${conv.toFixed(1)%1?conv.toFixed(1):conv.toFixed(0)}%</b> — your page is turning readers into subscribers. Protect what's working before chasing more traffic.`,'good']);
+    else if(conv>0) out.push(["🔍",`Signup conversion is <b>${conv.toFixed(1)}%</b>. A clearer signup call-to-action or a reason-to-subscribe line could lift this without needing more traffic.`,'flat']);
+    else out.push(["⚠️",`You have <b>${t.visitors.toLocaleString()}</b> visitors but <b>0</b> signups logged. The signup path may be the single biggest thing to fix.`,'bad']);
+  }
+  // traffic trend
+  const [v7,vp]=last7vsPrev('visitors');
+  if(vp>0){ const p=Math.round((v7-vp)/vp*100);
+    if(p>=10) out.push(["📈",`Traffic is up <b>${p}%</b> week-over-week. Whatever you changed recently, do more of it.`,'good']);
+    else if(p<=-10) out.push(["📉",`Traffic dropped <b>${Math.abs(p)}%</b> vs last week. Check posting consistency and what you shared where.`,'bad']);
+  }
+  // revenue
+  if(t.rev>0){ out.push(["💰",`You've earned <b>${money(t.rev)}</b> so far, mostly from <b>${bestSource(t)}</b>. Doubling down on your top source is usually faster than launching a new one. Revenue per visitor is <b>${money(t.visitors?t.rev/t.visitors:0)}</b>.`,'good']); }
+  else out.push(["💡",`No revenue logged yet. With your audience size, the lowest-effort first dollar is usually one sponsor slot or an affiliate link in the briefing.`,'flat']);
+  // consistency
+  const st=streak();
+  if(st>=5) out.push(["🔥",`<b>${st}-day</b> work streak — consistency is the whole game for a daily product. Keep it alive.`,'good']);
+  else if(t.workedDays>0 && st===0) out.push(["⏰",`Your streak is broken. The product is a <i>daily</i> habit for readers — publishing gaps cost you the habit loop. Aim to log work every day.`,'bad']);
+  // best day
+  if(s.length>=3){ let bd=s[0],bv=num(s[0].visitors); s.forEach(d=>{if(num(d.visitors)>bv){bv=num(d.visitors);bd=d;}});
+    if(bv>0) out.push(["🏆",`Your best traffic day was <b>${bd.date}</b> (${bv.toLocaleString()} visitors)${bd.tasks?` — that day you: ${bd.tasks}`:''}. Worth repeating what drove it.`,'good']); }
+  // content vs traffic correlation (simple)
+  const pubDays=s.filter(d=>num(d.stories)>0), noPub=s.filter(d=>num(d.stories)===0);
+  if(pubDays.length>=2 && noPub.length>=1){
+    const ap=pubDays.reduce((a,d)=>a+num(d.visitors),0)/pubDays.length;
+    const an=noPub.reduce((a,d)=>a+num(d.visitors),0)/Math.max(1,noPub.length);
+    if(ap>an*1.2) out.push(["🧠",`Days you publish average <b>${Math.round(ap)}</b> visitors vs <b>${Math.round(an)}</b> when you don't. Publishing clearly drives traffic — guard your daily cadence.`,'good']);
+  }
+  box.innerHTML = out.map(i=>`<div class="insight"><div class="ic">${i[0]}</div><div class="tx">${i[1]} <span class="pill ${i[2]}">${i[2]==='good'?'on track':i[2]==='bad'?'attention':'note'}</span></div></div>`).join('');
+}
+
+/* ---------- CHARTS ---------- */
+const C={txt:'#e7ecf7',muted:'#9aa6c4',grid:'#26304f',accent:'#5b8cff',green:'#36d399',warn:'#ffb454',red:'#ff6b6b',purple:'#b78cff'};
+function baseOpts(extra={}){ return Object.assign({responsive:true,plugins:{legend:{labels:{color:C.muted,boxWidth:12,font:{size:11}}}},
+  scales:{x:{ticks:{color:C.muted,font:{size:10}},grid:{color:'transparent'}},y:{ticks:{color:C.muted,font:{size:10}},grid:{color:C.grid},beginAtZero:true}}},extra); }
+function mk(id,cfg){ if(charts[id])charts[id].destroy(); const el=document.getElementById(id); if(!el)return; charts[id]=new Chart(el,cfg); }
+function labels(){ return sorted().map(d=>d.date.slice(5)); }
+
+function renderCharts(){
+  const s=sorted(); const L=labels();
+  const series=(f)=>s.map(d=>f==='rev'?dayRev(d):num(d[f]));
+  const line=(field,color,label)=>({label,data:series(field),borderColor:color,backgroundColor:color+'33',tension:.3,fill:true,pointRadius:2});
+  const bar=(field,color,label)=>({label,data:series(field),backgroundColor:color});
+
+  mk('ovTraffic',{type:'line',data:{labels:L,datasets:[line('visitors',C.accent,'Visitors'),line('signups',C.green,'Signups')]},options:baseOpts()});
+  mk('ovRevenue',{type:'bar',data:{labels:L,datasets:[bar('rev',C.warn,'Revenue')]},options:baseOpts()});
+
+  mk('chTraffic',{type:'line',data:{labels:L,datasets:[line('visitors',C.accent,'Visitors'),line('pageviews',C.purple,'Pageviews')]},options:baseOpts()});
+  mk('chSignups',{type:'bar',data:{labels:L,datasets:[bar('signups',C.green,'Signups')]},options:baseOpts()});
+  const conv=s.map(d=>num(d.visitors)?+(num(d.signups)/num(d.visitors)*100).toFixed(2):0);
+  mk('chConv',{type:'line',data:{labels:L,datasets:[{label:'Conversion %',data:conv,borderColor:C.warn,backgroundColor:C.warn+'33',tension:.3,fill:true,pointRadius:2}]},options:baseOpts()});
+
+  mk('chMinutes',{type:'bar',data:{labels:L,datasets:[bar('minutes',C.accent,'Minutes')]},options:baseOpts()});
+  mk('chCommits',{type:'bar',data:{labels:L,datasets:[bar('commits',C.green,'Commits')]},options:baseOpts()});
+  renderStreak();
+
+  mk('chStories',{type:'bar',data:{labels:L,datasets:[bar('stories',C.purple,'Stories')]},options:baseOpts()});
+  const t=totals();
+  mk('chCats',{type:'doughnut',data:{labels:['World/US','Tech & AI','Business','Science'],datasets:[{data:[t.cWorld,t.cTech,t.cBiz,t.cSci],backgroundColor:[C.accent,C.green,C.warn,C.purple]}]},options:{responsive:true,plugins:{legend:{labels:{color:C.muted,font:{size:11}}}}}});
+
+  mk('chRevStack',{type:'bar',data:{labels:L,datasets:[bar('ads',C.accent,'Ads'),bar('sponsor',C.green,'Sponsors'),bar('subs',C.warn,'Subscriptions'),bar('aff',C.purple,'Affiliate')]},options:baseOpts({scales:{x:{stacked:true,ticks:{color:C.muted,font:{size:10}},grid:{color:'transparent'}},y:{stacked:true,beginAtZero:true,ticks:{color:C.muted,font:{size:10}},grid:{color:C.grid}}}})});
+  mk('chRevMix',{type:'doughnut',data:{labels:['Ads','Sponsors','Subscriptions','Affiliate'],datasets:[{data:[t.ads,t.sponsor,t.subs,t.aff],backgroundColor:[C.accent,C.green,C.warn,C.purple]}]},options:{responsive:true,plugins:{legend:{labels:{color:C.muted,font:{size:11}}}}}});
+}
+function renderStreak(){
+  const grid=document.getElementById('streakGrid'); if(!grid)return;
+  const map={}; DATA.days.forEach(d=>map[d.date]=d.worked);
+  let html='';
+  for(let i=29;i>=0;i--){ const dt=new Date(); dt.setDate(dt.getDate()-i); const k=dt.toISOString().slice(0,10);
+    const w=map[k]; const col=w===1?C.green:(w===0?C.red:'#222b49');
+    html+=`<div title="${k}${w===1?' · worked':w===0?' · skipped':''}" style="width:22px;height:22px;border-radius:5px;background:${col};opacity:${w===undefined?.4:1}"></div>`; }
+  grid.innerHTML=html;
+}
+
+/* ---------- LOG TABLE ---------- */
+function renderLogTable(){
+  const el=document.getElementById('logTable'); const s=sorted().reverse();
+  if(!s.length){ el.innerHTML='<div class="empty">No days logged yet.</div>'; return; }
+  el.innerHTML=`<div style="overflow-x:auto"><table><thead><tr>
+    <th>Date</th><th class="num">Visitors</th><th class="num">Signups</th><th class="num">Stories</th>
+    <th class="num">Min</th><th class="num">Commits</th><th class="num">Revenue</th><th>Did</th><th></th></tr></thead><tbody>`+
+    s.map(d=>`<tr>
+      <td><b>${d.date}</b></td><td class="num">${num(d.visitors).toLocaleString()}</td><td class="num">${num(d.signups)}</td>
+      <td class="num">${num(d.stories)}</td><td class="num">${num(d.minutes)}</td><td class="num">${num(d.commits)}</td>
+      <td class="num">${money(dayRev(d))}</td><td class="muted" style="max-width:200px">${(d.tasks||'').slice(0,60)}</td>
+      <td style="white-space:nowrap"><span class="delx" onclick="editDay('${d.date}')" style="color:var(--accent);margin-right:10px">edit</span><span class="delx" onclick="delDay('${d.date}')">del</span></td>
+    </tr>`).join('')+`</tbody></table></div>`;
+}
+
+/* ---------- SAMPLE ---------- */
+function loadSample(){
+  if(DATA.days.length && !confirm("Replace current data with sample data?")) return;
+  const days=[]; const base=new Date(); base.setDate(base.getDate()-13);
+  let visitors=40;
+  for(let i=0;i<14;i++){ const dt=new Date(base); dt.setDate(base.getDate()+i); const date=dt.toISOString().slice(0,10);
+    visitors=Math.round(visitors*(1+(Math.random()*0.18-0.03)));
+    const worked=Math.random()>0.15?1:0;
+    const stories=worked?(3+Math.floor(Math.random()*2))*4:0;
+    const sg=Math.round(visitors*(0.02+Math.random()*0.04));
+    days.push({date,visitors,pageviews:Math.round(visitors*2.4),signups:sg,
+      worked,minutes:worked?40+Math.floor(Math.random()*80):0,commits:worked?1+Math.floor(Math.random()*4):0,
+      tasks:worked?["Published briefing","Tweaked filters","Wrote copy","Shared on socials","Added sponsor slot"][i%5]:"",
+      stories,cWorld:stories/4,cTech:stories/4,cBiz:stories/4,cSci:stories/4,sources:worked?6+Math.floor(Math.random()*4):0,
+      ads:+(visitors*0.004).toFixed(2),sponsor:i>9?25:0,subs:+(sg*0.5).toFixed(2),aff:+(Math.random()*3).toFixed(2),
+      notes:""}); }
+  DATA={days}; persist(); renderLogTable(); render(); toast("Sample data loaded");
+}
+
+/* ---------- INIT ---------- */
+document.getElementById('f_date').value=today();
+renderLogTable(); render();
+</script>
+</body>
+</html>
