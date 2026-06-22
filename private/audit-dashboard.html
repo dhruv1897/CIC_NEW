@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>PULSE — Pre-Launch Website Audit</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root{
+    --bg:#0b0e14;--panel:#141925;--panel2:#1b2231;--line:#28324a;--text:#eef2f8;--muted:#9aa7bd;
+    --accent:#ff5a3c;--blue:#3b82f6;--good:#22c55e;--warn:#f5b942;--bad:#ef4444;--chip:#222c40;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+       background:var(--bg);color:var(--text);line-height:1.5}
+  .wrap{max-width:1180px;margin:0 auto;padding:26px 20px}
+  header h1{margin:0;font-size:24px}
+  header .sub{color:var(--muted);font-size:13px;margin-top:4px}
+  .pill{display:inline-block;padding:3px 10px;border-radius:999px;font-size:11px;font-weight:700}
+  .pill.good{background:rgba(34,197,94,.16);color:var(--good)}
+  .pill.warn{background:rgba(245,185,66,.16);color:var(--warn)}
+  .pill.bad{background:rgba(239,68,68,.16);color:var(--bad)}
+  .top{display:grid;grid-template-columns:300px 1fr;gap:18px;margin:22px 0}
+  @media(max-width:820px){.top{grid-template-columns:1fr}}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:20px}
+  .scorecard{text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center}
+  .gauge{position:relative;width:200px;height:200px}
+  .gauge .pct{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center}
+  .gauge .pct b{font-size:44px;line-height:1}
+  .gauge .pct span{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:1px}
+  .verdict{margin-top:14px;font-weight:700;font-size:15px}
+  .counts{display:flex;gap:10px;margin-top:14px;flex-wrap:wrap;justify-content:center}
+  .countbox{background:var(--panel2);border:1px solid var(--line);border-radius:12px;padding:10px 14px;min-width:84px}
+  .countbox b{font-size:22px;display:block}
+  .countbox span{font-size:11px;color:var(--muted)}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+  @media(max-width:820px){.grid2{grid-template-columns:1fr}}
+  .panelttl{font-size:15px;font-weight:700;margin:0 0 4px}
+  .panelsub{color:var(--muted);font-size:12px;margin:0 0 14px}
+  h2.sec{font-size:17px;margin:30px 0 12px;display:flex;align-items:center;gap:10px}
+  h2.sec .bar{flex:1;height:1px;background:var(--line)}
+  .fix{display:flex;gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}
+  .fix:last-child{border-bottom:none}
+  .fix .num{width:24px;height:24px;flex:0 0 24px;border-radius:50%;background:var(--bad);color:#fff;font-weight:700;
+            font-size:12px;display:flex;align-items:center;justify-content:center}
+  .fix .b{font-weight:600}.fix .s{color:var(--muted);font-size:13px}
+  table{width:100%;border-collapse:collapse;font-size:13.5px;margin-top:4px}
+  th,td{text-align:left;padding:10px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.5px;position:sticky;top:0;background:var(--panel)}
+  td .fixhint{color:var(--muted);font-size:12px;margin-top:3px}
+  .filterbar{display:flex;gap:8px;flex-wrap:wrap;margin:6px 0 0}
+  .fbtn{background:var(--chip);border:1px solid var(--line);color:var(--muted);padding:6px 13px;border-radius:999px;
+        cursor:pointer;font-size:12px;font-weight:600}
+  .fbtn.active{background:var(--blue);color:#fff;border-color:var(--blue)}
+  .catlabel{font-size:11px;color:var(--muted)}
+  .legend{font-size:12px;color:var(--muted);margin-top:8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🔍 PULSE — Pre-Launch Website Audit</h1>
+    <div class="sub">Automated health check of <b>docs/index.html</b> · re-run June 13, 2026 <span class="pill good">after quick-win fixes</span> · 33 checks across 7 areas</div>
+  </header>
+
+  <div class="top">
+    <div class="card scorecard">
+      <div class="gauge"><canvas id="gauge"></canvas>
+        <div class="pct"><b id="scoreNum">0</b><span>Launch ready</span></div>
+      </div>
+      <div class="verdict" id="verdict"></div>
+      <div class="counts">
+        <div class="countbox" style="border-color:rgba(34,197,94,.4)"><b style="color:var(--good)" id="cPass">0</b><span>Passed</span></div>
+        <div class="countbox" style="border-color:rgba(245,185,66,.4)"><b style="color:var(--warn)" id="cWarn">0</b><span>Warnings</span></div>
+        <div class="countbox" style="border-color:rgba(239,68,68,.4)"><b style="color:var(--bad)" id="cFail">0</b><span>Must fix</span></div>
+      </div>
+    </div>
+    <div class="card">
+      <p class="panelttl">Readiness by area</p>
+      <p class="panelsub">How close each part of the site is to launch-ready (higher = better)</p>
+      <canvas id="catBars" height="150"></canvas>
+    </div>
+  </div>
+
+  <div class="grid2">
+    <div class="card">
+      <p class="panelttl">Check results</p>
+      <p class="panelsub">Pass vs warning vs must-fix across all 33 checks</p>
+      <canvas id="donut" height="150"></canvas>
+    </div>
+    <div class="card">
+      <p class="panelttl">🚩 Top priority fixes before launch</p>
+      <p class="panelsub">Do these and your score jumps the most</p>
+      <div id="topFixes"></div>
+    </div>
+  </div>
+
+  <h2 class="sec">Full findings <span class="bar"></span><span class="catlabel" id="shownCount"></span></h2>
+  <div class="card">
+    <div class="filterbar" id="filterbar"></div>
+    <div style="overflow-x:auto"><table id="tbl">
+      <thead><tr><th>#</th><th>Area</th><th>Check</th><th>Status</th><th>Finding &amp; fix</th></tr></thead>
+      <tbody id="tbody"></tbody>
+    </table></div>
+  </div>
+
+  <p class="legend">This audit reflects the current <code>docs/index.html</code>. After you make changes, ask me to re-run it and this dashboard updates. The page itself loads in ~20 KB with no JavaScript errors — the issues below are about launch-readiness, not whether it works.</p>
+</div>
+
+<script>
+const CHECKS = [
+  // area, name, status (pass|warn|fail), finding
+  ["SEO","Page title","pass","Title present: “PULSE — Your Daily World Briefing.”"],
+  ["SEO","Meta description","pass","✅ Fixed — a search-friendly description is now in place."],
+  ["SEO","Language attribute","pass","<html lang=“en”> set correctly."],
+  ["SEO","Mobile viewport tag","pass","Viewport meta present — scales on phones."],
+  ["SEO","Social preview (Open Graph)","pass","✅ Fixed — OG tags added with a branded share.png; links now preview properly."],
+  ["SEO","Twitter card","pass","✅ Fixed — summary_large_image card added with title, description and image."],
+  ["SEO","Favicon","pass","✅ Fixed — inline SVG favicon (brand dot) added; shows in the browser tab."],
+  ["SEO","Canonical URL","pass","✅ Fixed — canonical link added (GitHub Pages URL for now; update it when the real domain is set)."],
+
+  ["Functionality","Search","pass","Live search filters stories as you type."],
+  ["Functionality","Category filters","pass","10 category chips switch the feed correctly."],
+  ["Functionality","Dark / light theme","pass","Theme toggle works and restyles the page."],
+  ["Functionality","Story links open source","pass","Cards open the original article in a new tab."],
+  ["Functionality","Email signup capture","fail","Subscribe form is a DEMO — it only shows an alert and saves nothing. Connect it to an email provider; this is your #1 growth asset."],
+  ["Functionality","JavaScript errors","pass","Runs clean — 28 stories render, no console errors."],
+
+  ["Content","Story count & coverage","pass","28 stories across 9 sections — good breadth."],
+  ["Content","Summaries are short (legal-safe)","pass","Short original blurbs that link out — not full reprints. Keep it this way."],
+  ["Content","Publish date","fail","Date is hard-coded to “Jun 11, 2026”. A daily product must show today’s date / refresh automatically."],
+  ["Content","“LIVE” badge vs static data","warn","Header says LIVE but content is fixed demo data. Wire a live feed before claiming live."],
+  ["Content","Source link quality","warn","A few links go to homepages/sections (Bloomberg, ScienceDaily) instead of the exact article. Point each to its specific story."],
+
+  ["Performance","Page weight","pass","~20 KB single file — extremely light."],
+  ["Performance","External requests","pass","No external CSS/JS/images — nothing render-blocking."],
+  ["Performance","Load speed","pass","Effectively instant on any connection."],
+
+  ["Accessibility","Language set","pass","Document language declared."],
+  ["Accessibility","Search input label","pass","✅ Fixed — aria-label added so screen readers announce the search box."],
+  ["Accessibility","Link safety (rel=noopener)","pass","✅ Fixed — rel=“noopener” added to all external links."],
+  ["Accessibility","Color contrast","warn","Not verified — check muted grey text on dark background meets WCAG AA (4.5:1)."],
+
+  ["Mobile","Viewport","pass","Responsive viewport present."],
+  ["Mobile","Responsive breakpoints","pass","Hero and grid collapse cleanly at 820/900/600px."],
+  ["Mobile","Tap targets","pass","Buttons and chips are finger-sized."],
+
+  ["Launch","Brand name finalized","warn","Still the “PULSE” placeholder — lock the real name before buying the domain."],
+  ["Launch","Live data feed","fail","Static demo data — connect a news API or RSS so stories refresh daily."],
+  ["Launch","Email capture connected","fail","Signups go nowhere yet — must work to build your subscriber list."],
+  ["Launch","Visitor analytics installed","fail","No visitor counter — your analytics dashboard has nothing to log automatically. Add a privacy-friendly counter."]
+];
+
+const AREAS = ["SEO","Functionality","Content","Performance","Accessibility","Mobile","Launch"];
+const W = {pass:100,warn:50,fail:0};
+const COL = {pass:"#22c55e",warn:"#f5b942",fail:"#ef4444"};
+const PILL = {pass:"good",warn:"warn",fail:"bad"};
+const LBL = {pass:"Pass",warn:"Warn",fail:"Fix"};
+
+const counts = {pass:0,warn:0,fail:0};
+CHECKS.forEach(c=>counts[c[2]]++);
+const overall = Math.round(CHECKS.reduce((a,c)=>a+W[c[2]],0)/CHECKS.length);
+
+function areaScore(a){const cs=CHECKS.filter(c=>c[0]===a);return Math.round(cs.reduce((s,c)=>s+W[c[2]],0)/cs.length);}
+
+// ---- gauge ----
+const gaugeColor = overall>=80?COL.pass:overall>=55?COL.warn:COL.bad;
+new Chart(document.getElementById('gauge'),{type:'doughnut',
+  data:{datasets:[{data:[overall,100-overall],backgroundColor:[gaugeColor,'#222c40'],borderWidth:0,circumference:360,cutout:'78%'}]},
+  options:{plugins:{legend:{display:false},tooltip:{enabled:false}}}});
+(function animate(){let n=0;const t=setInterval(()=>{n+=2;if(n>=overall){n=overall;clearInterval(t);}document.getElementById('scoreNum').textContent=n;},14);})();
+document.getElementById('verdict').innerHTML = overall>=80
+  ? '<span class="pill good">Launch ready</span>'
+  : overall>=55 ? '<span class="pill warn">Needs work before launch</span>'
+  : '<span class="pill bad">Not ready</span>';
+document.getElementById('cPass').textContent=counts.pass;
+document.getElementById('cWarn').textContent=counts.warn;
+document.getElementById('cFail').textContent=counts.fail;
+
+// ---- category bars ----
+new Chart(document.getElementById('catBars'),{type:'bar',
+  data:{labels:AREAS,datasets:[{data:AREAS.map(areaScore),
+    backgroundColor:AREAS.map(a=>{const s=areaScore(a);return s>=80?COL.pass:s>=55?COL.warn:COL.bad;})}]},
+  options:{indexAxis:'y',plugins:{legend:{display:false},tooltip:{callbacks:{label:c=>c.parsed.x+'% ready'}}},
+    scales:{x:{max:100,ticks:{color:'#9aa7bd',callback:v=>v+'%'},grid:{color:'#28324a'}},
+            y:{ticks:{color:'#eef2f8',font:{size:12}},grid:{display:false}}}}});
+
+// ---- donut ----
+new Chart(document.getElementById('donut'),{type:'doughnut',
+  data:{labels:['Passed','Warnings','Must fix'],datasets:[{data:[counts.pass,counts.warn,counts.fail],
+    backgroundColor:[COL.pass,COL.warn,COL.bad],borderWidth:0}]},
+  options:{cutout:'62%',plugins:{legend:{position:'bottom',labels:{color:'#9aa7bd',padding:14}}}}});
+
+// ---- top fixes (fails first, most impactful) ----
+const priority = ["Email signup capture","Live data feed","Visitor analytics installed","Publish date","Email capture connected"];
+const fixData = priority.map(name=>CHECKS.find(c=>c[1]===name)).filter(Boolean);
+document.getElementById('topFixes').innerHTML = fixData.map((c,i)=>
+  `<div class="fix"><div class="num">${i+1}</div><div><div class="b">${c[1]} <span class="catlabel">(${c[0]})</span></div><div class="s">${c[3]}</div></div></div>`).join('');
+
+// ---- table + filters ----
+let filter="all";
+function rows(){
+  const tb=document.getElementById('tbody');
+  const list=CHECKS.map((c,i)=>[i,...c]).filter(r=>filter==="all"||r[3]===filter);
+  document.getElementById('shownCount').textContent=list.length+" of "+CHECKS.length+" shown";
+  tb.innerHTML=list.map(r=>{
+    const [i,area,name,status,finding]=r;
+    return `<tr>
+      <td>${i+1}</td>
+      <td class="catlabel">${area}</td>
+      <td><b>${name}</b></td>
+      <td><span class="pill ${PILL[status]}">${LBL[status]}</span></td>
+      <td>${finding}</td></tr>`;}).join('');
+}
+const filters=[["all","All"],["fail","Must fix"],["warn","Warnings"],["pass","Passed"]];
+document.getElementById('filterbar').innerHTML=filters.map(f=>
+  `<div class="fbtn ${f[0]==='all'?'active':''}" data-f="${f[0]}">${f[1]}</div>`).join('');
+document.querySelectorAll('.fbtn').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('.fbtn').forEach(x=>x.classList.remove('active'));
+  b.classList.add('active');filter=b.dataset.f;rows();});
+rows();
+</script>
+</body>
+</html>
