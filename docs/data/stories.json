@@ -1,197 +1,134 @@
 {
-  "date": "2026-06-23",
-  "updated": "2026-06-23",
+  "date": "2026-06-24",
+  "updated": "2026-06-23T18:55:06.486Z",
   "brand": "PULSE",
   "stories": [
     {
-      "cat": "Business",
+      "cat": "World",
       "lead": true,
-      "title": "Asian tech rout triggers Kospi circuit breaker",
-      "summary": "South Korea's Kospi plunged around 10% and tripped a circuit breaker as SK Hynix and Samsung both fell more than 10% in a chip-led selloff.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/asian-stocks-set-for-gains-as-oil-holds-losses-markets-wrap"
+      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+      "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss"
     },
     {
       "cat": "World",
-      "title": "Starmer to step down as Labour leader",
-      "summary": "Keir Starmer said he will quit as Labour leader while staying on as prime minister until a successor is chosen, with nominations opening July 9.",
-      "source": "10 Things",
-      "url": "https://www.10things.news/p/10-things-global-news-23rd-june-2026"
+      "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+      "summary": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss"
     },
     {
       "cat": "World",
-      "title": "US issues 60-day sanctions waiver as Iran talks progress",
-      "summary": "Washington granted a 60-day waiver letting Iran sell oil internationally as Vice President Vance said US-Iran talks set a 'good foundation' to end the war.",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/iran/us-iran-talks-war-vance-trump-hormuz-lebanon-switzerland-foundation-rcna351112"
-    },
-    {
-      "cat": "World",
-      "title": "China sanctions 10 US military-linked firms",
-      "summary": "Beijing announced sanctions on 10 American military-related companies after a US move barring some Chinese tech firms from defense contracts.",
-      "source": "10 Things",
-      "url": "https://www.10things.news/p/10-things-global-news-23rd-june-2026"
-    },
-    {
-      "cat": "World",
-      "title": "Czech president excluded from NATO summit delegation",
-      "summary": "PM Andrej Babis said President Petr Pavel will not join the Czech delegation to next month's NATO summit in Ankara, escalating a domestic dispute.",
-      "source": "10 Things",
-      "url": "https://www.10things.news/p/10-things-global-news-23rd-june-2026"
+      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+      "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss"
     },
     {
       "cat": "Business",
-      "title": "Global stocks slide as investors flee tech",
-      "summary": "The MSCI All Country World Index slipped about 0.6% as investors rotated out of this year's high-flying technology shares.",
-      "source": "Bloomberg",
-      "url": "https://www.cnn.com/markets"
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+      "source": "wsj.com",
+      "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main"
     },
     {
       "cat": "Business",
-      "title": "FTSE 100 climbs to a record close",
-      "summary": "UK blue chips closed higher, with the FTSE 100 up 0.72% to 10,437.85, aided by lower oil prices and optimism over US-Iran talks.",
-      "source": "CPA",
-      "url": "https://cpa.co.uk/uk-business-news-today-23-june-2026-economy-markets-insolvencies/"
+      "title": "Comex Gold, Silver Settle Lower",
+      "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+      "source": "wsj.com",
+      "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main"
     },
     {
       "cat": "Business",
-      "title": "Oil holds losses on Iran de-escalation hopes",
-      "summary": "Crude prices stayed lower after the US sanctions waiver raised the prospect of more Iranian oil returning to global markets.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/asian-stocks-set-for-gains-as-oil-holds-losses-markets-wrap"
+      "title": "DeepSeek Won't Sink U.S. AI Titans",
+      "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+      "source": "wsj.com",
+      "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main"
     },
     {
       "cat": "Tech & AI",
-      "title": "Google's Gemini 3.5 Pro nears general availability",
-      "summary": "Gemini 3.5 Pro, with a 2-million-token context window and a Deep Think mode, sits in its GA window but remains in limited Vertex AI preview.",
-      "source": "Build Fast with AI",
-      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-june-23-2026"
+      "title": "A curious crossover: The Toyota C-HR review",
+      "summary": "Although it's on the smaller side, this electric vehicle is not very chill.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/"
     },
     {
       "cat": "Tech & AI",
-      "title": "Megacap tech and chipmakers lead the selloff",
-      "summary": "Alphabet fell about 5% and Amazon dropped nearly 5% as the rotation out of AI and chip names rippled from Asia into US tech.",
-      "source": "Bloomberg",
-      "url": "https://www.cnn.com/markets"
+      "title": "ABC asks viewers to protest FCC attempt to \"control who is allowed\" on The View",
+      "summary": "\"The FCC wants to control who is allowed on the show,\" ABC ad tells viewers.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/tech-policy/2026/06/abc-asks-viewers-to-protest-fcc-attempt-to-control-who-is-allowed-on-the-view/"
     },
     {
-      "cat": "Crypto",
-      "title": "Bitcoin slides below $63K",
-      "summary": "Bitcoin traded around $62,250, down roughly $2,785 from a day earlier as it broke through key support levels.",
-      "source": "Fortune",
-      "url": "https://fortune.com/article/price-of-bitcoin-06-23-2026/"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Leverage flush wipes out $1.23B in positions",
-      "summary": "A cascade of liquidations totaling about $1.23 billion hit the market as leveraged long positions were forced out.",
-      "source": "Cryptonews",
-      "url": "https://cryptonews.com/news/crypto-news-june-23-why-is-crypto-down-btc-usd-falls-under-63k-as-eth-hits-triple-bottom-in-massive-leverage-flush/"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Fear & Greed Index sinks to 'Extreme Fear'",
-      "summary": "The Crypto Fear & Greed Index fell to 23 as steady spot-ETF outflows pulled a layer of consistent buying out of the market.",
-      "source": "Cryptonews",
-      "url": "https://cryptonews.com/news/crypto-news-june-23-why-is-crypto-down-btc-usd-falls-under-63k-as-eth-hits-triple-bottom-in-massive-leverage-flush/"
+      "cat": "Tech & AI",
+      "title": "Early land animals skipped the tadpole phase",
+      "summary": "Current amphibian development may not have been typical of early land vertebrates.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/science/2026/06/early-land-animals-skipped-the-tadpole-phase/"
     },
     {
       "cat": "Science",
-      "title": "T. rex may have taken 40 years to reach full size",
-      "summary": "A study of 17 tyrannosaur fossils suggests the predator grew far more slowly than thought, taking about 40 years to reach roughly eight tons.",
-      "source": "Science News",
-      "url": "https://www.sciencenews.org/sn-magazine/june-2026"
+      "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
+      "summary": "A cave in New Zealand has yielded fossils from a lost ecosystem that existed about 1 million years ago, including a possible flying ancestor of the kākāpō. The discovery reveals that volcanoes and cli",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623011129.htm"
     },
     {
       "cat": "Science",
-      "title": "A 'good guy' DNA gene can turn harmful",
-      "summary": "Researchers found the EXO1 gene, normally DNA-protective, can become dangerous when cells produce too much of it.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/news/top/science/"
+      "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
+      "summary": "NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm"
     },
     {
       "cat": "Science",
-      "title": "World's rarest marine mammal preserved in 3D",
-      "summary": "Scientists created highly detailed 3D models of a vaquita skeleton, digitally preserving the critically endangered porpoise.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/news/strange_offbeat/"
+      "title": "Butterfly that barely ages could help unlock longevity secrets",
+      "summary": "Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physi",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm"
     },
     {
       "cat": "Health",
-      "title": "GLP-1 drugs linked to lower breast cancer risk",
-      "summary": "Women taking GLP-1 medications were about 30% less likely to develop breast cancer, a new analysis found.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/news/health_medicine/"
+      "title": "This emerging treatment is helping people avoid knee replacement surgery",
+      "summary": "A minimally invasive treatment called GAE is helping people with chronic knee pain get back to gardening, cycling, and other activities without undergoing knee replacement surgery. Early studies sugge",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622091502.htm"
     },
     {
       "cat": "Health",
-      "title": "Oral GLP-1 shows strong results in diabetes trial",
-      "summary": "A new oral GLP-1 medication sharply improved blood-sugar control and drove weight loss in a major type 2 diabetes trial.",
-      "source": "ScienceDaily",
-      "url": "https://www.sciencedaily.com/news/health_medicine/"
+      "title": "Scientists say most people need more protein than current guidelines suggest",
+      "summary": "A new review suggests that doing more exercise and eating more protein than current minimum recommendations may help people stay stronger, sharper, and more independent as they age. The goal isn&#039;",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622091429.htm"
     },
     {
       "cat": "Health",
-      "title": "NHS rolls out five-session prostate radiotherapy",
-      "summary": "NHS England will offer SABR to eligible early-stage prostate cancer patients, cutting treatment from 20+ sessions to five.",
-      "source": "Healthcare Readers",
-      "url": "https://healthcarereaders.com/news/healthcare-news-7th-20th-june-2026"
-    },
-    {
-      "cat": "Health",
-      "title": "FDA broadens over-the-counter naloxone access",
-      "summary": "The FDA expanded over-the-counter availability of the overdose-reversal drug naloxone amid wider healthcare policy moves.",
-      "source": "Healthcare Readers",
-      "url": "https://healthcarereaders.com/news/healthcare-news-7th-20th-june-2026"
+      "title": "A common vitamin could help fight one of the deadliest brain cancers",
+      "summary": "A clinical trial is exploring whether high doses of vitamin B3 could give patients with glioblastoma a better chance against the aggressive brain cancer. Scientists found that niacin may help revive i",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622014313.htm"
     },
     {
       "cat": "Sports",
-      "title": "Messi becomes World Cup's all-time top scorer",
-      "summary": "Lionel Messi netted a brace against Austria to become the World Cup's all-time leading goalscorer.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/soccer/article/2026-fifa-world-cup-daily-schedule-every-match-date-kickoff-time-and-venue-for-all-48-teams-234515087.html"
+      "title": "World Cup live updates: Chaotic own goal pads Port...",
+      "summary": "null",
+      "source": "espn.com",
+      "url": "https://www.espn.com/soccer/story/_/id/49150583/messi-100-year-old-super-fan-sees-make-history-portugal-england-action"
     },
     {
       "cat": "Sports",
-      "title": "England face Ghana in Group L",
-      "summary": "Harry Kane and England meet Ghana in Foxborough on a loaded Monday World Cup slate also featuring Mbappe and Haaland.",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/49150996/world-cup-2026-today-blog-23-06-2026-live-updates-news-fixtures-schedule-results-lionel-messi"
+      "title": "NFL nixes 2026 supplemental draft; Sorsby stuck",
+      "summary": "The NFL has decided not to hold a supplemental draft this year, effectively halting Texas Tech quarterback Brendan Sorsby's path to the league this season.",
+      "source": "espn.com",
+      "url": "https://www.espn.com/nfl/story/_/id/49155214/no-2026-supplemental-draft-brendan-sorsby-nfl-path-paused"
     },
     {
       "cat": "Sports",
-      "title": "Bucks trade Giannis to the Heat",
-      "summary": "Milwaukee ended its Giannis Antetokounmpo era, sending the All-Star forward to Miami a day before the NBA Draft.",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/nba/article/2026-nba-offseason-trade-tracker-deal-details-analysis-220745003.html"
-    },
-    {
-      "cat": "Sports",
-      "title": "Knicks lead Spurs 2-0 in NBA Finals",
-      "summary": "The New York Knicks surged to a 2-0 series lead over the San Antonio Spurs in the NBA Finals.",
-      "source": "NBA",
-      "url": "https://www.nba.com/"
-    },
-    {
-      "cat": "Culture",
-      "title": "2026 domestic box office nears $4 billion",
-      "summary": "The year-to-date US box office is approaching $4 billion, running about 13% ahead of the same frame a year ago.",
-      "source": "Box Office Mojo",
-      "url": "https://www.boxofficemojo.com/month/june/2026/"
-    },
-    {
-      "cat": "Culture",
-      "title": "'Scary Movie' opens to a franchise record",
-      "summary": "Paramount-Miramax's new 'Scary Movie' is set to win the weekend with a franchise-best opening above $52 million.",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/06/box-office-scary-movie-masters-of-the-universe-backrooms-1236941701/"
-    },
-    {
-      "cat": "Culture",
-      "title": "Super Mario films cross $2 billion",
-      "summary": "'The Super Mario Galaxy Movie' pushed the franchise past $2 billion, the first video-game film series to do so.",
-      "source": "ComingSoon",
-      "url": "https://www.comingsoon.net/movies/news/2140514-box-office-1-billion-2026-movies-milestone"
+      "title": "Ronaldo snaps goal drought, 1st to score at 6 WCs",
+      "summary": "Cristiano Ronaldo made history on Tuesday by becoming the first player to score in six different World Cups, finding the net in Portugal's game with Uzbekista",
+      "source": "espn.com",
+      "url": "https://www.espn.com/soccer/story/_/id/49154970/portugal-cristiano-ronaldo-goal-first-score-six-world-cups-uzbekistan"
     }
   ]
 }
