@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "updated": "2026-06-23T20:04:21.267Z",
+  "updated": "2026-06-23T20:25:29.188Z",
   "brand": "PULSE",
   "stories": [
     {
@@ -9,21 +9,24 @@
       "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
       "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2593/live/ebcebc30-6f05-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "cat": "World",
       "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
       "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e62d/live/0661c170-6f2c-11f1-8b65-27158411943c.jpg"
     },
     {
       "cat": "World",
       "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
       "summary": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss"
+      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f126/live/8b76c460-6f1c-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "cat": "Business",
@@ -51,21 +54,24 @@
       "title": "A curious crossover: The Toyota C-HR review",
       "summary": "Although it's on the smaller side, this electric vehicle is not very chill.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/"
+      "url": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026_Toyota_C-HR_XSE_Tandoori_108_NR-500x500.jpg"
     },
     {
       "cat": "Tech & AI",
       "title": "ABC asks viewers to protest FCC attempt to \"control who is allowed\" on The View",
       "summary": "\"The FCC wants to control who is allowed on the show,\" ABC ad tells viewers.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/06/abc-asks-viewers-to-protest-fcc-attempt-to-control-who-is-allowed-on-the-view/"
+      "url": "https://arstechnica.com/tech-policy/2026/06/abc-asks-viewers-to-protest-fcc-attempt-to-control-who-is-allowed-on-the-view/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/the-view-500x500-1770666955.jpg"
     },
     {
       "cat": "Tech & AI",
       "title": "Early land animals skipped the tadpole phase",
       "summary": "Current amphibian development may not have been typical of early land vertebrates.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/06/early-land-animals-skipped-the-tadpole-phase/"
+      "url": "https://arstechnica.com/science/2026/06/early-land-animals-skipped-the-tadpole-phase/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-3-500x500.jpeg"
     },
     {
       "cat": "Science",
@@ -111,17 +117,10 @@
     },
     {
       "cat": "Sports",
-      "title": "Two-round NBA mock draft: Latest intel on the lott...",
-      "summary": "We have an updated 60-pick mock draft with new intel ahead of Round 1 of the 2026 NBA draft (Tuesday, 8 p.m. ET on ESPN/ABC).",
+      "title": "World Cup live updates: Kane, England take on Seme...",
+      "summary": "null",
       "source": "espn.com",
-      "url": "https://www.espn.com/nba/story/_/id/49041464/2026-nba-mock-draft-projecting-60-picks-draft-night-trade-talks-boozer-peterson-dybantsa-acuff"
-    },
-    {
-      "cat": "Sports",
-      "title": "Bilas' top NBA draft prospects: Most talented, bes...",
-      "summary": "Who should be No. 1? Who is the best guard after Darryn Peterson? Jay Bilas highlights 11 top prospects.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/nba/story/_/id/49100172/bilas-nba-draft-superlatives-no-1-pick-peterson-dybantsa-boozer-wilson-acuff"
+      "url": "https://www.espn.com/soccer/story/_/id/49150583/messi-100-year-old-super-fan-sees-make-history-portugal-england-action"
     },
     {
       "cat": "Sports",
@@ -129,6 +128,13 @@
       "summary": "The NFL has decided not to hold a supplemental draft this year, effectively halting Texas Tech quarterback Brendan Sorsby's path to the league this season.",
       "source": "espn.com",
       "url": "https://www.espn.com/nfl/story/_/id/49155214/no-2026-supplemental-draft-brendan-sorsby-nfl-path-paused"
+    },
+    {
+      "cat": "Sports",
+      "title": "Ronaldo snaps goal drought, 1st to score at 6 WCs",
+      "summary": "Cristiano Ronaldo made history Tuesday by becoming the first player to score in six different World Cups, finding the net in Portugal's 5-0 win over Uzbekistan.",
+      "source": "espn.com",
+      "url": "https://www.espn.com/soccer/story/_/id/49154970/portugal-cristiano-ronaldo-goal-first-score-six-world-cups-uzbekistan"
     }
   ]
 }
