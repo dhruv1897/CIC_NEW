@@ -1,0 +1,53 @@
+{
+  "name": "PULSE Daily News",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": { "interval": [ { "field": "days", "triggerAtHour": 6 } ] }
+      },
+      "id": "a1b2c3d4-0001-4000-8000-000000000001",
+      "name": "Every morning",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [ 220, 300 ]
+    },
+    {
+      "parameters": {
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "options": {}
+      },
+      "id": "a1b2c3d4-0002-4000-8000-000000000002",
+      "name": "Read RSS (World)",
+      "type": "n8n-nodes-base.rssFeedRead",
+      "typeVersion": 1.1,
+      "position": [ 440, 300 ]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Map RSS items into PULSE story shape and wrap as one JSON file.\n// Duplicate the RSS node per category and set `cat` accordingly, then\n// merge before this node, OR run separate branches and combine.\nconst CAT = 'World';\nconst items = $input.all();\nconst stories = items.slice(0, 8).map((it, i) => {\n  const j = it.json;\n  const url = j.link || j.url || '';\n  return {\n    cat: CAT,\n    ...(i === 0 ? { lead: true } : {}),\n    title: j.title || '',\n    summary: (j.contentSnippet || j.content || j.description || '').replace(/<[^>]+>/g, '').slice(0, 200),\n    source: url.replace(/^https?:\\/\\/(www\\.)?/, '').split('/')[0],\n    url\n  };\n}).filter(s => s.title && s.url);\nconst out = {\n  date: new Date().toISOString().slice(0, 10),\n  updated: new Date().toISOString(),\n  brand: 'PULSE',\n  stories\n};\nreturn [{ json: out }];"
+      },
+      "id": "a1b2c3d4-0003-4000-8000-000000000003",
+      "name": "Format stories.json",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [ 660, 300 ]
+    },
+    {
+      "parameters": {},
+      "id": "a1b2c3d4-0004-4000-8000-000000000004",
+      "name": "ADD GitHub node here (see notes)",
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [ 880, 300 ]
+    }
+  ],
+  "connections": {
+    "Every morning": { "main": [ [ { "node": "Read RSS (World)", "type": "main", "index": 0 } ] ] },
+    "Read RSS (World)": { "main": [ [ { "node": "Format stories.json", "type": "main", "index": 0 } ] ] },
+    "Format stories.json": { "main": [ [ { "node": "ADD GitHub node here (see notes)", "type": "main", "index": 0 } ] ] }
+  },
+  "active": false,
+  "settings": { "executionOrder": "v1" },
+  "pinData": {},
+  "meta": { "templatecredsSetupCompleted": false }
+}
