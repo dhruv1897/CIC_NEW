@@ -73,7 +73,13 @@
   .iconbtn{flex:0 0 auto;width:42px;height:42px;border-radius:12px;border:1px solid var(--line);background:var(--chip);
     color:var(--ink);font-size:17px;cursor:pointer;transition:.2s}
   .iconbtn:hover{transform:translateY(-2px) rotate(-8deg);box-shadow:var(--shadow)}
-  @media(max-width:780px){nav.main{display:none}.search{flex-basis:160px}}
+  .navrow{padding:0 0 9px}
+  .updated{display:inline-flex;align-items:center;gap:7px;font-size:11.5px;font-weight:700;color:var(--ink2);
+    background:var(--chip);border:1px solid var(--line);padding:5px 11px;border-radius:999px;white-space:nowrap}
+  .updated .dotlive{width:7px;height:7px;border-radius:50%;background:#22c55e;animation:liveBeat 1.7s infinite}
+  @keyframes liveBeat{0%{box-shadow:0 0 0 0 rgba(34,197,94,.5)}70%{box-shadow:0 0 0 7px rgba(34,197,94,0)}100%{box-shadow:0 0 0 0 rgba(34,197,94,0)}}
+  @media(max-width:780px){.search{flex-basis:150px}}
+  @media(max-width:520px){.updated .lbl{display:none}}
 
   /* ---------- 3D CAROUSEL ---------- */
   .hero{padding:26px 0 6px}
@@ -211,7 +217,7 @@
 <header class="top">
   <div class="wrap toprow">
     <a class="brand" href="#/"><span class="orb"></span><span><b>PULSE</b><small>WORLD BRIEFING</small></span></a>
-    <nav class="main" id="nav"></nav>
+    <span class="updated" id="updated"></span>
     <div class="spacer"></div>
     <div class="search">
       <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.5" y2="16.5"></line></svg>
@@ -219,6 +225,7 @@
     </div>
     <button class="iconbtn" onclick="toggleTheme()" title="Theme" aria-label="Toggle theme">◑</button>
   </div>
+  <div class="wrap navrow"><nav class="main" id="nav"></nav></div>
 </header>
 
 <main class="wrap" id="view"></main>
@@ -240,6 +247,7 @@
 <script>
 // ===== PULSE — dynamic 3D front-end =====
 let DATA_DATE='2026-06-11';
+let DATA_UPDATED=null;
 let STORIES=[
   {cat:"World",lead:true,title:"SpaceX prices record IPO as US inflation tops 4%",summary:"SpaceX is pricing what would be the largest IPO ever — a ~$75B raise at a $1.75T-plus valuation.",source:"CBS News",url:"https://www.cbsnews.com/"},
   {cat:"World",title:"House passes $70B immigration enforcement package",summary:"A border-security and ICE-funding bill cleared the House 214-212.",source:"Fox News",url:"https://www.foxnews.com/"},
@@ -255,15 +263,18 @@ let STORIES=[
 const CATS=["World","Business","Tech & AI","Markets","Crypto","Science","Health","Sports","Culture"];
 const COLOR={World:"#4f8cff",Business:"#f5b301","Tech & AI":"#00e0c6",Markets:"#34d399",Crypto:"#f7931a",Science:"#a06bff",Health:"#ff5da2",Sports:"#ff6b3d",Culture:"#ffd23f"};
 const cc=c=>COLOR[c]||"#6c8cff";
+function activeCats(){return CATS.filter(c=>STORIES.some(s=>s.cat===c));}
 
 async function loadData(){
   try{
     const res=await fetch('data/stories.json',{cache:'no-store'});
-    if(res.ok){const d=await res.json();if(d&&Array.isArray(d.stories)&&d.stories.length){STORIES=d.stories;DATA_DATE=d.date||d.updated||DATA_DATE;}}
+    if(res.ok){const d=await res.json();if(d&&Array.isArray(d.stories)&&d.stories.length){STORIES=d.stories;DATA_DATE=d.date||d.updated||DATA_DATE;DATA_UPDATED=d.updated||d.date||null;}}
   }catch(e){}
-  buildNav(); route();
+  buildNav(); route(); updateAgo(); if(!window.__agoTimer)window.__agoTimer=setInterval(updateAgo,60000);
 }
 function fmtDate(){const dt=new Date(DATA_DATE+'T00:00:00');return isNaN(dt)?DATA_DATE:dt.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});}
+function relTime(iso){if(!iso)return'';const t=new Date(iso).getTime();if(isNaN(t))return'';const s=Math.max(0,(Date.now()-t)/1000);if(s<60)return'just now';const m=Math.floor(s/60);if(m<60)return m+' minute'+(m>1?'s':'')+' ago';const h=Math.floor(m/60);if(h<24)return h+' hour'+(h>1?'s':'')+' ago';const d=Math.floor(h/24);return d+' day'+(d>1?'s':'')+' ago';}
+function updateAgo(){const el=document.getElementById('updated');if(!el)return;const r=relTime(DATA_UPDATED);el.innerHTML=r?`<span class="dotlive"></span><span class="lbl">News updated&nbsp;</span>${r}`:'';}
 function idxOf(s){return STORIES.indexOf(s);}
 function matchCat(s,c){if(c==="Markets")return s.cat==="Markets"||s.cat==="Business";return s.cat===c;}
 function thumbHTML(s){return s.image?`<img src="${s.image}" alt="" loading="lazy" onerror="this.parentNode.innerHTML=phHTML('${(s.cat||'').replace(/'/g,'')}')">`:phHTML(s.cat||'News');}
@@ -281,7 +292,7 @@ function parseRoute(){
 function buildNav(){
   const r=parseRoute();
   const items=[`<a href="#/" class="${r.name==='home'?'active':''}">Home</a>`]
-    .concat(CATS.map(c=>`<a href="#/c/${encodeURIComponent(c)}" class="${r.name==='category'&&r.cat===c?'active':''}">${c}</a>`));
+    .concat(activeCats().map(c=>`<a href="#/c/${encodeURIComponent(c)}" class="${r.name==='category'&&r.cat===c?'active':''}">${c}</a>`));
   document.getElementById('nav').innerHTML=items.join('');
 }
 function setAcc(c){document.documentElement.style.setProperty('--acc',cc(c));}
@@ -297,7 +308,7 @@ window.addEventListener('hashchange',route);
 
 /* ---------- VIEWS ---------- */
 function tilesHTML(){
-  return `<div class="tiles">`+CATS.map(c=>{
+  return `<div class="tiles">`+activeCats().map(c=>{
     const n=STORIES.filter(s=>matchCat(s,c)).length;
     return `<a class="tile" style="--cc:${cc(c)}" href="#/c/${encodeURIComponent(c)}"><span class="dotc"></span>${c}<span>${n} ${n===1?'story':'stories'}</span></a>`;
   }).join('')+`</div>`;

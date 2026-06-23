@@ -40,12 +40,20 @@ function pickLink(block) {
   const a = block.match(/<link[^>]*href=["']([^"']+)["']/i);   // atom
   return a ? a[1] : "";
 }
+function pickImage(b) {
+  let m = b.match(/<media:thumbnail[^>]*url=["']([^"']+)["']/i)
+       || b.match(/<media:content[^>]*url=["']([^"']+\.(?:jpe?g|png|webp|gif)[^"']*)["']/i)
+       || b.match(/<enclosure[^>]*url=["']([^"']+)["'][^>]*type=["']image/i)
+       || b.match(/<img[^>]*src=["']([^"']+)["']/i);
+  return m ? m[1].replace(/&amp;/g, "&") : "";
+}
 function parseItems(xml) {
   const blocks = xml.match(/<(item|entry)\b[\s\S]*?<\/\1>/gi) || [];
   return blocks.map(b => ({
     title: pick(b, "title"),
     url: pickLink(b),
     desc: pick(b, "description") || pick(b, "summary") || pick(b, "content"),
+    image: pickImage(b),
   })).filter(i => i.title && i.url);
 }
 
@@ -94,6 +102,7 @@ export function buildOutput(all, summaries) {
     summary: (summaries?.[i] || it.desc || it.title).slice(0, 220),
     source: new URL(it.url).hostname.replace(/^www\./, ""),
     url: it.url,
+    ...(it.image ? { image: it.image } : {}),
   }));
   return { date: new Date().toISOString().slice(0, 10), updated: new Date().toISOString(), brand: "PULSE", stories };
 }
