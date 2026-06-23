@@ -1,0 +1,384 @@
+{
+  "name": "PULSE - Daily Auto Publish",
+  "nodes": [
+    {
+      "id": "sched",
+      "name": "Every morning 5:30",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        240,
+        300
+      ],
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "days",
+              "triggerAtHour": 5,
+              "triggerAtMinute": 30
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "prep",
+      "name": "Prep",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        460,
+        300
+      ],
+      "parameters": {
+        "jsCode": "const tz = 'Asia/Kolkata';\nconst now = new Date();\nconst today = new Intl.DateTimeFormat('en-CA', { timeZone: tz, year: 'numeric', month: '2-digit', day: '2-digit' }).format(now);\nconst label = new Intl.DateTimeFormat('en-US', { timeZone: tz, year: 'numeric', month: 'short', day: 'numeric' }).format(now);\n\nconst userPrompt = [\n  `Today is ${today}. Use web search to find today's most important real news from the last 24 hours, then produce PULSE's daily briefing.`,\n  ``,\n  `Return ONE JSON object with EXACTLY this shape:`,\n  `{`,\n  `  \"date\": \"${today}\",`,\n  `  \"updated\": \"${today}\",`,\n  `  \"brand\": \"PULSE\",`,\n  `  \"stories\": [`,\n  `    {\"cat\": \"World\", \"lead\": true, \"title\": \"...\", \"summary\": \"...\", \"source\": \"...\", \"url\": \"...\"}`,\n  `  ]`,\n  `}`,\n  ``,\n  `Rules:`,\n  `- Cover these categories, about 3 stories each: World, Business, Tech & AI, Crypto, Science, Health, Sports, Culture. Aim for about 24 stories total.`,\n  `- EXACTLY ONE story has \"lead\": true (the single biggest story of the day). Every other story omits the lead field.`,\n  `- title: a concise headline under 90 characters. summary: 1-2 factual sentences. source: the outlet name. url: a real, working link to the original article you found via web search (the article page, not a homepage).`,\n  `- Only include real, verifiable stories from reputable outlets found via web search. Never invent stories or URLs.`,\n  `- Output ONLY the JSON object: no markdown, no code fences, no commentary before or after.`\n].join('\\n');\n\nreturn [{ json: {\n  today,\n  label,\n  requestBody: {\n    model: 'claude-sonnet-4-6',\n    max_tokens: 8000,\n    system: 'You are the news editor for PULSE, a daily world briefing. You search the web for the most important real news of the day and output a single strict JSON object with no extra text.',\n    tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 8 }],\n    messages: [{ role: 'user', content: userPrompt }]\n  }\n} }];"
+      }
+    },
+    {
+      "id": "claude",
+      "name": "Claude - generate news",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        680,
+        300
+      ],
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.anthropic.com/v1/messages",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "anthropic-version",
+              "value": "2023-06-01"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ $json.requestBody }}",
+        "options": {
+          "timeout": 180000
+        }
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "REPLACE_ANTHROPIC",
+          "name": "Anthropic x-api-key"
+        }
+      }
+    },
+    {
+      "id": "parse",
+      "name": "Parse & validate",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        900,
+        300
+      ],
+      "parameters": {
+        "jsCode": "const resp = $input.first().json;\n\n// 1) Collect all text blocks from Claude's response\nlet text = '';\nif (Array.isArray(resp.content)) {\n  text = resp.content.filter(b => b && b.type === 'text').map(b => b.text).join('\\n');\n}\nif (!text || !text.trim()) {\n  throw new Error('No text returned from Claude. Check the API key, model name, or web search tool.');\n}\n\n// 2) Extract the JSON object (tolerate code fences / stray prose)\nlet raw = text.trim();\nconst fence = raw.match(/```(?:json)?\\s*([\\s\\S]*?)```/i);\nif (fence) raw = fence[1].trim();\nconst start = raw.indexOf('{');\nconst end = raw.lastIndexOf('}');\nif (start === -1 || end === -1) {\n  throw new Error('No JSON object found in Claude output.');\n}\nconst jsonStr = raw.slice(start, end + 1);\n\nlet data;\ntry {\n  data = JSON.parse(jsonStr);\n} catch (e) {\n  throw new Error('Claude output was not valid JSON: ' + e.message);\n}\n\n// 3) Validate (mirrors the publish-safety checks)\nif (!data.stories || !Array.isArray(data.stories) || data.stories.length === 0) {\n  throw new Error('Validation failed: stories array is empty or missing.');\n}\nconst leads = data.stories.filter(s => s && s.lead === true);\nif (leads.length !== 1) {\n  throw new Error('Validation failed: need exactly ONE lead story, found ' + leads.length + '.');\n}\nfor (const s of data.stories) {\n  if (!s.cat || !s.title || !s.summary || !s.source || !s.url) {\n    throw new Error('Validation failed: a story is missing a required field (cat/title/summary/source/url).');\n  }\n}\n\n// 4) Normalise metadata\nconst today = $('Prep').first().json.today;\nconst label = $('Prep').first().json.label;\ndata.date = today;\ndata.updated = today;\ndata.brand = 'PULSE';\n\nconst pretty = JSON.stringify(data, null, 2);\nconst contentB64 = Buffer.from(pretty, 'utf8').toString('base64');\n\nreturn [{ json: {\n  storyCount: data.stories.length,\n  today,\n  label,\n  storiesJson: pretty,\n  storiesB64: contentB64\n} }];"
+      }
+    },
+    {
+      "id": "getstories",
+      "name": "GitHub - get stories sha",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1120,
+        300
+      ],
+      "parameters": {
+        "method": "GET",
+        "url": "https://api.github.com/repos/dhruv1897/CIC_NEW/contents/docs/data/stories.json",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "ref",
+              "value": "main"
+            }
+          ]
+        },
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Accept",
+              "value": "application/vnd.github+json"
+            },
+            {
+              "name": "User-Agent",
+              "value": "n8n-pulse"
+            },
+            {
+              "name": "X-GitHub-Api-Version",
+              "value": "2022-11-28"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "REPLACE_GITHUB",
+          "name": "GitHub token (Authorization)"
+        }
+      }
+    },
+    {
+      "id": "putstories",
+      "name": "GitHub - publish stories.json",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1340,
+        300
+      ],
+      "parameters": {
+        "method": "PUT",
+        "url": "https://api.github.com/repos/dhruv1897/CIC_NEW/contents/docs/data/stories.json",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Accept",
+              "value": "application/vnd.github+json"
+            },
+            {
+              "name": "User-Agent",
+              "value": "n8n-pulse"
+            },
+            {
+              "name": "X-GitHub-Api-Version",
+              "value": "2022-11-28"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ ({ \"message\": \"Publish PULSE briefing \" + $('Parse & validate').first().json.today + \" (automated via n8n)\", \"content\": $('Parse & validate').first().json.storiesB64, \"sha\": $json.sha, \"branch\": \"main\" }) }}",
+        "options": {}
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "REPLACE_GITHUB",
+          "name": "GitHub token (Authorization)"
+        }
+      }
+    },
+    {
+      "id": "getstatus",
+      "name": "GitHub - get status sha",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1560,
+        300
+      ],
+      "parameters": {
+        "method": "GET",
+        "url": "https://api.github.com/repos/dhruv1897/CIC_NEW/contents/docs/data/status.json",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "ref",
+              "value": "main"
+            }
+          ]
+        },
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Accept",
+              "value": "application/vnd.github+json"
+            },
+            {
+              "name": "User-Agent",
+              "value": "n8n-pulse"
+            },
+            {
+              "name": "X-GitHub-Api-Version",
+              "value": "2022-11-28"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "REPLACE_GITHUB",
+          "name": "GitHub token (Authorization)"
+        }
+      }
+    },
+    {
+      "id": "mergestatus",
+      "name": "Merge status",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1780,
+        300
+      ],
+      "parameters": {
+        "jsCode": "const gh = $input.first().json;\nlet status = {};\ntry {\n  const decoded = Buffer.from((gh.content || '').replace(/\\s/g, ''), 'base64').toString('utf8');\n  status = JSON.parse(decoded);\n} catch (e) {\n  status = {};\n}\n\nconst p = $('Parse & validate').first().json;\nconst nowISO = new Date().toISOString();\n\nstatus.lastNewsRunISO = nowISO;\nstatus.lastNewsRunLabel = p.label;\nstatus.briefingDate = p.today;\nstatus.storyCount = p.storyCount;\nstatus.lastPublishISO = nowISO;\nstatus.lastPublishLabel = p.label + ' (auto via n8n)';\n\nconst pretty = JSON.stringify(status, null, 2);\nreturn [{ json: {\n  statusB64: Buffer.from(pretty, 'utf8').toString('base64'),\n  sha: gh.sha,\n  today: p.today\n} }];"
+      }
+    },
+    {
+      "id": "putstatus",
+      "name": "GitHub - update status.json",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        2000,
+        300
+      ],
+      "parameters": {
+        "method": "PUT",
+        "url": "https://api.github.com/repos/dhruv1897/CIC_NEW/contents/docs/data/status.json",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Accept",
+              "value": "application/vnd.github+json"
+            },
+            {
+              "name": "User-Agent",
+              "value": "n8n-pulse"
+            },
+            {
+              "name": "X-GitHub-Api-Version",
+              "value": "2022-11-28"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ ({ \"message\": \"Update PULSE status \" + $json.today + \" (automated)\", \"content\": $json.statusB64, \"sha\": $json.sha, \"branch\": \"main\" }) }}",
+        "options": {}
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "REPLACE_GITHUB",
+          "name": "GitHub token (Authorization)"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Every morning 5:30": {
+      "main": [
+        [
+          {
+            "node": "Prep",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Prep": {
+      "main": [
+        [
+          {
+            "node": "Claude - generate news",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Claude - generate news": {
+      "main": [
+        [
+          {
+            "node": "Parse & validate",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Parse & validate": {
+      "main": [
+        [
+          {
+            "node": "GitHub - get stories sha",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "GitHub - get stories sha": {
+      "main": [
+        [
+          {
+            "node": "GitHub - publish stories.json",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "GitHub - publish stories.json": {
+      "main": [
+        [
+          {
+            "node": "GitHub - get status sha",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "GitHub - get status sha": {
+      "main": [
+        [
+          {
+            "node": "Merge status",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Merge status": {
+      "main": [
+        [
+          {
+            "node": "GitHub - update status.json",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "timezone": "Asia/Kolkata",
+    "saveManualExecutions": true,
+    "saveDataErrorExecution": "all",
+    "executionOrder": "v1"
+  },
+  "pinData": {}
+}

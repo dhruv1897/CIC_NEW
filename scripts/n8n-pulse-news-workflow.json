@@ -1,0 +1,172 @@
+{
+  "name": "PULSE - Daily News (RSS, no API key)",
+  "nodes": [
+    {
+      "id": "sched",
+      "name": "Every morning 5:30",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        240,
+        300
+      ],
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "days",
+              "triggerAtHour": 5,
+              "triggerAtMinute": 30
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "fetch",
+      "name": "Fetch & format news",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        460,
+        300
+      ],
+      "parameters": {
+        "jsCode": "// Fetch RSS headlines from several feeds, format into stories.json. No API key.\nconst FEEDS = [\n  { cat: 'World',     url: 'http://feeds.bbci.co.uk/news/world/rss.xml' },\n  { cat: 'Business',  url: 'https://feeds.a.dj.com/rss/RSSMarketsMain.xml' },\n  { cat: 'Tech & AI', url: 'https://feeds.arstechnica.com/arstechnica/index' },\n  { cat: 'Science',   url: 'https://www.sciencedaily.com/rss/top/science.xml' },\n  { cat: 'Health',    url: 'https://www.sciencedaily.com/rss/top/health.xml' },\n  { cat: 'Sports',    url: 'https://www.espn.com/espn/rss/news' }\n];\nconst PER = 3;\nfunction strip(s = '') {\n  return s.replace(/<!\\[CDATA\\[(.*?)\\]\\]>/gs, '$1').replace(/<[^>]+>/g, '')\n    .replace(/&amp;/g, '&').replace(/&#39;|&apos;/g, \"'\").replace(/&quot;/g, '\"')\n    .replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&nbsp;/g, ' ')\n    .replace(/\\s+/g, ' ').trim();\n}\nfunction pick(b, t) {\n  const re = new RegExp('<' + t + '[^>]*>([\\\\s\\\\S]*?)<\\\\/' + t + '>', 'i');\n  const m = b.match(re); return m ? strip(m[1]) : '';\n}\nfunction pickLink(b) {\n  const t = b.match(/<link[^>]*>([\\s\\S]*?)<\\/link>/i);\n  if (t && strip(t[1])) return strip(t[1]);\n  const a = b.match(/<link[^>]*href=[\"']([^\"']+)[\"']/i);\n  return a ? a[1] : '';\n}\nfunction parse(xml) {\n  return (xml.match(/<(item|entry)\\b[\\s\\S]*?<\\/\\1>/gi) || []).map(b => ({\n    title: pick(b, 'title'), url: pickLink(b),\n    desc: pick(b, 'description') || pick(b, 'summary') || pick(b, 'content')\n  })).filter(i => i.title && i.url);\n}\nconst all = [];\nfor (const f of FEEDS) {\n  try {\n    const xml = await this.helpers.httpRequest({ url: f.url, headers: { 'User-Agent': 'n8n-pulse' } });\n    const text = typeof xml === 'string' ? xml : String(xml);\n    parse(text).slice(0, PER).forEach(i => all.push({ ...i, cat: f.cat }));\n  } catch (e) { /* skip a feed that fails */ }\n}\nif (!all.length) throw new Error('No stories fetched from any feed.');\nconst tz = 'Asia/Kolkata';\nconst today = new Intl.DateTimeFormat('en-CA', { timeZone: tz, year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());\nconst stories = all.map((it, i) => ({\n  cat: it.cat, ...(i === 0 ? { lead: true } : {}),\n  title: it.title, summary: (it.desc || it.title).slice(0, 200),\n  source: it.url.replace(/^https?:\\/\\/(www\\.)?/, '').split('/')[0], url: it.url\n}));\nconst data = { date: today, updated: new Date().toISOString(), brand: 'PULSE', stories };\nconst pretty = JSON.stringify(data, null, 2);\nreturn [{ json: { today, storyCount: stories.length, storiesB64: Buffer.from(pretty, 'utf8').toString('base64') } }];\n"
+      }
+    },
+    {
+      "id": "getsha",
+      "name": "GitHub - get stories sha",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        680,
+        300
+      ],
+      "parameters": {
+        "method": "GET",
+        "url": "https://api.github.com/repos/dhruv1897/CIC_NEW/contents/docs/data/stories.json",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "ref",
+              "value": "main"
+            }
+          ]
+        },
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Accept",
+              "value": "application/vnd.github+json"
+            },
+            {
+              "name": "User-Agent",
+              "value": "n8n-pulse"
+            },
+            {
+              "name": "X-GitHub-Api-Version",
+              "value": "2022-11-28"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "REPLACE_GITHUB",
+          "name": "GitHub token (Authorization)"
+        }
+      }
+    },
+    {
+      "id": "putstories",
+      "name": "GitHub - publish stories.json",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        900,
+        300
+      ],
+      "parameters": {
+        "method": "PUT",
+        "url": "https://api.github.com/repos/dhruv1897/CIC_NEW/contents/docs/data/stories.json",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Accept",
+              "value": "application/vnd.github+json"
+            },
+            {
+              "name": "User-Agent",
+              "value": "n8n-pulse"
+            },
+            {
+              "name": "X-GitHub-Api-Version",
+              "value": "2022-11-28"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ ({ \"message\": \"Publish PULSE news \" + $('Fetch & format news').first().json.today + \" (n8n RSS)\", \"content\": $('Fetch & format news').first().json.storiesB64, \"sha\": $json.sha, \"branch\": \"main\" }) }}",
+        "options": {}
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "REPLACE_GITHUB",
+          "name": "GitHub token (Authorization)"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Every morning 5:30": {
+      "main": [
+        [
+          {
+            "node": "Fetch & format news",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch & format news": {
+      "main": [
+        [
+          {
+            "node": "GitHub - get stories sha",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "GitHub - get stories sha": {
+      "main": [
+        [
+          {
+            "node": "GitHub - publish stories.json",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "timezone": "Asia/Kolkata",
+    "executionOrder": "v1"
+  },
+  "pinData": {}
+}

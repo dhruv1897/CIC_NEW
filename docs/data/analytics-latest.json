@@ -1,0 +1,43 @@
+{
+  "updated": "2026-06-13",
+  "latestDate": "2026-06-13",
+  "visitorsLatest": 126,
+  "visitors7d": 719,
+  "visitorsPrev7d": 290,
+  "signupsTotal": 48,
+  "conversionPct": 4.8,
+  "revenueTotal": 146.83,
+  "revPerVisitor": 0.146,
+  "streak": 9,
+  "spark": [
+    42,
+    55,
+    51,
+    0,
+    68,
+    74,
+    80,
+    88,
+    95,
+    102,
+    110,
+    118,
+    126
+  ],
+  "sparkDates": [
+    "06-01",
+    "06-02",
+    "06-03",
+    "06-04",
+    "06-05",
+    "06-06",
+    "06-07",
+    "06-08",
+    "06-09",
+    "06-10",
+    "06-11",
+    "06-12",
+    "06-13"
+  ],
+  "source": "sample-analytics.json (export fresh from dashboard.html for live numbers)"
+}

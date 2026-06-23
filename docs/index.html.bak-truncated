@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PULSE — Your Daily World Briefing</title>
+<meta name="description" content="PULSE is a fast, skimmable daily briefing of the most important world, business, tech, markets, science, health, sports and culture stories — each summarized and linked to the original source.">
+<link rel="canonical" href="https://dhruv1897.github.io/CIC_NEW/">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3Crect%20width='32'%20height='32'%20rx='7'%20fill='%230b0e14'/%3E%3Ccircle%20cx='16'%20cy='16'%20r='9'%20fill='%23ff5a3c'/%3E%3C/svg%3E">
+<!-- Social share preview -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="PULSE">
+<meta property="og:title" content="PULSE — Your Daily World Briefing">
+<meta property="og:description" content="The most important stories of the day across world, business, tech, markets, science, health, sports and culture — one fast, skimmable briefing.">
+<meta property="og:url" content="https://dhruv1897.github.io/CIC_NEW/">
+<meta property="og:image" content="https://dhruv1897.github.io/CIC_NEW/share.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="PULSE — Your Daily World Briefing">
+<meta name="twitter:description" content="The most important stories of the day, summarized and linked to the source.">
+<meta name="twitter:image" content="https://dhruv1897.github.io/CIC_NEW/share.png">
+<style>
+  :root{
+    --bg:#0b0e14; --panel:#141925; --panel2:#1b2231; --line:#28324a;
+    --text:#eef2f8; --muted:#9aa7bd; --accent:#ff5a3c; --accent2:#3b82f6;
+    --good:#22c55e; --chip:#222c40;
+  }
+  [data-theme="light"]{
+    --bg:#f4f6fb; --panel:#ffffff; --panel2:#f0f3f9; --line:#e2e8f2;
+    --text:#0d1320; --muted:#5a677e; --accent:#e23b1d; --accent2:#2563eb; --chip:#eef2f9;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:var(--bg);color:var(--text);line-height:1.5}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1160px;margin:0 auto;padding:0 18px}
+
+  /* Top bar */
+  header.top{position:sticky;top:0;z-index:50;background:var(--panel);border-bottom:1px solid var(--line);backdrop-filter:saturate(140%) blur(6px)}
+  .toprow{display:flex;align-items:center;gap:16px;padding:12px 0}
+  .brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:22px;letter-spacing:.5px}
+  .brand .dot{width:12px;height:12px;border-radius:50%;background:var(--accent);box-shadow:0 0 0 4px rgba(255,90,60,.18)}
+  .brand small{font-weight:600;color:var(--muted);font-size:11px;letter-spacing:2px;display:block;margin-top:-4px}
+  .spacer{flex:1}
+  .search{flex:0 1 320px;display:flex;align-items:center;gap:8px;background:var(--panel2);border:1px solid var(--line);
+    border-radius:999px;padding:8px 14px}
+  .search input{background:none;border:none;outline:none;color:var(--text);width:100%;font-size:14px}
+  .iconbtn{background:var(--panel2);border:1px solid var(--line);color:var(--text);border-radius:999px;
+    width:38px;height:38px;cursor:pointer;font-size:16px}
+  .ticker{background:var(--accent);color:#fff;font-size:13px;font-weight:600;overflow:hidden;white-space:nowrap}
+  .ticker .run{display:inline-block;padding:6px 0;animation:scroll 38s linear infinite}
+  @keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+  /* Category nav */
+  nav.cats{position:sticky;top:62px;z-index:40;background:var(--bg);border-bottom:1px solid var(--line)}
+  .catrow{display:flex;gap:8px;overflow-x:auto;padding:10px 0;scrollbar-width:none}
+  .catrow::-webkit-scrollbar{display:none}
+  .cat{flex:0 0 auto;padding:7px 14px;border-radius:999px;background:var(--panel2);border:1px solid var(--line);
+    color:var(--muted);font-size:13px;font-weight:600;cursor:pointer;transition:.15s}
+  .cat:hover{color:var(--text)}
+  .cat.active{background:var(--accent);border-color:var(--accent);color:#fff}
+
+  /* Hero */
+  .hero{display:grid;grid-template-columns:1.6fr 1fr;gap:18px;margin:20px 0}
+  @media(max-width:820px){.hero{grid-template-columns:1fr}}
+  .lead{background:linear-gradient(135deg,var(--panel2),var(--panel));border:1px solid var(--line);
+    border-radius:18px;padding:24px;position:relative;overflow:hidden}
+  .lead .tag{display:inline-block;background:var(--accent);color:#fff;font-size:11px;font-weight:700;
+    letter-spacing:1px;padding:4px 10px;border-radius:999px;text-transform:uppercase}
+  .lead h1{font-size:30px;line-height:1.18;margin:14px 0 10px}
+  .lead p{color:var(--muted);font-size:15px;margin:0 0 14px}
+  .lead .src{font-size:12px;color:var(--accent2);font-weight:600}
+  .sidelist{display:flex;flex-direction:column;gap:12px}
+  .mini{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+  .mini .k{font-size:10px;letter-spacing:1px;color:var(--accent);font-weight:700;text-transform:uppercase}
+  .mini h4{margin:6px 0 4px;font-size:15px;line-height:1.3}
+  .mini .src{font-size:11px;color:var(--muted)}
+
+  .sectionhdr{display:flex;align-items:center;gap:12px;margin:30px 0 14px}
+  .sectionhdr h2{font-size:20px;margin:0}
+  .sectionhdr .bar{flex:1;height:1px;background:var(--line)}
+  .count{font-size:12px;color:var(--muted)}
+
+  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+  @media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:600px){.grid{grid-template-columns:1fr}}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:18px;
+    display:flex;flex-direction:column;gap:8px;transition:.15s;cursor:pointer}
+  .card:hover{transform:translateY(-3px);border-color:var(--accent2)}
+  .card .chip{align-self:flex-start;font-size:10px;font-weight:700;letter-spacing:.6px;text-transform:uppercase;
+    padding:4px 9px;border-radius:999px;background:var(--chip);color:var(--accent2)}
+  .card h3{font-size:16px;margin:2px 0 0;line-height:1.32}
+  .card p{font-size:13.5px;color:var(--muted);margin:0;flex:1}
+  .card .meta{display:flex;justify-content:space-between;align-items:center;font-size:11px;color:var(--muted);margin-top:6px}
+  .card .meta b{color:var(--accent2);font-weight:600}
+
+  /* Monetization slots */
+  .promo{border:1px dashed var(--line);border-radius:16px;padding:18px;text-align:center;color:var(--muted);
+    background:repeating-linear-gradient(45deg,transparent,transparent 10px,rgba(255,255,255,.02) 10px,rgba(255,255,255,.02) 20px)}
+  .promo b{color:var(--text)}
+  .sub{background:linear-gradient(135deg,var(--accent),#ff8a3c);color:#fff;border-radius:18px;padding:26px;margin:30px 0;
+    display:flex;flex-wrap:wrap;align-items:center;gap:18px;justify-content:space-between}
+  .sub h3{margin:0;font-size:22px}
+  .sub p{margin:4px 0 0;opacity:.92;font-size:14px}
+  .sub form{display:flex;gap:8px;flex-wrap:wrap}
+  .sub input{border:none;border-radius:999px;padding:12px 16px;font-size:14px;min-width:220px;outline:none}
+  .sub button{border:none;border-radius:999px;padding:12px 22px;font-weight:700;background:#0b0e14;color:#fff;cursor:pointer}
+
+  footer{border-top:1px solid var(--line);margin-top:40px;padding:28px 0;color:var(--muted);font-size:13px}
+  footer .cols{display:flex;flex-wrap:wrap;gap:30px;justify-content:space-between}
+  footer a{color:var(--accent2)}
+  .empty{text-align:center;color:var(--muted);padding:50px;font-size:15px}
+  .badge-live{display:inline-flex;align-items:center;gap:6px;font-size:11px;color:var(--good);font-weight:700}
+  .badge-live .pulse{width:8px;height:8px;border-radius:50%;background:var(--good);animation:blink 1.4s infinite}
+  @keyframes blink{50%{opacity:.25}}
+</style>
+</head>
+<body data-theme="dark">
+
+<header class="top">
+  <div class="wrap toprow">
+    <a class="brand" href="#"><span class="dot"></span><span>PULSE<small>WORLD BRIEFING</small></span></a>
+    <span class="badge-live"><span class="pulse"></span>LIVE</span>
+    <div class="spacer"></div>
+    <div class="search"><span>🔎</span><input id="q" aria-label="Search all stories" placeholder="Search all stories…" oninput="render()"></div>
+    <button class="iconbtn" onclick="toggleTheme()" title="Toggle theme">🌓</button>
+  </div>
+  <div class="ticker"><span class="run" id="ticker"></span></div>
+</header>
+
+<nav class="cats">
+  <div class="wrap"><div class="catrow" id="catrow"></div></div>
+</nav>
+
+<main class="wrap">
+  <!-- HERO -->
+  <section class="hero">
+    <div class="lead" id="lead"></div>
+    <div class="sidelist" id="sidelist"></div>
+  </section>
+
+  <!-- AD / SPONSOR SLOT -->
+  <div class="promo"><b>SPONSOR SLOT</b> — Your brand's daily message reaches every reader here. <i>(728×90 leaderboard ad unit / sponsored briefing)</i></div>
+
+  <!-- STORY FEED -->
+  <div class="sectionhdr"><h2 id="feedTitle">Top Stories</h2><span class="bar"></span><span class="count" id="count"></span></div>
+  <div class="grid" id="feed"></div>
+
+  <!-- SUBSCRIBE -->
+  <section class="sub">
+    <div><h3>Get PULSE in your inbox — every morning, free.</h3>
+      <p>Premium members get the full archive, no ads, and the 6am global briefing.</p></div>
+    <form onsubmit="event.preventDefault();this.querySelector('input').value='';alert('Demo: connect this to your email provider (see launch notes).')">
+      <input type="email" placeholder="you@email.com" required>
+      <button>Subscribe</button>
+    </form>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap cols">
+    <div style="max-width:340px">
+      <div class="brand" style="font-size:18px"><span class="dot"></span>PULSE</div>
+      <p>An aggregated daily briefing across world, business, tech, markets, science, health, sports & culture. Headlines link to original reporting at the source.</p>
+    </div>
+    <div><b style="color:var(--text)">Sections</b><br>World · Business · Tech &amp; AI · Markets · Crypto · Science · Health · Sports · Culture</div>
+    <div><b style="color:var(--text)">Sources today</b><br>Reuters · NPR · CBS · Fox · Bloomberg · ScienceDaily · ESPN · Yahoo · Fortune</div>
+  </div>
+  <div class="wrap" style="margin-top:18px;opacity:.7">© 2026 PULSE Media. Headlines aggregated for briefing; full articles © their publishers. Replace this demo data with a live news API to auto-update — see launch notes.</div>
+</footer>
+
+<script>
+// ---- DATA: today's aggregated stories (replace with live news API feed) ----
+const STORIES = [
+  {cat:"World", lead:true, title:"SpaceX prices record IPO as US inflation tops 4%", summary:"SpaceX is pricing what would be the largest IPO ever — a ~$75B raise at a $1.75T-plus valuation — the same day US consumer inflation crossed 4% for the first time in three years.", source:"CBS News", url:"https://www.cbsnews.com/news/spacex-ipo-how-to-buy-stock/"},
+  {cat:"World", title:"House passes $70B immigration enforcement package", summary:"A border-security and ICE-funding bill cleared the House 214–212, ending a months-long standoff.", source:"Fox News", url:"https://www.foxnews.com/politics/trump-locks-ice-funding-through-end-presidency-after-house-passes-70b-package"},
+  {cat:"World", title:"US sanctions 11 over Iran weapons procurement", summary:"Treasury hit 11 people and entities accused of aiding Iran's Revolutionary Guard, in a campaign it called 'Economic Fury.'", source:"Reuters / Treasury", url:"https://www.10things.news/p/10-things-global-news-11th-june-2026"},
+  {cat:"World", title:"Judge blocks Alabama nitrogen-gas executions", summary:"A federal judge ruled the nitrogen method unconstitutionally cruel, permanently halting its use.", source:"Fox News", url:"https://www.foxnews.com/us/judge-blocks-alabamas-nitrogen-gas-execution-method-rules-unconstitutionally-cruel"},
+
+  {cat:"Business", title:"Inflation hits 4% — highest in three years", summary:"A gasoline-price spike tied to the US–Israel war on Iran pushed CPI above 4%, pressuring the Fed on rate cuts.", source:"NPR", url:"https://www.npr.org/2026/06/10/nx-s1-5853077/inflation-over-4-cpi-gasoline-prices"},
+  {cat:"Business", title:"SpaceX IPO reserves big retail allocation", summary:"Ordinary investors get a sizeable slice as SpaceX targets a record-breaking debut today.", source:"CBS News", url:"https://www.cbsnews.com/news/spacex-ipo-how-to-buy-stock/"},
+  {cat:"Business", title:"Russia oil output falls to one-year low", summary:"Ukrainian drone strikes on energy infrastructure dragged Russian crude output to its lowest in a year.", source:"Bloomberg", url:"https://www.bloomberg.com/"},
+  {cat:"Business", title:"US solar + battery project lands $3.5B financing", summary:"A major clean-energy storage project secured $3.5B amid elevated energy prices.", source:"Bloomberg", url:"https://www.bloomberg.com/"},
+
+  {cat:"Tech & AI", title:"Anthropic files confidentially for IPO", summary:"Reports peg Anthropic at a ~$965B valuation on a ~$44B annualized run rate after a June 1 confidential filing.", source:"Crescendo AI", url:"https://www.crescendo.ai/news/latest-ai-news-and-updates"},
+  {cat:"Tech & AI", title:"ChatGPT still leads chatbot traffic; Claude surges", summary:"June data: ChatGPT ~54.7% of AI-chatbot web visits, Gemini ~27.4%, Claude ~8.2% and climbing fast.", source:"Crescendo AI", url:"https://www.crescendo.ai/news/latest-ai-news-and-updates"},
+  {cat:"Tech & AI", title:"Google unveils 'TurboQuant' for AI memory", summary:"A new algorithm cuts the KV-cache memory overhead that slows large AI models.", source:"Crescendo AI", url:"https://www.crescendo.ai/news/latest-ai-news-and-updates"},
+
+  {cat:"Crypto", title:"Bitcoin bounces off lows toward $63K", summary:"BTC opened at $61,456 (−0.3%) then climbed to ~$63,020 by morning; ETH firmed to ~$1,660.", source:"Yahoo Finance", url:"https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-june-11-2026-prices-lifting-off-low-opening-figures-114705725.html"},
+  {cat:"Crypto", title:"BTC technicals flash oversold", summary:"With RSI near 23.8, indicators read oversold even as the broader 2026 trend stays cautious.", source:"Investing.com", url:"https://www.investing.com/crypto/bitcoin"},
+  {cat:"Crypto", title:"Crypto firms on softer-than-feared macro", summary:"Bitcoin and ether recovered from recent lows after fresh US airstrikes and the hot CPI print.", source:"Fortune", url:"https://fortune.com/article/price-of-bitcoin-06-11-2026/"},
+
+  {cat:"Science", title:"New immune mechanism for fighting cancer found", summary:"Researchers uncovered an unexpected way the immune system attacks tumors, upending a decades-old belief.", source:"ScienceDaily", url:"https://www.sciencedaily.com/news/top/science/"},
+  {cat:"Science", title:"New Alzheimer's target and blocking compound", summary:"Scientists identified a drug target and an experimental compound that halts a damaging process in brain cells.", source:"ScienceDaily", url:"https://www.sciencedaily.com/"},
+  {cat:"Science", title:"One photonic chip generates, steers & reads light", summary:"A single device handles light-based information end to end — a step toward ultra-fast, efficient computing.", source:"ScienceDaily", url:"https://www.sciencedaily.com/news/top/science/"},
+  {cat:"Science", title:"'Amaterasu' cosmic ray may be a heavy nucleus", summary:"New analysis suggests the extreme particle is not a proton but an ultraheavy atomic nucleus.", source:"ScienceDaily", url:"https://www.sciencedaily.com/"},
+
+  {cat:"Health", title:"GLP-1 drugs linked to 30% lower breast-cancer risk", summary:"A large study found women on GLP-1 medications were ~30% less likely to develop breast cancer.", source:"ScienceDaily", url:"https://www.sciencedaily.com/news/health_medicine/"},
+  {cat:"Health", title:"AI-designed universal COVID vaccine passes first human test", summary:"An AI-designed pan-coronavirus vaccine was found safe and well tolerated in its first human trial.", source:"ScienceDaily", url:"https://www.sciencedaily.com/news/health_medicine/"},
+  {cat:"Health", title:"New drug targets KRAS in pancreatic cancer", summary:"Daraxonrasib goes after the KRAS mutation that drives most pancreatic cancers.", source:"ScienceDaily", url:"https://www.sciencedaily.com/news/health_medicine/"},
+  {cat:"Health", title:"Ultra-processed foods tied to slower thinking", summary:"A 2,100-adult study linked higher ultra-processed intake to poorer attention and processing speed.", source:"ScienceDaily", url:"https://www.sciencedaily.com/news/health_medicine/"},
+
+  {cat:"Sports", title:"Knicks erase 29-point deficit, lead Finals 3-1", summary:"New York stunned San Antonio 107–106 after a historic comeback to take a commanding series lead.", source:"Fox Sports", url:"https://www.foxnews.com/sports/nba-finals-game-4-recap"},
+  {cat:"Sports", title:"Scherzer becomes 11th pitcher to 3,500 strikeouts", summary:"The Blue Jays ace reached a rare milestone; elsewhere the Giants rallied from 8 down to beat Washington 11–10.", source:"ESPN", url:"https://www.espn.com/espn/latestnews"},
+  {cat:"Sports", title:"Barcelona bids to host 2029 Champions League final", summary:"The club filed its full UEFA dossier; meanwhile Rashford's permanent move looks unlikely.", source:"Yahoo Sports", url:"https://sports.yahoo.com/articles/fc-barcelona-news-11-june-090000998.html"},
+
+  {cat:"Culture", title:"Spielberg releases 34th film, 'Disclosure Day'", summary:"The director's new feature imagines the world reacting to full disclosure of alien-life evidence.", source:"CBS News", url:"https://www.cbsnews.com/entertainment/"},
+  {cat:"Culture", title:"Taylor Swift drops surprise song; Rodrigo album lands", summary:"A packed June for music as Swift releases a surprise track and Olivia Rodrigo puts out a new album.", source:"Brit + Co", url:"https://www.brit.co/new-movies-tv-music-june-2026/"},
+  {cat:"Culture", title:"'Schmigadoon!' and 'Liberation' win big at the Tonys", summary:"The 2026 Tony Awards crowned 'Schmigadoon!' Best Musical and 'Liberation' Best Play.", source:"CBS News", url:"https://www.cbsnews.com/entertainment/"}
+];
+
+const CATS = ["All","World","Business","Tech & AI","Markets","Crypto","Science","Health","Sports","Culture"];
+let active = "All";
+
+function fmtDate(){
+  return new Date('2026-06-11').toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric',year:'numeric'});
+}
+
+function buildCats(){
+  document.getElementById('catrow').innerHTML = CATS.map(c=>{
+    const has = c==="All" || STORIES.some(s=>s.cat===c) || (c==="Markets" && STORIES.some(s=>s.cat==="Business"));
+    return `<div class="cat ${c===active?'active':''}" onclick="setCat('${c.replace(/'/g,"")}')">${c}</div>`;
+  }).join('');
+}
+function setCat(c){active=c;buildCats();render();window.scrollTo({top:0,behavior:'smooth'});}
+
+function buildHero(){
+  const lead = STORIES.find(s=>s.lead);
+  document.getElementById('lead').innerHTML = `
+    <span class="tag">${fmtDate()} · Top Story</span>
+    <h1>${lead.title}</h1>
+    <p>${lead.summary}</p>
+    <a class="src" href="${lead.url}" target="_blank" rel="noopener">Read at ${lead.source} →</a>`;
+  const side = STORIES.filter(s=>!s.lead).slice(0,4);
+  document.getElementById('sidelist').innerHTML = side.map(s=>`
+    <a clas
