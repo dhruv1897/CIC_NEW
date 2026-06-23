@@ -31,6 +31,7 @@
   }
   *{box-sizing:border-box}
   html{scroll-behavior:smooth}
+  @media(prefers-reduced-motion:reduce){*{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}}
   body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
     background:var(--bg);color:var(--ink);line-height:1.5;-webkit-font-smoothing:antialiased;overflow-x:hidden}
   a{color:inherit;text-decoration:none}
@@ -41,8 +42,7 @@
       radial-gradient(40% 40% at 20% 18%,color-mix(in srgb,var(--g1) 38%,transparent),transparent 60%),
       radial-gradient(38% 38% at 82% 22%,color-mix(in srgb,var(--g2) 34%,transparent),transparent 60%),
       radial-gradient(45% 45% at 60% 90%,color-mix(in srgb,var(--g3) 26%,transparent),transparent 60%);
-    filter:blur(40px);opacity:.55;animation:aurora 22s ease-in-out infinite alternate}
-  @keyframes aurora{0%{transform:translate3d(0,0,0) scale(1)}50%{transform:translate3d(2%,-2%,0) scale(1.08)}100%{transform:translate3d(-2%,1%,0) scale(1.04)}}
+    filter:blur(34px);opacity:.5}
 
   /* ---------- HEADER ---------- */
   header.top{position:sticky;top:0;z-index:80;backdrop-filter:saturate(160%) blur(14px);
@@ -337,7 +337,7 @@ function homeView(){
     <div class="shdr"><span class="pill">Sections</span><div class="bar"></div></div>
     ${tilesHTML()}
     <div class="shdr"><h2>Top Stories</h2><div class="bar"></div><span class="count">${STORIES.length} stories</span></div>
-    ${gridHTML(STORIES.slice(1))}
+    ${gridHTML(STORIES.slice(1,22))}
     ${subHTML()}`;
 }
 function categoryView(c){
@@ -350,8 +350,8 @@ function categoryView(c){
     ${subHTML()}`;
 }
 function renderSearch(q){
-  const ql=(q||'').toLowerCase();
-  const list=STORIES.filter(s=>(s.title+' '+s.summary+' '+s.source+' '+s.cat).toLowerCase().includes(ql));
+  const words=(q||'').toLowerCase().split(/\s+/).filter(Boolean);
+  const list=STORIES.filter(s=>{const hay=(s.title+' '+s.summary+' '+s.source+' '+s.cat).toLowerCase();return words.every(w=>hay.includes(w));});
   document.getElementById('view').innerHTML=`<section class="hero"><h1>Search</h1><div class="sub">${list.length} result${list.length===1?'':'s'} for “${q}”.</div></section>${gridHTML(list)}${subHTML()}`;
   afterRender(list);
 }
@@ -393,10 +393,14 @@ window.addEventListener('resize',()=>{ if(parseRoute().name==='home') buildCarou
 function afterRender(list){
   const grid=document.getElementById('grid'); if(!grid) return;
   const cards=[...grid.querySelectorAll('.card')];
-  cards.forEach((c,i)=>{c.style.animationDelay=(Math.min(i,12)*55)+'ms';requestAnimationFrame(()=>c.classList.add('in'));
-    c.addEventListener('mousemove',e=>{const r=c.getBoundingClientRect();const px=(e.clientX-r.left)/r.width,py=(e.clientY-r.top)/r.height;
-      c.style.transform=`translateY(-8px) rotateX(${(.5-py)*9}deg) rotateY(${(px-.5)*11}deg)`;
-      c.style.setProperty('--mx',px*100+'%');c.style.setProperty('--my',py*100+'%');});
+  const fine = window.matchMedia('(hover:hover) and (pointer:fine)').matches;
+  cards.forEach((c,i)=>{c.style.animationDelay=(Math.min(i,10)*50)+'ms';requestAnimationFrame(()=>c.classList.add('in'));
+    if(!fine) return; // skip tilt on touch devices (smoother)
+    let raf=0,lpx=.5,lpy=.5;
+    c.addEventListener('mousemove',e=>{const r=c.getBoundingClientRect();lpx=(e.clientX-r.left)/r.width;lpy=(e.clientY-r.top)/r.height;
+      if(raf)return;raf=requestAnimationFrame(()=>{raf=0;
+        c.style.transform=`translateY(-6px) rotateX(${(.5-lpy)*7}deg) rotateY(${(lpx-.5)*9}deg)`;
+        c.style.setProperty('--mx',lpx*100+'%');c.style.setProperty('--my',lpy*100+'%');});});
     c.addEventListener('mouseleave',()=>{c.style.transform='';});
   });
 }

@@ -8,17 +8,20 @@ import { writeFileSync, mkdirSync } from "node:fs";
 import { dirname } from "node:path";
 
 const OUT = "docs/data/stories.json";
-const PER_FEED = 3;          // headlines to take per feed
+const PER_FEED = 6;          // headlines to take per feed
 const MODEL = "claude-haiku-4-5-20251001";
 
 // Category → RSS feed (all RSS 2.0 <item> style)
 const FEEDS = [
   { cat: "World",      url: "http://feeds.bbci.co.uk/news/world/rss.xml" },
   { cat: "Business",   url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml" },
+  { cat: "Markets",    url: "https://www.cnbc.com/id/20910258/device/rss/rss.html" },
   { cat: "Tech & AI",  url: "https://feeds.arstechnica.com/arstechnica/index" },
+  { cat: "Crypto",     url: "https://cointelegraph.com/rss" },
   { cat: "Science",    url: "https://www.sciencedaily.com/rss/top/science.xml" },
   { cat: "Health",     url: "https://www.sciencedaily.com/rss/top/health.xml" },
   { cat: "Sports",     url: "https://www.espn.com/espn/rss/news" },
+  { cat: "Culture",    url: "http://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml" },
 ];
 
 // ---------- tiny RSS/Atom parser (no deps) ----------
@@ -40,12 +43,22 @@ function pickLink(block) {
   const a = block.match(/<link[^>]*href=["']([^"']+)["']/i);   // atom
   return a ? a[1] : "";
 }
+function hd(u) {
+  if (!u) return u;
+  return u
+    .replace(/ichef\.bbci\.co\.uk\/(news|ace\/standard|ace\/ws)\/\d+\//, "ichef.bbci.co.uk/$1/800/")
+    .replace(/-\d{2,4}x\d{2,4}(\.(?:jpe?g|png|webp))/i, "$1")
+    .replace(/([?&])(?:w|width|h|height|size)=\d+/gi, "$1")
+    .replace(/[?&]$/, "");
+}
 function pickImage(b) {
-  let m = b.match(/<media:thumbnail[^>]*url=["']([^"']+)["']/i)
-       || b.match(/<media:content[^>]*url=["']([^"']+\.(?:jpe?g|png|webp|gif)[^"']*)["']/i)
+  // prefer full-size media:content over small thumbnails
+  let m = b.match(/<media:content[^>]*url=["']([^"']+\.(?:jpe?g|png|webp)[^"']*)["'][^>]*medium=["']image/i)
+       || b.match(/<media:content[^>]*url=["']([^"']+\.(?:jpe?g|png|webp)[^"']*)["']/i)
+       || b.match(/<media:thumbnail[^>]*url=["']([^"']+)["']/i)
        || b.match(/<enclosure[^>]*url=["']([^"']+)["'][^>]*type=["']image/i)
        || b.match(/<img[^>]*src=["']([^"']+)["']/i);
-  return m ? m[1].replace(/&amp;/g, "&") : "";
+  return m ? hd(m[1].replace(/&amp;/g, "&")) : "";
 }
 function parseItems(xml) {
   const blocks = xml.match(/<(item|entry)\b[\s\S]*?<\/\1>/gi) || [];
