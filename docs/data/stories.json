@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "updated": "2026-06-23T20:25:29.188Z",
+  "updated": "2026-06-23T20:43:30.556Z",
   "brand": "PULSE",
   "stories": [
     {
@@ -10,7 +10,7 @@
       "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2593/live/ebcebc30-6f05-11f1-8546-8f19e4fe30f4.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2593/live/ebcebc30-6f05-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "cat": "World",
@@ -18,7 +18,7 @@
       "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e62d/live/0661c170-6f2c-11f1-8b65-27158411943c.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e62d/live/0661c170-6f2c-11f1-8b65-27158411943c.jpg"
     },
     {
       "cat": "World",
@@ -26,7 +26,31 @@
       "summary": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f126/live/8b76c460-6f1c-11f1-8546-8f19e4fe30f4.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f126/live/8b76c460-6f1c-11f1-8546-8f19e4fe30f4.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+      "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bd09/live/958bc530-6f09-11f1-8546-8f19e4fe30f4.png"
+    },
+    {
+      "cat": "World",
+      "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+      "summary": "Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\".",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a51a/live/f1ee76e0-6f06-11f1-8546-8f19e4fe30f4.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
+      "summary": "Edgar Lungu's family and the Zambian government remained in dispute 12 months after he died.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5334/live/cd486880-77a1-11f0-ac7b-4783efd8e136.jpg"
     },
     {
       "cat": "Business",
@@ -50,12 +74,75 @@
       "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main"
     },
     {
+      "cat": "Business",
+      "title": "Financial Services Roundup: Market Talk",
+      "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+      "source": "wsj.com",
+      "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main"
+    },
+    {
+      "cat": "Business",
+      "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+      "summary": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+      "source": "wsj.com",
+      "url": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main"
+    },
+    {
+      "cat": "Business",
+      "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+      "summary": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
+      "source": "wsj.com",
+      "url": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main"
+    },
+    {
+      "cat": "Markets",
+      "title": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
+      "summary": "Though the firm's manufacturing index ran better than expected for June, it came largely from an inventory rebuild and despite sharp job cuts.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "U.S. issues sweeping Iran oil sanctions waivers, unlocking billions in revenue for Tehran",
+      "summary": "The U.S. issued a sweeping rollback of sanctions on Iranian oil, offering Tehran an economic lifeline as negotiations toward a peace deal proceed.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Struggling to find a job? Try looking in Nevada",
+      "summary": "The sparsely populated state known for its world-class casinos and dry climate has been a hiring hot spot.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/19/nevada-workforce-job-market.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Hormuz relief may not ease the economic toll that's already 'baked in,' analysts warn",
+      "summary": "Early signs of reopening of the Strait of Hormuz have lifted the most acute threat to global energy supplies but economic damages from the war will take months to unwind.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/19/hormuz-relief-may-not-ease-the-economic-toll-thats-already-baked-in-analysts-warn.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
+      "summary": "Trump said in an interview with Axios on Thursday evening stateside that he negotiated the deal to prevent the conflict from triggering a global depression.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Bank of England holds interest rates at 3.75% amid Iran war peace prospects",
+      "summary": "The Bank of England's Monetary Policy Committee voted 7-2 to keep rates on hold.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html"
+    },
+    {
       "cat": "Tech & AI",
       "title": "A curious crossover: The Toyota C-HR review",
       "summary": "Although it's on the smaller side, this electric vehicle is not very chill.",
       "source": "arstechnica.com",
       "url": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026_Toyota_C-HR_XSE_Tandoori_108_NR-500x500.jpg"
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026_Toyota_C-HR_XSE_Tandoori_108_NR.jpg"
     },
     {
       "cat": "Tech & AI",
@@ -63,7 +150,7 @@
       "summary": "\"The FCC wants to control who is allowed on the show,\" ABC ad tells viewers.",
       "source": "arstechnica.com",
       "url": "https://arstechnica.com/tech-policy/2026/06/abc-asks-viewers-to-protest-fcc-attempt-to-control-who-is-allowed-on-the-view/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/the-view-500x500-1770666955.jpg"
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/the-view-1152x648-1770666942.jpg"
     },
     {
       "cat": "Tech & AI",
@@ -71,7 +158,79 @@
       "summary": "Current amphibian development may not have been typical of early land vertebrates.",
       "source": "arstechnica.com",
       "url": "https://arstechnica.com/science/2026/06/early-land-animals-skipped-the-tadpole-phase/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-3-500x500.jpeg"
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-3.jpeg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "Trump may be mystery patient in odd case of 79yo getting experimental obesity drug",
+      "summary": "Public notice of a single \"compassionate use\" case is odd in every way.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2244838922.jpg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "Everyone pays the price as patent holders on seeds stifle innovation",
+      "summary": "The US is one of a handful of countries that allow patents on plant varieties.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/tech-policy/2026/06/everyone-pays-the-price-as-patent-holders-on-seeds-stifle-innovation/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/crops.jpg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "Sony releases trailer for Taika Waititi's Klara and the Sun",
+      "summary": "Tonally, the trailer gives strong vibes akin to the director's 2016 feature Hunt for the Wilderpeople.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/culture/2026/06/taika-waititi-brings-more-dramatic-tone-to-klara-and-the-sun-trailer/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/klara1.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Crypto isn't the problem with the US economy, says senator",
+      "summary": "Louisiana Senator John Kennedy largely dismissed what he called the “promotion” of cryptocurrency by the Digital Chamber CEO Cody Carbone in a Senate hearing on affordability.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hinew-us-government-crypto2-2.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Multi-year Bitcoin holder selling falls to 19-month low as halving model flags new market bottom date",
+      "summary": "OG Bitcoin holders' spending dropped to a 19-month low, as market cycle indicators point to September as a potential market bottom.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/markets/og-bitcoin-selling-hits-19-month-low-as-halving-model-flags-new-bottom-date-analyst?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-206755-bitcoin-dip-making-perfect-bottom-says-analyst-will-btc-rally-to-148k.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Zcash miner Fortitude gets Nasdaq listing via HeartSciences merger",
+      "summary": "The all-stock deal gives Fortitude a Nasdaq listing while HeartSciences retains its healthcare business and existing shareholders keep a minority stake.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/zcash-miner-fortitude-go-public-heartsciences-merger?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/zcash-fortitude.png"
+    },
+    {
+      "cat": "Crypto",
+      "title": "CFTC chair says perp trading not suitable for all assets it regulates",
+      "summary": "Michael Selig told US cotton producers that the agency’s regulatory approach to crypto perpetual futures may not be a “natural fit for traditional commodity markets, like agriculture.”",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/cftc-regulating-agricultural-markets-crypto-prediction-markets-push?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-major-players-use-blockchain-to-streamline-agribusiness-creaking-supply-chain-2.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "CBOE weighs converting BTC, ETH continuous futures into perpetual futures: Report",
+      "summary": "As US regulatory changes accelerate the adoption of crypto perpetual futures and rivals Coinbase and Kalshi expand their offerings, Cboe mulls a product overhaul.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/cboe-bitcoin-ether-perpetual-futures-cftc-kalshi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-insider-trading-cboe.jpg"
     },
     {
       "cat": "Science",
@@ -95,6 +254,27 @@
       "url": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm"
     },
     {
+      "cat": "Science",
+      "title": "Future astronauts could walk across rocks from deep inside the Moon",
+      "summary": "A colossal ancient collision may have left some of the Moon’s deepest secrets surprisingly close to future Artemis landing sites. By recreating the impact that formed the giant South Pole-Aitken basin",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622014258.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "T. rex took 40 years to reach full size, scientists find",
+      "summary": "Tyrannosaurus rex may have been a much slower grower than scientists realized. A new study of 17 tyrannosaur fossils found that the giant predator likely took about 40 years to reach its full size of ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621110957.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "As lakes turn brown, trout and bass decline while pike and walleye thrive",
+      "summary": "Freshwater lakes across North America and Europe are becoming noticeably browner, reducing underwater visibility and reshaping fish populations. Research found that several popular sport fish, includi",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621060322.htm"
+    },
+    {
       "cat": "Health",
       "title": "This emerging treatment is helping people avoid knee replacement surgery",
       "summary": "A minimally invasive treatment called GAE is helping people with chronic knee pain get back to gardening, cycling, and other activities without undergoing knee replacement surgery. Early studies sugge",
@@ -116,6 +296,27 @@
       "url": "https://www.sciencedaily.com/releases/2026/06/260622014313.htm"
     },
     {
+      "cat": "Health",
+      "title": "Butterfly that barely ages could help unlock longevity secrets",
+      "summary": "Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physi",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Ebola and hantavirus can start like the flu but turn deadly fast",
+      "summary": "Two dangerous viruses are back in the spotlight, reminding health officials how quickly infectious diseases can become serious threats. Hantavirus, often linked to rodents, can cause severe heart and ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622014257.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "One common fat may fuel type 2 diabetes while another helps fight it",
+      "summary": "Not all fats affect your body the same way. Researchers found that palmitic acid, a saturated fat common in many foods, may contribute to insulin resistance and type 2 diabetes by triggering inflammat",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621060318.htm"
+    },
+    {
       "cat": "Sports",
       "title": "World Cup live updates: Kane, England take on Seme...",
       "summary": "null",
@@ -135,6 +336,75 @@
       "summary": "Cristiano Ronaldo made history Tuesday by becoming the first player to score in six different World Cups, finding the net in Portugal's 5-0 win over Uzbekistan.",
       "source": "espn.com",
       "url": "https://www.espn.com/soccer/story/_/id/49154970/portugal-cristiano-ronaldo-goal-first-score-six-world-cups-uzbekistan"
+    },
+    {
+      "cat": "Sports",
+      "title": "Tiger makes first public appearance since arrest",
+      "summary": "Tiger Woods made his first public appearance since his arrest in late March when he introduced CEO Brian Rolapp during a PGA Tour news conference Tuesday at TPC River Highlands in Connecticut.",
+      "source": "espn.com",
+      "url": "https://www.espn.com/golf/story/_/id/49155213/tiger-woods-makes-first-public-appearance-dui-arrest"
+    },
+    {
+      "cat": "Sports",
+      "title": "Cabinet OK's 5-year, age-based eligibility for D-I...",
+      "summary": "The NCAA Division I Cabinet unanimously approved a new five-year, age-based eligibility model. This marks a win for the NCAA as it attempts to bring consistency to the landscape.",
+      "source": "espn.com",
+      "url": "https://www.espn.com/college-sports/story/_/id/49156177/ncaa-division-cabinet-ok-5-year-age-based-eligibility"
+    },
+    {
+      "cat": "Sports",
+      "title": "Sweet Jazz? 2B's in-game lollipop bothers Boone",
+      "summary": "Yankees second baseman Jazz Chisholm's decision to play while enjoying a lollipop during Monday night's game left a sour taste in manager Aaron Boone's mouth.",
+      "source": "espn.com",
+      "url": "https://www.espn.com/mlb/story/_/id/49156443/yankees-manager-bother-jazz-chisholm-game-lollipop"
+    },
+    {
+      "cat": "Culture",
+      "title": "Ashley Cain says he's 'not proud' of sexist language",
+      "summary": "The former BBC Three presenter says he has changed since the historical tweets were posted.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c3wynw8znl1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f4ec/live/b7cd46a0-6edc-11f1-92d8-97879fd3f743.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Dame Jilly Cooper leaves £8.5m fortune to children",
+      "summary": "Dame Jilly died after sustaining a fatal head injury in a fall at her Gloucesterhire home in 2025.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cgev2yx00ypo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2d42/live/2b8597c0-6efe-11f1-87e9-1dc598ae70b3.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Ticket reseller StubHub UK customers to get refunds over illegal hidden fees",
+      "summary": "The Competition and Markets Authority said StubHub must refund 50,000 customers and pay a fine.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/55f6/live/fdf2e250-6e48-11f1-8a85-d1d176b992ab.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Ransom note claims Nancy Guthrie died after abduction",
+      "summary": "On Tuesday, Today show presenter Savannah Guthrie begged anyone with information to come forward, saying, \"We are in agony.\"",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0937/live/65772ef0-6e98-11f1-a98d-19c4cda006f8.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
+      "summary": "The record company executive also worked with Billy Joel, Pink Floyd, Alicia Keys and Aerosmith.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b756/live/41bbbd80-6e5e-11f1-b1db-af71d47507d6.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Edinburgh International Festival will be phone-free - Benedetti",
+      "summary": "The violinist, who has been festival director since 2023 says the policy has come at the request of artists and audiences.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c4gy64r7q9vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/787d/live/0667b5f0-6e5d-11f1-8303-013b2575905b.jpg"
     }
   ]
 }
