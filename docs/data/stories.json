@@ -1,56 +1,56 @@
 {
   "date": "2026-06-24",
-  "updated": "2026-06-23T20:43:30.556Z",
+  "updated": "2026-06-24T14:47:09.478Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-      "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+      "title": "Power outages hit France as record heatwave set to peak",
+      "summary": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2593/live/ebcebc30-6f05-11f1-8546-8f19e4fe30f4.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5a57/live/2d405c80-6fc1-11f1-b1db-af71d47507d6.jpg"
     },
     {
       "cat": "World",
-      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
-      "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
+      "title": "Air conditioning creates political divide after France records hottest day",
+      "summary": "France is being forced to re-think its longstanding reservations about air-conditioning as temperatures soar.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e62d/live/0661c170-6f2c-11f1-8b65-27158411943c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c4gyqldl3p5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8057/live/f19c7bb0-6fc9-11f1-8b2e-bdb65bec8399.jpg"
     },
     {
       "cat": "World",
-      "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-      "summary": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
+      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f126/live/8b76c460-6f1c-11f1-8546-8f19e4fe30f4.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d75e/live/c4c807c0-6fc5-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "cat": "World",
-      "title": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-      "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
+      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+      "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bd09/live/958bc530-6f09-11f1-8546-8f19e4fe30f4.png"
+      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bde8/live/87a1ba60-6f86-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "cat": "World",
-      "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-      "summary": "Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\".",
+      "title": "Biggest city in Crimea without power after Ukraine strikes",
+      "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a51a/live/f1ee76e0-6f06-11f1-8546-8f19e4fe30f4.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e1c3/live/249bb360-6fba-11f1-8546-8f19e4fe30f4.jpg"
     },
     {
       "cat": "World",
-      "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
-      "summary": "Edgar Lungu's family and the Zambian government remained in dispute 12 months after he died.",
+      "title": "France confirms first Ebola case",
+      "summary": "The French doctor had been working in DR Congo, where more than 260 people are known to have died.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5334/live/cd486880-77a1-11f0-ac7b-4783efd8e136.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c26d/live/6fcbfc90-6fb1-11f1-b1db-af71d47507d6.jpg"
     },
     {
       "cat": "Business",
@@ -138,51 +138,67 @@
     },
     {
       "cat": "Tech & AI",
-      "title": "A curious crossover: The Toyota C-HR review",
-      "summary": "Although it's on the smaller side, this electric vehicle is not very chill.",
+      "title": "November launch set for space shuttle Endeavour's towering display",
+      "summary": "\"It is an incredible exhibit and incredible sight.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/2026_Toyota_C-HR_XSE_Tandoori_108_NR.jpg"
+      "url": "https://arstechnica.com/space/2026/06/november-launch-set-for-space-shuttle-endeavours-towering-display/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/news-062426a-lg.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "ABC asks viewers to protest FCC attempt to \"control who is allowed\" on The View",
-      "summary": "\"The FCC wants to control who is allowed on the show,\" ABC ad tells viewers.",
+      "title": "White House app auto-downloads to government phones, can't be uninstalled",
+      "summary": "“It’s shooting pure unadulterated propaganda into our veins,” says one worker.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/06/abc-asks-viewers-to-protest-fcc-attempt-to-control-who-is-allowed-on-the-view/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/the-view-1152x648-1770666942.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/06/white-house-app-auto-downloads-to-government-phones-cant-be-uninstalled/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/whitehouseapp.png"
     },
     {
       "cat": "Tech & AI",
-      "title": "Early land animals skipped the tadpole phase",
-      "summary": "Current amphibian development may not have been typical of early land vertebrates.",
+      "title": "White House drastically shortens deadline for dropping quantum-vulnerable crypto",
+      "summary": "Order warns of national security risks if post-quantum cryptography isn't adopted in time.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/06/early-land-animals-skipped-the-tadpole-phase/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-3.jpeg"
+      "url": "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1070527780.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Trump may be mystery patient in odd case of 79yo getting experimental obesity drug",
-      "summary": "Public notice of a single \"compassionate use\" case is odd in every way.",
+      "title": "US's climate.gov site, taken down by Trump, relaunched by nonprofit",
+      "summary": "Climate.us has now restored everything taken down by the government.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2244838922.jpg"
+      "url": "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-4.jpeg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Everyone pays the price as patent holders on seeds stifle innovation",
-      "summary": "The US is one of a handful of countries that allow patents on plant varieties.",
+      "title": "Odd police video shows drone removing knife from motionless suspect",
+      "summary": "Promo video comes as more US police departments fly drones as first responders.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/06/everyone-pays-the-price-as-patent-holders-on-seeds-stifle-innovation/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/crops.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-23-at-3.43.31-PM.png"
     },
     {
       "cat": "Tech & AI",
-      "title": "Sony releases trailer for Taika Waititi's Klara and the Sun",
-      "summary": "Tonally, the trailer gives strong vibes akin to the director's 2016 feature Hunt for the Wilderpeople.",
+      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
+      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/06/taika-waititi-brings-more-dramatic-tone-to-klara-and-the-sun-trailer/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/klara1.jpg"
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "How memecoin marketing moved from online speculation to real-world risk",
+      "summary": "From alcohol dares to head-shaving challenges, memecoin campaigns are turning engagement into exploitation.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/learn/pump-fun-go-bounty-memecoin-risks?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/how-memecoin-marketing-crossed-from-online-speculation-into-real-world-risk.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "DeFi TVL drops 39% in 2026 amid market downturn and record hack activity",
+      "summary": "DeFi TVL fell 39% in 2026 as a broader market downturn and fallout from major exploits, including the Kelp DAO hack, weighed on the sector.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/defi-tvl-falls-39-2026-erases-45b-value?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ftx-showed-the-value-of-using-defi-instead-of-gatekeepers.jpg"
     },
     {
       "cat": "Crypto",
@@ -194,177 +210,185 @@
     },
     {
       "cat": "Crypto",
-      "title": "Crypto isn't the problem with the US economy, says senator",
-      "summary": "Louisiana Senator John Kennedy largely dismissed what he called the “promotion” of cryptocurrency by the Digital Chamber CEO Cody Carbone in a Senate hearing on affordability.",
+      "title": "Binance eyes alternative EU licensing route if Greek bid fails: Report",
+      "summary": "Binance reportedly plans to seek authorization in another EU jurisdiction as the MiCA deadline approaches, with unlicensed crypto firms expected to wind down activities in the bloc.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hinew-us-government-crypto2-2.jpg"
+      "url": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-binance-standard-an-overview.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Multi-year Bitcoin holder selling falls to 19-month low as halving model flags new market bottom date",
-      "summary": "OG Bitcoin holders' spending dropped to a 19-month low, as market cycle indicators point to September as a potential market bottom.",
+      "title": "SecondFi traces Cardano wallet exploit to address-level issue",
+      "summary": "Cardano wallet SecondFi traced the incident to an address-level issue and secured 129 million ADA after attackers drained funds from 374 addresses.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/og-bitcoin-selling-hits-19-month-low-as-halving-model-flags-new-bottom-date-analyst?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-206755-bitcoin-dip-making-perfect-bottom-says-analyst-will-btc-rally-to-148k.jpg"
+      "url": "https://cointelegraph.com/news/cardano-wallet-secondfi-flaw-16-million-ada-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-red6.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Zcash miner Fortitude gets Nasdaq listing via HeartSciences merger",
-      "summary": "The all-stock deal gives Fortitude a Nasdaq listing while HeartSciences retains its healthcare business and existing shareholders keep a minority stake.",
+      "title": "CBOE debuts prediction market with S&P 500 contracts",
+      "summary": "Cboe launched its first prediction market product tied to the S&P 500 index, citing a growing investor demand for binary options contracts.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/zcash-miner-fortitude-go-public-heartsciences-merger?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/zcash-fortitude.png"
+      "url": "https://cointelegraph.com/news/cboe-debuts-prediction-market-sp-500-contracts?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-wall-street-is-using-ethereum-without-talking-about-ethereum2.jpg"
     },
     {
-      "cat": "Crypto",
-      "title": "CFTC chair says perp trading not suitable for all assets it regulates",
-      "summary": "Michael Selig told US cotton producers that the agency’s regulatory approach to crypto perpetual futures may not be a “natural fit for traditional commodity markets, like agriculture.”",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/cftc-regulating-agricultural-markets-crypto-prediction-markets-push?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-major-players-use-blockchain-to-streamline-agribusiness-creaking-supply-chain-2.jpg"
+      "cat": "Science",
+      "title": "Early humans were bringing fire into caves 1.8 million years ago",
+      "summary": "A new study suggests early humans were using fire in South Africa’s Wonderwerk Cave as far back as 1.79 million years ago. Researchers found burned bones deep inside the cave, where natural wildfires could not have reach",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083123.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "CBOE weighs converting BTC, ETH continuous futures into perpetual futures: Report",
-      "summary": "As US regulatory changes accelerate the adoption of crypto perpetual futures and rivals Coinbase and Kalshi expand their offerings, Cboe mulls a product overhaul.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/cboe-bitcoin-ether-perpetual-futures-cftc-kalshi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-insider-trading-cboe.jpg"
+      "cat": "Science",
+      "title": "Why South Africa’s leopards shrank to half their normal size",
+      "summary": "A hidden population of South African leopards has revealed a remarkable evolutionary story. Researchers analyzing entire leopard genomes discovered that the Cape Floristic Region’s leopards are not only much smaller than",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083113.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Scientists just discovered how queen bees are really made",
+      "summary": "For decades, scientists thought royal jelly was the secret ingredient that turned an ordinary honeybee larva into a queen. New research reveals the process is far more remarkable: young worker bees create special “royal ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083101.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Scientists discover hidden “footprints of death” that may help viruses spread",
+      "summary": "Scientists have uncovered a surprising new twist in what happens when cells die. As dying cells break apart, they leave behind tiny “footprints of death” packed with newly discovered particles that help guide the immune ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623014028.htm"
     },
     {
       "cat": "Science",
       "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
-      "summary": "A cave in New Zealand has yielded fossils from a lost ecosystem that existed about 1 million years ago, including a possible flying ancestor of the kākāpō. The discovery reveals that volcanoes and cli",
+      "summary": "A cave in New Zealand has yielded fossils from a lost ecosystem that existed about 1 million years ago, including a possible flying ancestor of the kākāpō. The discovery reveals that volcanoes and climate upheaval were r",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/06/260623011129.htm"
     },
     {
       "cat": "Science",
       "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
-      "summary": "NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock",
+      "summary": "NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock new discoveries abo",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm"
     },
     {
-      "cat": "Science",
-      "title": "Butterfly that barely ages could help unlock longevity secrets",
-      "summary": "Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physi",
+      "cat": "Health",
+      "title": "Study challenges a common belief about vitamin D and sunlight",
+      "summary": "A study of nearly 300 people across northern Britain found that vitamin D levels often stay low all year in groups most at risk. Surprisingly, summer sunshine did not significantly boost vitamin D levels among older adul",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083104.htm"
     },
     {
-      "cat": "Science",
-      "title": "Future astronauts could walk across rocks from deep inside the Moon",
-      "summary": "A colossal ancient collision may have left some of the Moon’s deepest secrets surprisingly close to future Artemis landing sites. By recreating the impact that formed the giant South Pole-Aitken basin",
+      "cat": "Health",
+      "title": "Scientists discover hidden “footprints of death” that may help viruses spread",
+      "summary": "Scientists have uncovered a surprising new twist in what happens when cells die. As dying cells break apart, they leave behind tiny “footprints of death” packed with newly discovered particles that help guide the immune ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260622014258.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "T. rex took 40 years to reach full size, scientists find",
-      "summary": "Tyrannosaurus rex may have been a much slower grower than scientists realized. A new study of 17 tyrannosaur fossils found that the giant predator likely took about 40 years to reach its full size of ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260621110957.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "As lakes turn brown, trout and bass decline while pike and walleye thrive",
-      "summary": "Freshwater lakes across North America and Europe are becoming noticeably browner, reducing underwater visibility and reshaping fish populations. Research found that several popular sport fish, includi",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260621060322.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623014028.htm"
     },
     {
       "cat": "Health",
       "title": "This emerging treatment is helping people avoid knee replacement surgery",
-      "summary": "A minimally invasive treatment called GAE is helping people with chronic knee pain get back to gardening, cycling, and other activities without undergoing knee replacement surgery. Early studies sugge",
+      "summary": "A minimally invasive treatment called GAE is helping people with chronic knee pain get back to gardening, cycling, and other activities without undergoing knee replacement surgery. Early studies suggest the procedure can",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/06/260622091502.htm"
     },
     {
       "cat": "Health",
+      "title": "One tiny mutation may explain how bat viruses become human threats",
+      "summary": "Scientists found that one tiny genetic change can completely alter how a coronavirus behaves in different species. Comparing SARS-CoV-2 with a closely related bat-only virus, they showed that a single amino-acid differen",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622091434.htm"
+    },
+    {
+      "cat": "Health",
       "title": "Scientists say most people need more protein than current guidelines suggest",
-      "summary": "A new review suggests that doing more exercise and eating more protein than current minimum recommendations may help people stay stronger, sharper, and more independent as they age. The goal isn&#039;",
+      "summary": "A new review suggests that doing more exercise and eating more protein than current minimum recommendations may help people stay stronger, sharper, and more independent as they age. The goal isn&#039;t building a beach b",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/06/260622091429.htm"
     },
     {
       "cat": "Health",
       "title": "A common vitamin could help fight one of the deadliest brain cancers",
-      "summary": "A clinical trial is exploring whether high doses of vitamin B3 could give patients with glioblastoma a better chance against the aggressive brain cancer. Scientists found that niacin may help revive i",
+      "summary": "A clinical trial is exploring whether high doses of vitamin B3 could give patients with glioblastoma a better chance against the aggressive brain cancer. Scientists found that niacin may help revive immune cells that tum",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/06/260622014313.htm"
     },
     {
-      "cat": "Health",
-      "title": "Butterfly that barely ages could help unlock longevity secrets",
-      "summary": "Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physi",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Ebola and hantavirus can start like the flu but turn deadly fast",
-      "summary": "Two dangerous viruses are back in the spotlight, reminding health officials how quickly infectious diseases can become serious threats. Hantavirus, often linked to rodents, can cause severe heart and ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260622014257.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "One common fat may fuel type 2 diabetes while another helps fight it",
-      "summary": "Not all fats affect your body the same way. Researchers found that palmitic acid, a saturated fat common in many foods, may contribute to insulin resistance and type 2 diabetes by triggering inflammat",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260621060318.htm"
+      "cat": "Sports",
+      "title": "Biggest winners -- and question marks -- from Roun...",
+      "summary": "Our ESPN draft insiders break down twists, turns and trades of Tuesday's first round of NBA draft",
+      "source": "espn.com",
+      "url": "https://www.espn.com/nba/story/_/id/49085674/2026-nba-draft-round-1-winners-surprises-teams-picks-questions-washington-jazz-memphis"
     },
     {
       "cat": "Sports",
-      "title": "World Cup live updates: Kane, England take on Seme...",
-      "summary": "null",
+      "title": "Let's project every Round 2 pick: Our NBA mock dra...",
+      "summary": "Who are the best players still on the board -- and where could they go? We project Round 2 picks.",
       "source": "espn.com",
-      "url": "https://www.espn.com/soccer/story/_/id/49150583/messi-100-year-old-super-fan-sees-make-history-portugal-england-action"
+      "url": "https://www.espn.com/nba/story/_/id/49085966/2026-nba-round-2-mock-draft-best-available-players-picks-predictions"
     },
     {
       "cat": "Sports",
-      "title": "NFL nixes 2026 supplemental draft; Sorsby stuck",
-      "summary": "The NFL has decided not to hold a supplemental draft this year, effectively halting Texas Tech quarterback Brendan Sorsby's path to the league this season.",
+      "title": "Wizards opt for BYU's Dybantsa with No. 1 pick",
+      "summary": "The Wizards ushered in a new era by drafting AJ Dybantsa with the first pick, selecting him over Kansas' Darryn Peterson to help turn around the franchise.",
       "source": "espn.com",
-      "url": "https://www.espn.com/nfl/story/_/id/49155214/no-2026-supplemental-draft-brendan-sorsby-nfl-path-paused"
+      "url": "https://www.espn.com/nba/story/_/id/49158973/wizards-opt-byu-aj-dybantsa-top-pick-nba-draft"
     },
     {
       "cat": "Sports",
-      "title": "Ronaldo snaps goal drought, 1st to score at 6 WCs",
-      "summary": "Cristiano Ronaldo made history Tuesday by becoming the first player to score in six different World Cups, finding the net in Portugal's 5-0 win over Uzbekistan.",
+      "title": "Celtics' Stevens: Brown remains 'big part of us'",
+      "summary": "Amid reported trade talks for Jaylen Brown, Celtics president of basketball operations Brad Stevens said Tuesday night that the star forward remains \"valued\" by the organization.",
       "source": "espn.com",
-      "url": "https://www.espn.com/soccer/story/_/id/49154970/portugal-cristiano-ronaldo-goal-first-score-six-world-cups-uzbekistan"
+      "url": "https://www.espn.com/nba/story/_/id/49162273/stevens-brown-big-part-celtics-predict-future"
     },
     {
       "cat": "Sports",
-      "title": "Tiger makes first public appearance since arrest",
-      "summary": "Tiger Woods made his first public appearance since his arrest in late March when he introduced CEO Brian Rolapp during a PGA Tour news conference Tuesday at TPC River Highlands in Connecticut.",
+      "title": "Bucks GM mum on Giannis, emphasizes 'building'",
+      "summary": "With the trade of superstar Giannis Antetokounmpo to the Heat not yet official, Bucks GM Jon Horst declined to talk specifics -- but repeatedly emphasized \"a theme of building\" after the team drafted Brayden Burries and ",
       "source": "espn.com",
-      "url": "https://www.espn.com/golf/story/_/id/49155213/tiger-woods-makes-first-public-appearance-dui-arrest"
+      "url": "https://www.espn.com/nba/story/_/id/49162673/bucks-draft-brayden-burries-nate-ament-agreeing-giannis-trade-building-says-gm-jon-horst"
     },
     {
       "cat": "Sports",
-      "title": "Cabinet OK's 5-year, age-based eligibility for D-I...",
-      "summary": "The NCAA Division I Cabinet unanimously approved a new five-year, age-based eligibility model. This marks a win for the NCAA as it attempts to bring consistency to the landscape.",
+      "title": "Johnson reunites with May, goes No. 9 to Mavs",
+      "summary": "Michigan forward Morez Johnson Jr. was taken with the ninth pick by the Mavs and his former coach at Michigan, Dusty May, and was one of three Wolverines to go in the lottery along with Yaxel Lendeborg and Aday Mara.",
       "source": "espn.com",
-      "url": "https://www.espn.com/college-sports/story/_/id/49156177/ncaa-division-cabinet-ok-5-year-age-based-eligibility"
-    },
-    {
-      "cat": "Sports",
-      "title": "Sweet Jazz? 2B's in-game lollipop bothers Boone",
-      "summary": "Yankees second baseman Jazz Chisholm's decision to play while enjoying a lollipop during Monday night's game left a sour taste in manager Aaron Boone's mouth.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/mlb/story/_/id/49156443/yankees-manager-bother-jazz-chisholm-game-lollipop"
+      "url": "https://www.espn.com/nba/story/_/id/49160374/johnson-reunites-mavs-leads-u-m-trio-draft-lottery"
     },
     {
       "cat": "Culture",
-      "title": "Ashley Cain says he's 'not proud' of sexist language",
-      "summary": "The former BBC Three presenter says he has changed since the historical tweets were posted.",
+      "title": "Jesy Nelson 'outraged' after MPs debate muscle condition that affects her twins",
+      "summary": "The singer says children face a \"postcode lottery\", as testing for the disease is staggered.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c3wynw8znl1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f4ec/live/b7cd46a0-6edc-11f1-92d8-97879fd3f743.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cvgl41mdwy9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/faa8/live/d6980110-6fd1-11f1-8546-8f19e4fe30f4.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "GTA 6 will cost $80 - and physical edition will not contain a disc",
+      "summary": "Rockstar has said physical copies of the game will contain a code for a digital download for the game.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8a00/live/c7ebc1c0-6f1c-11f1-a375-a3e02c3e348e.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "TV Festival to move from Edinburgh to Manchester",
+      "summary": "The event is relocating from the Scottish capital next year in a move to \"radically\" cut costs.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c8r2vdmeg14o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7dd4/live/910ef700-6f06-11f1-87e9-1dc598ae70b3.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "South Korea could deport stalker who rang BTS star's doorbell 133 times",
+      "summary": "The Brazilian woman visited BTS member Jungkook's home 20 times in less than two months.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c9v2d9edx9wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/27e7/live/eded41f0-6eae-11f1-adfe-8d2e7042a71f.jpg"
     },
     {
       "cat": "Culture",
@@ -376,35 +400,11 @@
     },
     {
       "cat": "Culture",
-      "title": "Ticket reseller StubHub UK customers to get refunds over illegal hidden fees",
-      "summary": "The Competition and Markets Authority said StubHub must refund 50,000 customers and pay a fine.",
+      "title": "Ashley Cain says he's 'not proud' of sexist language",
+      "summary": "The former BBC Three presenter says he has changed since the historical tweets were posted.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/55f6/live/fdf2e250-6e48-11f1-8a85-d1d176b992ab.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Ransom note claims Nancy Guthrie died after abduction",
-      "summary": "On Tuesday, Today show presenter Savannah Guthrie begged anyone with information to come forward, saying, \"We are in agony.\"",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0937/live/65772ef0-6e98-11f1-a98d-19c4cda006f8.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Clive Davis, music mogul behind Whitney Houston and Bruce Springsteen, dies aged 94",
-      "summary": "The record company executive also worked with Billy Joel, Pink Floyd, Alicia Keys and Aerosmith.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b756/live/41bbbd80-6e5e-11f1-b1db-af71d47507d6.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Edinburgh International Festival will be phone-free - Benedetti",
-      "summary": "The violinist, who has been festival director since 2023 says the policy has come at the request of artists and audiences.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c4gy64r7q9vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/787d/live/0667b5f0-6e5d-11f1-8303-013b2575905b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c3wynw8znl1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f4ec/live/b7cd46a0-6edc-11f1-92d8-97879fd3f743.jpg"
     }
   ]
 }
