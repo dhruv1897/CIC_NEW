@@ -1,13 +1,13 @@
 {
   "date": "2026-06-24",
-  "updated": "2026-06-24T14:47:09.478Z",
+  "updated": "2026-06-24T16:40:59.594Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Power outages hit France as record heatwave set to peak",
-      "summary": "About 68,000 homes in Brittany have been affected, with electricity unlikely to be fully restored until Wednesday night.",
+      "title": "Power outages hit France as it records hottest day since measurements began",
+      "summary": "France has recorded it hottest day since records began in 1947, its national weather agency says, breaking a record set on Tuesday.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5a57/live/2d405c80-6fc1-11f1-b1db-af71d47507d6.jpg"
@@ -138,7 +138,23 @@
     },
     {
       "cat": "Tech & AI",
-      "title": "November launch set for space shuttle Endeavour's towering display",
+      "title": "Military branches restore flu shot requirement after virus swept through base",
+      "summary": "Branches received exceptions to Hegseth's policy that made the shot optional.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2224665122.jpg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "Slate Auto's truck builder goes live for its $25k electric pickup",
+      "summary": "From a bare-bones pickup to a loaded, wrapped SUV, here's what some Slates will cost.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/cars/2026/06/here-are-five-ways-you-could-build-a-slate-ev-from-25000-to-37000/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/slate-screenshot-1-1152x648-1782308243.jpg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "We got a sneak peek of the final space shuttle set to go on public display",
       "summary": "\"It is an incredible exhibit and incredible sight.\"",
       "source": "arstechnica.com",
       "url": "https://arstechnica.com/space/2026/06/november-launch-set-for-space-shuttle-endeavours-towering-display/",
@@ -169,20 +185,44 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-4.jpeg"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Odd police video shows drone removing knife from motionless suspect",
-      "summary": "Promo video comes as more US police departments fly drones as first responders.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-23-at-3.43.31-PM.png"
+      "cat": "Crypto",
+      "title": "Bitcoin crash to $60K opens new $530M demand zone: Will bulls buy in?",
+      "summary": "A $525 million Bitcoin buy wall intersects with a major liquidation zone, creating a key battleground between $60,500 and $65,000.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/markets/bitcoin-daily-close-points-to-the-next-demand-zone-as-530m-in-buy-bids-emerge?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-243559-bitcoin-briefly-crashes-to-dollar0-starknet-dex-paradex-glitch-triggers-massive.jpg"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-      "summary": "Oracle is spending billions on data center infrastructure to support AI.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669.jpg"
+      "cat": "Crypto",
+      "title": "Credit unions managing $25B in assets join stablecoin infrastructure program",
+      "summary": "A new pilot from Stablecore, Circuit and Curql gives participating US credit unions access to test stablecoin payments and other digital asset services.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/credit-unions-join-stablecoin-infrastructure-program?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-does-crypto-lending-work-ethereum.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Binance withdraws Greece-filed MiCA application",
+      "summary": "Binance said it plans to seek authorization in another EU jurisdiction just days ahead of the July 1 MiCA deadline, as unlicensed crypto firms are expected to wind down activities in the bloc.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-binance-standard-an-overview.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Trump cancels signing of housing bill with CBDC ban",
+      "summary": "The 21st Century ROAD to Housing Act included a provision that the US Federal Reserve was barred from issuing or creating a CBDC until 2030, but exempted certain stablecoins.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/donald-trump-cancels-signing-housing-bill-cbdc-ban?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/trump-stable-1.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "The Impossibility of Perfect Fairness in Transaction Ordering",
+      "summary": "Why perfect fairness cannot hold in asynchronous networks, and how different blockchains adopt different relaxations to fairness.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/research/the-impossibility-of-perfect-fairness-in-transaction-ordering?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-banks-and-blockchain.jpg"
     },
     {
       "cat": "Crypto",
@@ -193,149 +233,109 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/how-memecoin-marketing-crossed-from-online-speculation-into-real-world-risk.jpg"
     },
     {
-      "cat": "Crypto",
-      "title": "DeFi TVL drops 39% in 2026 amid market downturn and record hack activity",
-      "summary": "DeFi TVL fell 39% in 2026 as a broader market downturn and fallout from major exploits, including the Kelp DAO hack, weighed on the sector.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/defi-tvl-falls-39-2026-erases-45b-value?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ftx-showed-the-value-of-using-defi-instead-of-gatekeepers.jpg"
+      "cat": "Science",
+      "title": "Scientists discover ancient brain cells that help block distractions",
+      "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When resea",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Binance eyes alternative EU licensing route if Greek bid fails: Report",
-      "summary": "Binance reportedly plans to seek authorization in another EU jurisdiction as the MiCA deadline approaches, with unlicensed crypto firms expected to wind down activities in the bloc.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/binance-eu-license-greece-mica-setback?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-a-binance-standard-an-overview.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "SecondFi traces Cardano wallet exploit to address-level issue",
-      "summary": "Cardano wallet SecondFi traced the incident to an address-level issue and secured 129 million ADA after attackers drained funds from 374 addresses.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/cardano-wallet-secondfi-flaw-16-million-ada-exploit?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-red6.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "CBOE debuts prediction market with S&P 500 contracts",
-      "summary": "Cboe launched its first prediction market product tied to the S&P 500 index, citing a growing investor demand for binary options contracts.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/cboe-debuts-prediction-market-sp-500-contracts?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-wall-street-is-using-ethereum-without-talking-about-ethereum2.jpg"
+      "cat": "Science",
+      "title": "The universe may be hiding conscious minds stranger than we can imagine",
+      "summary": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm"
     },
     {
       "cat": "Science",
       "title": "Early humans were bringing fire into caves 1.8 million years ago",
-      "summary": "A new study suggests early humans were using fire in South Africa’s Wonderwerk Cave as far back as 1.79 million years ago. Researchers found burned bones deep inside the cave, where natural wildfires could not have reach",
+      "summary": "A new study suggests early humans were using fire in South Africa’s Wonderwerk Cave as far back as 1.79 million years ago. Researchers found burned bones deep inside the cave, where natural wildfires ",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/06/260623083123.htm"
     },
     {
       "cat": "Science",
       "title": "Why South Africa’s leopards shrank to half their normal size",
-      "summary": "A hidden population of South African leopards has revealed a remarkable evolutionary story. Researchers analyzing entire leopard genomes discovered that the Cape Floristic Region’s leopards are not only much smaller than",
+      "summary": "A hidden population of South African leopards has revealed a remarkable evolutionary story. Researchers analyzing entire leopard genomes discovered that the Cape Floristic Region’s leopards are not on",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/06/260623083113.htm"
     },
     {
       "cat": "Science",
       "title": "Scientists just discovered how queen bees are really made",
-      "summary": "For decades, scientists thought royal jelly was the secret ingredient that turned an ordinary honeybee larva into a queen. New research reveals the process is far more remarkable: young worker bees create special “royal ",
+      "summary": "For decades, scientists thought royal jelly was the secret ingredient that turned an ordinary honeybee larva into a queen. New research reveals the process is far more remarkable: young worker bees cr",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/06/260623083101.htm"
     },
     {
       "cat": "Science",
       "title": "Scientists discover hidden “footprints of death” that may help viruses spread",
-      "summary": "Scientists have uncovered a surprising new twist in what happens when cells die. As dying cells break apart, they leave behind tiny “footprints of death” packed with newly discovered particles that help guide the immune ",
+      "summary": "Scientists have uncovered a surprising new twist in what happens when cells die. As dying cells break apart, they leave behind tiny “footprints of death” packed with newly discovered particles that he",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/06/260623014028.htm"
     },
     {
-      "cat": "Science",
-      "title": "Scientists open a million-year-old time capsule hidden beneath New Zealand",
-      "summary": "A cave in New Zealand has yielded fossils from a lost ecosystem that existed about 1 million years ago, including a possible flying ancestor of the kākāpō. The discovery reveals that volcanoes and climate upheaval were r",
+      "cat": "Health",
+      "title": "Scientists discover ancient brain cells that help block distractions",
+      "summary": "Scientists have discovered a tiny group of neurons in an ancient brain region that acts like a built-in focus filter, helping the brain ignore distractions and zero in on what matters most. When resea",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260623011129.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/06/260624025426.htm"
     },
     {
-      "cat": "Science",
-      "title": "NASA’s Cold Atom Lab is creating one of the weirdest forms of matter in space",
-      "summary": "NASA’s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock new discoveries abo",
+      "cat": "Health",
+      "title": "The universe may be hiding conscious minds stranger than we can imagine",
+      "summary": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm"
     },
     {
       "cat": "Health",
       "title": "Study challenges a common belief about vitamin D and sunlight",
-      "summary": "A study of nearly 300 people across northern Britain found that vitamin D levels often stay low all year in groups most at risk. Surprisingly, summer sunshine did not significantly boost vitamin D levels among older adul",
+      "summary": "A study of nearly 300 people across northern Britain found that vitamin D levels often stay low all year in groups most at risk. Surprisingly, summer sunshine did not significantly boost vitamin D lev",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/06/260623083104.htm"
     },
     {
       "cat": "Health",
       "title": "Scientists discover hidden “footprints of death” that may help viruses spread",
-      "summary": "Scientists have uncovered a surprising new twist in what happens when cells die. As dying cells break apart, they leave behind tiny “footprints of death” packed with newly discovered particles that help guide the immune ",
+      "summary": "Scientists have uncovered a surprising new twist in what happens when cells die. As dying cells break apart, they leave behind tiny “footprints of death” packed with newly discovered particles that he",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/06/260623014028.htm"
     },
     {
       "cat": "Health",
       "title": "This emerging treatment is helping people avoid knee replacement surgery",
-      "summary": "A minimally invasive treatment called GAE is helping people with chronic knee pain get back to gardening, cycling, and other activities without undergoing knee replacement surgery. Early studies suggest the procedure can",
+      "summary": "A minimally invasive treatment called GAE is helping people with chronic knee pain get back to gardening, cycling, and other activities without undergoing knee replacement surgery. Early studies sugge",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/06/260622091502.htm"
     },
     {
       "cat": "Health",
       "title": "One tiny mutation may explain how bat viruses become human threats",
-      "summary": "Scientists found that one tiny genetic change can completely alter how a coronavirus behaves in different species. Comparing SARS-CoV-2 with a closely related bat-only virus, they showed that a single amino-acid differen",
+      "summary": "Scientists found that one tiny genetic change can completely alter how a coronavirus behaves in different species. Comparing SARS-CoV-2 with a closely related bat-only virus, they showed that a single",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/06/260622091434.htm"
     },
     {
-      "cat": "Health",
-      "title": "Scientists say most people need more protein than current guidelines suggest",
-      "summary": "A new review suggests that doing more exercise and eating more protein than current minimum recommendations may help people stay stronger, sharper, and more independent as they age. The goal isn&#039;t building a beach b",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260622091429.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "A common vitamin could help fight one of the deadliest brain cancers",
-      "summary": "A clinical trial is exploring whether high doses of vitamin B3 could give patients with glioblastoma a better chance against the aggressive brain cancer. Scientists found that niacin may help revive immune cells that tum",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260622014313.htm"
+      "cat": "Sports",
+      "title": "Power Rankings after two games: Who is No. 1 as U....",
+      "summary": "All 48 teams have played twice, so what do our writers and experts think the field of favorites looks like?",
+      "source": "espn.com",
+      "url": "https://www.espn.com/soccer/story/_/id/49154319/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france"
     },
     {
       "cat": "Sports",
-      "title": "Biggest winners -- and question marks -- from Roun...",
-      "summary": "Our ESPN draft insiders break down twists, turns and trades of Tuesday's first round of NBA draft",
+      "title": "Biggest World Cup winners and losers after all 48 ...",
+      "summary": "The USMNT is on the up, but what's up with Lionel Messi and penalties? And why aren't long shots going in?",
       "source": "espn.com",
-      "url": "https://www.espn.com/nba/story/_/id/49085674/2026-nba-draft-round-1-winners-surprises-teams-picks-questions-washington-jazz-memphis"
+      "url": "https://www.espn.com/soccer/story/_/id/49159042/world-cup-biggest-winners-losers-reactions-all-48-teams-second-games"
     },
     {
       "cat": "Sports",
-      "title": "Let's project every Round 2 pick: Our NBA mock dra...",
-      "summary": "Who are the best players still on the board -- and where could they go? We project Round 2 picks.",
+      "title": "Lakers' Reaves intends to sign a $185M extension",
+      "summary": "Lakers star Austin Reaves intends to sign a four-year, $185 million maximum contract to return to the franchise, with a player option for the final season in 2029-30, sources tell ESPN's Shams Charani",
       "source": "espn.com",
-      "url": "https://www.espn.com/nba/story/_/id/49085966/2026-nba-round-2-mock-draft-best-available-players-picks-predictions"
-    },
-    {
-      "cat": "Sports",
-      "title": "Wizards opt for BYU's Dybantsa with No. 1 pick",
-      "summary": "The Wizards ushered in a new era by drafting AJ Dybantsa with the first pick, selecting him over Kansas' Darryn Peterson to help turn around the franchise.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/nba/story/_/id/49158973/wizards-opt-byu-aj-dybantsa-top-pick-nba-draft"
+      "url": "https://www.espn.com/nba/story/_/id/49166079/sources-lakers-reaves-intends-sign-4-year-185m-extension"
     },
     {
       "cat": "Sports",
@@ -346,17 +346,17 @@
     },
     {
       "cat": "Sports",
-      "title": "Bucks GM mum on Giannis, emphasizes 'building'",
-      "summary": "With the trade of superstar Giannis Antetokounmpo to the Heat not yet official, Bucks GM Jon Horst declined to talk specifics -- but repeatedly emphasized \"a theme of building\" after the team drafted Brayden Burries and ",
+      "title": "Sparks' Plum out 4 weeks with left leg injury",
+      "summary": "The Los Angeles Sparks announced that Kelsey Plum will be out for at least four weeks with a lower left leg injury.",
       "source": "espn.com",
-      "url": "https://www.espn.com/nba/story/_/id/49162673/bucks-draft-brayden-burries-nate-ament-agreeing-giannis-trade-building-says-gm-jon-horst"
+      "url": "https://www.espn.com/wnba/story/_/id/49166339/sparks-kelsey-plum-least-four-weeks-lower-leg-injury"
     },
     {
       "cat": "Sports",
-      "title": "Johnson reunites with May, goes No. 9 to Mavs",
-      "summary": "Michigan forward Morez Johnson Jr. was taken with the ninth pick by the Mavs and his former coach at Michigan, Dusty May, and was one of three Wolverines to go in the lottery along with Yaxel Lendeborg and Aday Mara.",
+      "title": "Olympians to get grants from IOC's $100M fund",
+      "summary": "The International Olympic Committee committed Wednesday to paying more than $100 million directly to athletes, creating a fund for $10,000 grants they can apply for after competing at a Summer Games o",
       "source": "espn.com",
-      "url": "https://www.espn.com/nba/story/_/id/49160374/johnson-reunites-mavs-leads-u-m-trio-draft-lottery"
+      "url": "https://www.espn.com/olympics/story/_/id/49165640/olympians-get-cash-grants-100m-fund-created-ioc"
     },
     {
       "cat": "Culture",
