@@ -1,56 +1,56 @@
 {
-  "date": "2026-07-02",
-  "updated": "2026-07-02T14:20:41.339Z",
+  "date": "2026-07-03",
+  "updated": "2026-07-03T14:24:42.305Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Venezuela quake survivor pulled out alive after eight days",
-      "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and cheered rescuers on as they inched closer to him.",
+      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
+      "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/eee2/live/1e6d2850-761f-11f1-8c8c-f987daa96c22.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9f45/live/7e8ec8a0-76de-11f1-9510-1546718f668b.jpg"
     },
     {
       "cat": "World",
-      "title": "'Most massive' Russian attack on Kyiv kills at least 20",
-      "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
+      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+      "summary": "Officials believe the suspect may not have acted alone and spent days casing out scene of the attack.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3b2e/live/248b9c60-75d1-11f1-be8b-cbfeee563106.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/84af/live/4c263e90-76e1-11f1-a225-9d9f040cb041.jpg"
     },
     {
       "cat": "World",
-      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-      "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+      "title": "Nasa launches mission to save falling space telescope",
+      "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0c00/live/0635e400-73a1-11f1-b1db-af71d47507d6.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1cef/live/163753a0-74c5-11f1-b3a4-17c48cb4ee82.jpg"
     },
     {
       "cat": "World",
-      "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
-      "summary": "Rabies infections are rare in Canada. There have been 28 human deaths due to rabies in the country since 1924.",
+      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+      "summary": "The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3d1e/live/3d2797f0-75c8-11f1-9106-bb5823bc9ead.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f48b/live/8ecc3ab0-76a0-11f1-a627-714adb4eed6e.jpg"
     },
     {
       "cat": "World",
-      "title": "China says pilot crashed small plane into skyscraper for 'personal reasons'",
-      "summary": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary.",
+      "title": "Iran begins public mourning for Ayatollah killed in February",
+      "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cr47129ky6do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0be4/live/5d268880-7600-11f1-b976-0b9c15b0ccfc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1ea1/live/5e786890-76df-11f1-b976-0b9c15b0ccfc.jpg"
     },
     {
       "cat": "World",
-      "title": "South Africa and Ghana in diplomatic row over killing of migrant",
-      "summary": "South Africa denies claims that a Ghanaian citizen was killed in anti-migrant protests in Cape Town.",
+      "title": "US withdraws troops from Nigeria after Islamic State mission",
+      "summary": "The US said the joint operation, which began in December last year, was a success.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c982k1j3d70o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5b20/live/c527be30-760b-11f1-ac6e-25f7e4f0c9b9.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/81d2/live/31f79940-76e3-11f1-b976-0b9c15b0ccfc.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,20 @@
     },
     {
       "cat": "Markets",
+      "title": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
+      "summary": "The European Central Bank's Christine Lagarde has declined to rule out an early end to her term as president, as she mulls a foray into French politics.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
+      "summary": "A drop in the unemployment rate helped provide some upside to what was an otherwise downbeat jobs report — but it was for all the wrong reasons.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
+    },
+    {
+      "cat": "Markets",
       "title": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
       "summary": "Nonfarm payrolls were expected to rise by 115,000 in June and the unemployment rate to hold steady at 4.3%.",
       "source": "cnbc.com",
@@ -123,114 +137,100 @@
       "url": "https://www.cnbc.com/2026/07/01/private-payrolls-rose-by-98000-in-june-less-than-expected-adp-reports.html"
     },
     {
-      "cat": "Markets",
-      "title": "North Sea oil and renewables: The UK’s next PM faces a defining energy policy decision",
-      "summary": "Andy Burnham could face an early test over North Sea oil drilling as energy shocks revive the UK energy security debate.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/07/01/burnham-north-sea-oil-energy-security.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Do you really, really love your job? Then you're not alone, according to surprising results from this survey",
-      "summary": "Those surveyed showed a 78.9% rate of workers who \"reported feeling positive at the end of their shifts.\"",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/06/30/surprising-survey-of-american-job-satisfaction-.html"
+      "cat": "Tech & AI",
+      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
+      "summary": "New York City’s Summer of Ludd festival is teaching people how to live offline.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1176751554.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Woman's puzzling decline turns out to be cobalt poisoning from hip replacement",
-      "summary": "Doctors find grey fluid and dead, metallic flesh inside poisoned woman's hip.",
+      "title": "Despite the darkness, I still see signs of hope in America",
+      "summary": "It's difficult to pinpoint the moment in my life where America started to lose the plot.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/hip-replacement.jpg"
+      "url": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/eric-berger-looking-at-america.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Google’s AI buildout drove 37% increase in electricity use in 2025",
-      "summary": "Google tries balancing AI data center emissions with clean energy efforts.",
+      "title": "Visiting the stars (and planets, and telescopes) in VR",
+      "summary": "Walkthrough experience includes visits to stars, exoplanets, and observatories.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2246163658.jpg"
+      "url": "https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-2.jpeg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Editorial: It's time to step up and have your say for science",
-      "summary": "Your comments on a dangerous rule putting politicals in charge of science can matter.",
+      "title": "Wing Commander IV and the FMV future that never quite was",
+      "summary": "C:\\ArsGames takes a look at the time Chris Roberts more or less made a whole movie.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2203858255.jpg"
+      "url": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/wing4_title.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-      "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
+      "title": "Newly discovered PamStealer isn't your typical macOS malware",
+      "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign.jpg"
+      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "NASA chief praises progress Blue Origin is making after launch failure",
-      "summary": "\"We've got time into 2027 before we're getting nervous.\"",
+      "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
+      "summary": "New US rules would legalize quiet supersonic flights without the sonic boom.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/News_NG-ReturnToFlight_2-RocketLift.webp"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "US home battery installations hit record high on rising electricity costs",
-      "summary": "Record home battery installations unlock options for grids—and AI data centers.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2200913289.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies.png"
     },
     {
       "cat": "Crypto",
-      "title": "The biggest blockchain upgrades still to come in 2026",
-      "summary": "From Ethereum’s Glamsterdam to Solana’s Alpenglow, 2026’s most important developments are protocol upgrades, not price charts.",
+      "title": "EU crypto rulebook faces enforcement challenge as MiCA transition ends",
+      "summary": "Lawyers and industry executives expect EU regulators to enforce MiCA differently as unauthorized crypto companies are required to wind down operations.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/features/the-biggest-blockchain-upgrades-still-to-come-in-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-upgrade.jpg"
+      "url": "https://cointelegraph.com/news/eu-crypto-rulebook-enforcement-challenge-mica-transition-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-european-mica-regulation-on-digital-euro-where-do-we-stand.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "UK payments blueprint outlines tokenized payments for ‘multi-money ecosystem’",
-      "summary": "UK regulators published an update to a national retail payments blueprint, calling for infrastructure support for tokenization and interoperability with new forms of digital money.",
+      "title": "Upbit says it only expressed interest in future OUSD participation",
+      "summary": "Upbit said it only expressed interest in potentially joining the OpenStandard ecosystem in the future, as several South Korean firms distanced themselves from the OUSD initiative.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/uk-payment-blueprint-tokenized-payments-multi-money-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk.jpg"
+      "url": "https://cointelegraph.com/news/upbit-clarifies-ousd-role-open-standard-partner-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/judge-hammer-regulation-court-law-judgment-south-korea.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Aave brings V3 lending and GHO stablecoin to Monad",
-      "summary": "Aave launched its V3 lending protocol on Monad with 12 supported assets as the network commits $15 million in first-year incentives to build liquidity and adoption.",
+      "title": "Belgian police arrest suspected phishing gang leader tied to $572K theft",
+      "summary": "Belgian authorities say a European phishing gang stole over $572,000 from victims before laundering the proceeds through cryptocurrency.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/aave-v3-lending-gho-stablecoin-monad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/blockchain-tangled-cats-cradle-defi.jpg"
+      "url": "https://cointelegraph.com/news/belgian-police-arrest-phishing-gang-leader-572k-stolen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hacker-with-a-rod.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title": "StanChart joins ESMA's first MiCA register update since deadline",
+      "summary": "ESMA publishes its first post-deadline MiCA register update, adding 37 crypto-asset service providers, including Standard Chartered and FalconX.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+      "url": "https://cointelegraph.com/news/esma-mica-register-new-casps-stanchart-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-protecting-your-crypto-investment3333.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Standard Chartered, Circle bring USDC minting onto banking rails",
-      "summary": "Standard Chartered and Circle launch bank-led USDC minting and redemption for institutions, starting in Dubai’s DIFC with planned global expansion.",
+      "title": "Bitcoin supply metric prints first 'buy' signal since late 2022 as bear market continues",
+      "summary": "Bitcoin supply dynamics pointed toward the end of the 2026 bear market after the first \"buy\" signal since November 2022, but analysis warned that BTC price could still go lower.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/standard-chartered-circle-usdc-minting-banking-rails?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/standard-chartered-circle-bring-usdc-banks-have-deeper-interest-in-digital-than-previously-thought.jpg"
+      "url": "https://cointelegraph.com/markets/bitcoin-supply-metric-prints-first-buy-signal-since-late-2022-as-bear-market-continues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-etfs-navigating-tracking-difference-vs-tracking-error.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Solana Foundation launches framework for protocol-level governance",
-      "summary": "The Solana Foundation launched a framework for protocol-level governance, enabling validators with at least 100,000 delegated SOL to publish new proposals.",
+      "title": "Zcash’s Ironwood upgrade faces possible delay over infrastructure readiness",
+      "summary": "Shielded Labs said exchanges, mining pools and wallets may need more time to complete Zcash’s Z3 software migration and safely prepare for Ironwood.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/solana-foundation-framework-protocol-governance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-china-solana-is-ready-new.jpg"
+      "url": "https://cointelegraph.com/news/zcash-ironwood-upgrade-possible-delay-infrastructure-readiness?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-update-overview-of-software-wallets-the-easy-way-to-store-crypto-zcash.jpg"
     },
     {
       "cat": "Science",
@@ -255,24 +255,31 @@
     },
     {
       "cat": "Science",
-      "title": "These tiny soil microbes could rescue crops from salty farmland",
-      "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural c",
+      "title": "A strange LIGO signal could reveal the missing link behind dark matter",
+      "summary": "An unusual gravitational wave signal has renewed hopes that primordial black holes, long considered purely theoretical, may finally be within reach of discovery. If confirmed, they could solve one of astronomy&#039;s gre",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626125703.htm"
     },
     {
       "cat": "Science",
-      "title": "Astronomers found two rare super puff planets lighter than cotton candy",
-      "summary": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight atmospheres could pro",
+      "title": "Scientists reveal what really happens when water is trapped in tiny spaces",
+      "summary": "A decades-old puzzle about water has finally been unraveled. Researchers found that water trapped in tiny nanoscale spaces is not inherently more reactive. Instead, the intense pressures created inside these microscopic ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626124706.htm"
     },
     {
       "cat": "Science",
-      "title": "Scientists discover a surprising link between vitamin C and brain health",
-      "summary": "Could something as simple as vitamin C help support a healthier aging brain? In a study of more than 2,000 older adults in Japan, researchers found that people with lower vitamin C levels in their blood also tended to ha",
+      "title": "Great ape laughter reveals a hidden origin of human speech",
+      "summary": "The rhythm of human laughter appears to have deep evolutionary roots shared with chimpanzees, bonobos, gorillas, and orangutans. That ancient pattern may offer one of the clearest clues yet to how the vocal control neede",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260626030428.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626124704.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "New calculator reveals whether you should really worry about statin side effects",
+      "summary": "Scientists at the University of Oxford have created a calculator that predicts a person&#039;s individual risk of serious muscle disorders from statin medications. Their analysis found that more than 98% of people who qu",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260630020549.htm"
     },
     {
       "cat": "Health",
@@ -310,18 +317,11 @@
       "url": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm"
     },
     {
-      "cat": "Health",
-      "title": "Melanoma&#039;s secret to cheating death has finally been revealed",
-      "summary": "Scientists have solved a long-standing mystery by discovering the missing genetic ingredient that helps melanoma cells become effectively immortal. The breakthrough could open the door to new treatments aimed at disrupti",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260625014833.htm"
-    },
-    {
       "cat": "Sports",
-      "title": "Winners and losers from NBA free agency week: Maki...",
-      "summary": "Which teams are dominating the offseason? Which already wish they could hit the reset button? We picked 10 winners and losers from free agency.",
+      "title": "Windhorst: NBA execs on the Brown trade, big-money...",
+      "summary": "After the Jaylen Brown trade, hundreds of millions spent on centers and a shocking cap development, here's the latest NBA buzz as we enter Week 2 of free agency.",
       "source": "espn.com",
-      "url": "https://www.espn.com/nba/story/_/id/49241663/nba-free-agency-2026-winners-losers-teams-trades-signings-contracts-better-worse"
+      "url": "https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap"
     },
     {
       "cat": "Sports",
@@ -332,79 +332,79 @@
     },
     {
       "cat": "Sports",
-      "title": "USMNT beats Bosnia for 1st WC KO win since '02",
-      "summary": "The USMNT beat Bosnia-Herzegovina 2-0 in the World Cup round of 32 on Wednesday night for its first knockout win since 2002.",
+      "title": "Sources: 76ers, with Brown on board, eye LeBron",
+      "summary": "One day after trading for Jaylen Brown, the 76ers have entered the mix for LeBron James and are attempting to pitch him, sources said.",
       "source": "espn.com",
-      "url": "https://www.espn.com/soccer/story/_/id/49243502/usa-bosnia-herzegovina-2026-fifa-world-cup-knockout-round-32"
+      "url": "https://www.espn.com/nba/story/_/id/49252040/sources-76ers-enter-mix-lebron-james-jaylen-brown-add"
     },
     {
       "cat": "Sports",
-      "title": "Sources: Brown heading to Philly in blockbuster",
-      "summary": "Jaylen Brown has a new home, with the Celtics agreeing to send their longtime star to the 76ers for Paul George, two first-round picks (2028, '31) and two second-round selections, sources told ESPN's Shams Charania.",
+      "title": "Portugal, Ronaldo survive late scare from Croatia",
+      "summary": "Gonçalo Ramos headed in a pass from Rafael Leão in stoppage time as Cristiano Ronaldo, who had earlier converted a penalty kick, watched from the bench while Portugal defeated Croatia 2-1 on Thursday, ending Luka Modrić'",
       "source": "espn.com",
-      "url": "https://www.espn.com/nba/story/_/id/49241843/sources-celtics-sending-brown-76ers-george-picks"
+      "url": "https://www.espn.com/soccer/story/_/id/49253213/portugal-ronaldo-survive-late-scare-croatia-world-cup"
     },
     {
       "cat": "Sports",
-      "title": "Balogun red-carded in USMNT clash with Bosnia",
-      "summary": "Folarin Balogun's star turn at this World Cup went sideways early in the second half Wednesday night, as the American forward was sent off against Bosnia-Herzegovina.",
+      "title": "C's pick up Queta's option, add $56M extension",
+      "summary": "The Celtics are picking up their option on center Neemias Queta for next season and are adding a four-year, $56 million extension, his agent Bill Duffy of WME Basketball tells ESPN's Shams Charania..",
       "source": "espn.com",
-      "url": "https://www.espn.com/soccer/story/_/id/49243703/usa-folarin-balogun-red-card-bosnia-herzegovina-world-cup-2026"
+      "url": "https://www.espn.com/nba/story/_/id/49258502/celtics-picking-queta-option-adding-4-year-56m-extension"
     },
     {
       "cat": "Sports",
-      "title": "Belgium pull off stunning rally, eliminate Senegal...",
-      "summary": "Youri Tielemans scored from the penalty spot in stoppage time of extra time, and Belgium came back from two goals down to beat Senegal 3-2 Wednesday in the round of 32 at the World Cup.",
+      "title": "Sources: Donovan to be lead assistant for Spurs",
+      "summary": "Billy Donovan agreed to become the lead assistant coach for San Antonio and head coach Mitch Johnson, sources said.",
       "source": "espn.com",
-      "url": "https://www.espn.com/soccer/story/_/id/49240489/belgium-stunning-comeback-eliminate-senegal"
+      "url": "https://www.espn.com/nba/story/_/id/49253152/sources-billy-donovan-become-lead-assistant-spurs"
     },
     {
       "cat": "Culture",
-      "title": "Gary Glitter charged with historical sexual offences",
-      "summary": "The former singer, whose real name is Paul Gadd, is due to appear at Westminster Magistrates' Court on 5 August.",
+      "title": "Why Wonderwall has become England's World Cup anthem",
+      "summary": "Post-victory singalongs between England fans and players have become a new tradition this summer.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c2lywez0zddo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e0e5/live/1bfff5b0-761b-11f1-ac6e-25f7e4f0c9b9.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cx2wllrlrxgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5fe2/live/a6469910-7628-11f1-a627-714adb4eed6e.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Madonna's Confessions II is finally here - but is it worth the 21-year wait?",
-      "summary": "The pop star's 15th album starts on the dancefloor, but ends with deep personal revelations.",
+      "title": "Parents criticise 'inappropriate' Caity Baser set at youth music festival",
+      "summary": "Children as young as seven were in the audience when Caity Baser asked the crowd whether they had ever had sex with a friend.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c0myggk4ngmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a476/live/7ee12920-7543-11f1-81d0-b57b06d692af.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cd6ez9gl65no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3bce/live/e52b0db0-7555-11f1-8aa7-89c3b7556d47.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Graham Norton and Phoebe Waller-Bridge spotted before rumoured Swift wedding",
-      "summary": "Stars have been spotted arriving in New York ahead of Taylor Swift's wedding.",
+      "title": "Taylor Swift's rumoured wedding celebrations begin with star-studded New York event",
+      "summary": "Actress Lena Dunham, model Gigi Hadid and longtime music collaborator Jack Antonoff were spotted in formal attire near Madison Square Garden.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/crlw1eeez19o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e583/live/376950c0-76d0-11f1-b976-0b9c15b0ccfc.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "What will guests wear to Taylor Swift's wedding?",
+      "summary": "Romantic, fairytale vibes could dominate Taylor Swift and Travis Kelce's reported wedding event in New York City on Friday.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c75ykv0k1pzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/36ca/live/f3ca1f40-765a-11f1-83a9-eb3c3c8f4e93.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Sabrina Carpenter and Graham Norton spotted in NYC before rumoured Swift wedding celebrations",
+      "summary": "Stars have been spotted arriving in New York ahead of Taylor Swift's rumoured wedding celebrations at Madison Square Garden.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/ce8ml4q37veo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6b7a/live/9323b8c0-7602-11f1-809a-9753198cd5fc.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fd99/live/39253fc0-765b-11f1-83a9-eb3c3c8f4e93.jpg"
     },
     {
       "cat": "Culture",
-      "title": "From friendship bracelets to wedding rings: A Taylor and Travis timeline",
-      "summary": "Taylor Swift and Travis Kelce are expected to celebrate their wedding with a party at New York's Madison Square Garden this weekend.",
+      "title": "Lisa Faulkner reveals she's 'all clear' after breast cancer diagnosis",
+      "summary": "The actress, presenter and food writer says she had a 'big op' but was 'feeling so much better'.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqj19p112qjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/44d0/live/a0b74d70-75f9-11f1-b976-0b9c15b0ccfc.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Support floods in for influencer Nara Smith after daughter's cancer diagnosis",
-      "summary": "In an emotional video, Nara Smith reveals toddler Whimsy Lou was diagnosed with cancer late last year.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwyd3nxr5ggo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2eaf/live/d75ce4f0-75f6-11f1-8c3f-e37c76e39331.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Kylie collaboration was 'always destined', says Gary Lightbody",
-      "summary": "Snow Patrol and Kylie Minogue's single, These Alarms, was released on 1 July.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cn4rvy3y2elo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/65e6/live/db505de0-7604-11f1-a627-714adb4eed6e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c23y9gvd73ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/22f4/live/1dcdd080-761e-11f1-8c8c-f987daa96c22.jpg"
     }
   ]
 }
