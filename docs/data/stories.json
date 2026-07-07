@@ -1,56 +1,56 @@
 {
-  "date": "2026-07-06",
-  "updated": "2026-07-06T15:49:19.056Z",
+  "date": "2026-07-07",
+  "updated": "2026-07-07T14:53:10.255Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Trump confirms he asked Fifa to review Balogun ban",
-      "summary": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+      "title": "Zelensky presses Nato for air defence systems after intense Russian strikes",
+      "summary": "The Ukrainian president says \"decisions for air defence\" should be \"one of the key outcomes\" of this week's summit in Turkey.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f002/live/3fd125b0-794d-11f1-9510-1546718f668b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8300/live/585cd5e0-79fa-11f1-9510-1546718f668b.jpg"
     },
     {
       "cat": "World",
-      "title": "Ukraine warns of interceptor missile shortage as 22 killed in Kyiv region",
-      "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+      "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
+      "summary": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c163/live/a90f6680-791c-11f1-9510-1546718f668b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/59ce/live/2103aa00-79f6-11f1-bee8-53ce494e1abc.jpg"
     },
     {
       "cat": "World",
-      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-      "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
+      "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+      "summary": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8ab4/live/9aa22f20-792f-11f1-b976-0b9c15b0ccfc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6c01/live/455b3470-76fb-11f1-a627-714adb4eed6e.jpg"
     },
     {
       "cat": "World",
-      "title": "Wildfire in southern France forces evacuation of 10,000 people",
-      "summary": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
+      "title": "Explosions injure 18 in Damascus during Macron's visit",
+      "summary": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e4df/live/4ab81620-7932-11f1-9510-1546718f668b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2f66/live/d7ca4fd0-79f3-11f1-907e-1db4355f6fc4.jpg"
     },
     {
       "cat": "World",
-      "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
-      "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
+      "title": "Watch: Moment rare tornado lashes central Chinese cities",
+      "summary": "Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/13aa/live/5063fad0-78fb-11f1-9510-1546718f668b.jpg"
+      "url": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bc42/live/c494cdb0-79d4-11f1-a627-714adb4eed6e.jpg"
     },
     {
       "cat": "World",
-      "title": "Sri Lanka prison riots leave 26 dead and more than 100 injured",
-      "summary": "The two days of violence at Negombo Prison are the worst prison riots in the country in years.",
+      "title": "Zimbabwean football star survives gun attack in South Africa",
+      "summary": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0fe2/live/d9f66230-7930-11f1-84e1-059650f3613e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fd62/live/90590610-79de-11f1-a400-b302bc872d47.jpg"
     },
     {
       "cat": "Business",
@@ -138,59 +138,51 @@
     },
     {
       "cat": "Tech & AI",
-      "title": "There were not one, but two asteroid encounters this weekend",
-      "summary": "The Torifune asteroid turns out to be shaped like a peanut.",
+      "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
+      "summary": "Amazon says it has enough satellites in orbit to begin initial broadband service at mid-latitudes later this year.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/20260706-3-01.png"
+      "url": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/55370181785_141924edbe_4k.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
-      "summary": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
+      "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
+      "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_90ad2b22-0222-4d93-ab0a-6c1af73b39fc-1.jpeg"
+      "url": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Agility_Digit_06.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Bentley teases its first EV, the Torcal",
-      "summary": "The new model will be officially unveiled in late September.",
+      "title": "FCC to end Biden-era rule that forces ISPs to list all their fees",
+      "summary": "FCC to let ISPs stop listing all passthrough fees, give single \"up to\" price.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Bentley-Torcal.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/online-bill-1152x648-1783369462.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "The Czinger 21C might be the wildest car we drive all year",
-      "summary": "This hybrid V8 has organic-looking 3D-printed components and shatters lap records.",
+      "title": "Kremlin suspected of flying drones over Europe using Russian shadow fleet",
+      "summary": "Drone intruders that possibly flew from Russian ships showed Europe isn’t ready.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/DSC_8270-1.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238288864.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
-      "summary": "Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.",
+      "title": "What is the oldest American object ever launched into space?",
+      "summary": "From a Revolutionary War flag to the Statue of Liberty...",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238555391.jpg"
+      "url": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-070326a-lg.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
-      "summary": "The heat of the Hadean may have come from impacts as well as the interior.",
+      "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
+      "summary": "Its issues with current nuclear safety standards are termed semantic, not physical.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-1.jpeg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Bitcoin price falls up to 4% on Strategy BTC sale as trader sees Summer 2022 repeat",
-      "summary": "Bitcoin wiped out much of its latest gains thanks to a market reaction to Strategy's 3,600 BTC sell-off, but analysis eyed a potential buy announcement in the coming days.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-falls-on-strategy-btc-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-are-bitcoin-escrow-services-and-how-do-they-work-strategyb-1.jpg"
+      "url": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2283985401.jpg"
     },
     {
       "cat": "Crypto",
@@ -202,35 +194,43 @@
     },
     {
       "cat": "Crypto",
-      "title": "FCA warns of major shakeup as AI agents meet tokenized money",
-      "summary": "The FCA’s vision for agentic AI points toward a financial system where programmable money and tokenized assets could play a much larger role.",
+      "title": "Has Bitcoin bottomed for this cycle? Analysts say 'not yet'",
+      "summary": "Some Bitcoin analysts point to a deeper downside risk, while others believes they can see the early signs of a recovery.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/fca-warns-of-major-shakeup-as-ai-agents-meet-tokenized-money?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/millsreview.png"
+      "url": "https://cointelegraph.com/features/how-much-longer-until-bitcoin-finds-cycle-bottom-analysts-disagree?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Crypto hacks fell 47% in H1 but ecosystem is no safer: CertiK",
-      "summary": "Crypto exploits rose 59% quarter-on-quarter to $807.5 million in Q2, due partly to the KelpDAO and Drift Protocol exploits, which came at the hands of North Korean hackers.",
+      "title": "Bitcoin nears cycle bottom as over half of supply is held at a loss, says K33",
+      "summary": "K33 said Bitcoin has historically bottomed within weeks of more than half of its circulating supply being held at a loss, with strong one-year returns following in most previous cycles.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/crypto-hacks-fell-47-percent-in-h1-but-ecosystem-is-no-safer-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-needed-a-massive-education-project-to-fight-hacks-and-scams.jpg"
+      "url": "https://cointelegraph.com/news/half-bitcoins-supply-at-loss-cycle-bottom-k33?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-price-prediction-ticking-time-bomb.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Strategy sells 3,588 Bitcoin for $216M to fund dividends, keeps $2.55B reserve intact",
-      "summary": "Strategy sold $216 million in Bitcoin to fund its dividend payments, as wealth manager Bernstein maintained its year-end Bitcoin price target of $150,000.",
+      "title": "EU lawmakers adopt digital assets policy stance after MiCA transition ends",
+      "summary": "The European Parliament adopted a digital assets report calling for further assessment of DeFi, staking, crypto lending and NFTs after MiCA’s transition period ended.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/strategy-sells-bitcoin-bernstein-btc-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitcoin-supply-michael-saylor-2.jpg"
+      "url": "https://cointelegraph.com/news/eu-parliament-digital-assets-policy-mica-transition?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-european-blockchain-partnership-24-countries-story.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Belgian regulator flags 6 unauthorized crypto providers after MiCA deadline",
-      "summary": "Belgium’s FSMA warned consumers about six crypto-asset service providers it added to a fraudulent CASP list days after the EU’s MiCA transitional period expired.",
+      "title": "Coinbase gets UK license to expand into derivatives, equities",
+      "summary": "Coinbase said its UK investment services authorization will allow institutional and advanced traders to access derivatives, while retail users will be able to trade equities.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/belgium-unauthorized-crypto-firms-mica-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/european-union-eu-european-parliament-brussels-1.jpg"
+      "url": "https://cointelegraph.com/news/coinbase-uk-license-derivatives-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-uk-compliance-deadline-is-upcoming-coinbase-12211.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Ctrl Wallet to shut weeks after security exploit",
+      "summary": "The move follows a June 23 exploit that has now resulted in closing down the wallet, with users urged to withdraw their assets before all functions are disabled on Aug. 3, 2026.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/ctrl-wallet-shutdown-security-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/mwallet.jpg"
     },
     {
       "cat": "Science",
@@ -269,10 +269,10 @@
     },
     {
       "cat": "Science",
-      "title": "Scientists discover a completely different way to fight viruses",
-      "summary": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses, challengi",
+      "title": "AI just supercharged the race to find room temperature superconductors",
+      "summary": "Scientists have combined machine learning with quantum physics to discover two new superconductors and create a much faster way to search for many more. The technique could bring researchers significantly closer to the l",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm"
     },
     {
       "cat": "Health",
@@ -318,51 +318,51 @@
     },
     {
       "cat": "Culture",
+      "title": "BTS take credit for England football win in first UK show since 2019",
+      "summary": "The pop group claim they're a good luck charm for the England team, as they return to London.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cdjk0d3yp02o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/532f/live/3e4bbaf0-7a0d-11f1-bee8-53ce494e1abc.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "9.1m watch England's epic win over Mexico",
+      "summary": "A peak audience of 9.1 million tuned in overnight to watch England beat Mexico to reach the quarter-finals of the World Cup.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cdejw7xxe23o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3361/live/b8d36620-79cb-11f1-86c6-df420601713b.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Patrice Lawrence named new children's laureate",
+      "summary": "Brighton-born Patrice Lawrence will be the main representative of children's literature until 2028.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzzz856m3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5305/live/0ac07710-79f5-11f1-907e-1db4355f6fc4.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Party Rock Anthem singer Lauren Bennett dies aged 36",
+      "summary": "Bennett's cause of death was not immediately clear and bandmates from her former group G.R.L say their \"hearts are broken\".",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c04yywdq69vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/32b1/live/5ba2f340-79c5-11f1-a627-714adb4eed6e.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Top Boy actor tells rape trial that encounter was consensual",
+      "summary": "Micheal Ward, who denies the charges, tells a jury he thought they were \"having a great time\".",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cly77j4741lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bcb8/live/7dc48a10-796b-11f1-9ade-614b823fa1e3.jpg"
+    },
+    {
+      "cat": "Culture",
       "title": "Wolf Alice cover Nirvana at emotional homecoming show",
       "summary": "The band break out their own version of Smells Like Teen Spirit at their biggest-ever headline show.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cp3xxz1g25go?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ab55/live/7916d590-7920-11f1-b02f-7384b6bb008f.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Harry Styles receives Guinness World Record for longest Wembley Stadium run",
-      "summary": "The Watermelon Sugar singer is the first artist to perform 12 shows on a single tour at the stadium.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cly004391wno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1570/live/d25c6070-7867-11f1-a627-714adb4eed6e.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
-      "summary": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/24a6/live/f1f7cd70-7911-11f1-9510-1546718f668b.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Taylor & Travis - how AI images fill the gap when there’s no news",
-      "summary": "Until we get official news from Tayvis' wedding - fake pics are everywhere",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/bitesize/articles/zfvxjfr?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/480xn/p0nx5nlk.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "ITV hits such as I'm a Celebrity to stay free to watch after Sky takeover",
-      "summary": "Sky boss Dana Strong's comments came as the channel announces it is buying ITV's media and entertainment divisions in a £1.6bn deal.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/519d/live/2e5fcf80-7933-11f1-a627-714adb4eed6e.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
-      "summary": "Some of the famous guests have been posting on social media about the big day in New York.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ec55/live/3525a160-7888-11f1-a627-714adb4eed6e.jpg"
     }
   ]
 }
