@@ -1,56 +1,56 @@
 {
-  "date": "2026-07-09",
-  "updated": "2026-07-09T15:26:40.939Z",
+  "date": "2026-07-10",
+  "updated": "2026-07-10T14:43:31.904Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Iran launches more strikes after accusing US of striking near nuclear plant",
-      "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
+      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+      "summary": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fc1c/live/94ebba30-7b76-11f1-9af8-1139253a4180.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5576/live/e2af5470-7b99-11f1-bc57-4fb8ebc9579b.jpg"
     },
     {
       "cat": "World",
-      "title": "Steep fall in Hormuz ship crossings after new US-Iran strikes",
-      "summary": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
+      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+      "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/10e5/live/1177ac50-7ba2-11f1-bee8-53ce494e1abc.png"
+      "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/776a/live/6ba45870-7bd1-11f1-b543-9988255dfa81.jpg"
     },
     {
       "cat": "World",
-      "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-      "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e675/live/2d7ced30-7b2e-11f1-8a1e-d1fe57c2b5bf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fe89/live/7d209130-7c45-11f1-8ccc-df652c9169a7.jpg"
     },
     {
       "cat": "World",
-      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-      "summary": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
+      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+      "summary": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/db10/live/4259e690-7ac5-11f1-b541-536d253827b8.png"
+      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4c20/live/34d39400-7c5d-11f1-802c-e767a91f6051.jpg"
     },
     {
       "cat": "World",
-      "title": "Factory fire kills at least 28 in China's 'shoe capital'",
-      "summary": "Footage shows huge flames rising from a building and thick, black smoke rising into the sky.",
+      "title": "China lands reusable rocket for first time, state media says",
+      "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e6df/live/aa2b70f0-7ba5-11f1-9510-1546718f668b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d4a8/live/00fc0710-7c54-11f1-b303-b781e40f7a76.png"
     },
     {
       "cat": "World",
-      "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
-      "summary": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
+      "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
+      "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6422/live/570d66a0-7b67-11f1-bee8-53ce494e1abc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8cb7/live/4865ed80-7c0b-11f1-a0e5-951d7247156a.jpg"
     },
     {
       "cat": "Business",
@@ -138,141 +138,148 @@
     },
     {
       "cat": "Tech & AI",
-      "title": "Conspiracies and regrets abound in Dune: Part Three trailer",
-      "summary": "\"You promised me that you would never take power in your name.\"",
+      "title": "VW Group and unions disagree on plan to streamline the automaker",
+      "summary": "VW's plan calls for half as many models but didn't mention closures or job cuts.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/duneTOP.jpg"
+      "url": "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2284728396.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Ruf debuts new flat-eight engine at Goodwood",
-      "summary": "The 4.8 L eight-cylinder generates more than 1,000 hp and 1,000 Nm, Ruf says.",
+      "title": "Wally Funk, last of Mercury 13 and oldest woman in space, dies at 87",
+      "summary": "\"I have been waiting a long time to finally get up there...\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Ruf_8-Zylinder_01.jpg"
+      "url": "https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/news-070926f-lg.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Free Waymo rides in California? You can thank a regulatory quirk.",
-      "summary": "State agency's delay could mean free robotaxi rides in company’s new Ojai vehicle for a few months.",
+      "title": "Is an air-conditioning revolution coming to Europe?",
+      "summary": "The AC culture wars may be solved by advances in environmentally friendly technology.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277937156-1.jpg"
+      "url": "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277821243.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "The newest entrant in the military’s launch competition isn't actually a launch company",
-      "summary": "\"I think it's fair to say that Phase 3 did not contemplate this.\"",
+      "title": "Rocket Report: \"Panic\" over Transporter availability; Isar to launch from Canada",
+      "summary": "\"We are delighted to actively help shape the ramp-up of the Ariane 6.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/36af0186816f14ac23c368a204957528772f23b1-6635x4423-1.jpg"
+      "url": "https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Full-Stack_Alignment_1-1024x767-1.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Payloads used to dictate the terms of launch. That's finally changing.",
-      "summary": "\"The Starship Pez dispenser demonstrates very smart industrial design and scale.\"",
+      "title": "Like a cheat code for your car: We investigate ECU tuning",
+      "summary": "Now it's an arms race between OEMs locking down chips and tuners trying to crack them.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlinkv3deploy.jpg"
+      "url": "https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Calibration_APR.jpeg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-      "summary": "AI cheating leads to \"a failed society,\" professor says.",
+      "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
+      "summary": "If Homo floresiensis wasn't a fire-using hunter, its origins could be different than we thought.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261090247.jpg"
+      "url": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/komododragon_slasher_ZA_7204-750x500-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin’s quantum dilemma: Bigger blocks or STARK proofs?",
-      "summary": "Dealing with large post quantum signatures slowing down Bitcoin can be solved with bigger blocks, or aggregating signatures using STARK proofs.",
+      "title": "A16z’s Andreessen lands Federal Reserve role as AI reshapes policy debate",
+      "summary": "The Fed named a16z co-founder Marc Andreessen to co-lead an AI productivity and jobs task force under Chair Kevin Warsh’s policy review.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/features/bigger-blocks-or-stark-proofs-bitcoins-quantum-dilemma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/zk-starks.jpg"
+      "url": "https://cointelegraph.com/news/federal-reserve-a16z-co-founder-monetary-policy-task-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/09marcandreessen.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Hong Kong regulator orders new anti-phishing measures for crypto platforms",
-      "summary": "Hong Kong’s regulator has ordered crypto platforms and online brokers to meet newly issued phishing-resistant login requirements within the next 12 months.",
+      "title": "MiCA licensing only the beginning as crypto custodians face scrutiny",
+      "summary": "A MiCA license allows crypto firms to operate in the EU, but the ESMA’s review will test whether custodians can meet the required security and resilience standards.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/hong-kong-regulator-anti-phishing-measures-crypto-platforms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-hong-kong-is-turning-tokenized-bonds-into-real-market-infrastructure.jpg"
+      "url": "https://cointelegraph.com/news/mica-only-beginning-crypto-custodians-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/cia2.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Sony Bank gets US regulator nod to issue stablecoins",
-      "summary": "Sony Bank received preliminary approval from the Office of the Comptroller of the Currency to establish a US stablecoin issuance business, with $40 million in starting capital.",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/sony-bank-preliminary-approval-us-stablecoin-business?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/digital-bank-1.jpg"
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Interpol operation exposes $122M crypto wallet tied to romance scam laundering",
-      "summary": "Interpol said a suspect's crypto wallet processed over $122.5 million in 10 months as authorities uncovered the scheme during a global anti-fraud operation that led to 5,811 arrests.",
+      "title": "Will the crypto lobby's $189M campaign get CLARITY over the line?",
+      "summary": "As the CLARITY Act advances, crypto's growing political influence in Washington is under scrutiny. But the crypto lobby's massive campaign spend is only part of the story.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/interpol-122m-crypto-flows-romance-scam-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-anti-pig-butchering-policy-in-crypto-cambodia.jpg"
+      "url": "https://cointelegraph.com/features/how-crypto-built-political-influence-in-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-lobby.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Revolut says USDT delisting is limited to EEA, Switzerland",
-      "summary": "Revolut said USDT support remains unchanged outside EEA and Switzerland as it winds down the stablecoin offering in selected European markets.",
+      "title": "US charges prisoner over alleged laundering of seized Kraken crypto",
+      "summary": "US prosecutors charged Rossen Iossifov over the alleged laundering of $290,000 in forfeited crypto from a Kraken account.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/revolut-usdt-delisting-limited-eea-switzerland?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-dash-aims-to-correct-its-misclassification-as-a-privacy-coin-following-shapeshift-delisting1.jpg"
+      "url": "https://cointelegraph.com/news/us-prisoner-290k-crypto-restrained-kraken-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-spot-an-exit-scam-doj.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Hyperliquid shows how onchain perps could challenge Wall Street: Pantera",
-      "summary": "Perpetual futures and Hyperliquid’s blockchain infrastructure are expanding into traditional asset classes with around-the-clock trading, according to Pantera Capital.",
+      "title": "Wall Street banks tighten prediction market rules for staff as insider fears spread",
+      "summary": "Wall Street banks, including Goldman Sachs and Morgan Stanley, are restricting employee prediction market trades as insider trading fears spread across Polymarket and Kalshi.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/hyperliquid-onchain-perps-absorbing-tradfi-markets-pantera-capital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/wall-warning-hyperliquid.jpg"
+      "url": "https://cointelegraph.com/news/wall-street-prediction-market-trading-insider-fears?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/with-monopoly-character.jpg"
     },
     {
       "cat": "Science",
-      "title": "A vitamin A discovery is changing what scientists know about vision",
-      "summary": "A surprising discovery is reshaping scientists&#039; understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina&#039;s center, the study found they tr",
+      "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
+      "summary": "Scientists have identified new clues that could help astronomers spot one of the most famous hypothetical alien megastructures: a Dyson sphere. The study finds that red dwarfs and white dwarfs are the most promising star",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm"
     },
     {
       "cat": "Science",
-      "title": "Trees keep absorbing carbon long after they stop growing",
-      "summary": "Oak trees keep absorbing carbon dioxide long after their annual growth has ended, revealing that photosynthesis and wood production are not as closely linked as scientists once believed. The finding could reshape forecas",
+      "title": "This alien planet never has sunrise or sunset. It may support life",
+      "summary": "A planet with one side permanently roasting and the other frozen in endless darkness might still have a chance of supporting life. Researchers found that heat inside a tidally locked exoplanet could circulate in a stable",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022210.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160657.htm"
     },
     {
       "cat": "Science",
-      "title": "Rare goblin shark filmed alive for the first time in the deep sea",
-      "summary": "For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark&#039;s known range and depth, showing that this 125",
+      "title": "Europe&#039;s most active volcano may have a secret origin",
+      "summary": "Mount Etna has long puzzled geologists because it doesn&#039;t fit any of the three classic ways volcanoes are thought to form. A new study suggests it may instead be fueled by ancient pockets of magma that are pushed up",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022208.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160653.htm"
     },
     {
       "cat": "Science",
-      "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
-      "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough c",
+      "title": "Physicists created a tiny universe where time emerged without a clock",
+      "summary": "What if time doesn&#039;t actually exist until something changes? Scientists at the University of Birmingham created a tiny \"mini universe\" using 24,000 ultracold atoms and showed that the flow of time can emerge natural",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160632.htm"
     },
     {
       "cat": "Science",
-      "title": "Heidelberg physicists just united two opposing quantum theories",
-      "summary": "A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experiments on ultracold ato",
+      "title": "This common pesticide may be quietly wiping out future bumblebees",
+      "summary": "A next-generation pesticide designed to kill crop pests may also be interfering with the reproductive health of bumblebees. Researchers discovered that low-dose exposure to sulfoxaflor changed gene activity, especially i",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160630.htm"
     },
     {
       "cat": "Science",
-      "title": "Scientists finally solved a 150-year-old gallium mystery",
-      "summary": "Scientists have rewritten the story of gallium after discovering that its unusual atomic bonds re-form at high temperatures, contradicting decades of accepted theory. The finding changes how researchers explain why the m",
+      "title": "Hawaii&#039;s famous “happy-face” spider has a surprising relative",
+      "summary": "A newly discovered Happy-Face spider in the Himalayas closely resembles Hawaii&#039;s iconic species but evolved independently, according to DNA evidence. Its mysterious smile-like markings, many color forms, and unexpec",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160627.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "This frog bacterium wiped out cancer tumors in mice with a single dose",
+      "summary": "A naturally occurring bacterium from amphibian intestines completely eliminated colorectal tumors in mice with a single treatment by both attacking cancer cells and activating the immune system. The findings point to a p",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160655.htm"
     },
     {
       "cat": "Health",
@@ -280,6 +287,20 @@
       "summary": "A surprising discovery is reshaping scientists&#039; understanding of how humans develop sharp central vision before birth. Instead of blue cone cells migrating away from the retina&#039;s center, the study found they tr",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/07/260708022214.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "A hidden immune backup system could supercharge mRNA cancer vaccines",
+      "summary": "Researchers found that mRNA cancer vaccines can recruit an unexpected immune cell to launch powerful tumor-fighting responses, overturning a long-held assumption about how the vaccines work. The discovery could lead to m",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022212.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Scientists found a longevity diet that helped mice eat more and lose fat",
+      "summary": "Scientists found that a modified Mediterranean-style diet with low protein and just enough methionine helped mice live healthier lives while reducing body fat and frailty. Human data also linked lower animal protein inta",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022206.htm"
     },
     {
       "cat": "Health",
@@ -296,115 +317,52 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm"
     },
     {
-      "cat": "Health",
-      "title": "Tiny silica particles wiped out aggressive prostate cancer in mice",
-      "summary": "Tiny silica nanoparticles engineered to seek out prostate cancer caused tumor cells to self-destruct and supercharged the immune system in preclinical mouse studies. Combined with immunotherapy, the treatment produced co",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260708022158.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "New weight loss pill beats oral Ozempic in major trial",
-      "summary": "A new once-daily weight-loss pill called orforglipron delivered better weight loss and blood sugar improvements for people with type 2 diabetes than the leading oral semaglutide in a major clinical trial. The tablet coul",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260707054111.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Scientists finally crack nature&#039;s secret for building better cancer drugs",
-      "summary": "Researchers have cracked the code behind bacteria&#039;s ability to naturally manufacture multiple versions of powerful anti-cancer drugs. The discovery could make it much easier to engineer new cancer treatments inspire",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260701205001.htm"
-    },
-    {
-      "cat": "Sports",
-      "title": "The perfect trade deadline addition for every MLB ...",
-      "summary": "Tarik Skubal to which elite team? An All-Star traded within the NL East!? We make dream moves for every World Series hopeful.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/mlb/story/_/id/49306462/2026-mlb-trade-deadline-addition-top-contender-moves-dodgers-brewers-braves-yankees-phillies"
-    },
-    {
-      "cat": "Sports",
-      "title": "MLB Power Rankings: Where every team stands headin...",
-      "summary": "The Marlins debut at their highest ranking of 2026 while the Padres' fall continues. Here's who's hot -- and who's not -- ahead of baseball's midseason break.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/mlb/story/_/id/49306692/mlb-2026-power-rankings-week-15-dodgers-brewers-rays-braves-yankees-marlins-padres"
-    },
-    {
-      "cat": "Sports",
-      "title": "Volpe denies 'BS' report that he refused SS move",
-      "summary": "Yankees shortstop Anthony Volpe strongly denied a report that he refused to play second base earlier this season, saying he was caught \"off guard\" by the since-retracted report, which he called \"B.S.\"",
-      "source": "espn.com",
-      "url": "https://www.espn.com/mlb/story/_/id/49314299/anthony-volpe-denies-bs-report-refused-play-2b"
-    },
-    {
-      "cat": "Sports",
-      "title": "'Fair all around': 4th-year QBs praise 5-for-5 rul...",
-      "summary": "Utah quarterback Devon Dampier led the praise during Big 12 media days Wednesday for the NCAA's new five-year, aged-based eligibility model.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/college-football/story/_/id/49309848/fair-all-fourth-year-qbs-welcome-new-5-year-eligibility-model"
-    },
-    {
-      "cat": "Sports",
-      "title": "Sources: UCLA lands possible top NBA draft pick",
-      "summary": "Nikola Kusturica has reached a multi-year agreement to play for UCLA, sources told ESPN, giving the Bruins an early contender for the No. 1 pick in the 2028 NBA draft.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/mens-college-basketball/story/_/id/49315186/sources-nikola-kusturica-possible-no-1-nba-draft-pick-chooses-ucla"
-    },
-    {
-      "cat": "Sports",
-      "title": "Olympian pleads not guilty in Reflecting Pool case...",
-      "summary": "Former Olympic canoe racer David Hearn pleaded not guilty to deliberately damaging the recently renovated Lincoln Memorial Reflecting Pool.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/olympics/story/_/id/49315069/ex-olympian-pleads-not-guilty-reflecting-pool-damage-case"
+      "cat": "Culture",
+      "title": "Bayeux Tapestry arrives in UK for first time in 900 years under police guard",
+      "summary": "The famous artefact depicting events leading up to the Norman Conquest of England will go on display in September.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cly9r54e5r4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1f3d/live/b5bdb0c0-7c33-11f1-bee8-53ce494e1abc.png"
     },
     {
       "cat": "Culture",
-      "title": "'Heartbroken' Catherine Zeta-Jones leads tributes to singer Bonnie Tyler",
-      "summary": "The Welsh singer was known for hits including Total Eclipse of the Heart and Holding on for a Hero.",
+      "title": "Top Boy actor Micheal Ward found not guilty of rape",
+      "summary": "Micheal Ward told the jury the encounter with his accuser was \"wholly consensual\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/clypqj2z1zpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7fa5/live/b6b96370-7b02-11f1-98f1-75160eb90dd1.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cewq9vznzz5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d786/live/417764c0-7c44-11f1-8ccc-df652c9169a7.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Bonnie Tyler, the gravel-voiced star who sang her way into music history",
-      "summary": "The Welsh star known for songs including Total Eclipse of the Heart has died aged 75.",
+      "title": "Disney's 'dismal' live-action Moana panned by critics",
+      "summary": "Dwayne Johnson reprises his role as demigod Maui, a decade after the original hit animation.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cg5pd9z2487o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/34b8/live/e78d6300-7b7c-11f1-9510-1546718f668b.png"
+      "url": "https://www.bbc.co.uk/news/articles/cz6vz56326vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b669/live/c3671ac0-7c53-11f1-b976-0b9c15b0ccfc.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Black Sabbath drummer explains wheelchair use",
-      "summary": "Bill Ward, 78, reveals he has used a wheelchair for about 18 months, but is not \"ill or giving up\".",
+      "title": "All the best looks from Paris Haute Couture Week 2026",
+      "summary": "Scorching temperatures in the French capital accompanied the hottest week in haute couture.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cy73znrkg5yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/94ff/live/aef1b3f0-7b97-11f1-9510-1546718f668b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e29a/live/7bacc080-7b82-11f1-83bf-fb74961108af.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Justin Bieber joins Madonna, Shakira and BTS for Fifa World Cup final half-time show",
-      "summary": "The Super Bowl-style show marks the Canadian singer's latest big performance after his comeback shows at Coachella.",
+      "title": "Longest-serving Archers star Patricia Greene dies aged 95",
+      "summary": "She was best known for playing Jill Archer in the BBC Radio 4 soap for nearly 70 years.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e550/live/c855cdd0-7b07-11f1-bf09-5b099a6fa87f.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cy04erw9y42o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3fdf/live/53444870-7c5e-11f1-802c-e767a91f6051.jpg"
     },
     {
       "cat": "Culture",
-      "title": "The Pitt leads Emmys race, but Stranger Things snubbed in top categories - see the nominations",
-      "summary": "The Pitt and Hacks lead the race for America's most coveted TV awards - see the full list of nominations.",
+      "title": "Melanie C says Spice Girls' 30th anniversary was 'emotional'",
+      "summary": "The pop star reflected on the band's legacy as she picked up a global impact award in London.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ceqde3zr399o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bfe3/live/0d3d2c70-7add-11f1-9a9c-53fd8f110370.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "'A real pinch-me moment': Tom Holland on his role in The Odyssey",
-      "summary": "The Spider-Man star and other cast members talk about the hotly anticipated Christopher Nolan movie.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c0ky1gxgxjro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/64b4/live/0bb02f30-7aae-11f1-9510-1546718f668b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c8x2kyr4wv5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3cf3/live/229862f0-7be7-11f1-9010-bd4e2d0a26e0.jpg"
     }
   ]
 }
