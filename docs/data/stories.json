@@ -1,56 +1,56 @@
 {
-  "date": "2026-07-18",
-  "updated": "2026-07-18T13:37:16.089Z",
+  "date": "2026-07-19",
+  "updated": "2026-07-19T13:39:44.376Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+      "title": "US and Iran trade fire after two US soldiers killed in Jordan",
+      "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/82d1/live/dae460c0-82a9-11f1-b976-0b9c15b0ccfc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0035/live/0f16a480-833a-11f1-926f-c90d1bcfbc84.jpg"
     },
     {
       "cat": "World",
-      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0d83/live/2d7f0f80-8212-11f1-bee8-53ce494e1abc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f7d3/live/9a3779e0-8308-11f1-926f-c90d1bcfbc84.jpg"
     },
     {
       "cat": "World",
-      "title": "US strikes hit Iran for seventh consecutive night",
-      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "summary": "Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bd47/live/65f79600-8282-11f1-b976-0b9c15b0ccfc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png"
     },
     {
       "cat": "World",
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0b00/live/0ecf40f0-81ea-11f1-b7bc-5dd9ae7a9918.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9693/live/d4402e80-81d1-11f1-926f-c90d1bcfbc84.jpg"
     },
     {
       "cat": "World",
-      "title": "Space start-up launches India’s first commercial rocket designed for orbit",
-      "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
+      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/56eb/live/beb0cb10-82a8-11f1-84ea-29e7008b1ad8.png"
+      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ffba/live/61f9f5c0-8336-11f1-ab22-e5791e60f909.jpg"
     },
     {
       "cat": "World",
-      "title": "Laos says it can't determine cause of tourist deaths linked to methanol",
-      "summary": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
+      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+      "summary": "The vessel capsized between Georgetown and Port Kaituma, with 53 people so far rescued.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/dbc2/live/32672200-a8c8-11ef-a4fe-a3e9a6c5d640.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7dfa/live/f9c07890-8357-11f1-8d99-f1f0cec0b1ae.jpg"
     },
     {
       "cat": "Business",
@@ -138,6 +138,14 @@
     },
     {
       "cat": "Tech & AI",
+      "title": "As mosquito ranges expand, better monitoring is key to preventing disease",
+      "summary": "Monitoring is expensive and labor intensive. But it helps public health officials stop outbreaks.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/GettyImages-1247505555.jpeg"
+    },
+    {
+      "cat": "Tech & AI",
       "title": "Will AI fix prior authorization—or make it worse?",
       "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
       "source": "arstechnica.com",
@@ -177,20 +185,36 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2286083551-1.jpg"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Troubling new details emerge on diabetes ouster controversy",
-      "summary": "American Diabetes Association blocked publication of op-ed articles so the authors posted them as a preprint.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/diabetes1-1152x648-1780778332.jpg"
-    },
-    {
       "cat": "Crypto",
       "title": "Here’s what happened in crypto today",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "source": "cointelegraph.com",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "US agencies miss GENIUS Act deadline for final stablecoin rules",
+      "summary": "US regulators failed to finalize implementing regulations by the GENIUS Act’s one-year deadline, issuing 10 proposed rules instead.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/crowd-angry-on-genius-act.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "South Korean regulator begins sanctions process against Dunamu: Report",
+      "summary": "The proceedings come as South Korea’s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and computer system incidents, leaving the scope of penalties uncertain.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-koreas-crypto-market-is-strengthening-but-upbit-investigation-may-have-decelerated-it3.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups",
+      "summary": "Electronic Transactions Association (ETA) CEO, Jason Oxman, indicated that members of his organization might start recognizing Bitcoin’s disruptive potential, suggesting that this might lead to more partnerships between ",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-2345-electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin.png"
     },
     {
       "cat": "Crypto",
@@ -209,28 +233,18 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/news-city-town-billboard-1-polymarket.jpg"
     },
     {
-      "cat": "Crypto",
-      "title": "FTX to distribute $900M to creditors in fifth payment round",
-      "summary": "The FTX Recovery Trust and company have distributed about $10 billion since the exchange filed for bankruptcy in November 2022, leaving users cut off from their funds.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/ftx-distribute-millions-creditors-fifth-payment-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ftx-distribution.png"
+      "cat": "Science",
+      "title": "Common antidepressant may ease long COVID’s crushing fatigue",
+      "summary": "A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life comp",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "Galaxy lands 15-year Texas Tech stadium naming rights deal",
-      "summary": "Galaxy Digital will rename Texas Tech’s football stadium under a 15-year agreement, expanding its West Texas presence as the state attracts growing crypto investment.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/galaxy-lands-15-year-texas-tech-stadium-naming-rights-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-nfl-players-choosing-crypto-over-cash2.png"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Consensys unknowingly outsourced developer work to North Korean",
-      "summary": "Through an introduction with a “reputable third-party service provider,“ the company took on a developer who, as part of an investigation, was revealed to be tied to North Korea.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-hacker-interview.png"
+      "cat": "Science",
+      "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
+      "summary": "The asteroid that wiped out the dinosaurs was likely an exceptionally rare CO chondrite from a distant region of the solar system. Its unusual chemistry suggests that planet-cooling dust and debris, rather than sulfur in",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm"
     },
     {
       "cat": "Science",
@@ -238,6 +252,13 @@
       "summary": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger he",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Popular sugar substitutes linked to faster brain aging",
+      "summary": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or h",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm"
     },
     {
       "cat": "Science",
@@ -254,25 +275,18 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm"
     },
     {
-      "cat": "Science",
-      "title": "NASA’s James Webb catches a supermassive black hole feeding",
-      "summary": "JWST has captured unusually detailed images of gas feeding the supermassive black hole at the center of NGC 4696. A vast filament appears to funnel material into an 800-light-year-wide spinning disk, where gas races arou",
+      "cat": "Health",
+      "title": "Coffee may help the body fight stress and aging through a hidden cellular switch",
+      "summary": "Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells from stress, inflamm",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260716023601.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm"
     },
     {
-      "cat": "Science",
-      "title": "A shattered asteroid may have bombarded Earth 800 million years ago",
-      "summary": "A catastrophic asteroid breakup may have triggered a huge wave of impacts across the inner solar system about 800 million years ago. The debris was launched from near a gravitational gateway controlled by Jupiter, sendin",
+      "cat": "Health",
+      "title": "Common antidepressant may ease long COVID’s crushing fatigue",
+      "summary": "A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life comp",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260716023559.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Koalas nearly went extinct before humans arrived, DNA study reveals",
-      "summary": "A major DNA study has rewritten the koala&#039;s evolutionary story, revealing that the species suffered a dramatic population collapse about 100,000 years ago, long before humans arrived in Australia. By calculating the",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260715083551.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm"
     },
     {
       "cat": "Health",
@@ -290,31 +304,25 @@
     },
     {
       "cat": "Health",
+      "title": "Popular sugar substitutes linked to faster brain aging",
+      "summary": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or h",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm"
+    },
+    {
+      "cat": "Health",
       "title": "Mediterranean diet may activate tiny proteins that protect the heart and brain",
       "summary": "The Mediterranean diet may influence aging through tiny proteins produced inside the cell’s mitochondria. Older adults who followed the diet most closely had higher levels of humanin and SHMOOSE, which have been linked t",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/07/260716023605.htm"
     },
     {
-      "cat": "Health",
-      "title": "Scientists tested 39 sweeteners and found unexpected gut effects",
-      "summary": "A large laboratory study found that many commonly used sweeteners can directly change the growth of gut bacteria. Researchers identified more than 100 cases in which sweeteners behaved differently when combined with medi",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260716023552.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
-      "summary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key tumor-s",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "More than 400 sick as CDC searches for the source of a mystery outbreak",
-      "summary": "A growing Cyclospora outbreak has sickened more than 400 people in four states, and investigators are still searching for the contaminated food responsible. The CDC warns the actual number of cases is likely much higher ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260715083530.htm"
+      "cat": "Culture",
+      "title": "Bruno Mars has an unexpected opening before Wembley party starts",
+      "summary": "After an eight-year absence from UK stages, Bruno Mars returned to Wembley Stadium with a polished, hit-filled show.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cyv0vvg1pqdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/20fa/live/211a4d70-8345-11f1-bb5a-13a68f42c300.png"
     },
     {
       "cat": "Culture",
@@ -355,14 +363,6 @@
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c0m70zremezo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/383c/live/a0ad3f20-81dd-11f1-926f-c90d1bcfbc84.png"
-    },
-    {
-      "cat": "Culture",
-      "title": "Bayeux Tapestry in 'wonderful state' after journey to London, French minister says",
-      "summary": "The French culture minister has told the BBC that the Bayeux Tapestry is in \"a wonderful state\".",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjd9qww1eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/51b5/live/0d76ac70-8203-11f1-926f-c90d1bcfbc84.jpg"
     }
   ]
 }
