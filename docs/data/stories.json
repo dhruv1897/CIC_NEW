@@ -1,56 +1,56 @@
 {
-  "date": "2026-07-22",
-  "updated": "2026-07-22T14:12:01.185Z",
+  "date": "2026-07-23",
+  "updated": "2026-07-23T14:21:37.568Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
-      "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
+      "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/63a6/live/6a9afff0-85af-11f1-9454-77c2271a5b4a.jpg"
     },
     {
       "cat": "World",
-      "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
-      "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
+      "title": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+      "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/aa2d/live/0a96cb40-85b7-11f1-bee8-53ce494e1abc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cf38/live/90c9e750-8676-11f1-b976-0b9c15b0ccfc.jpg"
     },
     {
       "cat": "World",
-      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+      "title": "France evacuates 20,000 as wildfires spread in south-west",
+      "summary": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/34b7/live/e3e52d70-853e-11f1-ab57-69b83adbeeff.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7df8/live/48d08300-867b-11f1-8c77-df97511a6b05.jpg"
     },
     {
       "cat": "World",
-      "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-      "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
+      "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
+      "summary": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/dd9c/live/8cde08d0-8552-11f1-b976-0b9c15b0ccfc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e31d/live/86281e60-865e-11f1-93cb-95d7eb12ec49.png"
     },
     {
       "cat": "World",
-      "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
-      "summary": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
+      "title": "Canada's 'powerful' dairy sector is in Trump's trade crosshairs",
+      "summary": "Canada's dairy supply management system is in the spotlight after the US president singled it out as one of three main irritants used to justify new tariffs.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cb5f/live/ef78f7e0-85a0-11f1-bee8-53ce494e1abc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e5eb/live/f92abbb0-85dd-11f1-9837-c51febdbeb82.jpg"
     },
     {
       "cat": "World",
-      "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-      "summary": "Daniel Siad, whose name appears in the Epstein files thousands of times, had previously denied knowledge of the threat Jeffrey Epstein posed.",
+      "title": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a6bd/live/3c1a6c30-85b7-11f1-bd07-3b1b1452001a.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3c64/live/d7b13ca0-85f3-11f1-8ade-a7a676c613b9.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,13 @@
     },
     {
       "cat": "Markets",
+      "title": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+      "summary": "In five public appearances, Warsh has used the phrase \"family fight\" 13 times, returning to \"first principles\" 11 times and \"inflation is a choice\" for the Fed six times.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Trump plans generic drug tariffs from 2028 with two-year delay testing U.S. onshoring push",
       "summary": "The latest tariff salvo underscored Trump's goal of reshoring low-cost drug production, but displacing established suppliers like India won't be easy.",
       "source": "cnbc.com",
@@ -130,75 +137,52 @@
       "url": "https://www.cnbc.com/2026/07/15/ecb-interest-rates-outlook-iran-war-hormuz.html"
     },
     {
-      "cat": "Markets",
-      "title": "China posts slowest quarterly growth since 2022 as investment slumps, fanning stimulus calls",
-      "summary": "That second-quarter growth came below Beijing's full-year growth target range of 4.5% to 5%, the least ambitious goal in decades.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
+      "cat": "Tech & AI",
+      "title": "White House report says Trump can usher in a \"new golden age\" of science",
+      "summary": "The resulting report is a near-random mixture of real problems and grievances.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2236959394-1152x648-1784766485.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Range Rover answers the question: \"What if we built a not-SUV?\"",
-      "summary": "The Range Rover GT will debut as an EV with a hybrid version to follow.",
+      "title": "I wanted a clock that never needed setting. Things escalated.",
+      "summary": "Sure, maybe your clock has a backup battery, but mine has a deployment pipeline!",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/RR_GT_FRONT-3-4.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/07/i-wanted-a-clock-that-never-needed-setting-things-escalated/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/JT3A6491-1152x648-1784649433.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "On the run for 20 years, most-wanted fugitive caught hiding as a biotech exec",
-      "summary": "Ronald Fischer, aka Richard Graydon, was arrested in New York last week.",
+      "title": "Orcas team up to ram sunfish until they explode",
+      "summary": "“We think this may help younger orcas feed more easily, or it could also just be for fun.”",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/748938905_1530072209161286_286265153798584974_n.jpg"
+      "url": "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/orcasTOP.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Sony releases one last trailer for Spider-Man: Brand New Day",
-      "summary": "\"Maybe that's my responsibility, to live alone with the truth.\"",
+      "title": "Sales were up at Tesla but so were costs and spending",
+      "summary": "Q2 2026 was profitable, but barely.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/spideyTOP-1152x648-1784661224.jpg"
+      "url": "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/08/tesla-pondering.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Confusion swirls on source of diarrhea outbreak, but it’s still Taylor Farms",
-      "summary": "Taylor Farms stirred confusion on FDA test and provided a vague recall list.",
+      "title": "Microsoft brings original Xbox backward compatibility to Windows PCs",
+      "summary": "First four compatible titles can be run with an 11-year-old graphics card.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285922416.jpg"
+      "url": "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/xbprototype.webp"
     },
     {
       "cat": "Tech & AI",
-      "title": "Nintendo says users voluntarily paid higher prices, have no right to tariff refunds",
-      "summary": "Nintendo says Switch buyers got what they paid for, urges court to dismiss lawsuit.",
+      "title": "ISPs' long nightmare of having to list all the fees they charge is finally over",
+      "summary": "FCC lets ISPs stop listing all fees after companies complained it was too hard.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/07/nintendo-customers-have-no-legal-right-to-tariff-refunds-company-tells-judge/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/nintendo-switch-1152x648-1776887603.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Let Tom Hiddleston be your guide to Pompeii's final day",
-      "summary": "NatGeo's Pompeii: Out of Time fuses historical fact and imagination to bring city's last 24 hours to life.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/07/tom-hiddleston-tracks-possible-pompeii-survivors-in-new-docuseries/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/pompeii1.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "The digital euro: Surveillance money, or a better alternative to cash?",
-      "summary": "Proponents of the digital euro say its a better alternative to cash that’s fully backed by the ECB. But critics argue it could provide the EU with too much power over its citizens.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/what-is-the-digital-euro-all-you-need-to-know-about-europes-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-digital-euro.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Franklin Templeton calls agentic AI next ‘killer’ use case for blockchain",
-      "summary": "Franklin Templeton’s digital assets lead said that the autonomous AI agent economy will increase demand for blockchain protocols hosting machine-to-machine micropayments.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/agentic-ai-killer-use-case-blockchain-franklin-templeton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-develop-an-ai-agent-for-crypto-trading.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/bill-shock-1152x648-1784750351.jpg"
     },
     {
       "cat": "Crypto",
@@ -210,27 +194,50 @@
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin analysis eyes ‘serious volume’ after Binance sees 9K BTC daily outflow",
-      "summary": "Binance set multimonth records for net BTC outflows on Tuesday, adding to an emerging trend of positive inflows to the US spot Bitcoin ETFs.",
+      "title": "Fears of AI-driven DeFi hack epidemic overstated for now — but not for long",
+      "summary": "Are the fears of an AI driven hacking epidemic totally overblown, or is this just the lull before the storm?",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-analysis-eyes-serious-volume-after-binance-sees-9k-btc-daily-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-quantitative-easing-to-increase-btc-price-2.jpg"
+      "url": "https://cointelegraph.com/magazine/ai-hasnt-unleashed-a-defi-hackpocalypse-but-its-making-every-weakness-more-dangerous?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-mag-ai-driven-hacks-are-testing-whether-defi-can-still-be-trusted.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Zilliqa Ledger app vulnerability lets attackers recover signer’s private keys",
-      "summary": "A security vulnerability in the Zilliqa Ledger app is enabling attackers to reconstruct private keys using publicly available onchain data.",
+      "title": "Strategy-led group pledges $15M to quantum-proof Bitcoin network",
+      "summary": "A consortium led by Strategy and BlackRock has pledged $15 million to secure the Bitcoin network from the threat of a quantum computing breakthrough.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/zilliqa-ledger-vulnerability-attackers-recover-private-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-hacking.jpg"
+      "url": "https://cointelegraph.com/news/strategy-consortium-15m-quantum-proof-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-who-is-michael-j-saylor-quantum-computer-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "US seeks forfeiture of $25M in crypto tied to romance, investment scams",
-      "summary": "US prosecutors are seeking more than $25 million in cryptocurrency allegedly connected to international fraud and laundering networks.",
+      "title": "Binance joins STOP THE TRAFFIK in anti-human trafficking effort",
+      "summary": "The partnership expands Binance’s compliance efforts by providing intelligence and training to help detect cryptocurrency activity tied to human trafficking and child exploitation.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/doj-25m-crypto-forfeiture-romance-investment-scams?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-the-things-the-dojs-latest-move-again-crypto-have-taught-us-about.jpg"
+      "url": "https://cointelegraph.com/news/binance-stop-the-traffik-anti-human-trafficking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/binance-nonprofit-human-trafficking.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "BitMEX token crashes 90% as exchange announces shutdown",
+      "summary": "BitMEX’s BMEX token plunged about 90% after the exchange announced plans to shut down, ending nearly 12 years in business as its Bitcoin futures market share shrank.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/markets/bitmex-token-crashes-90-as-exchange-announces-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/red-falling-elevator-markets-down.png"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Bitget secures license for New Zealand expansion",
+      "summary": "Crypto exchange Bitget said it was registered as a financial service provider with New Zealand’s financial regulator, enabling it to expand its services in the country.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/bitget-secures-license-new-zealand-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-follow-up-license-blockchain-bitget.jpg"
+    },
+    {
+      "cat": "Science",
+      "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
+      "summary": "Researchers in the Gulf of California have documented a dramatic orca behavior never described before. In two separate encounters, one orca gripped a dead sunfish by the fin while another charged into it at high speed, b",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm"
     },
     {
       "cat": "Science",
@@ -241,41 +248,27 @@
     },
     {
       "cat": "Science",
-      "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
-      "summary": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule c",
+      "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
+      "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their norm",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm"
     },
     {
       "cat": "Science",
-      "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
-      "summary": "Ancient fern savannahs may have transformed parts of Europe into a wildfire-prone inferno during the end-Triassic mass extinction. New fossil evidence suggests the ferns repeatedly regrew after fires, creating fresh fuel",
+      "title": "NASA will test SpaceX and Blue Origin Moon landers before the next lunar landing",
+      "summary": "NASA is preparing for future astronaut landings on the Moon with an unusually ambitious orbital rehearsal. During Artemis III in 2027, Orion astronauts will rendezvous and dock separately with prototype lunar landers fro",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260722032105.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032113.htm"
     },
     {
       "cat": "Science",
-      "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
-      "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive damage",
+      "title": "NASA’s Webb telescope discovers giant planet hiding in one of astronomy’s most famous systems",
+      "summary": "A giant planet had been hiding inside one of astronomy’s most closely studied planetary systems, concealed by a bright disk of cosmic dust. Webb revealed Beta Pictoris d through atmospheric traces of carbon monoxide, wat",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032111.htm"
     },
     {
       "cat": "Science",
-      "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
-      "summary": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more pe",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
-      "summary": "Ancient DNA from China’s vast 4,000-year-old Shimao settlement is revealing how one of East Asia’s earliest complex societies was organized. Researchers found that its people were largely descended from local Yellow Rive",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260721000828.htm"
-    },
-    {
-      "cat": "Health",
       "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
       "summary": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule c",
       "source": "sciencedaily.com",
@@ -283,10 +276,38 @@
     },
     {
       "cat": "Health",
+      "title": "Popular childhood drinks may raise blood pressure decades later",
+      "summary": "A 25-year study found that frequent consumption of soda, sports drinks, and fruit juice beginning in childhood was linked to a higher risk of high blood pressure in adulthood. Swapping one daily drink for whole fruit, mi",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032121.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
+      "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their norm",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
+      "summary": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule c",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm"
+    },
+    {
+      "cat": "Health",
       "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
       "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive damage",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Natural compound may fight rheumatoid arthritis at its source",
+      "summary": "A plant-derived compound reduced swelling, inflammation, and joint damage in rats with rheumatoid arthritis. It also helped rebalance immune activity and improve the way certain fats were processed in the body. Researche",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000845.htm"
     },
     {
       "cat": "Health",
@@ -296,73 +317,52 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm"
     },
     {
-      "cat": "Health",
-      "title": "Colorectal cancer warning signs younger adults should never ignore",
-      "summary": "Colorectal cancer is now the leading cause of cancer death among people under 50, and cases in younger adults continue to rise. Warning signs can include persistent bowel changes, recurring rectal bleeding, dark or narro",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260721000839.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Watching too much TV in midlife may shrink the brain",
-      "summary": "Watching television very often in midlife may be linked to troubling brain changes decades later. In a study of about 1,700 adults, frequent TV viewers later showed smaller brain regions involved in memory, decision-maki",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260721000822.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Coffee may protect your heart but energy drinks could harm it",
-      "summary": "For most adults, a daily caffeine habit may be safer for the heart than many people assume. A new American Heart Association review found that up to 400 milligrams of caffeine a day, roughly three to five cups of regular",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260721000820.htm"
+      "cat": "Culture",
+      "title": "Actress Jaime Winstone joins Strictly line-up",
+      "summary": "Winstone, known for EasteEnders and Made in Dagenham, is the eighth celebrity to be confirmed.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/65bc/live/c8d4b450-8698-11f1-bee8-53ce494e1abc.jpg"
     },
     {
       "cat": "Culture",
-      "title": "The Odyssey film fans inspired to go back to the source",
-      "summary": "Book sales and audiobook figures for Homer's original poem rise sharply after the film's release.",
+      "title": "Seinfeld actor apologises to reality star for 'inappropriate' sketch when she was 17",
+      "summary": "Jason Alexander said he \"truly regrets\" the Funny Or Die sketch he appeared in with Courtney Stodden.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cp9en982n3do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c6f6/live/5a6eb9d0-85ca-11f1-8aff-e16fe8f2ba64.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cz64pn37138o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8c2e/live/544e8be0-8677-11f1-bee8-53ce494e1abc.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Oasis overtake The Beatles in all-time UK album chart",
-      "summary": "The Gallagher brothers surpass their idols on a list published for the 70th anniversary of the album chart.",
+      "title": "Ex-Coronation Street actor to receive 'substantial' libel damages from the Sun publisher",
+      "summary": "Qasim Akhtar is to receive \"substantial\" damages to settle a High Court libel claim from a story last eyar.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wq778dvzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3f25/live/d9002540-85bb-11f1-a407-4750df4c0797.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5ye2xlznv7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/16f9/live/00ee5cf0-8690-11f1-a8a9-6d36c8f2857e.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
-      "summary": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court.",
+      "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
+      "summary": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f675/live/0c1cb720-4a9f-11f1-859d-cdc2d74f1ea0.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8a6e/live/b0338440-8683-11f1-bee8-53ce494e1abc.jpg"
     },
     {
       "cat": "Culture",
-      "title": "'Devastated' Millie Bobby Brown leads tributes to Kaylee Hottle",
-      "summary": "The 18-year-old Godzilla vs Kong actress died in a car crash in Frederick, Maryland.",
+      "title": "Bonnie Tyler's funeral to be broadcast online to fans around the world",
+      "summary": "The service in Swansea on 17 August will be live streamed on the star's official website.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm2glm5r185o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/094a/live/e4aa3fd0-85ba-11f1-a407-4750df4c0797.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwym1pk22g1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/62f9/live/13a64940-8670-11f1-93cb-95d7eb12ec49.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family",
-      "summary": "The court hears the singer ordered a body bag, chainsaws and an inflatable pool to dispose of the teen's body.",
+      "title": "Love Island: All Stars winners Molly Smith and Tom Clare marry",
+      "summary": "The couple won the first series of the spin-off edition of the hit dating show in 2024.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5310/live/31c9bd90-85ac-11f1-a300-4537eea2be58.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Judge rules Trump must hand over records sought by BBC in defamation case",
-      "summary": "The judge grants a motion to compel the release of files held by the Donald J Trump Revocable Trust.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c93487x97kyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b686/live/1705c900-85a1-11f1-b976-0b9c15b0ccfc.png"
+      "url": "https://www.bbc.co.uk/news/articles/c6297nw20k0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b1f5/live/67b72690-8683-11f1-b828-91586aad3636.jpg"
     }
   ]
 }
