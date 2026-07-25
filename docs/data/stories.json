@@ -1,48 +1,40 @@
 {
-  "date": "2026-07-24",
-  "updated": "2026-07-24T14:00:11.570Z",
+  "date": "2026-07-25",
+  "updated": "2026-07-25T13:50:19.368Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-      "summary": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cb06/live/2f9183e0-8738-11f1-a10e-a5d4f08bc20c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/31ee/live/b6cd03e0-8826-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "World",
-      "title": "US hits dozens of countries with new wave of tariffs",
-      "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/78a1/live/d9a08500-875d-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8084/live/36c23a50-87f2-11f1-ab0e-efa86eca3823.jpg"
     },
     {
       "cat": "World",
-      "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5b45/live/fd31d670-8719-11f1-926f-c90d1bcfbc84.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/065e/live/19c07e70-875d-11f1-95ec-a30de4e448c4.jpg"
     },
     {
       "cat": "World",
-      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-      "summary": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d9a4/live/b3961660-8666-11f1-93cb-95d7eb12ec49.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "South Africa's president wins bid to temporarily halt impeachment inquiry over 'Farmgate'",
-      "summary": "Ramaphosa has faced scrutiny following the theft of large sums of cash from his private farm in 2020.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwymj9lkx13o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1b0b/live/5f10c1f0-873b-11f1-a10e-a5d4f08bc20c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/90d1/live/f0b4a0e0-877c-11f1-845d-49d72435354a.jpg"
     },
     {
       "cat": "World",
@@ -51,6 +43,14 @@
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c838/live/07344060-8759-11f1-a0f1-fd76e1e0297b.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "ICC top prosecutor removed over sexual misconduct allegations",
+      "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/efb3/live/29a66180-63bb-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "cat": "Business",
@@ -138,99 +138,99 @@
     },
     {
       "cat": "Tech & AI",
-      "title": "Robot snakes searched for Venezuela earthquake survivors in collapsed buildings",
-      "summary": "US robotics researchers flew to Venezuela with snakebots after getting a call.",
+      "title": "With help from data, art museums are reframing the visitor experience",
+      "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Snakebot-ready-to-deploy-in-rubble.jpg"
+      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-521790748.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
-      "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
+      "title": "Big Tech accused of stonewalling European social media researchers",
+      "summary": "Researchers say TikTok, X, and Meta aren't providing data they're legally required to.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/lg-UltraGear-27GR95QE-B.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/10/getty-security.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "FDA reports new outbreak of explosive diarrhea with 72 cases identified",
-      "summary": "The FDA hasn't said where the cases are or how they're linked.",
+      "title": "Wildfire forces evacuation of NASA's Deep Space Network complex in Spain",
+      "summary": "\"Any potential damage will be assessed when it is safe to do so.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/7827_lores.jpg"
+      "url": "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2287501646.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Forgot your Google password? Now you can log in with a selfie.",
-      "summary": "Google's selfie videos can be used for account access, AI Avatars, and age verification.",
+      "title": "Paramount/WBD merger delayed for months as states' lawsuit moves toward trial",
+      "summary": "“Halting this merger while our case proceeds is a critical victory,\" NY AG said.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/look-here.png"
+      "url": "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
-      "summary": "Bill would let Homeland Security chief decide when an AI should be shut down.",
+      "title": "Canadian legislator reads out apparent LLM response in floor speech",
+      "summary": "\"Here’s a more natural, flowing version of that section...\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg"
+      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Tweety gets the third degree in final Coyote vs. Acme trailer",
-      "summary": "Also, the full trailer for Zach Cregger's Resident Evil features a likable everyman.",
+      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+      "summary": "Models are improving quickly, but the cheaper options are often good enough.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/07/final-coyote-vs-acme-trailer-drops-at-sdcc/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/coyotevsacme.jpg"
+      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "A quantum roadmap would push Bitcoin much higher: Charles Edwards",
-      "summary": "A Bitcoin development roadmap that addresses quantum computing risks could see the price surge by “double digits” very quickly, according to Charles Edwards.",
+      "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
+      "summary": "Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/bitcoins-biggest-bull-catalyst-may-come-from-fixing-its-biggest-risk-edwards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/interview-23-07-2026.jpg"
+      "url": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-north-korea-crypto-relationship2.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Thailand SEC files complaint against Bitkub over alleged false disclosures",
-      "summary": "Thailand’s SEC filed a criminal complaint against Bitkub and two former directors over alleged false disclosures linked to a 2021 cyberattack involving $50 million in assets.",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/bitkub-criminal-complaint-thailand-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-reporting-failures-can-be-expensive-even-criminal-ftx.png"
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Odos Protocol to shut down, gives users until July 30 to withdraw assets",
-      "summary": "Odos Protocol will shut down on July 30, giving users one week to withdraw assets. The team did not provide a reason for the decision.",
+      "title": "Fidelity joins push for Senate passage of CLARITY Act",
+      "summary": "Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/odos-protocol-shut-down-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-got-crypto-losses-wallet.jpg"
+      "url": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/regulation-lot-of-papers-clarity-act.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "RWAs become Hyperliquid’s largest trading category",
-      "summary": "Tokenized RWA trading became Hyperliquid’s largest trading category for the first time, accounting for more than half of the decentralized exchange’s weekly trading volume.",
+      "title": "Dango’s perp DEX taps out nearly 4 months after launch",
+      "summary": "Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/hyperliquid-rwa-volume-crypto-trading-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/trading-app-crypto-messenger-phone-rwa.jpg"
+      "url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-perpetual-dex-closure.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Brazil puts tokenized cows to work as loan collateral: Report",
-      "summary": "Ten tokenized dairy cows backed a $19,600 loan registered on Brazil’s B3, in one of Brazil’s first uses of tokenized livestock as loan collateral.",
+      "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
+      "summary": "Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged a second day of outflows, though both funds extended their weekly inflow streaks to three.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/brazils-b3-rwa-credit-tokenized-cows-collateral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-play-and-earn-in-farmers-world.jpg"
+      "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-and-etf.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Samsung Wallet plans stablecoin support in digital payments expansion",
-      "summary": "Samsung Electronics plans to add stablecoin support to Samsung Wallet, expanding its mobile payments and rewards platform to include digital assets.",
+      "title": "EU authorities include HTX exchange in Russian sanctions",
+      "summary": "The exchange, already sanctioned by the UK, is now on a list of 18 entities “providing crypto-assets services or payment services“ in defiance of the EU’s measures against Russia.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/samsung-wallet-stablecoin-support-galaxy-unpacked?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-samsung-coin-new.jpg"
+      "url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-do-eus-new-sanctions-mean-for-russian-crypto-users-1.jpg"
     },
     {
       "cat": "Science",
@@ -318,11 +318,35 @@
     },
     {
       "cat": "Culture",
+      "title": "Claudia Winkleman's chat show ended after one series - can anyone replace Graham Norton?",
+      "summary": "The presenter said she was \"incredibly grateful\" for the opportunity but simply \"too nervous to enjoy it\".",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1rz7n0pzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e0fe/live/09c4e010-8519-11f1-bf4e-6b2bb6027b0a.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "The pop band who went from playing for rescue dogs to selling out arenas",
+      "summary": "The group discuss disastrous gigs, putting political action into music and the meaning of \"queer pop\".",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/ce85j65r4l2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/413b/live/d2c64430-876d-11f1-b430-afa19a42b819.jpg"
+    },
+    {
+      "cat": "Culture",
       "title": "Chris Brown pleads guilty to affray over London nightclub attack",
-      "summary": "The US singer hit a man with a glass bottle in \"a vicious and unprovoked attack\", prosecutors said.",
+      "summary": "The US singer hit a man with a glass bottle in \"a vicious and unprovoked attack\", prosecutors say.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c3w01e37v9vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ea99/live/3e5af0f0-8765-11f1-84de-b90328819e7a.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Letters by pre-Smiths Morrissey set for auction",
+      "summary": "The letters to a Birmingham pen pal were written by the singer between the ages of 14 and 20.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c20jdy584pvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3056/live/96b6fc80-8828-11f1-bc76-7fa6f858478c.jpg"
     },
     {
       "cat": "Culture",
@@ -339,30 +363,6 @@
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c8xn4p7xqy9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2ef5/live/53154450-8742-11f1-ac90-c5b02d68775e.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "BBC's Fake or Fortune uncovers 'enormously important' painting worth £100,000",
-      "summary": "The painting by the 18th Century Scottish artist Katherine Read is thought to be worth more than £100,000.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cvgxejg9evjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e349/live/05d92b00-869a-11f1-9e03-bdd14c1ce63a.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "King and Queen emerge from Tardis to open Glasgow Commonwealth Games",
-      "summary": "The Royal couple drew gasps and cheers from the audience at the Hydro as they appeared on stage in Glasgow.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm2g3053ejko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a547/live/97b36290-86e3-11f1-a4b5-5bff16c7b9ab.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Meta glasses banned by Comic-Con promoter after 'secret filming'",
-      "summary": "A number of guests said they would be reluctant to appear at conventions again after cases of recordings taking place without their knowledge.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c204le0nvn3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d6d3/live/21615480-8756-11f1-8b26-0bb025c454a4.jpg"
     }
   ]
 }
