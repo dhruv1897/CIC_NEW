@@ -1,11 +1,35 @@
 {
-  "date": "2026-07-25",
-  "updated": "2026-07-25T13:50:19.368Z",
+  "date": "2026-07-26",
+  "updated": "2026-07-26T13:43:27.643Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
+      "title": "What we know so far about the Berlin Pride ramming attack",
+      "summary": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cb2d/live/2eaac610-88e8-11f1-bcf5-0bde7672ed32.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bdda/live/a8b251b0-88db-11f1-aeef-edf7e578a56d.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+      "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/48d0/live/634ce840-88ec-11f1-8824-a9ae603ecd1c.png"
+    },
+    {
+      "cat": "World",
       "title": "Trump takes swipes at press during White House Correspondents' Dinner",
       "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
       "source": "bbc.co.uk",
@@ -14,11 +38,11 @@
     },
     {
       "cat": "World",
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "title": "India's 'cockroach' protest called off after education minister quits",
+      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8084/live/36c23a50-87f2-11f1-ab0e-efa86eca3823.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ba11/live/52ef7480-884d-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "World",
@@ -27,30 +51,6 @@
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/065e/live/19c07e70-875d-11f1-95ec-a30de4e448c4.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/90d1/live/f0b4a0e0-877c-11f1-845d-49d72435354a.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c838/live/07344060-8759-11f1-a0f1-fd76e1e0297b.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "ICC top prosecutor removed over sexual misconduct allegations",
-      "summary": "Karim Khan denies allegations of engaging in an improper sexual relationship with a junior ICC staff member and seeking to stop her pursuing her complaint.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/efb3/live/29a66180-63bb-11f1-8e1d-bbbb1017d210.jpg"
     },
     {
       "cat": "Business",
@@ -138,6 +138,22 @@
     },
     {
       "cat": "Tech & AI",
+      "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
+      "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/blade3.jpg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
+      "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipflt13_1.jpg"
+    },
+    {
+      "cat": "Tech & AI",
       "title": "With help from data, art museums are reframing the visitor experience",
       "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
       "source": "arstechnica.com",
@@ -169,28 +185,12 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/paramount-water-tower-logo-1152x648-1784928766.jpg"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Canadian legislator reads out apparent LLM response in floor speech",
-      "summary": "\"Here’s a more natural, flowing version of that section...\"",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-      "summary": "Models are improving quickly, but the cheaper options are often good enough.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/opus-5.jpg"
-    },
-    {
       "cat": "Crypto",
-      "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
-      "summary": "Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto.",
+      "title": "Bitcoin OG selling eases as dormant BTC movement hits 4-year low: Thorn",
+      "summary": "Dormant Bitcoin activity fell to its lowest level since Q3 2022, suggesting long-term holders have slowed distribution after heavy profit-taking.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-north-korea-crypto-relationship2.jpg"
+      "url": "https://cointelegraph.com/markets/bitcoin-og-dormant-btc-movement-thorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-who-is-the-whale-from-2017.jpg"
     },
     {
       "cat": "Crypto",
@@ -202,119 +202,143 @@
     },
     {
       "cat": "Crypto",
-      "title": "Fidelity joins push for Senate passage of CLARITY Act",
-      "summary": "Fidelity called on the US Senate to pass the CLARITY Act, joining industry groups and crypto firms pushing for market structure legislation.",
+      "title": "South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys",
+      "summary": "South Korea’s largest lender will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/fidelity-push-senate-passage-of-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/regulation-lot-of-papers-clarity-act.jpg"
+      "url": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-negotiation-south-korea.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Dango’s perp DEX taps out nearly 4 months after launch",
-      "summary": "Dango will close its network on Aug. 13, joining BitMEX, Odos and Satori Finance in a wave of recent crypto shutdowns.",
+      "title": "BitMart to wind down exchange, end trading by Aug. 26",
+      "summary": "Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/dangos-perp-dex-taps-nearly-months-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-defi-perpetual-dex-closure.jpg"
+      "url": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/closed-exchange.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Ethereum ETFs close week in red, end 5-day inflow streak",
-      "summary": "Ethereum ETFs snapped a five-day inflow streak and Bitcoin ETFs logged a second day of outflows, though both funds extended their weekly inflow streaks to three.",
+      "title": "Binance ‘red teams’ its own staff every month to keep hackers out",
+      "summary": "Binance regularly tests its employees for security hygiene, with social engineering becoming a major source of industry breaches.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/ethereum-etfs-week-red-end-inflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-and-etf.jpg"
+      "url": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/phishing.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "EU authorities include HTX exchange in Russian sanctions",
-      "summary": "The exchange, already sanctioned by the UK, is now on a list of 18 entities “providing crypto-assets services or payment services“ in defiance of the EU’s measures against Russia.",
+      "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
+      "summary": "While prediction market companies in the US continue to face legal battles between state and federal authorities, Robinhood is reportedly considering expanding its services.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/htx-exchange-european-union-russia-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-do-eus-new-sanctions-mean-for-russian-crypto-users-1.jpg"
+      "url": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-when-prediction-markets-go-wrong-who-decides-what-counts-as-the-truth.jpg"
     },
     {
       "cat": "Science",
-      "title": "APOE2 may protect the brain from Alzheimer’s and aging",
-      "summary": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at ",
+      "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
+      "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm"
     },
     {
       "cat": "Science",
-      "title": "Ancient ape fossil in Egypt challenges the story of human origins",
-      "summary": "A newly identified fossil ape from northern Egypt is reshaping ideas about where the ancestors of modern apes first emerged. Analyses place it closer to living apes than any known East African species of the same age, po",
+      "title": "The best way to save giant sequoias may be more fire",
+      "summary": "Giant sequoias are built to withstand ordinary fires, but recent extreme wildfires killed thousands of trees that had survived for centuries or even millennia. A new analysis of about 26,400 sequoias found that trees in ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015243.htm"
     },
     {
       "cat": "Science",
-      "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
-      "summary": "Sweden could become an important source of rare earth elements needed for magnets and green technologies. Instead of extracting one target metal, researchers are cataloging everything contained in Swedish mineral deposit",
+      "title": "Hidden genetic diversity helped inbred brown tree snakes conquer guam",
+      "summary": "A notorious snake invasion that devastated Guam’s native birds may have succeeded because the reptiles carried hidden genetic advantages. Using advanced long-read DNA sequencing, researchers uncovered more than 19,000 la",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm"
     },
     {
       "cat": "Science",
-      "title": "China’s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars",
-      "summary": "China’s Tianwen-1 orbiter captured a faint but remarkable view of 3I/ATLAS as the interstellar comet raced past Mars. The images reveal its tail and glowing coma, offering scientists a glimpse of material born beyond our",
+      "title": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
+      "summary": "Researchers say a tiny one-eyed ancestor that lived nearly 600 million years ago may have shaped the evolution of every vertebrate eye, including our own. They also found that its ancient median eye lives on today as the",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084052.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm"
     },
     {
       "cat": "Science",
-      "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
-      "summary": "Researchers in the Gulf of California have documented a dramatic orca behavior never described before. In two separate encounters, one orca gripped a dead sunfish by the fin while another charged into it at high speed, b",
+      "title": "The Universe can outrun light without breaking Einstein’s rules",
+      "summary": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm"
     },
     {
       "cat": "Science",
-      "title": "A strange quantum effect dramatically boosts energy transfer",
-      "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and the",
+      "title": "Oral GLP-1 drugs may quiet the brain’s food craving circuit",
+      "summary": "Newer oral drugs related to semaglutide medications such as Ozempic reduced pleasure-driven eating in mice by quieting a deep brain reward circuit. The finding could open new avenues for understanding food cravings and p",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm"
     },
     {
       "cat": "Health",
-      "title": "Scientists discover a compound that could supercharge aging muscle repair",
-      "summary": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and preserve strength as peo",
+      "title": "Why losing the wrong fat can trigger diabetes",
+      "summary": "Scientists discovered that damaged fat cells can become inflamed, lose their ability to store lipids, and eventually vanish, disrupting the body’s metabolism. The findings show that diabetes can result not only from exce",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015259.htm"
     },
     {
       "cat": "Health",
-      "title": "A new antiviral could stop measles before an outbreak takes off",
-      "summary": "An experimental pill prevented a measles-like virus from spreading through the air or through close contact in ferrets. It worked when given shortly before or after exposure and also shortened illness and the period when",
+      "title": "A hidden Alzheimer’s tipping point may decide who gets dementia",
+      "summary": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia. The key may lie in how the brain’s immune cells respond to plaques and tau, offering a ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260724061431.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm"
     },
     {
       "cat": "Health",
-      "title": "APOE2 may protect the brain from Alzheimer’s and aging",
-      "summary": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at ",
+      "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
+      "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm"
     },
     {
       "cat": "Health",
-      "title": "The billion-dollar problem keeping Ozempic, Wegovy, and Zepbound from patients",
-      "summary": "Ozempic, Wegovy, and similar drugs may deliver excellent health value, but covering them for millions of eligible patients could overwhelm insurance budgets. Researchers say better long-term support is needed and warn th",
+      "title": "CRISPR makes prostate cancer vulnerable to immunotherapy",
+      "summary": "Scientists used CRISPR to make prostate cancer cells easier for the immune system to detect and destroy. The experimental treatment dramatically improved the effects of immunotherapy in mice and may offer hope for other ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084854.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015250.htm"
     },
     {
       "cat": "Health",
-      "title": "Ozempic and Mounjaro linked to a surprising hair loss risk",
-      "summary": "A large study suggests that GLP-1 drugs including Ozempic and Mounjaro may slightly increase the risk of hair loss in people with type 2 diabetes. Compared with two other common classes of diabetes medications, GLP-1 use",
+      "title": "Your AI calorie-tracking app may be off by 345 calories",
+      "summary": "Popular AI-powered food apps may make calorie counting easier, but they may also leave out a surprisingly large part of the meal. Four apps underestimated calories and fat by about one-third when tested against carefully",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260723084047.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm"
     },
     {
       "cat": "Health",
-      "title": "Popular childhood drinks may raise blood pressure decades later",
-      "summary": "A 25-year study found that frequent consumption of soda, sports drinks, and fruit juice beginning in childhood was linked to a higher risk of high blood pressure in adulthood. Swapping one daily drink for whole fruit, mi",
+      "title": "A daily fiber supplement reduced knee arthritis pain and improved strength",
+      "summary": "A prebiotic fiber supplement reduced knee osteoarthritis pain while also improving grip strength and pain sensitivity in a six-week trial. The results hint at a fascinating gut-muscle-pain connection and suggest that a s",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260722032121.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061448.htm"
+    },
+    {
+      "cat": "Culture",
+      "title": "Ryan Gosling to join Marvel Cinematic Universe as Ghost Rider",
+      "summary": "During a surprise announcement at San Diego Comic-Con, the actor says the character is one he has \"wanted to play for a very long time\".",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cgq5v72jqglo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a569/live/1ea00c50-88f0-11f1-8824-a9ae603ecd1c.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "What Love Island tells us about the changing face of dating",
+      "summary": "From women making the first move to shifting relationship dynamics, Love Island has become a window into Britain's evolving dating culture",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c935q2k6pxqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6805/live/5b30d6d0-86c6-11f1-8c61-e72dd81a46e3.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "'Virginity is a myth we've given too much power'",
+      "summary": "Poet Hollie McNish tells Latitude the word virgin has been used to control, shame and define people.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c0jl8jv22gjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2bf3/live/06736930-846b-11f1-aa39-2539994b0dd5.jpg"
     },
     {
       "cat": "Culture",
@@ -339,30 +363,6 @@
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c3w01e37v9vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ea99/live/3e5af0f0-8765-11f1-84de-b90328819e7a.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Letters by pre-Smiths Morrissey set for auction",
-      "summary": "The letters to a Birmingham pen pal were written by the singer between the ages of 14 and 20.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c20jdy584pvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3056/live/96b6fc80-8828-11f1-bc76-7fa6f858478c.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Decoding Charli XCX's new album, Music, Fashion, Film",
-      "summary": "The star's new album strips away artifice to examine her life after the phenomenal success of Brat.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c151zp1p4qyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b583/live/d382c430-86ae-11f1-8e17-395fea5a1d61.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Black Panther star Chadwick Boseman's family in legal dispute with his widow",
-      "summary": "The late actor's siblings claim she has mishandled distribution of the funds and \"cannot be trusted\".",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c8xn4p7xqy9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2ef5/live/53154450-8742-11f1-ac90-c5b02d68775e.jpg"
     }
   ]
 }
