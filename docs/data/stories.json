@@ -1,56 +1,56 @@
 {
-  "date": "2026-07-27",
-  "updated": "2026-07-27T14:51:26.962Z",
+  "date": "2026-07-28",
+  "updated": "2026-07-28T14:25:47.859Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Devastating European wildfires in maps - and how they're being tackled",
-      "summary": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
+      "title": "Gironde wildfires pick up as French region braces for new 40C heatwave",
+      "summary": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6786/live/a29902f0-89c7-11f1-a501-d9a9d2e9b6c1.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a258/live/0c48a680-8a84-11f1-83c5-cf36fe4b083e.jpg"
     },
     {
       "cat": "World",
-      "title": "Oil price dives as US and Iran pause attacks",
-      "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+      "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
+      "summary": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/92a8/live/d2b46450-89a6-11f1-a85a-79136c2d298e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b24c/live/11347710-8a6f-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "World",
-      "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
-      "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
+      "title": "US walks out of UN Security Council meeting during France's remarks",
+      "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ce88/live/8415f670-89af-11f1-9c0c-33faa7b3d86d.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6172/live/97bbb000-8a51-11f1-8aea-37a02a7d69e8.jpg"
     },
     {
       "cat": "World",
-      "title": "More than 600 US military service members injured since Iran War began in February",
-      "summary": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\".",
+      "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+      "summary": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2eab/live/66b0c1c0-89b2-11f1-b8ee-9b3c26ad07bb.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9d93/live/2033abe0-8a75-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "World",
-      "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
-      "summary": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
+      "title": "Zidane confirmed as France head coach",
+      "summary": "Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8bb3/live/ca0001c0-89b5-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.bbc.co.uk/sport/football/articles/cpd741qn2y9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c2db/live/96268e10-8a72-11f1-b8a3-41b986490a13.jpg"
     },
     {
       "cat": "World",
-      "title": "Carly Simon reveals Parkinson's diagnosis",
-      "summary": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
+      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+      "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fac7/live/ad429a40-89c2-11f1-965a-d70ca8fc6275.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/04e4/live/96aaeb30-8a70-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "Business",
@@ -138,99 +138,134 @@
     },
     {
       "cat": "Tech & AI",
-      "title": "What public health professionals can learn from anti-vaccine storytelling",
-      "summary": "Sometimes, compelling stories beat medical evidence.",
+      "title": "As US measles cases rise, biotech firms start developing new treatments",
+      "summary": "The US is making measles great again, so treatment options are needed for the most vulnerable.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/vaccinator.jpg"
+      "url": "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2201696919.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Artist sues AI meme generator for selling deeply personal comic as ad template",
-      "summary": "Meme generator may have screwed up by using templates in outputs, expert says.",
+      "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+      "summary": "Microsoft says tools cost less than competing ones and outperform them, too.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/comictest-1152x648-1784918491.jpg"
+      "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "First teaser for Apple TV's Neuromancer debuts at SDCC",
-      "summary": "Plus Mike Flanagan's Carrie teaser, trailers for Dark Matter S2 and Matchbox the Movie, and Marvel news.",
+      "title": "Trump admin exempts SpaceX's Starlink from FCC ban on foreign-made routers",
+      "summary": "Starlink has a Texas factory but also makes routers in Vietnam.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/neuromancer.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starlink-router-1152x648-1785186848.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
-      "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
+      "title": "Epic diarrhea outbreak has 40% of Americans avoiding fruits and veggies",
+      "summary": "Kennedy has focused on nutrition but has neglected food safety, critics say.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/blade3.jpg"
+      "url": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/02/salad.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "SpaceX eyes tower catch for next Starship after auspicious end to 13th flight",
-      "summary": "SpaceX will likely attempt to catch Starship back at the launch pad on its next flight.",
+      "title": "iOS and macOS 26.6 arrive today, paving the way for iOS and macOS 27",
+      "summary": "These are likely the last updates of note before Apple's bigger fall updates.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/starshipflt13_1.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/macOS-26-6-update-1152x648-1785182231.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "With help from data, art museums are reframing the visitor experience",
-      "summary": "Museums are embracing data-driven curation and a shifting technology landscape.",
+      "title": "A missing underscore sent innocent man to prison for 18 months",
+      "summary": "When the first step goes wrong, bad results follow.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-521790748.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2170708705.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Hong Kong crypto giant HashKey merges regional exchange into one",
-      "summary": "Hong Kong’s HashKey will unify its crypto exchange branches, with users from its Hong Kong, Global, Singapore and Middle East regions using the same platform.",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/hong-kong-crypto-giant-hashkey-merges-its-exchanges-into-one?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-stablecoin-hong-kong.jpg"
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Rate path still divides investors: Five things to know in Bitcoin this week",
-      "summary": "Bitcoin traders prepared to navigate a slew of volatility catalysts as US inflation data and US-Iran war triggers keep risk-assets in an unpredictable state.",
+      "title": "The real reason DeFi projects that survived 2022 crash are shutting down now",
+      "summary": "DeFi projects that survived the fallout from the Terra and FTX collapses in 2022 are dying out in 2026. But analysts say it’s not a case of industry consolidation — but the opposite.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/rate-path-still-divides-investors-five-things-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/us-inflation-1.jpg"
+      "url": "https://cointelegraph.com/magazine/the-2022-bear-market-didnt-kill-these-defi-projects-what-changed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/bear.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Binance disappears from Google Play in certain EU countries",
-      "summary": "Binance’s Android app is unavailable on Google Play in some EU markets amid scrutiny over MiCA compliance.",
+      "title": "Markets eye Bank of Japan meeting on Friday as yen repeats 40-year US dollar lows",
+      "summary": "Analysis warned of a repeat of the 2024 yen carry-trade unwind that pressured crypto markets ahead of the next Bank of Japan interest-rate meeting.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/binance-disappears-android-google-play-certain-eu-countries?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-digitized-europe-the-shift-to-a-cashless-world2-1.jpg"
+      "url": "https://cointelegraph.com/markets/markets-eye-bank-of-japan-meeting-on-friday-as-yen-repeats-40-year-us-dollar-lows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-china-bitcoins.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "USDC issuer Circle to acquire nearly 1,000 IBM blockchain patents",
-      "summary": "IBM’s blockchain portfolio includes more than 680 patent families and nearly 1,000 issued patents worldwide, with a particular focus in supply chain applications.",
+      "title": "Ethereum, Solana led crypto hack losses in H1 2026: Blockaid",
+      "summary": "Blockaid found Ethereum remained the hardest-hit blockchain in H1 2026, while Solana replaced Arbitrum as the network with the second-highest losses, driven largely by key compromises.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/circle-to-acquire-nearly-1000-ibm-blockchain-patents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-usdt-vs-usdc-whats-the-difference.png"
+      "url": "https://cointelegraph.com/news/ethereum-solana-led-crypto-hack-losses-h1-2026-blockaid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-solana-vs-ethereum-a-comprehensive-blockchain-comparison.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Strategy sells MSTR shares, buys back $25M in STRC preferred stock",
-      "summary": "Strategy raised $544.5 million through MSTR stock sales as it repurchased $25 million of STRC shares and expanded its US dollar reserve to $3.75 billion.",
+      "title": "PayPal expands stablecoin push as crypto assets factor into Q2 results",
+      "summary": "PayPal highlighted growth of stablecoins and AI-driven payment tools in Q2 while reporting $8.68 billion in revenue and an $81 million crypto-related earnings adjustment.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/strategy-sells-mstr-buys-back-25-milllion-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/michael-saylors-big-bet-institutional-investments-role-1.jpg"
+      "url": "https://cointelegraph.com/news/paypal-expands-stablecoin-push-crypto-assets-q2-results?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/paypal.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "BNY Mellon unit joins MiCA register as ESMA adds 15 providers",
-      "summary": "BNY Mellon’s European subsidiary joined the MiCA register as ESMA added 15 CASPs, including banks and crypto platforms, in the third post-deadline update.",
+      "title": "1inch moves to unite DeFi liquidity across 13 chains with Aqua",
+      "summary": "Decentralized exchange aggregator 1inch announced the launch of its Aqua protocol allowing users to provide liquidity to many protocols at once.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/mica-register-expands-third-post-deadline-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-regulation-paper-rule-office-mica-eu.jpg"
+      "url": "https://cointelegraph.com/news/1inch-moves-to-unite-defi-liquidity-across-11-chains-with-aqua?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/1inch.jpg"
+    },
+    {
+      "cat": "Science",
+      "title": "Hidden charcoal reveals the true age of ancient cave paintings",
+      "summary": "A new analysis has precisely dated paintings in France’s Font-de-Gaume cave for the first time. Scientists discovered charcoal inside black pigments once thought to contain only minerals, allowing them to use radiocarbon",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214619.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Misfolded insulin may be quietly driving diabetes",
+      "summary": "Researchers found that insulin-producing cells depend on a team of helper proteins to keep insulin production on track. When one key partner was missing, damaged proteins built up and the cells made less insulin. Strengt",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "NASA’s Psyche spacecraft aces Mars flyby capturing stunning timelapse video",
+      "summary": "NASA’s Psyche spacecraft aced its Mars flyby, using the planet’s gravity to speed toward its 2029 encounter with a metal-rich asteroid. The spacecraft tested its cameras, magnetometer, and particle-detecting instruments,",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214612.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Blazing like 10 billion suns: NASA’s Swift sees a wandering black hole devouring a star",
+      "summary": "NASA’s Swift Observatory observed a supermassive black hole ripping apart a star more than 30,000 light-years from the center of a distant galaxy. The extraordinary flare briefly outshone its entire host galaxy in ultrav",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Twisted laser light can tell mirror-image molecules apart",
+      "summary": "Scientists have created twisted laser beams that interact differently with right-handed and left-handed molecules, revealing their identity through the fragments they produce. The approach could provide a faster, simpler",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214557.htm"
     },
     {
       "cat": "Science",
@@ -240,39 +275,18 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260727012143.htm"
     },
     {
-      "cat": "Science",
-      "title": "After 241 days in orbit this NASA astronaut is finally home",
-      "summary": "NASA astronaut Chris Williams and two Roscosmos cosmonauts are back on Earth after spending 241 days aboard the International Space Station. Their journey covered more than 102 million miles and included 3,856 trips arou",
+      "cat": "Health",
+      "title": "Misfolded insulin may be quietly driving diabetes",
+      "summary": "Researchers found that insulin-producing cells depend on a team of helper proteins to keep insulin production on track. When one key partner was missing, damaged proteins built up and the cells made less insulin. Strengt",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727012131.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm"
     },
     {
-      "cat": "Science",
-      "title": "500,000-year-old elephant bone hammer shows ancient humans were master toolmakers",
-      "summary": "Early humans in England crafted a rare piece of elephant bone into a reusable hammer for sharpening stone tools nearly 500,000 years ago. The extraordinary find reveals that ancient toolmakers were resourceful, skilled, ",
+      "cat": "Health",
+      "title": "A single sauna session sends immune cells surging",
+      "summary": "A single 30-minute sauna session may briefly put the immune system on higher alert. Finnish researchers found that sauna heat, paired with a short cold shower, increased every type of white blood cell circulating in the ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260726015301.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
-      "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "The best way to save giant sequoias may be more fire",
-      "summary": "Giant sequoias are built to withstand ordinary fires, but recent extreme wildfires killed thousands of trees that had survived for centuries or even millennia. A new analysis of about 26,400 sequoias found that trees in ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260726015243.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "These insect submariners survive depths that should crush them",
-      "summary": "Lake fly larvae plunge more than 200 meters into Lake Malawi each day to hide from predators, using tiny air sacs to control their depth. A rubber-like material called resilin lets them expand or shrink the sacs by chang",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260726015241.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727012141.htm"
     },
     {
       "cat": "Health",
@@ -303,66 +317,52 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260726015259.htm"
     },
     {
-      "cat": "Health",
-      "title": "A hidden Alzheimer’s tipping point may decide who gets dementia",
-      "summary": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia. The key may lie in how the brain’s immune cells respond to plaques and tau, offering a ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
-      "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm"
+      "cat": "Culture",
+      "title": "Naga Munchetty to leave BBC Breakfast after 17 years",
+      "summary": "The BBC One show's co-host will swap the TV sofa for the presenter's chair on Radio 5 Live Breakfast.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cn0ngrpp2p5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b580/live/78828200-8a7d-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Carly Simon reveals Parkinson's diagnosis",
-      "summary": "The singer also reveals she has received treatment for skin cancer, but vows to keep singing.",
+      "title": "Booker Prize longlist: See the 13 'dynamite' novels up for this year's prestigious award",
+      "summary": "Elizabeth Strout, Douglas Stuart and Marlon James are among the 13 authors recognised this year.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3gymn6p6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fac7/live/ad429a40-89c2-11f1-965a-d70ca8fc6275.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/czekl599087o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2eea/live/af3acc80-89dd-11f1-9273-213dd08ab6f9.jpg"
     },
     {
       "cat": "Culture",
-      "title": "TV presenter and comedian Bill Oddie dies at 85",
-      "summary": "His agent pays tribute to the \"multi-talented\" broadcaster, comedian and conservationist.",
+      "title": "Odyssey translator writes scathing review of Nolan film adaptation",
+      "summary": "The film has won rave reviews from film critics but a translator of Homer's work was less than impressed.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cjejw8pq5elo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1cd6/live/3468e870-899c-11f1-8c68-81d45f5a03af.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cd692n215ndo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/04e4/live/96aaeb30-8a70-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Millions see leaked copy of The Odyssey movie on X",
-      "summary": "Film studio Universal takes down a high-quality bootleg version of the film, which appeared on X.",
+      "title": "House of the Dragon star Bethany Antonia joins Strictly line-up",
+      "summary": "She plays Lady Baela Targaryen in HBO's Game of Thrones prequel, and is the ninth celebrity to be confirmed.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/863a/live/605628b0-8034-11f1-bee8-53ce494e1abc.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/eaca/live/95a125e0-8a7c-11f1-82f1-411b076ec7a9.png"
     },
     {
       "cat": "Culture",
-      "title": "Luke Littler to take on everyday darts players in Netflix live event",
-      "summary": "The 19-year-old darts champion will be challenged by 20 amateur players in a live event in October.",
+      "title": "Ariana Grande sues hackers who leaked music and videos",
+      "summary": "The pop star is suing to discover the identity of hackers who obtained unreleased photos and songs.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkew9kjd5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/825d/live/dc8bacf0-89a0-11f1-8c68-81d45f5a03af.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c1l1de9gjj6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5434/live/b3e2c190-8a5d-11f1-b6c7-397f42881d1e.jpg"
     },
     {
       "cat": "Culture",
-      "title": "D4vd's Apple Music page reportedly hacked amid murder charges",
-      "summary": "A song titled I Did It briefly appears on the musician's profile, as a pre-trial hearing continues.",
+      "title": "Love Island UK crowns winners of twist-filled series",
+      "summary": "For the first time in the history of the UK series, only three couples were in the final after several twists.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwyenzw2l4lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/18f5/live/d12bccb0-899f-11f1-8c68-81d45f5a03af.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Charli XCX photo purchased by National Portrait Gallery",
-      "summary": "The gallery describes the pop star as \"one of the defining cultural figures of her generation\".",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrqvz0xwdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c6f8/live/bfc0ff00-89ad-11f1-a44b-5525937994ba.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c0rd5l4xlvro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c2c3/live/8c858960-8a04-11f1-bf17-1d06aa0f4f93.jpg"
     }
   ]
 }
