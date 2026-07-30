@@ -1,56 +1,56 @@
 {
-  "date": "2026-07-29",
-  "updated": "2026-07-29T14:24:17.972Z",
+  "date": "2026-07-30",
+  "updated": "2026-07-30T14:21:06.241Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
-      "summary": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/49fc/live/e2274390-8b4e-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/beb2/live/84097750-8bf4-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "World",
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0514/live/6249cdc0-8b29-11f1-841c-ef08db9db338.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0138/live/d922f0a0-8b7b-11f1-843a-4d201c635cc1.jpg"
     },
     {
       "cat": "World",
-      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
-      "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/676e/live/d3e05150-8b3f-11f1-b2d7-b96c6bc9d7f5.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/58b9/live/31742360-8c16-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "World",
-      "title": "Anthony Fauci refuses to answer questions during US Senate hearing about Covid origins",
-      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+      "title": "Thousands evacuated in Crete as Europe battles wildfires",
+      "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c915/live/a70a1ff0-8b4c-11f1-8139-b39d1c7486b2.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b6d0/live/fcd90940-8c15-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
       "cat": "World",
-      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-      "summary": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
+      "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
+      "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4aab/live/599f9370-8b2f-11f1-b2c5-873bffcd48e7.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c3a2/live/20e2a280-8bd3-11f1-8ca8-e7392cbe9869.jpg"
     },
     {
       "cat": "World",
-      "title": "Four women accuse Jared Leto of criminal sexual conduct",
-      "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+      "title": "Nicaraguan leader proposes extending presidential term by another year",
+      "summary": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/704e/live/00b685e0-8b37-11f1-b8ee-9b3c26ad07bb.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7c2d/live/8019a5e0-8bfc-11f1-a52a-dba993a97936.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,20 @@
     },
     {
       "cat": "Markets",
+      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
+      "summary": "While the GDP number was below expectations, the miss appeared to come from a decline in federal government spending and inventories.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "What a divided Fed means for investors",
+      "summary": "Wall Street has a clear takeaway from this week's Federal Reserve decision: A hike is likely on the horizon.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
       "summary": "Unlike most central banks, the MAS manages medium-term price stability by managing the Singapore dollar exchange rate against a trade-weighted basket of currencies.",
       "source": "cnbc.com",
@@ -123,66 +137,52 @@
       "url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html"
     },
     {
-      "cat": "Markets",
-      "title": "Import prices post surprise gain as costs of goods from China hit highest since 2008",
-      "summary": "Import prices were up 0.3% for the month, as a drop in energy was more than offset by increases elsewhere.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "World Cup gave bars and restaurants a needed boost as consumers flash warning signs, Fed says",
-      "summary": "The latest edition of the Fed's Beige Book indicated that the soccer tournament wasn't necessarily translating to broader economic growth.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/07/15/world-cup-economy-spending-alcohol-hotels-fed.html"
+      "cat": "Tech & AI",
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
-      "summary": "Deciding what's real on the Internet won't be easy in the future.",
+      "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+      "summary": "Advertisers agreed to “reset” relationship with X.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1229892464.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Elon Musk finally launches X Money. What could possibly go wrong?",
-      "summary": "Expect bumps with X Money rollout as major US financial markets are excluded.",
+      "title": "Who wins and who loses after US bans foreign robots?",
+      "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2239391568.jpg"
+      "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Unitree-robots-boxing.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Audi has a new flagship designed with the US in mind: The 2027 Q9",
-      "summary": "The new full-size flagship SUV starts at $87,700 when it goes on sale in Q4.",
+      "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+      "summary": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/A263825_large.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/banana-cream-pie-1152x648-1785351920.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Reaction wheel failures leave Swift rescue mission spinning in orbit",
-      "summary": "\"Preliminary investigation shows that two of Link's three reaction wheels currently are not operable.\"",
+      "title": "Customize Ars your way with an Ars Pro subscription",
+      "summary": "Ars Pro subscribers get customizable layouts along with no ads and no trackers.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/07/reaction-wheel-failures-leave-swift-rescue-mission-spinning-in-orbit/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/link_arrays_katalyst.jpg"
+      "url": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ars-subscriber-ball-track.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "College lab class ends with 32 people on antibiotics for deadly germ exposure",
-      "summary": "Lab students were supposed to ID a mild germ. They all identified a deadly pathogen.",
+      "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
+      "summary": "Google's new API relies on parents to set age ranges in Family Link.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2163393367.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "summary": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/google-play-store.jpg"
     },
     {
       "cat": "Crypto",
@@ -194,43 +194,50 @@
     },
     {
       "cat": "Crypto",
-      "title": "BNY to bring transfer agency records onchain in blockchain push",
-      "summary": "BNY is launching a blockchain-based transfer agency platform as the bank expands its digital asset infrastructure and moves core financial records onchain.",
+      "title": "BitRiver founder charged in Russia over alleged $8M fraud",
+      "summary": "Russian authorities charged BitRiver founder Igor Runets with alleged fraud tied to a $8 million crypto mining equipment deal involving Russian billionaire Oleg Deripaska.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/bny-transfer-agency-records-blockchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-blockchain-as-a-service-baas.jpg"
+      "url": "https://cointelegraph.com/news/bitriver-founder-russia-charges-alleged-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-oracle-attack.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "The 100x obsession: Fundamentals grow in importance as crypto matures",
-      "summary": "Crypto’s fundamentals have never been stronger, yet degens keep chasing hot new narratives. Behavioral finance may explain why get rich quick stories continue to beat substance.",
+      "title": "Samsung unit explores stablecoin infrastructure with Upbit’s operator",
+      "summary": "Samsung SDS is discussing stablecoin infrastructure and AI-based payment models with Dunamu, the operator of South Korean crypto exchange Upbit.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/the-100x-obsession-why-great-crypto-projects-keep-losing-to-great-stories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-spot-coins.jpg"
+      "url": "https://cointelegraph.com/news/samsung-sds-stablecoin-infrastructure-dunamu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-samsung-coin-coinbase-1.png"
     },
     {
       "cat": "Crypto",
-      "title": "Emirates enables UAE residents to pay for flights through Crypto.com",
-      "summary": "The service is limited to eligible UAE residents and bookings are priced and settled in dirhams.",
+      "title": "Hedge fund with $1.1B in Bitcoin miner stocks seeks capital after AI sell-off: FT",
+      "summary": "The FT said Situational Awareness has approached investors and lenders after borrowing amplified losses during July’s AI stock sell-off.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/emirates-starts-letting-uae-residents-pay-for-flights-through-cryptocom?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/cryptocom-logo-on-coin.png"
+      "url": "https://cointelegraph.com/markets/hedge-fund-with-11b-in-bitcoin-miner-stocks-seeks-capital-after-ai-sell-off-ft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/ai-stocks-collapse-scene.png"
     },
     {
       "cat": "Crypto",
-      "title": "Telegram founder Pavel Durov internationally wanted, Russia’s FSB says",
-      "summary": "Russia’s FSB says Telegram founder Pavel Durov faces a terrorism-related charge and an international arrest warrant, while a separate French case remains open.",
+      "title": "Australia sues Telegram over alleged failures to remove terror content",
+      "summary": "Telegram faces Australian court proceedings after eSafety alleged the platform failed to detect and remove extremist material shared by users.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/telegram-founder-wanted-internationally-russia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/durov-sitting-in-office-2.jpg"
+      "url": "https://cointelegraph.com/news/australia-telegram-alleged-failures-terror-content?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ton-court-case-overview-of-latest-events.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report",
-      "summary": "A CoinGecko study points to rising demand for tokenized equities and commodities on centralized exchanges, with perpetual futures driving most of the market’s trading activity.",
+      "title": "Chinese newspaper warns of Bitcoin extortion scam using its name",
+      "summary": "China Business Journal says fraudsters impersonated the publication, demanding Bitcoin to suppress purported investigative reports about targeted companies.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/crypto-exchanges-tokenized-assets-market-6-6-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-ondo-finance-plans-to-bring-tokenized-us-stocks-to-solana-2.jpg"
+      "url": "https://cointelegraph.com/news/chinese-newspaper-bitcoin-extortion-scam-name?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-china-exit-scam2.jpg"
+    },
+    {
+      "cat": "Science",
+      "title": "Scientists found evolution repeating itself in the Galápagos Islands",
+      "summary": "More than 150 years after Darwin’s finches helped reshape biology, Galápagos plants are exposing another evolutionary surprise. Giant daisies repeatedly developed similar heat-tolerant leaf shapes, but each lineage used ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051537.htm"
     },
     {
       "cat": "Science",
@@ -241,38 +248,31 @@
     },
     {
       "cat": "Science",
-      "title": "Can’t sleep in the heat? These 8 tricks could save your night",
-      "summary": "Sleeping well during a heatwave starts with stopping the home from overheating. Close blinds against strong sunlight, ventilate when the air outside becomes cooler, and avoid using heat-producing appliances during the ho",
+      "title": "What if the brain does not create consciousness?",
+      "summary": "Christof Koch is taking on one of science’s deepest mysteries: how the brain creates conscious experience, or whether it creates it at all. He argues that materialism has yet to solve this “hard problem” and will explore",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729010722.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm"
     },
     {
       "cat": "Science",
-      "title": "Your gut may help your brain decide what to remember",
-      "summary": "Signals traveling from the gut to the brain may help turn meals into lasting memories. Rats showed stronger memory activity after consuming nutritious foods, but not after drinking sweet liquids with little or no nutriti",
+      "title": "A forgotten fossil just revealed a new Triassic predator from 210 million years ago",
+      "summary": "A fossil overlooked for nearly 80 years has revealed a previously unknown crocodile relative that lived 210 million years ago in what is now New Mexico. Named Eosphorosuchus lacrimosa, the jackal-sized predator had a rei",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010732.htm"
     },
     {
       "cat": "Science",
-      "title": "Earth’s hidden “gold kitchen” lies beneath the seafloor",
-      "summary": "Deep beneath submarine volcanoes, Earth may be running a natural “gold kitchen.” By analyzing volcanic glass from the Kermadec island arc north of New Zealand, researchers found that water-rich mantle repeatedly melts be",
+      "title": "This 4,000-year-old city defied the rules of history",
+      "summary": "As Mohenjo-daro prospered, the gap between its richest and poorest households actually shrank. Its shared infrastructure, fair trade systems, and lack of powerful royal elites suggest that equality may have helped fuel t",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727214628.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010730.htm"
     },
     {
       "cat": "Science",
-      "title": "Hidden charcoal reveals the true age of ancient cave paintings",
-      "summary": "A new analysis has precisely dated paintings in France’s Font-de-Gaume cave for the first time. Scientists discovered charcoal inside black pigments once thought to contain only minerals, allowing them to use radiocarbon",
+      "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
+      "summary": "Ultrafast X-rays revealed how a molecule converts absorbed light into motion in just trillionths of a second. Individual atoms recorded different stages of the process, opening a powerful new window into light-driven che",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727214619.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Misfolded insulin may be quietly driving diabetes",
-      "summary": "Researchers found that insulin-producing cells depend on a team of helper proteins to keep insulin production on track. When one key partner was missing, damaged proteins built up and the cells made less insulin. Strengt",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm"
     },
     {
       "cat": "Health",
@@ -280,6 +280,20 @@
       "summary": "A new cooking method could make French fries crispier in less time while significantly limiting how much oil they absorb. Researchers propose combining microwave heating, which keeps oil out, with conventional frying, wh",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/07/260729044048.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "What if the brain does not create consciousness?",
+      "summary": "Christof Koch is taking on one of science’s deepest mysteries: how the brain creates conscious experience, or whether it creates it at all. He argues that materialism has yet to solve this “hard problem” and will explore",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729043829.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Rice bran compound may help ease irritable bowel symptoms",
+      "summary": "A compound in rice bran may help calm an overactive gut by reducing the calcium signals that cause intestinal muscles to contract. Ferulic acid suppressed contractions triggered by several chemical messengers in laborato",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010742.htm"
     },
     {
       "cat": "Health",
@@ -297,24 +311,42 @@
     },
     {
       "cat": "Health",
-      "title": "Your gut may help your brain decide what to remember",
-      "summary": "Signals traveling from the gut to the brain may help turn meals into lasting memories. Rats showed stronger memory activity after consuming nutritious foods, but not after drinking sweet liquids with little or no nutriti",
+      "title": "Daily multivitamin may help older adults stay independent",
+      "summary": "Taking a daily multivitamin may help older adults preserve the strength and stamina needed for everyday activities. After three years, users reported better functional health than those taking a placebo, although the pre",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260729010713.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729010716.htm"
     },
     {
-      "cat": "Health",
-      "title": "Misfolded insulin may be quietly driving diabetes",
-      "summary": "Researchers found that insulin-producing cells depend on a team of helper proteins to keep insulin production on track. When one key partner was missing, damaged proteins built up and the cells made less insulin. Strengt",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727214616.htm"
+      "cat": "Culture",
+      "title": "Olivia Dean nominated and Lily Allen snubbed in Mercury Prize list",
+      "summary": "This year's best album shortlist includes several returning nominees - but Lily Allen misses out.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dmlr1gzeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/443f/live/87efbdf0-8c0f-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
-      "cat": "Health",
-      "title": "A single sauna session sends immune cells surging",
-      "summary": "A single 30-minute sauna session may briefly put the immune system on higher alert. Finnish researchers found that sauna heat, paired with a short cold shower, increased every type of white blood cell circulating in the ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/07/260727012141.htm"
+      "cat": "Culture",
+      "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+      "summary": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7d57/live/a947dab0-8beb-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Former England football star Shaun Wright-Phillips joins Strictly line-up",
+      "summary": "The sportsman - who is also the son of Arsenal legend Ian Wright - played for clubs including Manchester City.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/de28/live/f6a46f60-8c06-11f1-8665-e382dc49dfdb.png"
+    },
+    {
+      "cat": "Culture",
+      "title": "Salman Rushdie attacker convicted of terror offences",
+      "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a219/live/b104c3e0-8b9a-11f1-ad84-894b73c45bbb.jpg"
     },
     {
       "cat": "Culture",
@@ -331,38 +363,6 @@
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7c34/live/91c02c00-8b49-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Amelia Dimoldenberg: I wouldn't invite Andy Burnham on Chicken Shop Date - but I'd love a chat",
-      "summary": "The YouTube star on helping young creatives, and who she wants (and doesn’t want) on her show.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c8rng7pm212o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/da46/live/1eeab160-89d6-11f1-9c28-2b39dab63e4d.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "French DJ ​and electronic ‌musician Kavinsky dies aged 50",
-      "summary": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1b67/live/1718bd10-8b39-11f1-b8ee-9b3c26ad07bb.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Russell T Davies says death of late husband has been his 'greatest loss'",
-      "summary": "The Doctor Who writer spoke about the death of Andrew Smith, who died in 2018 from a brain tumour.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c36d56x3ln6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2a2b/live/d0736720-8b29-11f1-841c-ef08db9db338.png"
-    },
-    {
-      "cat": "Culture",
-      "title": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
-      "summary": "All seven members of the band post a statement online, saying they will boycott the 2027 ceremony.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/clyjgyd0225o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9aab/live/cf84c8f0-8b4b-11f1-a7ab-8b30adf0800a.jpg"
     }
   ]
 }
