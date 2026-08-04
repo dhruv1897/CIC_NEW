@@ -1,56 +1,56 @@
 {
-  "date": "2026-08-03",
-  "updated": "2026-08-03T14:55:32.410Z",
+  "date": "2026-08-04",
+  "updated": "2026-08-04T14:31:21.429Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "summary": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
+      "title": "More than 150 migrants rescued after boat catches fire in Channel",
+      "summary": "The boat was attempting to cross to the UK when its engine caught fire, according to French authorities.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5e8c/live/a2cd4400-8f46-11f1-bea5-516364e5690e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/72e6/live/08945d60-8ff0-11f1-a10e-47119dd4425c.jpg"
     },
     {
       "cat": "World",
-      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "title": "Ukraine hits more Wildberries sites as strike kills five in Moscow region",
+      "summary": "Facilities operated by Russia's largest online retailer were also hit in St Petersburg and Tver.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9675/live/570f1150-8f10-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c151pkww79zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ad4f/live/138d6250-8fed-11f1-a10e-47119dd4425c.jpg"
     },
     {
       "cat": "World",
-      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "title": "Analysis: Trump challenged by cold reality from top allies",
+      "summary": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5c07/live/85553550-8f22-11f1-b8ee-9b3c26ad07bb.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c9f6/live/c20531b0-8f97-11f1-b7b0-c7a52256a94e.jpg"
     },
     {
       "cat": "World",
-      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-      "summary": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
+      "title": "What will happen when a SpaceX rocket collides with the Moon?",
+      "summary": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e5c9/live/2e88e180-8f0f-11f1-be24-a9d46d021d98.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bd55/live/3fa78630-8f5d-11f1-9c32-a3e1fce5018b.jpg"
     },
     {
       "cat": "World",
-      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+      "title": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
+      "summary": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7080/live/0395c5a0-8ee8-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0f64/live/3c5e9520-8fff-11f1-9dfb-fd4408d16f2f.jpg"
     },
     {
       "cat": "World",
-      "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
-      "summary": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
+      "title": "Why Trump Media's sale of fast access to market-moving social posts is controversial",
+      "summary": "Trump Media & Technology Group (TMTG) has set up a paid service to give Wall Street firms access to Truth Social's most influential accounts.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1ad4/live/431ecf40-8f34-11f1-b8ee-9b3c26ad07bb.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c4gdkl9zn8wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c8b7/live/86169830-8fe0-11f1-bb3b-43bf44dc94d9.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,13 @@
     },
     {
       "cat": "Markets",
+      "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+      "summary": "The commentary pointed to a highly volatile environment in which purchasing managers were struggling to stay ahead",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html"
+    },
+    {
+      "cat": "Markets",
       "title": "As Warsh’s Fed faces pressure to act on inflation, these indicators show it’s at its lowest in years",
       "summary": "Trimmed mean measures are painting a different picture than the headline numbers.",
       "source": "cnbc.com",
@@ -130,75 +137,52 @@
       "url": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html"
     },
     {
-      "cat": "Markets",
-      "title": "Trump's new global tariff draws rebukes from trade partners over forced labor justification",
-      "summary": "U.S. trading partners have rejected the forced labor rationale behind Trump's new global tariffs, while most signaled plans to keep negotiating.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html"
+      "cat": "Tech & AI",
+      "title": "US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own",
+      "summary": "$100 million deal gives 50,000 Ukrainian drones US-developed AI capabilities.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-5.14.23-PM.png"
     },
     {
       "cat": "Tech & AI",
-      "title": "Trump wants the power to stop the public from suing polluters",
-      "summary": "Trump's DOJ says citizens should no longer be able to enforce environmental laws.",
+      "title": "Research roundup: 6 cool science stories we almost missed",
+      "summary": "Also: Cyborg diving suits for cockroaches, why sleepy sperm whales blow bubbles, Betelgeuse's companion star.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/refinery.jpg"
+      "url": "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/incaboy-1152x648-1785365793.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "How headlights got brighter, whiter, and more blinding after dark",
-      "summary": "Automotive lights are better than they've ever been, but there's a trade-off.",
+      "title": "Lego deploys Hubble Space Telescope as detailed desktop model",
+      "summary": "The orbiting observatory in minifigure scale.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/FJCG3729.jpg"
+      "url": "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-080226a-lg.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
-      "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+      "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+      "summary": "Top scores increased by 5x.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Swift_and_LINK_withEarthartist_concept.png"
+      "url": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-82955454.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Review: Yes, we're still arguing about Nolan's The Odyssey",
-      "summary": "Christopher Nolan's impressionistic remix of Homer's epic poem finds the man behind the myth.",
+      "title": "2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet",
+      "summary": "At $25,305, you won't find many new cars for less. But you get what you pay for.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/odysseyTOP-1152x648-1784208660.jpg"
+      "url": "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/2026-VW-Jetta-1.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-      "summary": "Reddit may still be considering ending its licensing deal with Google.",
+      "title": "SpaceX is set to acquire 130,000 acres of marshland in southern Louisiana",
+      "summary": "A Louisiana launch site would offer several significant advantages.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica",
-      "summary": "Autonomous vehicle giant disturbs residents' sleep.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/unnamed-1152x648-1785603161.webp"
-    },
-    {
-      "cat": "Crypto",
-      "title": "US hints at more yen intervention: Five things to know in Bitcoin this week",
-      "summary": "The US and Japan coordinate on the yen for the first time since 2011 as Bitcoin traders brace for a historically rough August.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-27742-btc-eth-dai-cross-chain-atomic-swaps-launched-by-liquality-on-mainnet.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "How Fake World Assets and onchain gacha became crypto’s latest craze",
-      "summary": "Fake World Assets turns forgotten NFTs into an onchain lottery — but is crypto’s latest obsession built to last?",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/how-fake-world-assets-and-online-gacha-became-cryptos-latest-craze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/how-fake-world-assets-and-online-gagcha-became-cryptos-latest-craze.jpg"
+      "url": "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/HI-A7kbXEAEZyU_.jpg"
     },
     {
       "cat": "Crypto",
@@ -210,27 +194,78 @@
     },
     {
       "cat": "Crypto",
-      "title": "Strategy sells 1,638 Bitcoin to fund dividends and STRC repurchases",
-      "summary": "Michael Saylor’s Strategy sold 1,638 Bitcoin in its second-largest sale of the year to fund dividend payments and repurchase its preferred STRC stock.",
+      "title": "Sorry everyone, Bitcoin is headed down to $43,500: Michael Terpin",
+      "summary": "Transform Ventures founder Michael Terpin says Bitcoin could have another 30% downside from its current price before he is confident the market has reached a bottom.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/strategy-sells-bitcoin-dividend-strc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/michael-saylors-big-bet-institutional-investments-role-2.jpg"
+      "url": "https://cointelegraph.com/magazine/bitcoin-to-go-down-into-the-40s-before-next-bull-run-michael-terpin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/interview-29-07-2026.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Bithumb sets 2028 IPO timetable as it overhauls internal controls",
-      "summary": "The South Korean exchange plans to seek preliminary listing review in 2027 while overhauling controls after a February crediting error.",
+      "title": "Texas electric grid moratorium won’t have big impact on BTC miners: Bernstein",
+      "summary": "Monday’s announcement that Texas Governor Greg Abbott set a moratorium on approval of ERCOT-linked data centers pending an audit won’t impact miners’ approved electricity contracts.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/bithumb-ipo-timetable-internal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bithumbnight.jpg"
+      "url": "https://cointelegraph.com/news/texas-electric-grid-moratorim-btc-miners-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-why-texas-bitcoin-reserve-move-signals-a-shift-in-government-crypto-policy.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "CLARITY Act failure could send crypto valuations lower: Bernstein",
-      "summary": "Bernstein said Congress’ failure to pass the CLARITY Act’s could trigger another leg down for crypto valuations and accelerate policy support from US regulators.",
+      "title": "Tether Gold reserves rise 9.5% as gold posts worst quarter in 13 years",
+      "summary": "XAUt added to its bullion backing during gold’s worst quarter since 2013, as tokenized commodity holder counts continued to rise.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/clarity-act-failure-crypto-valuations-lower-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/transparency-crypto.jpg"
+      "url": "https://cointelegraph.com/news/tether-gold-rise-q2-sharpest-quarterly-gold-correction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-guys-in-the-list-of-richest.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Italy’s biggest bank triples staked Ether ETF holdings while cutting IBIT shares",
+      "summary": "Italy’s largest bank Intesa Sanpaolo increased its staked Ether ETF position to $7.1 million while reducing its holdings in two spot Bitcoin ETFs.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/intesa-sanpaolo-bank-staked-ether-etf-ibit-shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-italy.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Jim Cramer plans to sell his Bitcoin over quantum fears as BTC rises 1.6%",
+      "summary": "The CNBC personality said he’ll sell his Bitcoin holdings due to fears about quantum computing, as some cryptocurrency investors celebrated, referencing the popular “inverse Cramer” meme.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/markets/jim-cramer-sell-bitcoin-quantum-fears-btc-rises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-who-is-jim-cramerand-why-do-traders-love-to-hate-him.jpg"
+    },
+    {
+      "cat": "Science",
+      "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
+      "summary": "A specially engineered chewing gum reduced HPV by up to 93% and nearly eliminated two bacteria linked to head and neck cancer. The treatment preserved beneficial mouth bacteria, raising hopes for a safer and more afforda",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "518-million-year-old creature reveals the origins of spider fangs",
+      "summary": "A tiny 518-million-year-old sea creature has revealed the earliest known evidence of the structures that eventually became spiders’ fangs. Hidden inside the fossil were pincerlike limbs and preserved soft tissues that he",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080906.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Strange quantum experiment shows “negative time” is more than an illusion",
+      "summary": "Photons traveling through a cloud of atoms can emerge so early that they appear to have spent a negative amount of time inside. Researchers tested whether this was merely a misleading feature of the light pulse by making",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080904.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Your brain may be wired to regain lost weight",
+      "summary": "Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger hunger, cravings, an",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "DNA on the Shroud of Turin reveals centuries of hidden history",
+      "summary": "DNA traces in the Shroud of Turin reveal a remarkable mixture of human lineages, microbes, plants, animals, and coral accumulated through centuries of handling and travel. The findings do not prove its age or authenticit",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080859.htm"
     },
     {
       "cat": "Science",
@@ -240,39 +275,18 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm"
     },
     {
-      "cat": "Science",
-      "title": "Scientists may have found aging’s hidden trigger for brain disease",
-      "summary": "Scientists have identified a molecular switch that may help explain why aging makes the brain more vulnerable to diseases such as ALS and Huntington’s. In worms, the protein EPS8 builds up with age and triggers signaling",
+      "cat": "Health",
+      "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
+      "summary": "A specially engineered chewing gum reduced HPV by up to 93% and nearly eliminated two bacteria linked to head and neck cancer. The treatment preserved beneficial mouth bacteria, raising hopes for a safer and more afforda",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260802223433.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm"
     },
     {
-      "cat": "Science",
-      "title": "Ancient Arctic carbon is pouring into the sea, but the seabed captures most of it",
-      "summary": "Thawing Arctic permafrost is releasing ancient carbon into the ocean, raising fears that microbes could turn it into greenhouse gases and accelerate climate change. But sediment cores collected near Canada’s Herschel Isl",
+      "cat": "Health",
+      "title": "Your brain may be wired to regain lost weight",
+      "summary": "Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger hunger, cravings, an",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260802223424.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Scientists reveal the hidden force driving the universe’s hottest fluid",
-      "summary": "When atomic nuclei smash together at nearly the speed of light, they create the hottest fluid in the universe, but scientists may have overlooked one of its most important forces. New simulations reveal that extreme acce",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260802223422.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Moonquakes could reveal hidden water beneath the lunar surface",
-      "summary": "Hidden moon ice may reveal itself through the way it bends and reflects vibrations from moonquakes. The technique could help astronauts locate vital water supplies and uncover clues about the origins of Earth’s oceans.",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260802223420.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "A simple supplement could help the immune system fight cancer and viruses",
-      "summary": "Low arginine levels may allow cancer cells and viruses to slip past the immune system by reducing production of a crucial cellular warning protein. In mice, arginine-rich diets led to fewer colon tumors and milder viral ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm"
     },
     {
       "cat": "Health",
@@ -290,79 +304,65 @@
     },
     {
       "cat": "Health",
+      "title": "A common sugar may help cancer cells break free and spread",
+      "summary": "Chemotherapy-surviving ovarian cancer cells may release fructose to help neighboring tumor cells loosen, escape, and spread. The discovery suggests that sugary diets and cholesterol-lowering drugs could influence cancer ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260802223426.htm"
+    },
+    {
+      "cat": "Health",
       "title": "A simple supplement could help the immune system fight cancer and viruses",
       "summary": "Low arginine levels may allow cancer cells and viruses to slip past the immune system by reducing production of a crucial cellular warning protein. In mice, arginine-rich diets led to fewer colon tumors and milder viral ",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/08/260802223417.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "This once-a-week workout may help cut belly fat, study shows",
-      "summary": "A surprisingly small dose of exercise may deliver major health benefits for adults carrying excess fat around the waist. In a four-month trial involving 315 adults with central obesity, researchers found that completing ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Two deadly flowers could inspire powerful new medicines",
-      "summary": "Scientists have figured out how two famously poisonous plants create chemicals with surprising medical potential. After tracking thousands of genes in wolfsbane and larkspur, they identified six enzymes needed to build a",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260801042818.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Without this protein, damaged muscle turns to fat and scar tissue",
-      "summary": "A protein once thought to mainly protect chromosome ends may also be essential for keeping muscle stem cells ready to repair injuries. Researchers found that TRF2 helps these cells maintain their identity and coordinate ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260801042814.htm"
     },
     {
       "cat": "Culture",
-      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
-      "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "summary": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7080/live/0395c5a0-8ee8-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f4cd/live/bf89c310-8fe7-11f1-a7ab-8b30adf0800a.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Ed Sheeran fined for failing to insure Aston Martin",
+      "summary": "His classic car is in a workshop being restored, but Sheeran admits it was not insured.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9v0rlj5go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/429a/live/a4d414a0-9003-11f1-9dfb-fd4408d16f2f.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "'My dad saw the joy in everything - right up to his death': Tributes paid to Jimmy Cricket",
+      "summary": "The comedian died on Monday at the age of 80 following a short illness.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cly544d149xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/402f/live/fcb8cd30-8fdd-11f1-a999-eb18d79411a9.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Greg James shares his heartbreak after death of dog Barney",
+      "summary": "The Radio 1 presenter said his beloved pet had to be put to sleep in the garden of his home.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cq56001ywnyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5f5f/live/a56f4fc0-8fee-11f1-a10e-47119dd4425c.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Ariana Grande says decision to step back 'was not reactive or impulsive'",
+      "summary": "The star told fans at her Chicago show on Monday that \"boundaries need to be set\".",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c6295z6jkw6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0ede/live/e5dfe060-8fd0-11f1-b8ee-9b3c26ad07bb.jpg"
     },
     {
       "cat": "Culture",
       "title": "Newspaper columnist and broadcaster Rod Liddle dies aged 66",
-      "summary": "The columnist died in hospital in Middlsbrough on Sunday.",
+      "summary": "The columnist died in hospital in Middlesbrough on Sunday.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cly59lwe93po?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1615/live/99f5b1c0-8f44-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Presenter Tony Livesey leaves BBC Radio 5 Live after 16 years",
-      "summary": "He stepped back from his show last month following allegations against his former boss David Sullivan.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c4g6pvv2zgjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9332/live/27a0e740-8f2e-11f1-ad38-d1c77c68a0b1.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Former X Factor finalist denies murder and GBH",
-      "summary": "Gabrielle Carrington denies killing Klaudia Zakrzewska outside Inca nightclub in Soho on 19 April.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c75gq56qrwno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/699a/live/4acd3d10-8f31-11f1-ac89-5b80aa0a0820.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Diana Ross pens 'special song' for Pride crowd",
-      "summary": "The 82-year-old Motown legend, who is an LBGTQ+ icon, told the audience to \"always be you\".",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cd69366pgj8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7de4/live/29dce900-8f38-11f1-973f-390a1966f1f1.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "New Spider-Man film sees second-biggest ever global opening weekend",
-      "summary": "The strong box office performance gives a boost to Disney ahead of the much-anticipated Avengers: Doomsday.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c3w052le2elo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fcb2/live/d2005950-8f06-11f1-b8ee-9b3c26ad07bb.jpg"
     }
   ]
 }
