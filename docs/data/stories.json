@@ -1,56 +1,56 @@
 {
-  "date": "2026-08-05",
-  "updated": "2026-08-05T14:24:46.720Z",
+  "date": "2026-08-06",
+  "updated": "2026-08-06T14:27:43.655Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
-      "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+      "title": "Ukraine hits two oil refineries deep in Russian territory",
+      "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8cab/live/189914e0-90b2-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4e4c/live/d37c5f10-9184-11f1-9587-294e25c71c14.png"
     },
     {
       "cat": "World",
-      "title": "Drone carrying explosives found at German airport, police say",
-      "summary": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+      "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/77d2/live/427f0680-90d9-11f1-a7ab-8b30adf0800a.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8759/live/683a1f90-9002-11f1-9dfb-fd4408d16f2f.jpg"
     },
     {
       "cat": "World",
-      "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-      "summary": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
+      "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
+      "summary": "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the Covid-19 pandemic.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9864/live/3014fa20-8f9b-11f1-8fd1-09e03851da20.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0e7a/live/d958d7c0-919c-11f1-9c53-0382b914b78c.jpg"
     },
     {
       "cat": "World",
-      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
-      "summary": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
+      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/dee7/live/863dc740-9038-11f1-a691-e5bd21941ac1.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d689/live/d1fc7070-9171-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "World",
-      "title": "UN rights chief alarmed by rise in Iran executions since March",
-      "summary": "Volker Türk says 56 people have been executed on national security-related charges, including 27 in cases linked to January's protests.",
+      "title": "DR Congo river boat under quarantine for Ebola after five deaths",
+      "summary": "The health minister says all the passengers are being screened as a precautionary measure.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4634/live/f7c982b0-90cd-11f1-822b-5340fee140e1.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ae81/live/19ae9c50-919e-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "World",
-      "title": "Waste workers help winner find binned €1m lottery ticket in Italy",
-      "summary": "The player only realised he binned the life-changing ticket after family told him the numbers he played for years had been drawn.",
+      "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
+      "summary": "The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c62qvll0z94o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7515/live/4f103dd0-90b9-11f1-b8f3-bf6a2c059a9b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9ba2/live/6817d820-918f-11f1-8e84-2d20095c7a4b.jpg"
     },
     {
       "cat": "Business",
@@ -138,67 +138,67 @@
     },
     {
       "cat": "Tech & AI",
-      "title": "Pushing the limits: Infinite Machine's Olto is barely a bicycle",
-      "summary": "Scooter layout makes pedaling a bad experience. But it does have pedals.",
+      "title": "AI isn’t enough to protect social media communities from AI",
+      "summary": "Why humans need to moderate humans.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/IMG_1971-1152x648-1785165291.jpeg"
+      "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2259634870.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Senators demand crackdown on wildfire \"prediction market\" bets",
-      "summary": "Fire experts warn such markets could incentivize arson.",
+      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
+      "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2170814475.jpg"
+      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Trump killed the Digital Equity Act but US was forced to bring part of it back",
-      "summary": "$1.25 billion program restored, but judge ruled race provision unconstitutional.",
+      "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
+      "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/trump-with-smartphone-1152x648-1785876893.jpg"
+      "url": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Rear_Admiral_Erica_Schwartz-1152x648-1776453357.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Texas halts data center connections to power grid amid overwhelming demand",
-      "summary": "Governor who touted Texas as AI “epicenter” pauses data center grid connections.",
+      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2288039036.jpg"
+      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "China is Tesla's cash cow, but for how much longer?",
-      "summary": "Tesla's Shanghai factory is busier than ever but might be cut loose.",
+      "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+      "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2270890949.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-1152x648-1785958066.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "The Pixel 11's \"glow\" feature is actually called HiLight—here's what it does",
-      "summary": "The camera flash will evolve into a multicolor LED that illuminates when your phone is face down.",
+      "title": "Hank Green found the AI problem that YouTube labels can’t catch",
+      "summary": "\"Slop\" isn't the only problem.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/HiLight-crop-1152x648-1785858816.jpg"
+      "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888.jpeg"
     },
     {
       "cat": "Crypto",
-      "title": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
-      "summary": "The Coldcard entropy flaw caused a crisis of confidence in hardware wallets. Here’s the details you need to know before you entrust Ledger, Trezor or Foundation with your Bitcoin.",
+      "title": "Step App winds down after four years as FITFI token sinks",
+      "summary": "Move-to-earn project Step App will wind down services by Aug. 21 after four years, while its FITFI token trades 99.9% below its all-time high.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-double-spending-in-btc-wallets-the-issue-persists.jpg"
+      "url": "https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-coinflares-exit-and-the-future-of-cloud-mining-2.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Galaxy reports $85M net loss amid Q2 crypto market slump",
-      "summary": "Galaxy Digital reported an $85 million net loss driven by falling digital asset prices and $8.7 billion in revenue that missed Wall Street estimates.",
+      "title": "10 weirdest things ever tokenized... including farts",
+      "summary": "Tokenized cows may have gone viral, but they’re just the latest in a long line of strange things to find a home onchain, from farts, to human skin and destroyed artworks",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/galaxy-85m-loss-q2-crypto-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-use-galaxy-for-broad-market-exposure.jpg"
+      "url": "https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg"
     },
     {
       "cat": "Crypto",
@@ -210,27 +210,48 @@
     },
     {
       "cat": "Crypto",
-      "title": "Mastercard, Borderless test shared identity checks for stablecoin transfers",
-      "summary": "Mastercard and Borderless are exploring ways to bring more trust into cross-border stablecoin transfers through the payment processing giant’s Crypto Credential framework.",
+      "title": "Blockchain.com wins Cayman custody license after MiCA and FCA approvals",
+      "summary": "Blockchain.com secured a VASP custody license from the Cayman Islands Monetary Authority, expanding its regulated crypto services in the region.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/mastercard-borderless-test-identity-checks-stablecoin-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bitlicense-approval-shines-fresh-light-on-new-york-crypto-mastercard.jpg"
+      "url": "https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-follow-up-contract-blockchain2.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Binance sues RedotPay over alleged $473 million user losses: Report",
-      "summary": "Binance-linked companies sued RedotPay, accusing it of diverting more than 470,000 Binance Card users under a commercial deal and seeking nearly $473 million in damages.",
+      "title": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
+      "summary": "Tokenized real-world assets accounted for more than a third of Hyperliquid’s quarterly trading volume, generating 6.6% of the protocol’s $169 million quarterly revenue.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/binance-redotpay-lawsuit-alleged-473-million-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-binance-vs-us-court-follow-up.jpg"
+      "url": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bull-market-vs-bear-market-hyperliquid.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Circle Q2 revenue falls short of Wall Street estimates",
-      "summary": "Stablecoin issuer Circle reported $701 million in Q2 revenue, missing Wall Street estimates of about $713 million.",
+      "title": "Zeus Wallet taken offline after cyberattack, says no customer funds at risk",
+      "summary": "The self-custodial Bitcoin Lightning Network wallet disabled infrastructure after an incident and founder Evan Kaloudis said no customer funds were lost and no Lightning vulnerability was found.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/circle-q2-revenue-misses-wall-street-estimates?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/komodo.jpg"
+      "url": "https://cointelegraph.com/news/zeus-offline-cyberattack-says-no-funds-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-governance-issues-and-challenges.jpg"
+    },
+    {
+      "cat": "Science",
+      "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
+      "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "A star’s violent death exposed a hidden supermassive black hole",
+      "summary": "A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core. It revealed itself only after shredding a passing",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Forget the sperm race: Fertilization may depend on teamwork",
+      "summary": "Millions of sperm do not always compete alone—some species send them into action as coordinated teams. A sweeping evolutionary study found that this cooperation is widespread among arthropods and has repeatedly emerged a",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm"
     },
     {
       "cat": "Science",
@@ -241,38 +262,38 @@
     },
     {
       "cat": "Science",
-      "title": "A solar eclipse and the Perseid meteor shower arrive on the same day",
-      "summary": "August brings four major celestial events, including a solar eclipse and the peak of the Perseid meteor shower. Dark New Moon skies could make the Perseids especially impressive, while Venus will blaze in the west after ",
+      "title": "567-million-year-old fossils rewrite the dawn of animal life",
+      "summary": "A spectacular fossil site in Canada contains 567-million-year-old creatures that may represent some of the earliest animals to move, reproduce sexually, and develop recognizable body plans. The discovery pushes key evolu",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034628.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm"
     },
     {
       "cat": "Science",
-      "title": "Scientists discover the brain cells that keep you motivated",
-      "summary": "A group of brain cells called orexin neurons appears to help us keep working when reaching a reward becomes increasingly difficult. Blocking their activity weakened motivation in rats, pointing to a possible new target f",
+      "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
+      "summary": "A new hollow nanoreactor mimics living cells to make hydrogen peroxide more efficiently using visible light. Its light-trapping cavity and proton-shuttling shell could open new possibilities for cleaner chemical manufact",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034622.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm"
     },
     {
-      "cat": "Science",
-      "title": "80-million-year-old snake brain reveals a surprising evolutionary secret",
-      "summary": "An exceptionally preserved snake fossil from Brazil reveals that early snakes were far more diverse than scientists once thought. Detailed brain reconstructions show that Tametara mirim was adapted for burrowing, while a",
+      "cat": "Health",
+      "title": "A drug already used for osteoporosis blocked spinal damage in a new study",
+      "summary": "Genetic changes may set off a chain reaction that causes the spine’s natural shock absorbers to harden and deteriorate. Zebrafish with a faulty collagen-related gene developed mineral buildup and spinal fusion similar to",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034619.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806051943.htm"
     },
     {
-      "cat": "Science",
-      "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
-      "summary": "A specially engineered chewing gum reduced HPV by up to 93% and nearly eliminated two bacteria linked to head and neck cancer. The treatment preserved beneficial mouth bacteria, raising hopes for a safer and more afforda",
+      "cat": "Health",
+      "title": "Dirty air may trigger painful rheumatoid arthritis flares",
+      "summary": "Tiny pollution particles from smoke, soot, and dust may worsen rheumatoid arthritis and raise the risk of painful flares, particularly after prolonged exposure. The findings suggest that avoiding poor air quality could b",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260805082452.htm"
     },
     {
-      "cat": "Science",
-      "title": "Stanford scientists discover immune cells that explode like microscopic bombs",
-      "summary": "Stanford researchers discovered immune cells in flatworms that explode within minutes, killing nearby bacteria and foreign cells before vanishing completely. Their unusually fast and localized attack could offer clues fo",
+      "cat": "Health",
+      "title": "THC medication made PTSD nightmares disappear for more than a third of patients",
+      "summary": "A prescription form of THC helped many people with PTSD escape recurring trauma-related nightmares, with more than one-third reporting that the nightmares disappeared completely after ten weeks. The results could point t",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260805082450.htm"
     },
     {
       "cat": "Health",
@@ -290,79 +311,58 @@
     },
     {
       "cat": "Health",
-      "title": "Cancer-fighting chewing gum cuts HPV levels by up to 93%",
-      "summary": "A specially engineered chewing gum reduced HPV by up to 93% and nearly eliminated two bacteria linked to head and neck cancer. The treatment preserved beneficial mouth bacteria, raising hopes for a safer and more afforda",
+      "title": "Nearly half of dementia cases may be linked to risks you can change",
+      "summary": "A long-term brain study found that common risks such as smoking, high blood pressure, heart disease, and high blood lipids were strongly linked to damage associated with vascular dementia. The findings suggest that healt",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Stanford scientists discover immune cells that explode like microscopic bombs",
-      "summary": "Stanford researchers discovered immune cells in flatworms that explode within minutes, killing nearby bacteria and foreign cells before vanishing completely. Their unusually fast and localized attack could offer clues fo",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Your brain may be wired to regain lost weight",
-      "summary": "Weight loss is not simply a test of willpower. The human brain evolved to protect body fat during times of scarcity, and it can treat a previously higher weight as the new normal, triggering stronger hunger, cravings, an",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080902.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Two new compounds could reveal hidden drivers of Alzheimer’s disease",
-      "summary": "Vanderbilt researchers created the first selective compound designed to inhibit TAOK-1, a poorly understood protein connected to Alzheimer’s disease. They also discovered a second compound that activates the entire TAOK ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080923.htm"
     },
     {
       "cat": "Culture",
-      "title": "Perez Hilton recovering in hospital after reports he self-harmed during livestream",
-      "summary": "Miami police told US media outlets the celebrity blogger had been \"safely recovered\" from his home.",
+      "title": "Stephen Bear jailed for harassing ex-partner Georgia Harrison",
+      "summary": "The reality TV contestant is back in prison after admitting breaching a restraining order.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cly5kvdkyjro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/aa9a/live/839f4170-90a2-11f1-b8ee-9b3c26ad07bb.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cewrjp2gj4ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png"
     },
     {
       "cat": "Culture",
-      "title": "Presenter and dog trainer Graeme Hall joins Strictly line-up",
-      "summary": "The author and presenter has appeared on Channel 5's Dogs Behaving (Very) Badly since its launch in 2017.",
+      "title": "Nadia Sawalha threatens ITV with legal action over Loose Women removal",
+      "summary": "The TV panellist claims she has been treated unfairly due to her public support of Palestinian rights.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7ql4xqg3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3b47/live/e95858a0-916d-11f1-b8ee-9b3c26ad07bb.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
+      "summary": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7061/live/e58771f0-9156-11f1-9c66-83c8d74d9669.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Meredith Kercher's sister criticises Amanda Knox comedy show",
+      "summary": "Stephanie Kercher asks Amanda Knox to think about Meredith's family ahead of staging a show in Edinburgh.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5767/live/b94fd010-919b-11f1-b8ee-9b3c26ad07bb.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Emmerdale actor Lawrence Robb joins Strictly line-up",
+      "summary": "The actor portrays Mackenzie 'Mack' Boyd in the ITV soap and has also appeared in I Hate Suzie.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c511/live/166f7290-90bc-11f1-b8f3-bf6a2c059a9b.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/367d/live/54d7d0e0-917f-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Fashion brand Jaded has ad banned for 'glamorising smoking'",
-      "summary": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
+      "title": "Oasis promoter granted Knebworth events licence",
+      "summary": "It is not the first time a return to Knebworth Park has been rumoured.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/01ef/live/29567dd0-909f-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Traitors star Joe Marler to become BBC's first celebrity Gladiator",
-      "summary": "The former rugby star will be known as Mauler when the fourth series airs in 2027, the BBC confirmed.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c39ep0eyk21o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/430e/live/08b586a0-90c4-11f1-b8f3-bf6a2c059a9b.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Gary Glitter appears in court over historical sex offence charges",
-      "summary": "The former singer, whose real name is Paul Gadd, appeared at Westminster Magistrates' Court via video.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8dlykejlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4785/live/81ea8370-901c-11f1-b783-f784376ffc11.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Kate Nash on Irish history, heritage and covering Sinéad O'Connor",
-      "summary": "Kate Nash will perform at The Mac as part of the fringe programme for the Fleadh Cheoil na hÉireann",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0e4dx8w9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/dca4/live/9f3c8330-90a6-11f1-b8ee-9b3c26ad07bb.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckgdm008emro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/41e1/live/fb5cb330-90db-11f1-9bd2-e326e95c9722.jpg"
     }
   ]
 }
