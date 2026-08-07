@@ -1,56 +1,56 @@
 {
-  "date": "2026-08-06",
-  "updated": "2026-08-06T14:27:43.655Z",
+  "date": "2026-08-07",
+  "updated": "2026-08-07T13:18:06.440Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Ukraine hits two oil refineries deep in Russian territory",
-      "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
+      "title": "Meta fined $567m in largest child safety ruling against social media giant",
+      "summary": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4e4c/live/d37c5f10-9184-11f1-9587-294e25c71c14.png"
+      "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1611/live/29966380-9240-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "World",
-      "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-      "summary": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "summary": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8759/live/683a1f90-9002-11f1-9dfb-fd4408d16f2f.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fa68/live/d3a158e0-9258-11f1-b9ff-37ae3aba3894.png"
     },
     {
       "cat": "World",
-      "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
-      "summary": "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the Covid-19 pandemic.",
+      "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+      "summary": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0e7a/live/d958d7c0-919c-11f1-9c53-0382b914b78c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/be34/live/a73aa440-923b-11f1-af4d-5164294a85c7.jpg"
     },
     {
       "cat": "World",
-      "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+      "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
+      "summary": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d689/live/d1fc7070-9171-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/eebf/live/20d98930-9212-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "World",
-      "title": "DR Congo river boat under quarantine for Ebola after five deaths",
-      "summary": "The health minister says all the passengers are being screened as a precautionary measure.",
+      "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+      "summary": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ce971plr2nvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ae81/live/19ae9c50-919e-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5720/live/f30947f0-9240-11f1-8a95-af174e9f8ab7.jpg"
     },
     {
       "cat": "World",
-      "title": "Livestreamer's murder raises questions over relations between Mexico's creators and cartels",
-      "summary": "The murder of content creator César Gastélum on Tuesday raises questions about why influencers are coming under attack.",
+      "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9dwz8p30o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9ba2/live/6817d820-918f-11f1-8e84-2d20095c7a4b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7895/live/b9cd13f0-922b-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,20 @@
     },
     {
       "cat": "Markets",
+      "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
+      "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate held steady at 4.2%, according to the Dow Jones consensus.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "The July jobs numbers are due out Friday. Here's what to expect",
+      "summary": "Nonfarm payrolls are expected to post a gain of just 83,000 with an unchanged unemployment rate at 4.2%.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Private companies added just 44,000 workers in July, below expectations, ADP reports",
       "summary": "Hiring at private companies slowed considerably in July, with most of the job growth coming health care.",
       "source": "cnbc.com",
@@ -123,114 +137,100 @@
       "url": "https://www.cnbc.com/2026/07/31/these-fed-alternative-indicators-show-inflation-is-at-lowest-in-years.html"
     },
     {
-      "cat": "Markets",
-      "title": "China's factory activity unexpectedly contracts in July on demand slump, typhoons",
-      "summary": "China's factory activity unexpectedly contracted in July, as the export rush that powered a second-quarter rebound began to unwind.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/07/31/china-pmi-factory-activity-economic-growth-exports-.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "U.S. economy slowed to 1.5% growth rate in Q2; June core inflation at 3.3%",
-      "summary": "While the GDP number was below expectations, the miss appeared to come from a decline in federal government spending and inventories.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/07/30/us-economy-slowed-to-1point5percent-growth-rate-in-q2-june-core-inflation-at-3point3percent.html"
+      "cat": "Tech & AI",
+      "title": "Remembering the pre-Google web, when search was an experiment",
+      "summary": "\"Most people have completely forgotten how chaotic it really was.\"",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/90s-search-engines-1152x648-1785895106.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "AI isn’t enough to protect social media communities from AI",
-      "summary": "Why humans need to moderate humans.",
+      "title": "Organ donation group accused of trying to take living man's organs faces shutdown",
+      "summary": "The organization, Network for Hope, \"strongly disagrees\" with Trump admin's decision.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2259634870.jpg"
+      "url": "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-1328467063.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Thousands of servers can be backdoored by exploiting buggy motherboard controllers",
-      "summary": "Baseboard management controllers from the world's biggest manufacturers are a security mess.",
+      "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+      "summary": "Russian attack? Explosive drone targeted parked aircraft at Leipzig airport.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Drone-and-Antonov-cargo-plane.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Schwartz confirmed as CDC director after bungling confirmation hearing",
-      "summary": "Schwartz is well-qualified for the role, but crashed and burned in Senate hearing.",
+      "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+      "summary": "Musk continues appeal despite court loss and settlement with advertiser group.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/Rear_Admiral_Erica_Schwartz-1152x648-1776453357.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/Elon-Musk-X.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-      "summary": "Anthropic and OpenAI models’ unprompted actions forced halt to UK cyber tests.",
+      "title": "Suno hopes to go legit with watermarks for AI-generated music",
+      "summary": "Suno plans watermarks and download limits to stop \"large-scale abuse.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285051730.jpg"
+      "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/singing_robot_hero.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
-      "summary": "Reddit says the beloved site is used for some \"bad behavior.\"",
+      "title": "Anthropic will design its own hardware to power Claude",
+      "summary": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-1152x648-1785958066.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Hank Green found the AI problem that YouTube labels can’t catch",
-      "summary": "\"Slop\" isn't the only problem.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888.jpeg"
+      "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/amodei_header_1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Step App winds down after four years as FITFI token sinks",
-      "summary": "Move-to-earn project Step App will wind down services by Aug. 21 after four years, while its FITFI token trades 99.9% below its all-time high.",
+      "title": "Bitcoiners turn to dice throws as self-custody setups are re-evaluated",
+      "summary": "Dice entropy may become the new gold standard after the Coldcard hack",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/step-app-winds-down-four-years-move-to-earn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-coinflares-exit-and-the-future-of-cloud-mining-2.jpg"
+      "url": "https://cointelegraph.com/features/bitcoiners-turn-to-dice-throws-as-self-custody-setups-are-re-evaluated?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong.png"
     },
     {
       "cat": "Crypto",
-      "title": "10 weirdest things ever tokenized... including farts",
-      "summary": "Tokenized cows may have gone viral, but they’re just the latest in a long line of strange things to find a home onchain, from farts, to human skin and destroyed artworks",
+      "title": "Russia cracks down on 9 crypto exchanges in Moscow City",
+      "summary": "Russia has shut down nine unregistered crypto exchanges in Moscow, with the FSB alleging they helped move scam proceeds abroad through Ukrainian call centers.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/the-10-weirdest-things-already-finding-a-home-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/the-10-weirdest-real-world-assets-being-tokenized.jpg"
+      "url": "https://cointelegraph.com/news/russia-shuts-down-crypto-exchanges-moscow-city?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-russias-law-on-crypto-whats-the-latest.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title": "CEX perpetual futures volume falls to $4T, lowest since late 2023",
+      "summary": "Perpetual futures trading volume on crypto exchanges fell to its lowest level in 31 months, while perpetual trading on decentralized platforms neared a one-year low.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+      "url": "https://cointelegraph.com/news/cex-futures-volume-falls-4t-july-lowest-level-2023?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-market-trading-trader-breaking-news.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Blockchain.com wins Cayman custody license after MiCA and FCA approvals",
-      "summary": "Blockchain.com secured a VASP custody license from the Cayman Islands Monetary Authority, expanding its regulated crypto services in the region.",
+      "title": "Binance Bitcoin volume ratio hits record as futures outweigh spot eight times over",
+      "summary": "Binance saw a record divergence between daily spot and futures trading volumes, with the latter reaching nearly $58 billion.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/blockchain-com-cayman-custody-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-follow-up-contract-blockchain2.jpg"
+      "url": "https://cointelegraph.com/markets/binance-bitcoin-volume-ratio-hits-record-as-futures-outweigh-spot-eight-times-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/lost-bitcoins-etf-hack-hacking-falling-jeans.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Hyperliquid RWA contracts grow to 32% of trading activity in Q2",
-      "summary": "Tokenized real-world assets accounted for more than a third of Hyperliquid’s quarterly trading volume, generating 6.6% of the protocol’s $169 million quarterly revenue.",
+      "title": "CleanSpark misses Wall Street revenue estimates as shares sink",
+      "summary": "CleanSpark’s shares fell 5.5% on Thursday after the Bitcoin miner reported $138 million in quarterly revenue, narrowly missing Wall Street’s consensus estimate.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/hyperliquid-rwa-contracts-rise-32-trading-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bull-market-vs-bear-market-hyperliquid.jpg"
+      "url": "https://cointelegraph.com/news/cleanspark-wall-street-revenue-estimates-shares-sink?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Zeus Wallet taken offline after cyberattack, says no customer funds at risk",
-      "summary": "The self-custodial Bitcoin Lightning Network wallet disabled infrastructure after an incident and founder Evan Kaloudis said no customer funds were lost and no Lightning vulnerability was found.",
+      "title": "Stripe-owned Bridge joins EU MiCA register after Luxembourg approval",
+      "summary": "Stripe-owned Bridge has entered the EU MiCA register following Luxembourg approval, joining regulated providers under the bloc’s crypto framework.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/zeus-offline-cyberattack-says-no-funds-at-risk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-crypto-governance-issues-and-challenges.jpg"
+      "url": "https://cointelegraph.com/news/bridge-mica-stablecoin-issuer-esma-register?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-to-read-a-stablecoin-attestation-report-eu-mica.jpg"
     },
     {
       "cat": "Science",
@@ -241,38 +241,38 @@
     },
     {
       "cat": "Science",
-      "title": "A star’s violent death exposed a hidden supermassive black hole",
-      "summary": "A supermassive black hole has been found lurking about 30,000 light-years from the center of its galaxy—the first dormant black hole detected so far from a galactic core. It revealed itself only after shredding a passing",
+      "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
+      "summary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260805082457.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm"
     },
     {
       "cat": "Science",
-      "title": "Forget the sperm race: Fertilization may depend on teamwork",
-      "summary": "Millions of sperm do not always compete alone—some species send them into action as coordinated teams. A sweeping evolutionary study found that this cooperation is widespread among arthropods and has repeatedly emerged a",
+      "title": "Scientists find unexpected life on Ötzi the Iceman’s 5,300-year-old body",
+      "summary": "More than 5,000 years after his death, Ötzi the Iceman is still hosting a remarkable mix of ancient and modern microorganisms. Researchers separated microbes that lived in his body during his lifetime from those that arr",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260805082455.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050721.htm"
     },
     {
       "cat": "Science",
-      "title": "A colossal magma system has been hiding beneath Tuscany",
-      "summary": "A massive magma reservoir has been detected deep beneath Tuscany, despite showing no obvious signs at the surface. Scientists mapped the roughly 6,000-cubic-kilometer body using natural ground vibrations recorded by doze",
+      "title": "Earth’s molten core suddenly reversed direction — and scientists don’t know why",
+      "summary": "Earth’s molten iron core unexpectedly reversed direction beneath the Pacific, revealing a dramatic change in the hidden engine that creates our planet’s magnetic field. Satellite data suggest the surge is already weakeni",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034645.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050713.htm"
     },
     {
       "cat": "Science",
-      "title": "567-million-year-old fossils rewrite the dawn of animal life",
-      "summary": "A spectacular fossil site in Canada contains 567-million-year-old creatures that may represent some of the earliest animals to move, reproduce sexually, and develop recognizable body plans. The discovery pushes key evolu",
+      "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
+      "summary": "A new wearable patch may help people reach REM sleep faster and remain there longer without medication or surgery. In a study of 28 participants, the device shortened the time to REM by 43 minutes and extended it by abou",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034644.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm"
     },
     {
       "cat": "Science",
-      "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
-      "summary": "A new hollow nanoreactor mimics living cells to make hydrogen peroxide more efficiently using visible light. Its light-trapping cavity and proton-shuttling shell could open new possibilities for cleaner chemical manufact",
+      "title": "Scientists discover a hidden brain shift that begins around age 50",
+      "summary": "Beginning around age 50, the brain’s memory center appears to lose many of its longtime immune cells and replace them with more inflammatory ones. This surprising shift may help explain how normal aging sets the stage fo",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050700.htm"
     },
     {
       "cat": "Health",
@@ -283,46 +283,62 @@
     },
     {
       "cat": "Health",
-      "title": "Dirty air may trigger painful rheumatoid arthritis flares",
-      "summary": "Tiny pollution particles from smoke, soot, and dust may worsen rheumatoid arthritis and raise the risk of painful flares, particularly after prolonged exposure. The findings suggest that avoiding poor air quality could b",
+      "title": "Scientists tracked 12 people in Antarctica for 10 months—what happened could shape future Mars missions",
+      "summary": "A ten-month Antarctic experiment found that astronauts may struggle not only with loneliness but also with spending too much time around the same people. Frequent contact was linked to greater tension and mistrust, while",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260805082452.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm"
     },
     {
       "cat": "Health",
-      "title": "THC medication made PTSD nightmares disappear for more than a third of patients",
-      "summary": "A prescription form of THC helped many people with PTSD escape recurring trauma-related nightmares, with more than one-third reporting that the nightmares disappeared completely after ten weeks. The results could point t",
+      "title": "Vitamin C may fight cancer — but not the way scientists once thought",
+      "summary": "Linus Pauling was widely mocked for claiming that vitamin C could fight cancer, especially after trials using vitamin C pills showed no benefit. Researchers now know that intravenous vitamin C reaches vastly higher conce",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260805082450.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050717.htm"
     },
     {
       "cat": "Health",
-      "title": "Sitting up straight may improve your mood and decision-making",
-      "summary": "A simple change in posture may subtly affect how people feel and make decisions. Participants who sat upright reported greater feelings of pride and took more successful risks in a virtual balloon game than those who hun",
+      "title": "Wearable ultrasound patch boosts REM sleep without drugs or surgery",
+      "summary": "A new wearable patch may help people reach REM sleep faster and remain there longer without medication or surgery. In a study of 28 participants, the device shortened the time to REM by 43 minutes and extended it by abou",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034624.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050709.htm"
     },
     {
       "cat": "Health",
-      "title": "Scientists discover the brain cells that keep you motivated",
-      "summary": "A group of brain cells called orexin neurons appears to help us keep working when reaching a reward becomes increasingly difficult. Blocking their activity weakened motivation in rats, pointing to a possible new target f",
+      "title": "Scientists discover a hidden brain shift that begins around age 50",
+      "summary": "Beginning around age 50, the brain’s memory center appears to lose many of its longtime immune cells and replace them with more inflammatory ones. This surprising shift may help explain how normal aging sets the stage fo",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260804034622.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260806050700.htm"
     },
     {
       "cat": "Health",
-      "title": "Nearly half of dementia cases may be linked to risks you can change",
-      "summary": "A long-term brain study found that common risks such as smoking, high blood pressure, heart disease, and high blood lipids were strongly linked to damage associated with vascular dementia. The findings suggest that healt",
+      "title": "New autism therapy shows surprising benefits even in adult mice",
+      "summary": "Blocking the glycine transporter SLC6A20 restored important brain signaling and improved social, communication, and repetitive behaviors in autism-related mouse models. The treatment also worked in human brain organoids ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260803080923.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260805082508.htm"
     },
     {
       "cat": "Culture",
-      "title": "Stephen Bear jailed for harassing ex-partner Georgia Harrison",
-      "summary": "The reality TV contestant is back in prison after admitting breaching a restraining order.",
+      "title": "Lauryn Hill and Wyclef ‘in an amazing place’ as fans hope for new Fugees album after 30 years",
+      "summary": "Hill says the band have gone through \"an incredible healing process\", raising the prospect of new music.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cewrjp2gj4ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0f2c/live/60f697b0-1203-11ef-82e8-cd354766a224.png"
+      "url": "https://www.bbc.co.uk/news/articles/cdew6jxjw3do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/79c8/live/085c6900-9257-11f1-af4d-5164294a85c7.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Amanda Knox defends Fringe comedy show after claims it will 'trivialise violence'",
+      "summary": "Knox, who was convicted and later acquitted of the murder of a British student, said she does not downplay the seriousness of Meredith Kercher's death.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7pyv3y7no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e531/live/d526e280-91cb-11f1-88b2-71498394d99c.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "'Put your phone down': K-pop band weighs in on concert etiquette",
+      "summary": "Cortis's plea has drawn mixed reactions in a fandom that's obsessed with capturing every moment.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c39ep3p0ld1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9a72/live/bd625240-9173-11f1-b59e-3d7a9337129d.jpg"
     },
     {
       "cat": "Culture",
@@ -334,35 +350,19 @@
     },
     {
       "cat": "Culture",
-      "title": "Rihanna is 'in the studio', says partner A$AP Rocky",
-      "summary": "The singer, who last released a full album in 2016, is in the studio and \"cooking\", her partner said.",
+      "title": "Stephen Bear jailed for harassing ex-partner Georgia Harrison",
+      "summary": "The reality TV contestant is back in prison after admitting a harassment charge regarding Georgia Harrison.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c4gwvvw9k1xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7061/live/e58771f0-9156-11f1-9c66-83c8d74d9669.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cewrjp2gj4ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a942/live/ea888120-91a2-11f1-964d-6f76397ea067.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Meredith Kercher's sister criticises Amanda Knox comedy show",
-      "summary": "Stephanie Kercher asks Amanda Knox to think about Meredith's family ahead of staging a show in Edinburgh.",
+      "title": "TikTok star Sydney Towle, who shared her cancer journey online, dies aged 26",
+      "summary": "Towle was known for chronicling her hopes and struggles as a young person living with cancer.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cy07pd7qe2ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5767/live/b94fd010-919b-11f1-b8ee-9b3c26ad07bb.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Emmerdale actor Lawrence Robb joins Strictly line-up",
-      "summary": "The actor portrays Mackenzie 'Mack' Boyd in the ITV soap and has also appeared in I Hate Suzie.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/367d/live/54d7d0e0-917f-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Oasis promoter granted Knebworth events licence",
-      "summary": "It is not the first time a return to Knebworth Park has been rumoured.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdm008emro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/41e1/live/fb5cb330-90db-11f1-9bd2-e326e95c9722.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cn4n1eyze05o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fc4b/live/00c60560-91bd-11f1-af4d-5164294a85c7.jpg"
     }
   ]
 }
