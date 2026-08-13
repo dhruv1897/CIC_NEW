@@ -1,56 +1,56 @@
 {
-  "date": "2026-08-12",
-  "updated": "2026-08-12T13:24:29.501Z",
+  "date": "2026-08-13",
+  "updated": "2026-08-13T13:25:53.642Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
-      "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2e32/live/76fded00-9632-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4d25/live/1d504a60-964f-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "World",
-      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-      "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ca5a/live/b1c8cd30-95cc-11f1-a7ab-8b30adf0800a.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1476/live/59a2ade0-96fa-11f1-bb0e-6d40312a1485.png"
     },
     {
       "cat": "World",
-      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7a59/live/21ee2fc0-963f-11f1-8414-97750c5a4202.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d7e6/live/6760bdb0-96e0-11f1-9b96-77d3dc534330.jpg"
     },
     {
       "cat": "World",
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/22b5/live/2509dcc0-9641-11f1-8414-97750c5a4202.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/45e0/live/2fd6c2d0-96a5-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "World",
-      "title": "US inflation eases as food costs cool",
-      "summary": "Annual US inflation dipped to 3.4% in July, with food costs slowing and housing keeping prices slightly higher.",
+      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
+      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a864/live/f178bef0-9648-11f1-9d8e-b1efdebf2f99.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a017/live/b5f275d0-96e1-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "cat": "World",
-      "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-      "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
+      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bde6/live/0ce8a9c0-963a-11f1-b809-7db91972344e.png"
+      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/09b3/live/6cb77580-9701-11f1-b72c-211ea4e0afc4.jpg"
     },
     {
       "cat": "Business",
@@ -96,273 +96,273 @@
     },
     {
       "cat": "Markets",
+      "title": "Wholesale prices were flat in July, below expectations for 0.2% increase",
+      "summary": "The producer price index was expected to increase by 0.2% in July, according to the Dow Jones consensus.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/13/wholesale-prices-were-flat-in-july-below-expectations-for-0point2percent-increase.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
+      "summary": "The U.K. economy is showing further signs of a long-awaited rebound, but the picture is complicated by the fallout from the Iran war and high energy prices.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "U.S. budget deficit surged in July to highest level since March 2021",
+      "summary": "Beyond the big single-month jump, the collective red ink over the 10 months of the fiscal year rose to nearly $1.8 trillion, surpassing the same period in 2025.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "'Nobody wants it': Lettuce prices see record-setting plunge as cyclospora spooks consumers",
+      "summary": "Lettuce prices posted their sharpest month-over-month decline on record as diners reconsider the vegetable amid the cyclospora outbreak.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/12/lettuce-prices-cyclospora-cpi.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Here are five key takeaways from the July CPI inflation report",
+      "summary": "Readings for July on the prices consumers pay for goods and services came in pretty much on target.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/12/here-are-five-key-takeaways-from-the-july-cpi-inflation-report.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Consumer prices rose 0.1% in July, as expected, putting the annual rate at 3.4%",
       "summary": "The consumer price index was expected to increase 0.1% in July, with an annual rate of 3.4%.",
       "source": "cnbc.com",
       "url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
     },
     {
-      "cat": "Markets",
-      "title": "AI’s costly buildout complicates the Fed’s inflation fight",
-      "summary": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center buildout create inflation pressures that complicate the Fed’s job.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "An inflation report Wednesday should be a big deal for the Fed. Here's what to expect",
-      "summary": "The consumer price index is expected to show only a modest increase for July.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Here are three key takeaways from the disappointing July jobs report",
-      "summary": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "U.S. economy unexpectedly lost 23,000 jobs in July",
-      "summary": "Nonfarm payrolls were projected to increase by 83,000 in July while the unemployment rate would hold steady at 4.2%, according to the Dow Jones consensus.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/08/07/jobs-report-july-2026.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "The July jobs numbers are due out Friday. Here's what to expect",
-      "summary": "Nonfarm payrolls are expected to post a gain of just 83,000 with an unchanged unemployment rate at 4.2%.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/08/06/the-july-jobs-numbers-are-due-out-friday-heres-what-to-expect.html"
+      "cat": "Tech & AI",
+      "title": "Claude's new Scarlet Letter watermark is invisible — for now",
+      "summary": "The mark flags anything Claude processed, even human writing it only edited.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Did poop enable the evolution of complex animals?",
-      "summary": "In a recent study, evolution gets even messier than usual.",
+      "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
+      "summary": "Boy's unusual symptoms could help identify the next case sooner.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/figureH-1.jpg"
+      "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2163387581.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-      "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
+      "title": "The web’s newest weapon against AI scrapers is a font",
+      "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-1233218421-scaled-1152x648-1786493250.jpg"
+      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261896328.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Trump wants Big Pharma to split MMR vaccine; Big Pharma thinks it's idiotic",
-      "summary": "It took just hours for the leading pharma group to reject the recommendations.",
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/08/trump-wants-big-pharma-to-split-mmr-vaccine-big-pharma-thinks-its-idiotic/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2236338199.jpg"
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Russian drones found near vital European offshore gas site, get blown up",
-      "summary": "This follows many drone incursions into Romania and a failed attack in Germany.",
+      "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
+      "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/08/romania-destroys-russian-drones-drifting-near-vital-european-offshore-gas-site/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-4.40.55-PM.png"
+      "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/glueball1-1152x648-1786561096.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Chrome adopts what may be the best protection yet against account takeovers",
-      "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/phishing-account-takeover.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Meta can't stop states' $1.4 trillion lawsuit from going to trial",
-      "summary": "Judges tell Meta that Section 230 provides a defense, not immunity from lawsuits.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-cant-stop-states-1-4-trillion-lawsuit-from-going-to-trial/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/facebook-instagram-1152x648-1761326412.jpg"
+      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Fidelity files with SEC to add staking to Ethereum ETF",
-      "summary": "Fidelity plans to add staking to its Ether fund, with 85% of rewards retained by FETH and quarterly cash distributions planned for investors.",
+      "title": "Bitmine’s $257M annualized staking income ‘fills’ operational gaps, share buybacks: analysts",
+      "summary": "Bitmine’s Ether staking revenue is an important financial buffer that fills financial gaps and provides recurring revenue streams beyond Ether’s price appreciation, analysts told Cointelegraph.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/fidelity-staking-ethereum-etf-sec-filing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/option-1-bold-white-montserrat.jpeg"
+      "url": "https://cointelegraph.com/news/bitmines-257m-staking-income-operational-gaps-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/eth-bitmine.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Binance, RedotPay clash over fate of Singapore lawsuit",
-      "summary": "Amid a $473 million legal dispute, RedotPay says it expects Binance to end its Singapore case, while Binance says its claims remain active.",
+      "title": "MUFG PoC to bring Japanese government bond repo transactions onchain",
+      "summary": "MUFG’s experiment plans to bring Japanese government bond repo transactions onchain to achieve 24/7 settlement, as well as improved capital and operational efficiency.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-status-of-prediction-market-battle.png"
+      "url": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-issue-bonds-on-blockchain-how-significant-is-this-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low",
-      "summary": "Bitcoin miners showed a “concerning” trend of pivoting to AI amid a profit squeeze as transaction-fee income barely bounced from 10-year lows of 0.52% of revenue.",
+      "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
+      "summary": "The SEC said it will not pursue enforcement action if Franklin Templeton’s funds start investing cash in the asset manager’s own tokenized money market fund.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-is-staking-the-answer-to-cryptocurrencys-mining-problems.jpg"
+      "url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/rwa.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Crypto companies urge AI firms to give Bitcoin developers early access",
-      "summary": "The Bitcoin Policy Institute and other industry participants urged AI companies to offer early access to their frontier models to aid Bitcoin and open-source developers in their cybersecurity efforts.",
+      "title": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
+      "summary": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of “onchain finance,” but have sacrificed some of their inherent immutability and decentralization.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/crypto-companies-ai-firms-bitcoin-developers-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/blockchain-city-people-future-ai.jpg"
+      "url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/andre-cronje.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Inside the fake crypto startup that fooled North Korean IT workers",
-      "summary": "Suspected North Korean IT workers joined a fake crypto startup — without realizing their every move was being tracked to extract valuable intel.",
+      "title": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
+      "summary": "Binance bStocks became the second-largest tokenized stock issuer less than two months after launch, narrowly ahead of Kraken’s xStocks.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/inside-the-fake-crypto-startup-that-fooled-north-korean-it-workers.jpg"
+      "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-binance-plans-to-bring-tokenized-us-stocks.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Harmony considers rollback after suspected exploit inflates ONE supply",
-      "summary": "Harmony is working with exchanges to freeze funds and is preparing a patch after claims that 2.8 billion unauthorized ONE hit trading platforms.",
+      "title": "Bitcoin speculators keep BTC price ‘pinned’ below $68.7K: Glassnode",
+      "summary": "Bitcoin’s weakness near range highs stems from short-term holders trying to break even on underwater BTC investments, Glassnode says.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/armony-rollback-alleged-one-token-mint?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-top-hacks-so-far-4.jpg"
+      "url": "https://cointelegraph.com/markets/bitcoin-speculators-in-the-red-keep-price-pinned-below-687k-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-market-volatility-bitcoin-2.jpg"
     },
     {
       "cat": "Science",
-      "title": "Scientists discover a hidden switch inside silver nanocatalysts",
-      "summary": "Silver nanocatalysts have been found to switch where they perform their most important reactions depending on whether a solid oxide cell is making electricity or hydrogen. The discovery could enable smarter catalyst desi",
+      "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
+      "summary": "Researchers have found a clever new way to map a part of Earth’s upper atmosphere that is notoriously difficult to observe. Using orbital data from roughly 1,200 Starlink satellites, they reconstructed changes in atmosph",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260810015714.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm"
     },
     {
       "cat": "Science",
-      "title": "The sun will vanish over Europe in a rare total solar eclipse: Watch live",
-      "summary": "A total solar eclipse will plunge parts of Europe into darkness on August 12, 2026, with Spain offering some of the best views. ESA will livestream the spectacle from the Javalambre Observatory, combining telescope feeds",
+      "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
+      "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260810015709.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm"
     },
     {
       "cat": "Science",
-      "title": "For 15,000 years, humans and dogs have been changing each other",
-      "summary": "Dogs have been shaping—and being shaped by—humans for about 15,000 years, evolving from early partners of hunter-gatherers into an astonishing range of specialized companions. Across the globe, they adapted alongside peo",
+      "title": "James Webb captures a cosmic lion sculpted by a dying star",
+      "summary": "James Webb has captured a striking new infrared view of NGC 2392, the Lion Nebula, revealing the dramatic aftermath of a dying Sun-like star. At its center, a scorching white dwarf is blasting radiation into surrounding ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260810015700.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm"
     },
     {
       "cat": "Science",
-      "title": "60,000-year-old ostrich eggshell engravings reveal a surprisingly sophisticated human mind",
-      "summary": "More than 60,000 years ago, humans in southern Africa were engraving ostrich eggshells with intricate geometric patterns that appear far more organized than previously realized. Researchers found recurring grids, paralle",
+      "title": "The adult brain can repair itself better than scientists thought",
+      "summary": "The adult brain may be far better at repairing itself than scientists once believed. In mice, researchers discovered a special group of support cells called astrocytes that respond to damaged brain tissue by rebuilding l",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808235013.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm"
     },
     {
       "cat": "Science",
-      "title": "Potatoes may have given Indigenous Andeans a digestive superpower",
-      "summary": "The rise of the potato in the Andes appears to have left a lasting mark on human DNA. Indigenous Peruvians carry exceptionally high numbers of a starch-digestion gene, likely because people with more copies gained an evo",
+      "title": "A strange crystal made of electrons just revealed its hidden motion",
+      "summary": "Physicists have found a new way to peer inside one of matter’s most elusive quantum states: the Wigner crystal, where electrons stop behaving like independent particles and organize into a crystal-like pattern. By shinin",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808235005.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm"
     },
     {
       "cat": "Science",
-      "title": "240-million-year-old reptile fossil reveals a lost chapter before dinosaurs and crocodiles",
-      "summary": "A 240-million-year-old reptile discovered in Brazil is revealing what evolution looked like just before the rise of dinosaurs and crocodiles. The small predator had unusually positioned legs that may have allowed it to m",
+      "title": "“Cannot be explained” – New super steel stuns scientists",
+      "summary": "Scientists have created an unusually corrosion-resistant stainless steel that could replace costly titanium components used to produce green hydrogen. The breakthrough could reduce structural material costs by roughly 40",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808234956.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm"
     },
     {
       "cat": "Health",
-      "title": "New GLP-1 pill delivers up to 12% weight loss in 36 weeks",
-      "summary": "An experimental GLP-1 pill helped people with obesity or overweight lose as much as 12.1% of their body weight in just 36 weeks. Unlike injectable drugs such as Wegovy and Ozempic, aleniglipron is a small molecule that c",
+      "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
+      "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm"
     },
     {
       "cat": "Health",
-      "title": "1 in 5 people may carry this hidden genetic heart risk",
-      "summary": "Very high levels of the inherited cholesterol-related particle Lp(a) were linked to a greater risk of major cardiovascular events, particularly stroke and cardiovascular death, in a study of more than 20,000 people. Sinc",
+      "title": "The adult brain can repair itself better than scientists thought",
+      "summary": "The adult brain may be far better at repairing itself than scientists once believed. In mice, researchers discovered a special group of support cells called astrocytes that respond to damaged brain tissue by rebuilding l",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808235011.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm"
     },
     {
       "cat": "Health",
-      "title": "Wine, beer, or spirits? Massive study finds a surprising health divide",
-      "summary": "A study tracking more than 340,000 adults for over a decade found that heavy drinking increased the risk of death regardless of beverage type. At lower levels, however, the picture became more surprising: beer, cider, an",
+      "title": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
+      "summary": "Scientists have pinpointed a brain network—and its distinctive electrical rhythm—that appears to drive the benefits of deep brain stimulation for Parkinson’s disease. The discovery could lead to more precise, personalize",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808235008.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260811011148.htm"
     },
     {
       "cat": "Health",
-      "title": "A daily glass of fruit juice was linked to lower depression scores",
-      "summary": "A daily glass of 100% fruit juice or a smoothie may help improve more than just fruit intake. In a small four-week trial, participants who added one to a healthier diet showed significantly lower depression scores, hinti",
+      "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
+      "summary": "Ancient remains from Vietnam suggest diseases like yaws may have been passed from mother to child thousands of years ago, a form of transmission often assumed to indicate syphilis. The discovery could overturn how scient",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808235003.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260811011143.htm"
     },
     {
       "cat": "Health",
-      "title": "Scientists find the strength training “sweet spot” for a longer life",
-      "summary": "Just a couple of hours of strength training each week could have surprisingly powerful effects on longevity. People who lifted weights for around 90 to 120 minutes weekly had a 13% lower risk of dying early, with especia",
+      "title": "MIT neuroscientists discover the brain can reason without words",
+      "summary": "MIT neuroscientists have found striking evidence that language and logical reasoning are powered by separate systems in the brain. Even people with severe language impairments caused by stroke were able to solve challeng",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808234959.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260811011140.htm"
     },
     {
       "cat": "Health",
-      "title": "Frequent cannabis users wake up with their “stress hormone” already elevated",
-      "summary": "Frequent cannabis users may wake up with unusually high levels of the stress hormone cortisol, suggesting their daily stress rhythms could be disrupted. Researchers say the finding raises questions about whether using ca",
+      "title": "Ozempic may have revealed the brain’s hidden “craving center”",
+      "summary": "Ozempic-like drugs appear to weaken more than hunger—they may also reduce cravings for alcohol and other addictive substances. Scientists are increasingly tracing this effect to the lateral septum, a brain region that he",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260808234953.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260811011138.htm"
     },
     {
       "cat": "Culture",
-      "title": "Jasper Carrott says family is 'so proud' of Lucy Davis after cancer diagnosis",
-      "summary": "The actress, best known for playing Dawn in The Office, has revealed she has incurable breast cancer.",
+      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cy9w2d2ry0wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d9b7/live/d8894d30-9646-11f1-9d8e-b1efdebf2f99.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/09b3/live/6cb77580-9701-11f1-b72c-211ea4e0afc4.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Nicholas Hoult joins Harry Potter TV show - see the cast so far",
-      "summary": "Hoult, known for his roles in X-Men, Superman and Mad Max: Fury Road, will play Gilderoy Lockhart.",
+      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
+      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cy742kl562ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1642/live/e227c900-9634-11f1-acde-358da1a6646b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a017/live/b5f275d0-96e1-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Gavin & Stacey star Melanie Walters completes Strictly line-up",
-      "summary": "Walters, who played Gwen in the BBC sitcom, is the 15th and final celebrity to be announced for Strictly.",
+      "title": "Ayra Starr on her secret relationship and teasing Stevie Wonder",
+      "summary": "The musician shares the personal stories behind her third album, and the time she teased a legend.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cg74gvy8lgjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e246/live/ce315e80-962e-11f1-870d-5d08c49babb2.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c4gdxywn7y4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cc06/live/00d10150-9630-11f1-acde-358da1a6646b.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Spotify to add label for AI-generated artists and remove them from recommendations",
-      "summary": "The new feature, starting from mid-September, will tell listeners if an artist is AI-generated.",
+      "title": "New indictment alleges Nick Reiner was lying in wait before killing parents Rob and Michele Reiner",
+      "summary": "The allegation makes Reiner eligible for the death penalty - which has been paused in the state. Prosecutors have not said if they will pursue it.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cvgxzmgejd5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/865d/live/9d0547e0-9638-11f1-b809-7db91972344e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cx2l13p6g3vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6772/live/05b9b010-9688-11f1-9854-73d5e7b83e3b.jpg"
     },
     {
       "cat": "Culture",
-      "title": "UK's largest Harry Potter shop comes to London",
-      "summary": "Warner Bros says the flagship store will be inspired by magical Diagon Alley and open on 4 November.",
+      "title": "BTS star V reveals hearing loss battle during livestream",
+      "summary": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvme6g7n2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/367e/live/9fa3c290-955e-11f1-b96f-3d43158251d5.png"
+      "url": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0298/live/61c58c60-96cb-11f1-9bc6-975e8edc7c6e.jpg"
     },
     {
       "cat": "Culture",
-      "title": "I share my flat with a 6ft Terminator and 30 other props",
-      "summary": "Martin rents a one-bedroom-flat, but you would not say he lives alone.",
+      "title": "Acting pals Cumming and Henderson put 40-year friendship onto paper",
+      "summary": "Alan Cumming and Shirley Henderson's acting relationship goes back a long way, mirroring the show the pair have been reunited on.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/czjl39rk93jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/83d0/live/6ccd1b10-962a-11f1-870d-5d08c49babb2.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cdrvp5nl636o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/53cb/live/4288d0a0-9662-11f1-a654-971f565de941.jpg"
     }
   ]
 }
