@@ -1,56 +1,56 @@
 {
-  "date": "2026-08-13",
-  "updated": "2026-08-13T13:25:53.642Z",
+  "date": "2026-08-14",
+  "updated": "2026-08-14T13:20:57.143Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+      "title": "'Unprecedented' rain in Japan kills eight people",
+      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4d25/live/1d504a60-964f-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6687/live/c392f100-97c3-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "World",
-      "title": "UK defends seizing shadow fleet tanker after Putin threat",
-      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+      "title": "US says dozens of countries helped China dodge Trump's tariffs",
+      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1476/live/59a2ade0-96fa-11f1-bb0e-6d40312a1485.png"
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg"
     },
     {
       "cat": "World",
-      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-      "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d7e6/live/6760bdb0-96e0-11f1-9b96-77d3dc534330.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg"
     },
     {
       "cat": "World",
-      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/45e0/live/2fd6c2d0-96a5-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg"
     },
     {
       "cat": "World",
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
+      "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a017/live/b5f275d0-96e1-11f1-870d-5d08c49babb2.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2853/live/24aa5020-97cc-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "World",
-      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+      "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+      "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/09b3/live/6cb77580-9701-11f1-b72c-211ea4e0afc4.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3018/live/da9b86e0-97b0-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "Business",
@@ -138,99 +138,99 @@
     },
     {
       "cat": "Tech & AI",
-      "title": "Claude's new Scarlet Letter watermark is invisible — for now",
-      "summary": "The mark flags anything Claude processed, even human writing it only edited.",
+      "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
+      "summary": "\"We’ve never seen launch capacity so constrained.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/claude-psycho-watermark.jpg"
+      "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B.webp"
     },
     {
       "cat": "Tech & AI",
-      "title": "Toddler's tragic death from brain-destroying amoeba offers lessons for doctors",
-      "summary": "Boy's unusual symptoms could help identify the next case sooner.",
+      "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
+      "summary": "Samsung didn't have to change much this year because its hardware is just that good.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2163387581.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-4.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "The web’s newest weapon against AI scrapers is a font",
-      "summary": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+      "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
+      "summary": "Czinger used topological design and additive manufacturing to make the brakes.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2261896328.jpg"
+      "url": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CZV-1-Dynamic-Front-3-4.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+      "title": "US wait times for cancer surgeries are getting longer and longer",
+      "summary": "Study finds wait times for cancer surgeries hit 10-year high.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg"
+      "url": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/03/GettyImages-869535440.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
-      "summary": "“It’s the strongest evidence yet that particles dominated by a glueball component can exist in nature.”",
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/glueball1-1152x648-1786561096.jpg"
+      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "summary": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+      "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
+      "summary": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305.jpg"
+      "url": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-081226a-lg.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Bitmine’s $257M annualized staking income ‘fills’ operational gaps, share buybacks: analysts",
-      "summary": "Bitmine’s Ether staking revenue is an important financial buffer that fills financial gaps and provides recurring revenue streams beyond Ether’s price appreciation, analysts told Cointelegraph.",
+      "title": "Gemini posts $108M Q2 net loss despite 37% revenue growth",
+      "summary": "Credit card and staking revenue drove Gemini’s services growth in Q2 as exchange revenue fell 38% and trading volume dropped by two-thirds.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/bitmines-257m-staking-income-operational-gaps-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/eth-bitmine.jpg"
+      "url": "https://cointelegraph.com/news/gemini-45m-q2-revenue-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-libra-vs-gemini-as-us-regulation-pioneer2.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "MUFG PoC to bring Japanese government bond repo transactions onchain",
-      "summary": "MUFG’s experiment plans to bring Japanese government bond repo transactions onchain to achieve 24/7 settlement, as well as improved capital and operational efficiency.",
+      "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
+      "summary": "Shinhan Asset Management and Plume will test a tokenized fund using a Korean won-denominated ultra-short-term bond fund as its underlying asset.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/mufg-bring-japanese-government-bond-repo-transactions-onchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-japan-issue-bonds-on-blockchain-how-significant-is-this-1.jpg"
+      "url": "https://cointelegraph.com/news/shinhan-partners-plume-tokenized-fund-experiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/south-korea-crypto-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "SEC allows Franklin Templeton funds to invest in onchain money fund",
-      "summary": "The SEC said it will not pursue enforcement action if Franklin Templeton’s funds start investing cash in the asset manager’s own tokenized money market fund.",
+      "title": "Bitcoin eyes new August lows as Binance longs face ‘cleanout’",
+      "summary": "Bitcoin futures open interest on Binance fell alongside BTC price as analysis published on CryptoQuant flagged mounting pressure on leveraged longs.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/sec-franklin-templeton-funds-invest-onchain-money-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/rwa.jpg"
+      "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/analys-analytics-building-window-glass-red-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "‘DeFi doesn’t exist anymore,’ just onchain finance: Andre Cronje",
-      "summary": "Flying Tulip founder Andre Cronje contends that DeFi protocols have evolved into a new financial paradigm of “onchain finance,” but have sacrificed some of their inherent immutability and decentralization.",
+      "title": "RedotPay US IPO delayed amid regulatory, legal hurdles: Report",
+      "summary": "RedotPay’s US IPO has reportedly been delayed as it seeks regulatory approvals, while the company says it secured a US money transmitter license.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/defi-doesnt-exist-onchain-finance-andre-cronje?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/andre-cronje.jpg"
+      "url": "https://cointelegraph.com/news/redotpay-us-license-ipo-delay-binance-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-will-ripple-launch-an-ipo-bid-can-it-succeed0-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Binance bStocks pass xStocks as second-largest tokenized stock issuer",
-      "summary": "Binance bStocks became the second-largest tokenized stock issuer less than two months after launch, narrowly ahead of Kraken’s xStocks.",
+      "title": "JPMorgan cuts Polymarket banking ties over regulatory concerns: Report",
+      "summary": "JPMorgan Chase reportedly cut banking ties with Polymarket in October 2025 over regulatory concerns but remains open to an underwriting role if the platform goes public.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/binance-bstocks-second-largest-tokenized-stock-issuer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-how-binance-plans-to-bring-tokenized-us-stocks.jpg"
+      "url": "https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-jp-morgan-chase-and-crypto-recap.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin speculators keep BTC price ‘pinned’ below $68.7K: Glassnode",
-      "summary": "Bitcoin’s weakness near range highs stems from short-term holders trying to break even on underwater BTC investments, Glassnode says.",
+      "title": "Crypto payments barely register among euro area merchants, ECB finds",
+      "summary": "Crypto acceptance was just 0.2% online and remained below 1% at physical points of sale, while mobile payments gained ground.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-speculators-in-the-red-keep-price-pinned-below-687k-new-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/crypto-market-volatility-bitcoin-2.jpg"
+      "url": "https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-digitized-europe-the-shift-to-a-cashless-world-crypto.jpg"
     },
     {
       "cat": "Science",
@@ -318,51 +318,51 @@
     },
     {
       "cat": "Culture",
-      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
-      "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+      "title": "The Office's Lucy Davis 'overwhelmed' by kindness after cancer diagnosis",
+      "summary": "The Office actress thanks well-wishers for their support after she revealed she had incurable cancer.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/09b3/live/6cb77580-9701-11f1-b72c-211ea4e0afc4.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a6b1/live/4cc8daf0-97c1-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
-      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+      "title": "Eurovision proposes new rules to reduce political voting",
+      "summary": "Organisers reportedly say politically motivated voting is \"persistent\" and is seen as \"deeply worrying\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a017/live/b5f275d0-96e1-11f1-870d-5d08c49babb2.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/22e7/live/cc22ddd0-97c3-11f1-97a6-b387157e78db.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Ayra Starr on her secret relationship and teasing Stevie Wonder",
-      "summary": "The musician shares the personal stories behind her third album, and the time she teased a legend.",
+      "title": "Selena Gomez sued for alleged fraud over mental health company",
+      "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c4gdxywn7y4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cc06/live/00d10150-9630-11f1-acde-358da1a6646b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cfa5/live/c6ef47f0-97ae-11f1-bf42-fbbc01ed1ca6.jpg"
     },
     {
       "cat": "Culture",
-      "title": "New indictment alleges Nick Reiner was lying in wait before killing parents Rob and Michele Reiner",
-      "summary": "The allegation makes Reiner eligible for the death penalty - which has been paused in the state. Prosecutors have not said if they will pursue it.",
+      "title": "'She was just Gaynor from up the road' - villagers ready for emotional Bonnie Tyler goodbye",
+      "summary": "The Total Eclipse of the Heart star went global, but villagers felt they all knew her personally.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cx2l13p6g3vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6772/live/05b9b010-9688-11f1-9854-73d5e7b83e3b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c1m12vny944o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/76df/live/58218e40-97cd-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "Culture",
-      "title": "BTS star V reveals hearing loss battle during livestream",
-      "summary": "The K-pop star says he has suffered hearing issues for over two years before revealing it publicly this week.",
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
+      "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v1893n3eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0298/live/61c58c60-96cb-11f1-9bc6-975e8edc7c6e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2853/live/24aa5020-97cc-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Acting pals Cumming and Henderson put 40-year friendship onto paper",
-      "summary": "Alan Cumming and Shirley Henderson's acting relationship goes back a long way, mirroring the show the pair have been reunited on.",
+      "title": "Ski Sunday host Chemmy Alcott suffers collapsed lung after jumping into lake",
+      "summary": "The former GB Olympian posted images of her in hospital while on holiday in France.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvp5nl636o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/53cb/live/4288d0a0-9662-11f1-a654-971f565de941.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cp8xpg1380xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ba33/live/c6f87bb0-972a-11f1-a7ab-8b30adf0800a.jpg"
     }
   ]
 }
