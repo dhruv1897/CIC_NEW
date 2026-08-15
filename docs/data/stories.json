@@ -1,56 +1,56 @@
 {
-  "date": "2026-08-14",
-  "updated": "2026-08-14T13:20:57.143Z",
+  "date": "2026-08-15",
+  "updated": "2026-08-15T12:49:55.936Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "'Unprecedented' rain in Japan kills eight people",
-      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6687/live/c392f100-97c3-11f1-a7ab-8b30adf0800a.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "World",
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg"
     },
     {
       "cat": "World",
-      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-      "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+      "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg"
     },
     {
       "cat": "World",
-      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/20ef/live/60e60690-9733-11f1-bdbf-1b7b2a4a87a1.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "World",
-      "title": "Stolen Matisse artworks recovered by police in Brazil",
-      "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+      "title": "South Korea proposes talks to officially end war with North",
+      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2853/live/24aa5020-97cc-11f1-b2ab-0dd01740f9f6.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/28b1/live/1f13a3e0-9881-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "World",
-      "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
-      "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
+      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3018/live/da9b86e0-97b0-11f1-a7ab-8b30adf0800a.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6316/live/fb096c00-988f-11f1-870d-5d08c49babb2.jpg"
     },
     {
       "cat": "Business",
@@ -138,183 +138,215 @@
     },
     {
       "cat": "Tech & AI",
-      "title": "Rocket Report: Rocket Lab shows off its flexibility; Blue Origin's two-pad plan",
-      "summary": "\"We’ve never seen launch capacity so constrained.\"",
+      "title": "So much solar: Digging into the list of every US power plant that went online this year",
+      "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/News_LaunchComplex-36B.webp"
+      "url": "https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1322960375.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Samsung Galaxy Z Fold 8 Ultra review: The ultra foldable with an ultra price",
-      "summary": "Samsung didn't have to change much this year because its hardware is just that good.",
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "summary": "Screen-sharing bug lets remote hackers log in without a password.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-4.jpg"
+      "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/macbook-pro.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Organic-looking brake assemblies debut on new Czinger 21C Spyder",
-      "summary": "Czinger used topological design and additive manufacturing to make the brakes.",
+      "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+      "summary": "Airline-backed venture aims to develop a hybrid-electric commercial aircraft.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/CZV-1-Dynamic-Front-3-4.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "US wait times for cancer surgeries are getting longer and longer",
-      "summary": "Study finds wait times for cancer surgeries hit 10-year high.",
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/03/GettyImages-869535440.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
+      "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+      "summary": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/security-illustration-skull-1152x648-1783710141.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/kalshi-app-1152x648-1786725211.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Virgin Galactic wants your help naming its new Delta class spaceship",
-      "summary": "Will it be the VSS... Horizon, Explorer, Ascend or Apeiron?",
+      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/news-081226a-lg.jpg"
+      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Gemini posts $108M Q2 net loss despite 37% revenue growth",
-      "summary": "Credit card and staking revenue drove Gemini’s services growth in Q2 as exchange revenue fell 38% and trading volume dropped by two-thirds.",
+      "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
+      "summary": "Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/gemini-45m-q2-revenue-financial-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-libra-vs-gemini-as-us-regulation-pioneer2.jpg"
+      "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-paying-the-price-kalshi-banned-politician-for-insider-trading-2.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Shinhan Asset Management partners with Plume on tokenized fund pilot",
-      "summary": "Shinhan Asset Management and Plume will test a tokenized fund using a Korean won-denominated ultra-short-term bond fund as its underlying asset.",
+      "title": "Galaxy lowers CLARITY Act odds to 10%",
+      "summary": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/shinhan-partners-plume-tokenized-fund-experiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/south-korea-crypto-1.jpg"
+      "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin eyes new August lows as Binance longs face ‘cleanout’",
-      "summary": "Bitcoin futures open interest on Binance fell alongside BTC price as analysis published on CryptoQuant flagged mounting pressure on leveraged longs.",
+      "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
+      "summary": "Binance data showed Gen Z allocating a growing share of equity activity to ETFs while trading less frequently and using less leverage than older working-age cohorts.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-liquidation-cleanout-open-interest-falls-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/analys-analytics-building-window-glass-red-1.jpg"
+      "url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-can-actually-make-a-difference-by-helping-people-binance.png"
     },
     {
       "cat": "Crypto",
-      "title": "RedotPay US IPO delayed amid regulatory, legal hurdles: Report",
-      "summary": "RedotPay’s US IPO has reportedly been delayed as it seeks regulatory approvals, while the company says it secured a US money transmitter license.",
+      "title": "Ireland plans industry standards for illicit crypto use",
+      "summary": "The proposed policies under Ireland’s AML framework included stricter measures on transfers from private crypto wallets and overseas digital asset companies.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/redotpay-us-license-ipo-delay-binance-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-will-ripple-launch-an-ipo-bid-can-it-succeed0-1.jpg"
+      "url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/irish-dance-crypto.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "JPMorgan cuts Polymarket banking ties over regulatory concerns: Report",
-      "summary": "JPMorgan Chase reportedly cut banking ties with Polymarket in October 2025 over regulatory concerns but remains open to an underwriting role if the platform goes public.",
+      "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
+      "summary": "The value of the university endowment’s holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF dropped to about $12 million.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/jpmorgan-debanked-polymarket-regulatory-concerns-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-jp-morgan-chase-and-crypto-recap.jpg"
+      "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/studentcoinman.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Crypto payments barely register among euro area merchants, ECB finds",
-      "summary": "Crypto acceptance was just 0.2% online and remained below 1% at physical points of sale, while mobile payments gained ground.",
+      "title": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
+      "summary": "Payward grew revenue despite weaker crypto spot activity, as funded accounts jumped 42% and a growing share of revenue came from outside transaction-based activity.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/ecb-survey-0-2-euro-area-companies-accept-crypto-online?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-digitized-europe-the-shift-to-a-cashless-world-crypto.jpg"
+      "url": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-5-ways-to-make-money-with-cryptocurrency-ai.png"
     },
     {
       "cat": "Science",
-      "title": "Scientists turn Starlink into a giant scanner for Earth’s upper atmosphere",
-      "summary": "Researchers have found a clever new way to map a part of Earth’s upper atmosphere that is notoriously difficult to observe. Using orbital data from roughly 1,200 Starlink satellites, they reconstructed changes in atmosph",
+      "title": "A stress hormone may help the brain repair itself",
+      "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260812015212.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm"
     },
     {
       "cat": "Science",
-      "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
-      "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The",
+      "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
+      "summary": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in th",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm"
     },
     {
       "cat": "Science",
-      "title": "James Webb captures a cosmic lion sculpted by a dying star",
-      "summary": "James Webb has captured a striking new infrared view of NGC 2392, the Lion Nebula, revealing the dramatic aftermath of a dying Sun-like star. At its center, a scorching white dwarf is blasting radiation into surrounding ",
+      "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
+      "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched predicti",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260812015206.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm"
     },
     {
       "cat": "Science",
-      "title": "The adult brain can repair itself better than scientists thought",
-      "summary": "The adult brain may be far better at repairing itself than scientists once believed. In mice, researchers discovered a special group of support cells called astrocytes that respond to damaged brain tissue by rebuilding l",
+      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
+      "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm"
     },
     {
       "cat": "Science",
-      "title": "A strange crystal made of electrons just revealed its hidden motion",
-      "summary": "Physicists have found a new way to peer inside one of matter’s most elusive quantum states: the Wigner crystal, where electrons stop behaving like independent particles and organize into a crystal-like pattern. By shinin",
+      "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
+      "summary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm"
     },
     {
       "cat": "Science",
-      "title": "“Cannot be explained” – New super steel stuns scientists",
-      "summary": "Scientists have created an unusually corrosion-resistant stainless steel that could replace costly titanium components used to produce green hydrogen. The breakthrough could reduce structural material costs by roughly 40",
+      "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
+      "summary": "JWST has uncovered surprising clues that Neptune’s strange inner moons may be the wreckage of an ancient cosmic catastrophe. Researchers detected clay-like minerals on Larissa, Galatea, and Neptune’s rings that form in t",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm"
     },
     {
       "cat": "Health",
-      "title": "Scientists turn sheep’s wool into a material that helps regrow bone",
-      "summary": "Keratin extracted from sheep’s wool helped damaged bone regenerate in animals, producing tissue that was more organized and structurally similar to healthy bone than tissue grown with conventional collagen scaffolds. The",
+      "title": "A stress hormone may help the brain repair itself",
+      "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260812015210.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm"
     },
     {
       "cat": "Health",
-      "title": "The adult brain can repair itself better than scientists thought",
-      "summary": "The adult brain may be far better at repairing itself than scientists once believed. In mice, researchers discovered a special group of support cells called astrocytes that respond to damaged brain tissue by rebuilding l",
+      "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
+      "summary": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in th",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260812015158.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm"
     },
     {
       "cat": "Health",
-      "title": "Scientists discover a hidden brain rhythm that could improve Parkinson’s treatment",
-      "summary": "Scientists have pinpointed a brain network—and its distinctive electrical rhythm—that appears to drive the benefits of deep brain stimulation for Parkinson’s disease. The discovery could lead to more precise, personalize",
+      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
+      "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260811011148.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm"
     },
     {
       "cat": "Health",
-      "title": "3,500-year-old skeletons challenge what scientists thought they knew about syphilis",
-      "summary": "Ancient remains from Vietnam suggest diseases like yaws may have been passed from mother to child thousands of years ago, a form of transmission often assumed to indicate syphilis. The discovery could overturn how scient",
+      "title": "Taking the stairs could protect your heart and help you live longer",
+      "summary": "Simply choosing the stairs could have surprisingly big benefits for your heart and longevity. A large analysis involving more than 480,000 people found that regular stair climbers were 39% less likely to die from cardiov",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260811011143.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011029.htm"
     },
     {
       "cat": "Health",
-      "title": "MIT neuroscientists discover the brain can reason without words",
-      "summary": "MIT neuroscientists have found striking evidence that language and logical reasoning are powered by separate systems in the brain. Even people with severe language impairments caused by stroke were able to solve challeng",
+      "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
+      "summary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260811011140.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm"
     },
     {
       "cat": "Health",
-      "title": "Ozempic may have revealed the brain’s hidden “craving center”",
-      "summary": "Ozempic-like drugs appear to weaken more than hunger—they may also reduce cravings for alcohol and other addictive substances. Scientists are increasingly tracing this effect to the lateral septum, a brain region that he",
+      "title": "This common vitamin deficiency becomes far more dangerous when paired with belly fat",
+      "summary": "A large study of more than 5,500 adults over 50 found a striking combination of risk factors: abdominal obesity paired with vitamin D deficiency was linked to a 123% higher risk of death over six years. Each condition wa",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260811011138.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260813045554.htm"
+    },
+    {
+      "cat": "Culture",
+      "title": "I wish I had been a more rebellious teenager, says Bella Ramsey",
+      "summary": "Ramsey stars in a new film about a cancer survivor who attends “chemo camp” and finds friendship, love and freedom.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c87nwq9qe24o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b10a/live/0c43f9f0-9669-11f1-a6eb-474cf36e6c34.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Glastonbury festival organiser dismisses rumours that Madonna will headline in 2027",
+      "summary": "Emily Eavis says the festival has booked its headliners, but the Queen of Pop is \"definitely not\" among them.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cqjx1wdkn81o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e4d4/live/a6bfcab0-97e8-11f1-a76b-f1c27c51f3da.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Stephen Bear jailed over sex offender breaches",
+      "summary": "The TV personality posted in Brazil \"the police will not be able to catch\" him, a court hears.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgymz71l4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a942/live/ea888120-91a2-11f1-964d-6f76397ea067.jpg"
     },
     {
       "cat": "Culture",
@@ -331,38 +363,6 @@
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/22e7/live/cc22ddd0-97c3-11f1-97a6-b387157e78db.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Selena Gomez sued for alleged fraud over mental health company",
-      "summary": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cfa5/live/c6ef47f0-97ae-11f1-bf42-fbbc01ed1ca6.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "'She was just Gaynor from up the road' - villagers ready for emotional Bonnie Tyler goodbye",
-      "summary": "The Total Eclipse of the Heart star went global, but villagers felt they all knew her personally.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c1m12vny944o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/76df/live/58218e40-97cd-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Stolen Matisse artworks recovered by police in Brazil",
-      "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2853/live/24aa5020-97cc-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Ski Sunday host Chemmy Alcott suffers collapsed lung after jumping into lake",
-      "summary": "The former GB Olympian posted images of her in hospital while on holiday in France.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cp8xpg1380xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ba33/live/c6f87bb0-972a-11f1-a7ab-8b30adf0800a.jpg"
     }
   ]
 }
