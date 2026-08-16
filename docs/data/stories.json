@@ -1,56 +1,56 @@
 {
-  "date": "2026-08-15",
-  "updated": "2026-08-15T12:49:55.936Z",
+  "date": "2026-08-16",
+  "updated": "2026-08-16T12:51:49.936Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
-      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cbf0/live/97cf9550-9877-11f1-a7ab-8b30adf0800a.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
       "cat": "World",
-      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-      "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+      "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
+      "summary": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg"
     },
     {
       "cat": "World",
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-      "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+      "summary": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f214/live/46acc190-97f3-11f1-8170-33f7e8571fbe.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/995d/live/6816b320-9944-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "World",
-      "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as an earlier action against its soldiers.",
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/387d/live/b67daca0-9893-11f1-a7ab-8b30adf0800a.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2d06/live/d689cf40-995d-11f1-9712-2936f8c80214.jpg"
     },
     {
       "cat": "World",
-      "title": "South Korea proposes talks to officially end war with North",
-      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
+      "summary": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Jaineiro's Christ the Redeemer.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/28b1/live/1f13a3e0-9881-11f1-a7ab-8b30adf0800a.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/17b6/live/72212bd0-9961-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "World",
-      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-      "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+      "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "summary": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6316/live/fb096c00-988f-11f1-870d-5d08c49babb2.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg"
     },
     {
       "cat": "Business",
@@ -138,6 +138,30 @@
     },
     {
       "cat": "Tech & AI",
+      "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+      "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285809260-1.jpg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "VisionQuest trailer kicks off Disney's D23 fan event",
+      "summary": "Also: Ahsoka S2 teaser, Doomsday trailer, news about MCU's X-Men and Star Wars: Starfighter",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/visionquest2.jpg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
+      "summary": "\"Flamingo missiles were used. A good achievement.\"",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/soyuzprogms33-1152x648-1774582700.jpg"
+    },
+    {
+      "cat": "Tech & AI",
       "title": "So much solar: Digging into the list of every US power plant that went online this year",
       "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
       "source": "arstechnica.com",
@@ -161,76 +185,87 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/x1-632.jpg"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "summary": "Judge warns pro se litigants are using chatbots wrong and getting desperate.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-1793608536.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
-      "summary": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/kalshi-app-1152x648-1786725211.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2269291893.jpg"
+      "cat": "Crypto",
+      "title": "Ethereum devs to narrow 66 proposals tied to Hegotá upgrade",
+      "summary": "The Hegotá upgrade aims to introduce more native privacy for Ethereum applications.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/ethereum-devs-66-proposals-hegota-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-ethereum-encryption.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
-      "summary": "Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.",
+      "title": "Bybit adds Unitree, Moonshot AI to pre-IPO perpetuals lineup",
+      "summary": "The additions come as Bybit’s TradFi perpetuals lineup grows to more than 200 products spanning equities, ETFs, commodities, indices and private companies.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-paying-the-price-kalshi-banned-politician-for-insider-trading-2.jpg"
+      "url": "https://cointelegraph.com/news/bybit-launches-unitree-pre-ipo-perpetual-as-crypto-platforms-push-into-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-bond-follow-up-bybit-2.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Galaxy lowers CLARITY Act odds to 10%",
-      "summary": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September.",
+      "title": "Tokenized stock holders more than double as monthly volume surges",
+      "summary": "Tokenized equities reached 1.31 million holders over the past month, as monthly transfer volume surged 179% to $23.13 billion and distributed value rose 5.9% to $2.38 billion.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-senate-infrastructure-bill-doom-and-gloom-for-memecoin-trump.jpg"
+      "url": "https://cointelegraph.com/news/tokenized-stock-holders-double-to-13m-as-activity-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/blockchain-waterfall-rwa.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
-      "summary": "Binance data showed Gen Z allocating a growing share of equity activity to ETFs while trading less frequently and using less leverage than older working-age cohorts.",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cryptocurrency-can-actually-make-a-difference-by-helping-people-binance.png"
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Ireland plans industry standards for illicit crypto use",
-      "summary": "The proposed policies under Ireland’s AML framework included stricter measures on transfers from private crypto wallets and overseas digital asset companies.",
+      "title": "Bitcoin to $1M by 2030 is ‘mathematically impossible’ says Markus Thielen",
+      "summary": "The trillions required to boost Bitcoin to a price of $1 million per coin is not going to happen by 2030... or perhaps ever, says party pooper Markus Thielen.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/irish-dance-crypto.jpg"
+      "url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/interview-markus-thielen.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Dartmouth endowment’s crypto exposure drops by $2M amid falling prices",
-      "summary": "The value of the university endowment’s holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock’s iShares Bitcoin ETF dropped to about $12 million.",
+      "title": "Bitcoin could bottom in October, altcoins are ‘basically dead,’ Swan CEO says",
+      "summary": "Klippsten said Bitcoin could bottom about a year after its previous peak and argued that crypto’s best outcome is to become part of TradFi.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/studentcoinman.jpg"
+      "url": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/analytics-red-market-falling-drop-bitcoin-2.jpg"
     },
     {
-      "cat": "Crypto",
-      "title": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
-      "summary": "Payward grew revenue despite weaker crypto spot activity, as funded accounts jumped 42% and a growing share of revenue came from outside transaction-based activity.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-5-ways-to-make-money-with-cryptocurrency-ai.png"
+      "cat": "Science",
+      "title": "Scientists reveal why walking gets so much harder with age",
+      "summary": "As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to work harder while pro",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Physicists discover a hidden gluon structure inside protons that could rewrite textbooks",
+      "summary": "Physicists may have uncovered a hidden feature inside protons that helps preserve one of matter’s most fundamental properties. RHIC collision data suggest baryon number is carried not simply by three quarks, but by a Y-s",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815064805.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "A black hole shredded a “super sun” — but something strange may have survived",
+      "summary": "Astronomers have witnessed a black hole violently shredding a massive star, creating one of the most energetic stellar explosions ever observed. The event, nicknamed “the Whippet,” briefly released about 400 billion time",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235849.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "A little movement in midlife could pay off for your brain years later",
+      "summary": "Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later. Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective factor",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "A new Ice Age species was hiding in la brea tar pits fossils for decades",
+      "summary": "Scientists have discovered a new extinct amphibian species hiding in the fossil collections of Los Angeles’ La Brea Tar Pits. Named Spea labreae, the Ice Age spadefoot toad is an exceptionally rare find—only one other ex",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235837.htm"
     },
     {
       "cat": "Science",
@@ -240,81 +275,62 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm"
     },
     {
-      "cat": "Science",
-      "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
-      "summary": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in th",
+      "cat": "Health",
+      "title": "Scientists reveal why walking gets so much harder with age",
+      "summary": "As we age, the body appears to sacrifice walking efficiency in exchange for stability. Older adults stiffen the ankle more with each step, which may help prevent falls but also forces the muscles to work harder while pro",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Scientists detect a nuclear reactor’s ghostly afterglow for the first time",
-      "summary": "Nuclear reactors may go dark, but their fuel continues producing a faint antineutrino “glow” long after shutdown. Researchers have now detected that residual signal for the first time, finding it closely matched predicti",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011036.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
-      "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
-      "summary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Neptune’s tiny moons may be the wreckage of shattered ancient worlds",
-      "summary": "JWST has uncovered surprising clues that Neptune’s strange inner moons may be the wreckage of an ancient cosmic catastrophe. Researchers detected clay-like minerals on Larissa, Galatea, and Neptune’s rings that form in t",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260813045545.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260815065014.htm"
     },
     {
       "cat": "Health",
-      "title": "A stress hormone may help the brain repair itself",
-      "summary": "A surprising stress-related signal may help the brain repair itself after injury. Researchers found that myelin-producing precursor cells rapidly release the stress hormone CRH near damaged brain tissue, helping control ",
+      "title": "This 10-cent heart drug cuts hospitalizations by 25%",
+      "summary": "A centuries-old heart drug costing less than ten cents a day could help keep heart-failure patients out of the hospital. New research suggests low-dose digoxin can reduce heart-failure hospitalizations by about 25%, pote",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011044.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235858.htm"
     },
     {
       "cat": "Health",
-      "title": "Scientists solve the mystery of a brain “switch” that can trigger weight loss in opposite ways",
-      "summary": "Scientists have uncovered why two seemingly opposite ways of targeting the same brain receptor can both promote weight loss. In mice, activating the GIP receptor in the brainstem reduced appetite, while blocking it in th",
+      "title": "The common mistake that could make aging joints hurt more",
+      "summary": "Aging gradually wears down the cartilage and fluid that protect our joints, but avoiding movement may actually make matters worse. Exercise helps nourish cartilage, strengthens the muscles that protect joints, and can re",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011039.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235852.htm"
     },
     {
       "cat": "Health",
-      "title": "Immune cells flood into the aging brain, Stanford scientists discover",
-      "summary": "Scientists have discovered that the aging human brain may be far less isolated from the rest of the body than once believed. Stanford researchers found that large numbers of immune cells from the blood begin entering the",
+      "title": "Scientists detect a surprising shift in human blood as atmospheric CO2 rises",
+      "summary": "Rising carbon dioxide in the atmosphere may be leaving a measurable imprint inside the human body. Researchers analyzing more than two decades of U.S. health data found that blood bicarbonate levels have climbed about 7%",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235845.htm"
     },
     {
       "cat": "Health",
-      "title": "Taking the stairs could protect your heart and help you live longer",
-      "summary": "Simply choosing the stairs could have surprisingly big benefits for your heart and longevity. A large analysis involving more than 480,000 people found that regular stair climbers were 39% less likely to die from cardiov",
+      "title": "When gut microbes run low on fiber, they may start eating you",
+      "summary": "Gut microbes need something to eat, and when fiber is limited, they may begin consuming proteins from the mucus lining that protects the gut. Researchers found that fiber can suppress this process, while indigestible pla",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011029.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235842.htm"
     },
     {
       "cat": "Health",
-      "title": "Women taking estrogen had fewer signs of Alzheimer’s in their brains",
-      "summary": "Women who used estrogen-only hormone therapy later in life were less likely to develop dementia and showed fewer signs of Alzheimer’s disease in their brains, according to a large study of more than 21,000 participants. ",
+      "title": "A little movement in midlife could pay off for your brain years later",
+      "summary": "Exercise and healthy blood sugar levels in midlife may help slow cognitive decline decades later. Physical activity appeared especially beneficial for Mexican American adults, suggesting that some brain-protective factor",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260814011028.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814235839.htm"
     },
     {
-      "cat": "Health",
-      "title": "This common vitamin deficiency becomes far more dangerous when paired with belly fat",
-      "summary": "A large study of more than 5,500 adults over 50 found a striking combination of risk factors: abdominal obesity paired with vitamin D deficiency was linked to a 123% higher risk of death over six years. Each condition wa",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260813045554.htm"
+      "cat": "Culture",
+      "title": "Ariana Grande leaves problems at home as her tour hits the UK",
+      "summary": "The star plays the first of 10 dates in London, after which she will \"step back\" from public life.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n7rln2rno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bd73/live/fbe333b0-995f-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Thousands of Bonnie Tyler fans line the streets as coffin taken to Swansea home",
+      "summary": "The Total Eclipse of the Heart singer died last month in a hospital in Portugal.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c9v43zry802o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/763c/live/77e4fe90-98d8-11f1-a7ab-8b30adf0800a.jpg"
     },
     {
       "cat": "Culture",
@@ -326,43 +342,27 @@
     },
     {
       "cat": "Culture",
+      "title": "Sadie Sink and Adam Driver to star in new X-Men movie",
+      "summary": "Heartstopper's Kit Connor and Christopher Abbot are also joining the Marvel Cinematic Universe.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zndql7po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/89b0/live/c07efd60-988b-11f1-83ef-33838a09c7c1.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/feb2/live/91ecfb30-97e8-11f1-a76b-f1c27c51f3da.jpg"
+    },
+    {
+      "cat": "Culture",
       "title": "Glastonbury festival organiser dismisses rumours that Madonna will headline in 2027",
       "summary": "Emily Eavis says the festival has booked its headliners, but the Queen of Pop is \"definitely not\" among them.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cqjx1wdkn81o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e4d4/live/a6bfcab0-97e8-11f1-a76b-f1c27c51f3da.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-      "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Stephen Bear jailed over sex offender breaches",
-      "summary": "The TV personality posted in Brazil \"the police will not be able to catch\" him, a court hears.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgymz71l4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a942/live/ea888120-91a2-11f1-964d-6f76397ea067.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "The Office's Lucy Davis 'overwhelmed' by kindness after cancer diagnosis",
-      "summary": "The Office actress thanks well-wishers for their support after she revealed she had incurable cancer.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ewdwldxdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a6b1/live/4cc8daf0-97c1-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Eurovision proposes new rules to reduce political voting",
-      "summary": "Organisers reportedly say politically motivated voting is \"persistent\" and is seen as \"deeply worrying\".",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/czrjxyg8mzmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/22e7/live/cc22ddd0-97c3-11f1-97a6-b387157e78db.jpg"
     }
   ]
 }
