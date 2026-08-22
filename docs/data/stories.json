@@ -1,11 +1,27 @@
 {
-  "date": "2026-08-21",
-  "updated": "2026-08-21T13:00:18.745Z",
+  "date": "2026-08-22",
+  "updated": "2026-08-22T12:51:33.235Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ef5d/live/88423690-9ddd-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
+      "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5f31/live/0a64ce80-9e10-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "cat": "World",
       "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "source": "bbc.co.uk",
@@ -14,43 +30,27 @@
     },
     {
       "cat": "World",
-      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/11c3/live/c7b37380-9d5a-11f1-b109-879e35c24276.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png"
     },
     {
       "cat": "World",
-      "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-      "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+      "title": "One killed in sword attack at Swedish school",
+      "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d436/live/0a8eae40-9d0b-11f1-8a23-b9fc4847a391.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ef32/live/454712a0-9d7b-11f1-b109-879e35c24276.jpg"
     },
     {
       "cat": "World",
-      "title": "Eight killed in plane crash at remote Alaskan military site, air force says",
-      "summary": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/88c1/live/024497b0-9d45-11f1-a137-179a8d1c790b.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Panama Canal to cut number of ships passing through due to El Niño",
-      "summary": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/db42/live/677fca00-9d18-11f1-bd22-47519fb87a16.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Bodies of two hikers missing for decades found after Swiss glacier melts",
-      "summary": "Officials say the bodies of the two Belgians, who went missing in 1992, were discovered after the Trift Glacier receded.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w1jwdkkjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0d2a/live/6dea4cb0-9d42-11f1-801c-1fffda40756a.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,13 @@
     },
     {
       "cat": "Markets",
+      "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
+      "summary": "The so-called breakeven rate hit its highest levels in more than two months.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
       "summary": "Market experts showed skepticism at whether the push would succeed against a bevy of factors working against Treasurys.",
       "source": "cnbc.com",
@@ -130,99 +137,52 @@
       "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html"
     },
     {
-      "cat": "Markets",
-      "title": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
-      "summary": "Andrei Klepach was reportedly fired from his role after presenting a report warning that Russia could not win a prolonged war of attrition with Ukraine.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html"
+      "cat": "Tech & AI",
+      "title": "Putting mice into hibernation causes a major loss of synapses",
+      "summary": "Hibernation cuts down on synapses, but mice seem to retain memories anyway.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-535196267.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-      "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
+      "title": "Dismantling the Roadless Rule threatens to disrupt wildlife and water in US",
+      "summary": "Lands free of roads are under threat from the Trump administration’s proposed rollback.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/zuckoff-glasshole.jpg"
+      "url": "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-626466246.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-      "summary": "Taiwan's effort to develop its own satellite launcher hit a setback this week.",
+      "title": "Trump's space transportation policy calls for new spaceport on federal land",
+      "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/04_4panel_enlarge_2x-1152x648-1787265662.jpg"
+      "url": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/9315875-1152x648-1787353404.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "US distributor of China’s most popular humanoid robots pivots after US ban",
-      "summary": "FCC ban on foreign-made robots accelerated RoboStore’s US manufacturing plans.",
+      "title": "Thunder + fiber-optic cabling used for seismic imaging",
+      "summary": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Robo-Inc.jpeg"
+      "url": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-173019376.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Europe cancels planned upgrades for Ariane 6 rocket",
-      "summary": "Arianespace hasn’t publicly disclosed the cost for an Ariane 6 launch.",
+      "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+      "summary": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GlYHDKoWQAAxQiG.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-922788110-1152x648-1787340488.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
-      "summary": "Survivors reconnect with those who saved them in National Geographic's 9/11: Reunited.",
+      "title": "Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels",
+      "summary": "The private Android-based OS will expand beyond Pixels next year.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/reunited8.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Roblox must make changes after failing to block adults creeping on kids",
-      "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2273992483.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Binance says employees questioned in UAE cleared and released",
-      "summary": "Binance’s employees were cleared and released after providing statements to UAE authorities about third-party fund flows through a company client account, a spokesperson told Cointelegraph.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/binance-employees-questioned-uae-released?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-binance-spotlight.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Standard Chartered wavers on $100K Bitcoin year-end call, says it may be ‘too low’",
-      "summary": "Standard Chartered’s Geoff Kendrick said Bitcoin could move toward its $126,000 all-time high after Oct. 6 as spot Bitcoin ETF inflows recover.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/standard-chartered-100k-bitcoin-2026-prediction-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-raiffeisen-is-at-100k-are-such-targets-realistic-1.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Coldcard strengthens seed generation with firmware update",
-      "summary": "Coinkite urged Coldcard users to generate new seed phrases, warning that existing vulnerable seeds remain unsafe despite the security upgrade.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/crimes-code-tweezers-theft-hack-hacker-red-wallet-1.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
-      "summary": "Bitcoin gains 20% in two days as Strategy sees its BTC treasury climb out of the red.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/bitcoin-all-time-high.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October",
-      "summary": "Bitcoin ETF inflows pushed August’s total to a 2026 high of $2.07 billion as Bitcoin traded above $75,000 and Ether climbed to $2,357.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-ether-etfs-largest-inflow-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/futures-bitcoin-options-top-3.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/Motorola-X-GrapheneOS.jpg"
     },
     {
       "cat": "Crypto",
@@ -231,6 +191,46 @@
       "source": "cointelegraph.com",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
+      "summary": "Gracy Chen says macroeconomic uncertainty could keep Bitcoin within $10,000 to $20,000 of current levels, while US government purchases remain unlikely within the next two years.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-true-or-false-about-bitcoin-and-crypto-are-totally-wrong-1.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Ray Dalio says to buy ‘a bit’ of Bitcoin amid potential debt crisis",
+      "summary": "The hedge fund founder with an estimated net worth of $15 billion recommended that investors overweight Bitcoin and gold rather than bonds.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/ray-dalio-buy-bitcoin-debt-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/interviewray-dalio.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Onchain, in court: What happened in crypto legal news this week",
+      "summary": "The CFTC ordered a trading ban for former Alameda and FTX executives, and US prosecutors opposed a motion from a US soldier accused of profiting from the removal of Nicolas Maduro.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news5?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-5-key-highlights-of-the-secs-lawsuit-against-binance.webp"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Bitcoin seeks support near $77K as BTC, gold near 100-day highs",
+      "summary": "Bitcoin volatility eased after BTC hit its highest level since mid-May, while gold joined the cryptocurrency in approaching three-month highs.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-near-77k-btc-gold-100-day-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/boxes-with-bitcoins.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Digital Asset, Paul Ryan foundation target US state benefits with Canton pilot",
+      "summary": "The RISE program would use the Canton Network to combine and distribute state-administered benefits across three US states beginning in 2027.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/paul-ryan-foundation-digital-asset-plan-blockchain-based-benefits-pilot-on-canton?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/regulations-eu-europe-crypto.png"
     },
     {
       "cat": "Science",
@@ -318,11 +318,27 @@
     },
     {
       "cat": "Culture",
-      "title": "Meghan could return to acting once back in UK",
-      "summary": "Sources close to the Sussexes have not denied reports that Meghan has been offered an acting role in the UK.",
+      "title": "Meghan in talks for role in Netflix series The Gentlemen, BBC understands",
+      "summary": "This would be Meghan's first significant acting role since her marriage to Prince Harry.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c79g28zxwzdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b37d/live/a753e0d0-9d2c-11f1-a291-b542ee92de7c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwye9g9r58zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9235/live/6a8b1d10-7bcd-11f1-b543-9988255dfa81.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Prince Harry and six others face privacy case legal bill of up to £34.5m",
+      "summary": "The seven claimants, who include Sir Elton John and Liz Hurley, have to pay the Daily Mail publisher an initial £9.54m in the next seven days after losing a privacy case.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c04kwr9r1zlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
+      "summary": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/37e6/live/437eb910-9d57-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "cat": "Culture",
@@ -342,27 +358,11 @@
     },
     {
       "cat": "Culture",
-      "title": "What happened to Harry and Meghan's American dream?",
-      "summary": "Harry and Meghan enjoyed some showbusiness success, but their Hollywood reign proved short-lived.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c935rk91vg5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9d3a/live/c7e95f20-9d2f-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "cat": "Culture",
       "title": "Dave Bautista confirmed as new God of War star",
       "summary": "The ex-wrestler replaces Ryan Hurst as Kratos in the upcoming adaptation of the popular PlayStation series.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cy5dxpgp1ego?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/55e4/live/3c0a4900-9d44-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Starmer donates biography of himself to Downing Street library",
-      "summary": "The former PM and seven of his ministers have added to the collection, which began in 1931.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/czdm6m939edo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d950/live/1edb8ce0-9cb3-11f1-84cf-fd4cfd9d6c84.jpg"
     }
   ]
 }
