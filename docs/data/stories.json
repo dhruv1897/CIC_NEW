@@ -1,11 +1,43 @@
 {
-  "date": "2026-08-28",
-  "updated": "2026-08-28T22:07:41.956Z",
+  "date": "2026-08-29",
+  "updated": "2026-08-29T16:35:58.023Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e283/live/cf42fda0-a3b8-11f1-b13c-0d78069132fa.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+      "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fa12/live/55bbb480-a2d3-11f1-aed2-8d6da8d75094.jpg"
+    },
+    {
+      "cat": "World",
       "title": "Norway mourns King Harald as Haakon VIII ascends throne",
       "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
       "source": "bbc.co.uk",
@@ -14,43 +46,11 @@
     },
     {
       "cat": "World",
-      "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-      "summary": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0c75/live/2ad87650-a2dc-11f1-ba94-c782670d1920.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7710/live/8f66bdd0-a312-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "cat": "World",
       "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
       "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e120/live/d58e6a30-a31f-11f1-92a5-fbd6f5289e6b.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Berlin is being blackmailed by hackers, mayor says",
-      "summary": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/85e3/live/544e16f0-a324-11f1-8d63-4fed9aaab467.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-      "summary": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1df5/live/5d837d40-a2fd-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,13 @@
     },
     {
       "cat": "Markets",
+      "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
+      "summary": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
       "summary": "He used the speech to outline his philosophy on policymaking while carefully sidestepping any signals",
       "source": "cnbc.com",
@@ -130,11 +137,36 @@
       "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
     },
     {
-      "cat": "Markets",
-      "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
-      "summary": "Using the TGA would provide the Treasury with considerable firepower to influence long-term bond yields.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html"
+      "cat": "Tech & AI",
+      "title": "I asked 100 companies for my data. Some deleted it instead.",
+      "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata.jpg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+      "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "Cities terminate Flock contracts at record pace in August",
+      "summary": "Cancellations have accelerated.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
+      "summary": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270.jpg"
     },
     {
       "cat": "Tech & AI",
@@ -153,36 +185,12 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998.jpg"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
-      "summary": "Annual Apple TV subscriptions get the biggest bump.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/silo.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Our 10 favorite scenes from T2: Judgment Day",
-      "summary": "James Cameron's 1991 sci-fi blockbuster returns to theaters this weekend for its 35th anniversary.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/judgment13.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-      "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2235448062.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
-      "summary": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teampcp-member-arrest.jpg"
+      "cat": "Crypto",
+      "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
+      "summary": "Tokenized equities saw a sharp rise in onchain activity as active addresses and holders more than doubled over the past month.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M174Y6XQHY999NVSQCZY6B3V/hi-cryptocurrency-vs-stocks-breaking-news-1.png"
     },
     {
       "cat": "Crypto",
@@ -194,6 +202,30 @@
     },
     {
       "cat": "Crypto",
+      "title": "Trump-promoted brand touts GOLD before token collapse",
+      "summary": "Real Trump Coins promoted GOLD before deleting related X posts, while team-linked wallets sold 224.5 million tokens as its market value fell about 99%.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M16D9NH0P7JYVR3ND526E5F5/trumps-influence-on-crypto.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Stablecoins not credible for payments at scale, BIS chief says",
+      "summary": "BIS chief Pablo Hernández de Cos said stablecoins lack credibility for payments at scale, while a new FSI study highlights sharp differences in issuer rules.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M166CFV826H6EC9FT9NRRV7E/hi-stablecoin-has-been-listed-an-exchange-traded-note-in-europe.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
+      "summary": "US spot Bitcoin ETFs posted $201.8 million in net outflows Friday, led by ARK 21Shares, as total fund assets slipped back below $100 billion.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M162QNJPWZZW5MZ2NTH7GFQ2/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf3-1.jpg"
+    },
+    {
+      "cat": "Crypto",
       "title": "Solana validators approve proposal to accelerate SOL disinflation",
       "summary": "The approved proposal doubles Solana’s annual disinflation rate from 15% to 30%, reducing future SOL issuance while leaving its long-term inflation target unchanged.",
       "source": "cointelegraph.com",
@@ -201,36 +233,25 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14TAFCZGB4VMQ151R2N0EKE/hi-bitcoin-vs-fiat-currencies-over-the-past-several-years-have-they-been-hampered-by-the-inflation2-2.png"
     },
     {
-      "cat": "Crypto",
-      "title": "Chelsea FC gets a stablecoin sponsor after UK FCA warning to clubs",
-      "summary": "According to Circle, the USDC stablecoin name will appear on the front of club jerseys for Chelsea’s upcoming football season.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/chelsea-football-circle-sponsor-fca-warning-questionable-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14JXJEKJGWZPA4CPWG622Q2/gamecredits-football4.jpg"
+      "cat": "Science",
+      "title": "Long-term melatonin use linked to 90% higher heart failure risk",
+      "summary": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes hear",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
-      "summary": "The institutional crypto exchange is providing $100 million in stablecoin liquidity to support loans backed by AI computing infrastructure.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14HGFTCPWKB8SGHW3HW7DZ6/hi-what-is-a-masternode-and-ai.png"
+      "cat": "Science",
+      "title": "Australia’s red soil may be hiding a massive clean energy source",
+      "summary": "Researchers have discovered that Western Australia’s iron-rich rocks can naturally generate hydrogen and that the process may be boosted to produce much larger amounts. If it can be scaled up, the vast formations beneath",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "Bitcoin dips to $78.4K as Fed’s Warsh downplays softer inflation prints",
-      "summary": "Bitcoin failed to make a decisive break above $80,000 as traders digested Fed Chair Kevin Warsh’s Jackson Hole keynote speech, which remained wary of US inflation trends.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-dips-fed-warsh-dismisses-recent-low-inflation-prints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14FYEG846MR0X3M7RG3N9AD/hi-us-bitcoin-reserve-asset-bill-explained.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Crypto Biz: Bitcoin pumps, Wall Street does the paperwork",
-      "summary": "Bitcoin’s $80,000 rebound lifts crypto stocks as Circle, Strategy and Solana show how capital markets, stablecoins and onchain growth are driving crypto’s recovery.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-rally-crypto-stocks-circle-strategy-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14DS05X6DTJB5K7J056DP3A/hi-how-bitcoins-legal-victory-turned-it-into-wall-streets-favorite-crypto.jpg"
+      "cat": "Science",
+      "title": "Dogs may hold surprising clues to human longevity",
+      "summary": "Dogs and humans may have more in common when it comes to aging than scientists realized. Researchers with the Dog Aging Project found that patterns of small molecules in dogs’ blood were linked to longer or shorter lifes",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm"
     },
     {
       "cat": "Science",
@@ -241,80 +262,75 @@
     },
     {
       "cat": "Science",
+      "title": "The universe is still speeding up, but nobody knows why",
+      "summary": "A major new analysis challenges recent claims that the universe&#039;s expansion is slowing, finding that the evidence for cosmic acceleration remains strong. The findings preserve the leading role of dark energy, while ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Scientists discover why damaged nerves struggle to heal",
+      "summary": "Scientists have identified a protein that acts like a brake on the nervous system’s ability to repair damaged connections. Blocking AHR helped injured nerve fibers regrow and improved movement and sensation in mice with ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Long-term melatonin use linked to 90% higher heart failure risk",
+      "summary": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes hear",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Dogs may hold surprising clues to human longevity",
+      "summary": "Dogs and humans may have more in common when it comes to aging than scientists realized. Researchers with the Dog Aging Project found that patterns of small molecules in dogs’ blood were linked to longer or shorter lifes",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Keto diet cut liver fat by 67% in a clinical trial",
+      "summary": "A ketogenic diet outperformed Mediterranean and low-fat diets in several measures of metabolic health during a clinical trial involving people with obesity, prediabetes, and fatty liver disease. All three groups lost abo",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Scientists discover why damaged nerves struggle to heal",
+      "summary": "Scientists have identified a protein that acts like a brake on the nervous system’s ability to repair damaged connections. Blocking AHR helped injured nerve fibers regrow and improved movement and sensation in mice with ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm"
+    },
+    {
+      "cat": "Health",
       "title": "Experimental eye drops help blind mice see again",
       "summary": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the ",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm"
     },
     {
-      "cat": "Science",
-      "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
-      "summary": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say th",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Scientists tracked 4,500 animals and found a surprising human effect",
-      "summary": "Scientists tracking thousands of animals found that our physical presence can reshape where wildlife moves and lives, sometimes as strongly as roads, cities, and other human development. Because different species reacted",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260827010517.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Your dislike of eating bugs may be 9,000 years old",
-      "summary": "Ancient teeth and human DNA are revealing a surprising history of insect eating. Modern humans in northern Eurasia appear to have eaten insects only occasionally, while Neanderthals may have consumed them much more regul",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260827010516.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "“I jumped from my chair” – Astronomers spot Betelgeuse’s hidden companion",
-      "summary": "Astronomers have captured their clearest image yet of Betelgeuse’s long-suspected companion, potentially ending a search that lasted about 100 years. The surprisingly massive hidden star could help explain Betelgeuse’s c",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260827010514.htm"
-    },
-    {
       "cat": "Health",
-      "title": "Experimental eye drops help blind mice see again",
-      "summary": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the ",
+      "title": "Your sleep may be hiding an early clue to Alzheimer’s",
+      "summary": "Frequent micro-awakenings during sleep were linked to higher genetic risk for Alzheimer’s in healthy middle-aged adults who had no symptoms. The discovery raises the possibility that subtle changes during sleep could off",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828005218.htm"
     },
     {
-      "cat": "Health",
-      "title": "Scientists tested 212 plant-based meat alternatives. Every one contained fungal toxins",
-      "summary": "Every one of 212 plant-based meat alternatives and drinks tested in the UK contained at least one naturally occurring fungal toxin, though concentrations remained below recommended EU guideline levels. Researchers say th",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm"
+      "cat": "Culture",
+      "title": "Dolly Parton's dad couldn't read - it inspired her to send books to millions of children",
+      "summary": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2cb0/live/9d09bab0-a22b-11f1-bd6a-3d72a7f54a3e.jpg"
     },
     {
-      "cat": "Health",
-      "title": "A common vape flavoring may disrupt early embryo development",
-      "summary": "A popular vanilla flavoring in e-cigarettes may interfere with some of the earliest steps of human development. In lab experiments, vanillin caused embryonic stem cells to lose their ability to develop normally and pushe",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828005215.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Researchers followed 400,000 kids for 20 years and found a lasting pre-K advantage",
-      "summary": "A 20-year study of 400,000 students found that children who attended public school pre-K earned better grades and test scores through high school than those in other childcare settings. Better-trained teachers and earlie",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828005213.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Vitamin C won’t prevent most colds, but it may do one small thing",
-      "summary": "The belief that huge doses of vitamin C can ward off colds was popularized more than 50 years ago by Nobel Prize winner Linus Pauling. Since then, larger studies have found that vitamin C does not prevent most people fro",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260827010507.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Smart nanoparticles light up brain cancer and destroy what surgery misses",
-      "summary": "Scientists created smart nanoparticles that can both illuminate hidden glioblastoma cells during surgery and destroy microscopic cancer left behind afterward. In mice, the treatment prevented recurrence and led to 100% s",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260826060617.htm"
+      "cat": "Culture",
+      "title": "Charli XCX electrifies Reading Festival with era-spanning set",
+      "summary": "The British singer and Irish rock band Fontaines DC both headlined the first night of Reading for 2026.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c750ng9grk0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/86ea/live/35df52c0-a32d-11f1-8e46-c39d9fc92d9e.jpg"
     },
     {
       "cat": "Culture",
@@ -347,22 +363,6 @@
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Reading and Leeds Festival unveils major overhaul, but will it draw in a new crowd?",
-      "summary": "BBC Newsbeat has spoken with festival-goers to see whether they feel the changes will attract a wider demographic.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckgw5el7n9lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5d84/live/c30d5820-a249-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Celebrity Hunted showed I can achieve anything after cancer, Amy Dowden says",
-      "summary": "The Strictly Come Dancing star appeared on the latest series of the Channel 4 challenge show.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c046lng73v4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/27ad/live/306bf130-a2ca-11f1-941c-8741c1a72471.jpg"
     }
   ]
 }
