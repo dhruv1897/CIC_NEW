@@ -1,16 +1,40 @@
 {
-  "date": "2026-08-29",
-  "updated": "2026-08-29T16:35:58.023Z",
+  "date": "2026-08-30",
+  "updated": "2026-08-30T16:30:53.803Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "title": "Iceland votes against restarting EU membership talks",
+      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8d37/live/67a7cd10-a2fa-11f1-8d5b-155abe464768.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/91e2/live/fd09c3f0-a484-11f1-bed8-470734b5b662.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/db21/live/575d2470-a410-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png"
     },
     {
       "cat": "World",
@@ -22,35 +46,11 @@
     },
     {
       "cat": "World",
-      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "title": "Zambian opposition leader charged with treason",
+      "summary": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6691/live/b40e7f80-a356-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-      "summary": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fa12/live/55bbb480-a2d3-11f1-aed2-8d6da8d75094.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-      "summary": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d541/live/c766ada0-a2ed-11f1-a789-b16da4059b6b.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e120/live/d58e6a30-a31f-11f1-92a5-fbd6f5289e6b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b500/live/8b349740-a44e-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "cat": "Business",
@@ -138,6 +138,14 @@
     },
     {
       "cat": "Tech & AI",
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "summary": "The company is testing robots on tasks that can performed by technicians.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room.jpg"
+    },
+    {
+      "cat": "Tech & AI",
       "title": "I asked 100 companies for my data. Some deleted it instead.",
       "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
       "source": "arstechnica.com",
@@ -177,12 +185,44 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app.jpg"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Here's what we know about the \"space academy\" Trump just announced",
-      "summary": "\"It's called the US Space Academy. That's a big deal.\"",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2291885998.jpg"
+      "cat": "Crypto",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
+      "summary": "Russia’s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin as loan collateral as the country introduces regulated crypto trading under a new law.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M190WE0Y455BRFFWWXC00QY4/1-44.png"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Real Trump Coins denies launching GOLD token, blames ‘bad actors’",
+      "summary": "Trump-linked Real Trump Coins said it never authorized GOLD or any digital token as questions persisted over its X account, associated domains and the concentrated token supply.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M18SAPB6CQTXR7T638XMWVRB/hi-top-crypto-cyber-threats.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Polygon discloses security flaws fixed in recent hard forks",
+      "summary": "The vulnerabilities posed denial-of-service and validator resource risks but were patched before Polygon publicly disclosed them.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17JHBKVPG032T0G1E4PGVX3/hi-quadrigacx-ceo-died-what-next.png"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+      "summary": "Stellar’s real-world asset market has expanded rapidly this year as institutional adoption and tokenization activity grow across the network.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17DHDVASPVRK9KZ8KYFMNK1/hi-how-binance-plans-to-bring-tokenized-us-stocks-3.png"
     },
     {
       "cat": "Crypto",
@@ -193,44 +233,18 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M174Y6XQHY999NVSQCZY6B3V/hi-cryptocurrency-vs-stocks-breaking-news-1.png"
     },
     {
-      "cat": "Crypto",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+      "cat": "Science",
+      "title": "HEPA air purifiers may boost brain function after just one month",
+      "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help pro",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "Trump-promoted brand touts GOLD before token collapse",
-      "summary": "Real Trump Coins promoted GOLD before deleting related X posts, while team-linked wallets sold 224.5 million tokens as its market value fell about 99%.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/trump-linked-account-list-gold-token-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M16D9NH0P7JYVR3ND526E5F5/trumps-influence-on-crypto.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Stablecoins not credible for payments at scale, BIS chief says",
-      "summary": "BIS chief Pablo Hernández de Cos said stablecoins lack credibility for payments at scale, while a new FSI study highlights sharp differences in issuer rules.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M166CFV826H6EC9FT9NRRV7E/hi-stablecoin-has-been-listed-an-exchange-traded-note-in-europe.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Bitcoin ETFs end 9-day inflow streak as BTC dips below $78K",
-      "summary": "US spot Bitcoin ETFs posted $201.8 million in net outflows Friday, led by ARK 21Shares, as total fund assets slipped back below $100 billion.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-end-9-day-inflow-streak-btc-below-78k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M162QNJPWZZW5MZ2NTH7GFQ2/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf3-1.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Solana validators approve proposal to accelerate SOL disinflation",
-      "summary": "The approved proposal doubles Solana’s annual disinflation rate from 15% to 30%, reducing future SOL issuance while leaving its long-term inflation target unchanged.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/solana-validators-approve-proposal-to-accelerate-sol-disinflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M14TAFCZGB4VMQ151R2N0EKE/hi-bitcoin-vs-fiat-currencies-over-the-past-several-years-have-they-been-hampered-by-the-inflation2-2.png"
+      "cat": "Science",
+      "title": "Hundreds of hidden earthquakes found at Antarctica’s Doomsday Glacier",
+      "summary": "Hundreds of previously overlooked seismic events have been detected beneath Antarctica, including 245 near the marine edge of the Thwaites Glacier. Many appear to be glacial earthquakes caused when huge icebergs break of",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm"
     },
     {
       "cat": "Science",
@@ -241,38 +255,31 @@
     },
     {
       "cat": "Science",
-      "title": "Australia’s red soil may be hiding a massive clean energy source",
-      "summary": "Researchers have discovered that Western Australia’s iron-rich rocks can naturally generate hydrogen and that the process may be boosted to produce much larger amounts. If it can be scaled up, the vast formations beneath",
+      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
+      "summary": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with convent",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829035214.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm"
     },
     {
       "cat": "Science",
-      "title": "Dogs may hold surprising clues to human longevity",
-      "summary": "Dogs and humans may have more in common when it comes to aging than scientists realized. Researchers with the Dog Aging Project found that patterns of small molecules in dogs’ blood were linked to longer or shorter lifes",
+      "title": "This strange “spacetime crystal” can suddenly become a black hole",
+      "summary": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick i",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm"
     },
     {
       "cat": "Science",
-      "title": "NASA’s Roman telescope will see 100 times more sky than Hubble",
-      "summary": "NASA’s Roman Space Telescope will combine Hubble-like detail with a field of view 100 times larger, giving astronomers a sweeping new way to explore the cosmos. Its observations could uncover hidden planets, map billions",
+      "title": "1.4-million-year-old footprints reveal a surprisingly large human relative",
+      "summary": "Ancient footprints in Kenya reveal that eight Paranthropus boisei may have traveled together 1.4 million years ago, with some individuals reaching surprisingly large, human-like body sizes. The tracks offer a rare glimps",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828082333.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035221.htm"
     },
     {
-      "cat": "Science",
-      "title": "The universe is still speeding up, but nobody knows why",
-      "summary": "A major new analysis challenges recent claims that the universe&#039;s expansion is slowing, finding that the evidence for cosmic acceleration remains strong. The findings preserve the leading role of dark energy, while ",
+      "cat": "Health",
+      "title": "HEPA air purifiers may boost brain function after just one month",
+      "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help pro",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828082325.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Scientists discover why damaged nerves struggle to heal",
-      "summary": "Scientists have identified a protein that acts like a brake on the nervous system’s ability to repair damaged connections. Blocking AHR helped injured nerve fibers regrow and improved movement and sensation in mice with ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm"
     },
     {
       "cat": "Health",
@@ -283,6 +290,20 @@
     },
     {
       "cat": "Health",
+      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
+      "summary": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with convent",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Common supplements rival antibiotics for severe gum disease",
+      "summary": "Omega-3 and low-dose aspirin matched the effectiveness of antibiotics in a year-long study of patients with severe gum disease, with both approaches helping about 58% reach the treatment goal. The unexpected result could",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035216.htm"
+    },
+    {
+      "cat": "Health",
       "title": "Dogs may hold surprising clues to human longevity",
       "summary": "Dogs and humans may have more in common when it comes to aging than scientists realized. Researchers with the Dog Aging Project found that patterns of small molecules in dogs’ blood were linked to longer or shorter lifes",
       "source": "sciencedaily.com",
@@ -290,31 +311,10 @@
     },
     {
       "cat": "Health",
-      "title": "Keto diet cut liver fat by 67% in a clinical trial",
-      "summary": "A ketogenic diet outperformed Mediterranean and low-fat diets in several measures of metabolic health during a clinical trial involving people with obesity, prediabetes, and fatty liver disease. All three groups lost abo",
+      "title": "A cancer therapy put severe rheumatoid arthritis into remission",
+      "summary": "CAR T-cell therapy dramatically reduced disease activity in six people with severe rheumatoid arthritis that had resisted other treatments, with three achieving medication-free remission. The treatment may work by cleari",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828082327.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Scientists discover why damaged nerves struggle to heal",
-      "summary": "Scientists have identified a protein that acts like a brake on the nervous system’s ability to repair damaged connections. Blocking AHR helped injured nerve fibers regrow and improved movement and sensation in mice with ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828005427.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Experimental eye drops help blind mice see again",
-      "summary": "Scientists have created light-activated drugs that helped blind mice perceive light again and restored visually guided behavior without gene therapy, implants, or specialized lighting. Even more intriguingly, two of the ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828005224.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Your sleep may be hiding an early clue to Alzheimer’s",
-      "summary": "Frequent micro-awakenings during sleep were linked to higher genetic risk for Alzheimer’s in healthy middle-aged adults who had no symptoms. The discovery raises the possibility that subtle changes during sleep could off",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828005218.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828082330.htm"
     },
     {
       "cat": "Culture",
