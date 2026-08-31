@@ -1,56 +1,56 @@
 {
-  "date": "2026-08-30",
-  "updated": "2026-08-30T16:30:53.803Z",
+  "date": "2026-08-31",
+  "updated": "2026-08-31T19:03:09.985Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Iceland votes against restarting EU membership talks",
-      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+      "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+      "summary": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/91e2/live/fd09c3f0-a484-11f1-bed8-470734b5b662.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6dce/live/98bb2c90-a556-11f1-b109-879e35c24276.jpg"
     },
     {
       "cat": "World",
-      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
-      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+      "title": "US and Iran trade strikes for first time in weeks",
+      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Man arrested after Swiss rave shooting that killed woman",
+      "summary": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2dc4/live/0a7a6950-a466-11f1-b370-b9b7934350c8.jpg"
     },
     {
       "cat": "World",
-      "title": "Canada installs large Lake Ontario sign in latest jab at US",
-      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "title": "The jury's options in Lindsay Clancy's murder trial",
+      "summary": "Jurors have five options before them as they decide the fate of the former nurse charged with killing her three children.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/db21/live/575d2470-a410-11f1-a291-b542ee92de7c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5c17/live/80180ab0-a4d3-11f1-b109-879e35c24276.jpg"
     },
     {
       "cat": "World",
-      "title": "WhatsApp chat used to send cash for crime and extremism",
-      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "title": "'She slipped out of my hand' - children missing after ferry sinks off northern Cyprus",
+      "summary": "Ayten and Hayri Bicer's two young children are among 20 missing in an incident that killed eight people.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4e7b/live/835e38f0-a2fa-11f1-b109-879e35c24276.png"
+      "url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/78e7/live/97d65330-a548-11f1-8689-6589354d0f8e.png"
     },
     {
       "cat": "World",
-      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
+      "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e283/live/cf42fda0-a3b8-11f1-b13c-0d78069132fa.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Zambian opposition leader charged with treason",
-      "summary": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b500/live/8b349740-a44e-11f1-a291-b542ee92de7c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/024b/live/9dd0a660-a55b-11f1-9acf-19576105f049.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,34 @@
     },
     {
       "cat": "Markets",
+      "title": "India’s economy expands 7.8% in fiscal first quarter, beating estimates",
+      "summary": "The economy was driven by a strong performance in the financial, real estate, information technology and professional services sectors.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/31/india-economy-gdp-energy-el-nino.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Bank of England chief warns new AI models threaten global financial stability",
+      "summary": "Bank of England Governor Andrew Bailey has warned that frontier AI could materially increase cyber risks to the global financial system.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "China's factory activity shrinks for second straight month, contracting less than expected",
+      "summary": "China's manufacturing activity shrank for a second straight month, keeping pressure on Beijing to support the economy as growth loses momentum.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Singapore tackles finances and culture to avert a demographic crisis",
+      "summary": "One challenge for policy makers is that success on many measures won't show up immediately.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/08/31/singapore-ndr-childcare-incentives-demographic-crisis-.html"
+    },
+    {
+      "cat": "Markets",
       "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
       "summary": "Economists have long viewed the post-pandemic economy as \"K\"-shaped. That consensus has now evaporated.",
       "source": "cnbc.com",
@@ -109,32 +137,44 @@
       "url": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html"
     },
     {
-      "cat": "Markets",
-      "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
-      "summary": "She still thinks the Fed needs to take action against inflation that is straining household budgets.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html"
+      "cat": "Tech & AI",
+      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "summary": "Explosive growth comes with a new regulatory burden in the European Union.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/getty-eu-flag.jpg"
     },
     {
-      "cat": "Markets",
-      "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July",
-      "summary": "The personal consumption expenditures price index was expected to rise 0.1% monthly and 3.6% on a 12-month basis, according to economists surveyed by Dow Jones.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html"
+      "cat": "Tech & AI",
+      "title": "NASA's next \"great observatory\" begins mission to widen our view of the Universe",
+      "summary": "\"We would need over half a million 4K TVs to fully display the single Roman image from our largest survey.\"",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/HRAzV1dXYAEXjHy.jpg"
     },
     {
-      "cat": "Markets",
-      "title": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
-      "summary": "The bond market interventions have generated a modest decline in yields along with a growing chorus of derision.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/08/25/stanley-druckenmiller-leads-doubters-who-think-bessents-bond-ploys-will-fail.html"
+      "cat": "Tech & AI",
+      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-1152x648-1787932298.png"
     },
     {
-      "cat": "Markets",
-      "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
-      "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html"
+      "cat": "Tech & AI",
+      "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+      "summary": "Cut content from Portal 2, hints of Half Life 2: Episode 3, and so much more.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/teraweapon-1152x648-1788124932.jpg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "Why it matters that President Trump just dialed in to a NASA news conference",
+      "summary": "With just one more major mission upcoming, NASA's science programs need a boost.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/NHQ20260828_admin_0045large.jpg"
     },
     {
       "cat": "Tech & AI",
@@ -145,92 +185,66 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/data-center-server-room.jpg"
     },
     {
-      "cat": "Tech & AI",
-      "title": "I asked 100 companies for my data. Some deleted it instead.",
-      "summary": "Testing 100 companies found privacy requests often led to confusion and dead ends.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/personaldata.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
-      "summary": "Kalshi can't evade Nevada gambling laws by calling bets \"swaps,\" judges rule.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/kalshi-ad-1152x648-1783536871.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Cities terminate Flock contracts at record pace in August",
-      "summary": "Cancellations have accelerated.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/flock-camera-1152x648-1779223467.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
-      "summary": "RFK Jr. went to Samoa to spread vaccine fears. The measles outbreak after killed 83.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2203339270.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-      "summary": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app.jpg"
+      "cat": "Crypto",
+      "title": "Webull expands crypto trading into Canada through Coinbase collaboration",
+      "summary": "The brokerage is adding digital assets alongside stocks, ETFs and options as Canadian crypto ownership rises and regulators move toward clearer industry rules.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/webull-canada-crypto-trading-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C82GGTPW1R06193D045R8Q/canada-coin.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title": "Bitcoin begins volatile monthly close as US bond yields eye new 20-year high",
+      "summary": "Bitcoin price action saw sharp moves within its local range as US Treasury Secretary Scott Bessent addressed US bond yields.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+      "url": "https://cointelegraph.com/markets/bitcoin-begins-volatile-monthly-close-as-us-bond-yields-eye-new-20-year-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1CAQZASDY1S6AWTR88NB8SS/hi-who-is-scott-bessent-meet-the-new-face-of-us-economic-policy-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Russia’s Sber eyes USDT loans, questions digital ruble demand",
-      "summary": "Russia’s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin as loan collateral as the country introduces regulated crypto trading under a new law.",
+      "title": "Bitmine now controls 4.9% of Ethereum supply after adding 53.5K ETH",
+      "summary": "Bitmine has bought Ether for 65 consecutive weeks, maintaining its accumulation strategy through a prolonged crypto downturn and $5.1 billion in paper losses.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M190WE0Y455BRFFWWXC00QY4/1-44.png"
+      "url": "https://cointelegraph.com/news/bitmine-ether-buying-streak-65-weeks-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C5X0EPKFXAYHMT2JV9CT5W/doctor-medicine-crypto-eth.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Real Trump Coins denies launching GOLD token, blames ‘bad actors’",
-      "summary": "Trump-linked Real Trump Coins said it never authorized GOLD or any digital token as questions persisted over its X account, associated domains and the concentrated token supply.",
+      "title": "Strive buys 1,800 Bitcoin for $143M, becomes fifth-biggest corporate holder",
+      "summary": "Strive’s latest Bitcoin purchase lifted its holdings to 23,156 BTC, making it the fifth-largest publicly traded corporate holder as crypto markets rebound.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M18SAPB6CQTXR7T638XMWVRB/hi-top-crypto-cyber-threats.jpg"
+      "url": "https://cointelegraph.com/news/strive-buys-1800-bitcoin-143m-btc-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C52C7MYQ0QY4TB55BX8Z68/moses-and-bitcoins.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Polygon discloses security flaws fixed in recent hard forks",
-      "summary": "The vulnerabilities posed denial-of-service and validator resource risks but were patched before Polygon publicly disclosed them.",
+      "title": "Russian crypto trading to bring $46B to regulated exchanges in first year after legalization: Report",
+      "summary": "Regulated cryptocurrency exchanges may see more than $46 billion in crypto trading volume during the first year after legalization, according to estimates from the country’s largest bank.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/polygon-discloses-security-flaws-fixed-in-recent-hard-forks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17JHBKVPG032T0G1E4PGVX3/hi-quadrigacx-ceo-died-what-next.png"
+      "url": "https://cointelegraph.com/news/russian-crypto-trading-bring-46b-regulated-exchanges-legalization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M1C10WR962EQNTM5JC7YMRXS/russia-coin-moscow-minin-and-pozharskiy.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
-      "summary": "Stellar’s real-world asset market has expanded rapidly this year as institutional adoption and tokenization activity grow across the network.",
+      "title": "Mystery surrounds why an OG burned $1M in Bitcoin",
+      "summary": "The million dollar question is what prompted a Bitcoin OG to send 20 BTC to a custodian, retrieve it back, and then deliberately burn it?",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M17DHDVASPVRK9KZ8KYFMNK1/hi-how-binance-plans-to-bring-tokenized-us-stocks-3.png"
+      "url": "https://cointelegraph.com/magazine/mystery-surrounds-why-an-og-burned-1m-in-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/fire-coin-hand-burn2-1.png"
     },
     {
-      "cat": "Crypto",
-      "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
-      "summary": "Tokenized equities saw a sharp rise in onchain activity as active addresses and holders more than doubled over the past month.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/08/01M174Y6XQHY999NVSQCZY6B3V/hi-cryptocurrency-vs-stocks-breaking-news-1.png"
+      "cat": "Science",
+      "title": "NASA’s Roman Space Telescope launches to reveal the Universe’s darkest secrets",
+      "summary": "NASA’s Roman Space Telescope has launched on a million mile journey to L2, where it will scan huge portions of the cosmos for clues about dark matter, dark energy, and distant worlds. With survey speeds roughly 1,000 tim",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260831035213.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Popular sweeteners may leave effects that last for generations",
+      "summary": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced bene",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm"
     },
     {
       "cat": "Science",
@@ -238,6 +252,20 @@
       "summary": "Adults aged 40 and older performed about 12% faster on a test of executive function after using a HEPA air purifier at home for one month. The findings suggest that cleaner indoor air could offer a simple way to help pro",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/08/260830000016.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Scientists challenge a 70-year-old “lizard brain” myth",
+      "summary": "A long-standing picture of brain evolution as newer, rational layers stacked on top of an ancient “lizard brain” may be deeply misleading. Researchers found that evolution instead appears to balance two competing styles ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Fossil feet may be misleading scientists about human evolution",
+      "summary": "Wild monkeys in West Africa can climb vertical tree trunks using foot flexibility scientists did not realize they possessed. The discovery challenges a key assumption about what the last common ancestor of humans and chi",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829235942.htm"
     },
     {
       "cat": "Science",
@@ -247,32 +275,18 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260829035328.htm"
     },
     {
-      "cat": "Science",
-      "title": "Long-term melatonin use linked to 90% higher heart failure risk",
-      "summary": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes hear",
+      "cat": "Health",
+      "title": "Scientists find why the liver may not heal even after you stop drinking",
+      "summary": "Alcohol-related liver disease may trap damaged liver cells in a regenerative limbo, preventing the organ from rebuilding itself even after drinking stops. Researchers linked the problem to inflammation-driven RNA errors ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260831015205.htm"
     },
     {
-      "cat": "Science",
-      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
-      "summary": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with convent",
+      "cat": "Health",
+      "title": "Popular sweeteners may leave effects that last for generations",
+      "summary": "Two widely used zero-calorie sweeteners, sucralose and stevia, may have effects that linger far longer than the sweet taste itself. In mice, researchers found that both sweeteners altered the gut microbiome, reduced bene",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "This strange “spacetime crystal” can suddenly become a black hole",
-      "summary": "Physicists have mathematically captured a bizarre “spacetime crystal” that can either dissolve or collapse into a microscopic black hole after only a tiny change in energy. Their breakthrough came from an unusual trick i",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829035225.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "1.4-million-year-old footprints reveal a surprisingly large human relative",
-      "summary": "Ancient footprints in Kenya reveal that eight Paranthropus boisei may have traveled together 1.4 million years ago, with some individuals reaching surprisingly large, human-like body sizes. The tracks offer a rare glimps",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829035221.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm"
     },
     {
       "cat": "Health",
@@ -283,86 +297,72 @@
     },
     {
       "cat": "Health",
+      "title": "Scientists challenge a 70-year-old “lizard brain” myth",
+      "summary": "A long-standing picture of brain evolution as newer, rational layers stacked on top of an ancient “lizard brain” may be deeply misleading. Researchers found that evolution instead appears to balance two competing styles ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829235958.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "One injection could keep osteoarthritis drugs working for weeks",
+      "summary": "Scientists have created an injectable gel that can remain inside arthritic joints for weeks, slowly releasing medication while also improving lubrication. The approach could make it easier to deliver disease-modifying dr",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829235947.htm"
+    },
+    {
+      "cat": "Health",
       "title": "Long-term melatonin use linked to 90% higher heart failure risk",
       "summary": "People with chronic insomnia who used melatonin long term had a roughly 90% higher risk of developing heart failure over five years, according to a large preliminary study. The findings do not prove melatonin causes hear",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm"
     },
     {
-      "cat": "Health",
-      "title": "Researchers unveil sustainable spirulina solution to vitamin B12 deficiency",
-      "summary": "Researchers have produced a form of Spirulina containing biologically active vitamin B12 at levels comparable to beef. By carefully controlling the light used to grow the algae, they overcame a major problem with convent",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829035227.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Common supplements rival antibiotics for severe gum disease",
-      "summary": "Omega-3 and low-dose aspirin matched the effectiveness of antibiotics in a year-long study of patients with severe gum disease, with both approaches helping about 58% reach the treatment goal. The unexpected result could",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260829035216.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Dogs may hold surprising clues to human longevity",
-      "summary": "Dogs and humans may have more in common when it comes to aging than scientists realized. Researchers with the Dog Aging Project found that patterns of small molecules in dogs’ blood were linked to longer or shorter lifes",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828082341.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "A cancer therapy put severe rheumatoid arthritis into remission",
-      "summary": "CAR T-cell therapy dramatically reduced disease activity in six people with severe rheumatoid arthritis that had resisted other treatments, with three achieving medication-free remission. The treatment may work by cleari",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/08/260828082330.htm"
+      "cat": "Culture",
+      "title": "John Galliano exhibition at New York Met cancelled after backlash",
+      "summary": "The exhibition faced criticism over the British fashion designer's conviction for making antisemitic remarks in 2011.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c4gkp6pgy03o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/87bf/live/7e3a5850-a547-11f1-8689-6589354d0f8e.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Dolly Parton's dad couldn't read - it inspired her to send books to millions of children",
-      "summary": "Families across the globe share how free books from Parton's Imagination Library helped their children.",
+      "title": "Victoria Beckham's company makes its first profit after 18 years",
+      "summary": "Beckham's fashion and beauty business makes a £7.3m operating profit after years of losses.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cpwlrrzp8eeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2cb0/live/9d09bab0-a22b-11f1-bd6a-3d72a7f54a3e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6918/live/636dc020-a55b-11f1-9acf-19576105f049.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Charli XCX electrifies Reading Festival with era-spanning set",
-      "summary": "The British singer and Irish rock band Fontaines DC both headlined the first night of Reading for 2026.",
+      "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
+      "summary": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c750ng9grk0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/86ea/live/35df52c0-a32d-11f1-8e46-c39d9fc92d9e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/024b/live/9dd0a660-a55b-11f1-9acf-19576105f049.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Paul Heaton scores first number one album as Dolly Parton's 9 to 5 finally reaches top 40",
-      "summary": "Heaton's solo album tops the chart, while Parton's 1980 US hit reaches the UK top 40 at last.",
+      "title": "Dolly Parton laid to rest alongside husband in Nashville",
+      "summary": "A private family funeral is held for the singer who died on Tuesday at the age of 80.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c8d3ml106j8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e873/live/cfd2cfb0-a2f6-11f1-b109-879e35c24276.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cew95ke74l7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a36d/live/d19e2b60-a51b-11f1-89d5-dd5482a9fcc2.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Jacob Elordi on why The Dog Stars had him asking 'What am I missing' in life?",
-      "summary": "Sir Ridley Scott's post-apocalyptic epic explores the feeling of hope in a pandemic-riddled world.",
+      "title": "This actor was told he had Alzheimer's, now he's performing a one-man show",
+      "summary": "Peter Marinker is taking on one of Samuel Beckett's most famous plays alone on a London stage.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c74g2j83dx1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f7f6/live/4e92e7b0-a2a5-11f1-b109-879e35c24276.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c4g3nwwjd8go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0499/live/84b46410-9d5d-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "cat": "Culture",
-      "title": "What we know after the big Grand Theft Auto 6 preview",
-      "summary": "The official look at the blockbuster video game leaves fans and critics impressed.",
+      "title": "Lola Young surprises Reading Festival with final day set",
+      "summary": "The singer has been slowly returning to performing after taking a break last year to \"work on myself\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c3d7exngd5no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/956b/live/a59bfb30-a25c-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Matt Lucas and Hugh Bonneville among actors calling for law on AI voice cloning",
-      "summary": "The performers are asking the government to give every person in the UK a legal right to own their voice.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c4gv5gepxnyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0a34/live/922d2fb0-a234-11f1-a291-b542ee92de7c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6247yv8564o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0fc2/live/5d0d2160-a495-11f1-8395-fb1eae51ae18.jpg"
     }
   ]
 }
