@@ -1,56 +1,56 @@
 {
-  "date": "2026-09-03",
-  "updated": "2026-09-03T16:15:15.800Z",
+  "date": "2026-09-04",
+  "updated": "2026-09-04T16:10:35.343Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/067c/live/99ebc3c0-a70b-11f1-b109-879e35c24276.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f3a3/live/c697e520-a841-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "cat": "World",
-      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
-      "summary": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.",
+      "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+      "summary": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4952/live/e2983d40-a77b-11f1-b2d5-535b3b3d379f.jpg"
+      "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b6de/live/4f7a6c30-a871-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "cat": "World",
-      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-      "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+      "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
+      "summary": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/23c8/live/cf91da40-a784-11f1-b2d5-535b3b3d379f.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8ea2/live/97f55e90-a856-11f1-b109-879e35c24276.jpg"
     },
     {
       "cat": "World",
-      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
-      "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2bb1/live/cf1e6580-a764-11f1-a291-b542ee92de7c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/21d4/live/99481b50-a86c-11f1-bbad-43eaf67b94b6.jpg"
     },
     {
       "cat": "World",
-      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
-      "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
+      "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",
+      "summary": "The Australian icon was killed in 2006, after a stingray's barb pierced his chest during filming.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4cc0/live/a22ffbc0-a772-11f1-993c-a325009c1935.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c809/live/e61062e0-a811-11f1-a863-bf0d1acbb54a.jpg"
     },
     {
       "cat": "World",
-      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
-      "summary": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
+      "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend, reports say",
+      "summary": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a86d/live/57402810-a7a9-11f1-a7ad-37a1f7dc081c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0e39/live/bcf0df00-a86d-11f1-bbad-43eaf67b94b6.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,27 @@
     },
     {
       "cat": "Markets",
+      "title": "U.S. payrolls rose 162,000 in August, much more than expected; unemployment rate at 4.1%",
+      "summary": "Nonfarm payrolls were expected to increase by 53,000 in August while the unemployment rate held at 4.1%, according to the Dow Jones consensus.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/04/jobs-report-august-2026.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "The big business of personal protection: How private security became a $50 billion industry",
+      "summary": "Private security spending and guard employment have climbed as companies and communities respond to high-profile attacks, even as violent crime falls.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/04/private-security-spending-crime-allied-universal.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
+      "summary": "August nonfarm payrolls are expected to rise by 53,000 as a subdued labor market keeps Fed attention focused on inflation.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
       "summary": "In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation trends.",
       "source": "cnbc.com",
@@ -116,97 +137,68 @@
       "url": "https://www.cnbc.com/2026/09/03/south-korea-semiconductor-exports-surging-concerns.html"
     },
     {
-      "cat": "Markets",
-      "title": "Private payrolls rose by 38,000 in August, less than expected, ADP reports",
-      "summary": "Though job creation held positive, August was the smallest gain since January and reflective of a broader slowdown in the labor market.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
-      "summary": "The European Central Bank is seen hiking rates in September as the Iran war raises energy costs in the region.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "India’s economy expands 7.8% in fiscal first quarter, beating estimates",
-      "summary": "The economy was driven by a strong performance in the financial, real estate, information technology and professional services sectors.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/08/31/india-economy-gdp-energy-el-nino.html"
+      "cat": "Tech & AI",
+      "title": "Rocket Report: Engines installed for Artemis III; Long March 6C breakup in LEO",
+      "summary": "Two of Europe's leading launch startups announced new fundraising this week.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260901-PH-RCR02_0049orig-1152x648-1788507222.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Spending deal comes with a bonus: Blocking political control of grants",
-      "summary": "Congress pauses the OMB's attempt to rewrite how research is funded.",
+      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+.",
+      "summary": "Fairphone's CTO explains how and why the Dutch company builds a different kind of smartphone.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/us-capitol-1152x648-1777657457.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Fairphone-6-8.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "I rented a car, and within hours, my driver's license was for sale",
-      "summary": "The FBI is reportedly investigating a massive data breach that is unfolding in real time.",
+      "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+      "summary": "CDC staff had already accepted the measles death reports when RFK Jr. meddled.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Dan-stolen-driver-licence.png"
+      "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2233024483.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "FCC plans robocall scorecard to grade phone companies on spam call blocking",
-      "summary": "Carrier scorecards may include call-blocking stats and data on customer complaints.",
+      "title": "Xbox imposes harsh new time limits for Game Pass game streaming",
+      "summary": "Over 1 million Game Pass subscribers will have to pay more for their heavy streaming use.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/robocall-blocking-1152x648-1788376254.jpg"
+      "url": "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/xcloud02.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Wary of Artemis IV timeline, NASA is changing lunar spacesuit design",
-      "summary": "\"Requirements are being adjusted to reflect near-term mission needs.\"",
+      "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+      "summary": "Researchers now have clear new targets and insights for developing a Shigella vaccine.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/AxEVA_Brooks_TVACTesting_20251110_6698_AxEdit.jpg"
+      "url": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2259791135.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-      "summary": "Google's Pro model updates are seemingly paused, but there's yet another Gemini Flash today.",
+      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+      "summary": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-1.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Trump may be forced to reveal secret rules feds use for AI safety testing",
-      "summary": "Trump’s secret reviews of frontier AI models may hide corruption, lawsuit says.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2250714805.jpg"
+      "url": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/vpn-tunnel.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Kraken parent Payward partners with SoFi on stablecoin, 24/7 settlement",
-      "summary": "The deal will bring SoFiUSD to Kraken, connect Payward to SoFi’s 24/7 dollar settlement network and give SoFi access to digital asset liquidity through Kraken Prime.",
+      "title": "Revolut, OpenReserve get preliminary US bank approval with crypto plans",
+      "summary": "Revolut and OpenReserve received preliminary OCC approval to form US national banks, with both planning cryptocurrency and stablecoin-related services.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/kraken-parent-payward-partners-with-sofi-stablecoin-247-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KYWSE94CPJJA8YZQS23VKP/hi-what-is-a-decentralized-money-market-and-kraken.png"
+      "url": "https://cointelegraph.com/news/revolut-openreserve-occ-approval-national-bank-crypto-plan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Recovery specialists crack $1B crypto wallet... but find just $10",
-      "summary": "Crypto recovery specialists reveal how lost wallets, passwords and seed phrases can sometimes be recovered — but that’s of no help if the money was never there in the first place.",
+      "title": "Token buybacks are booming. But are they good for crypto projects?",
+      "summary": "Crypto projects are spending hundreds of millions buying their own tokens. But are buybacks creating lasting value — or just making tokens look more valuable than they really are?",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/recovery-specialists-crack-1b-crypto-wallet-but-find-just-10?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1JCXG2R7DCZ2470D2Y6764D/magazine-crypto-sec-3.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "VARA, Securitize sign MoU for tokenization innovation in Dubai",
-      "summary": "VARA and Securitize signed an MoU to foster more tokenization innovation in Dubai and explore how tokenized financial innovation should be regulated in the region.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/vara-securitize-mou-tokenization-dubai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KGRZRFAT4PNFKDRGKF3YTG/hi-crypto-in-gulf-a-new-trend-1.jpg"
+      "url": "https://cointelegraph.com/magazine/token-buybacks-are-booming-but-are-they-good-for-crypto-projects?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1K8AJR546DD0XM3RM8FJK76/magazine-tokenomics.jpg"
     },
     {
       "cat": "Crypto",
@@ -218,19 +210,48 @@
     },
     {
       "cat": "Crypto",
-      "title": "Nvidia buys Hugging Face for $12.9B in push into AI software",
-      "summary": "Nvidia agreed to buy Hugging Face for $12.93 billion, gaining a platform used by more than 18 million developers to share and deploy AI models.",
+      "title": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
+      "summary": "Kalshi’s US web traffic climbed more than 1,500% in less than a year, while trading volume grew even faster and legal scrutiny of its sports contracts intensified.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/nvidia-buys-hugging-face-12-9-billion-ai-software?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KKFHFD5J5RD9BJBAS2SSBF/hi-how-to-train-an-ai-bot-to-day-trade-crypto2.jpg"
+      "url": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NT59AV4MSNB8HZB5TDQQNF/hi-comparison-us-elections-3.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Pencil Finance completes $1M onchain lending cycle for 6.6K students in Southeast Asia",
-      "summary": "Pencil Finance said that its first-of-a-kind loan offered financing to 6,600 students in Southeast Asia who were underserved by traditional lenders.",
+      "title": "Trezor says data breach affects another 67K US customers",
+      "summary": "Trezor said an additional 67,000 US users were affected by its shipping provider’s data breach, opening the path to potential phishing attacks and social engineering scams.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/pencil-finance-1m-onchain-lending-cycle-students?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KD8ZMVTH2ZVX65BHNFY5E4/hi-how-to-earn-passive-income-with-peer-to-peer-lending.jpg"
+      "url": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P1ZHH851JBMYW8FC0YFCV0/hi-top-crypto-hacks-and-scams-to-beware-of-in-october-2024.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "South Korean regulators introduce tokenized securities roadmap",
+      "summary": "South Korea’s financial regulator introduced a three-phase roadmap for the issuance of tokenized assets, as the country prepares to adopt its first tokenized securities framework in February 2027.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/south-korean-regulators-tokenized-securities-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1NZDZRJB5DD0DA0Z7XCR531/hi-why-south-korea-is-struggling-to-decide-who-can-issue-stablecoins-1.jpg"
+    },
+    {
+      "cat": "Science",
+      "title": "A longer exhale may push your brain toward bolder decisions",
+      "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling you",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Dark matter detector finds a strange signal scientists can’t yet explain",
+      "summary": "The LUX-ZEPLIN experiment has detected a rare particle interaction that looks unusually difficult to explain as ordinary background noise and appeared where dark matter might be expected. Scientists are not claiming a di",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000313.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Scientists reveal the hidden instructions that build the human brain",
+      "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depend",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm"
     },
     {
       "cat": "Science",
@@ -241,38 +262,45 @@
     },
     {
       "cat": "Science",
-      "title": "Ancient “living fossils” may reveal how complex life began",
-      "summary": "A newly discovered microbe living inside ancient stromatolite communities may offer a rare look at how complex life first emerged. Researchers captured the first direct images of an Asgard archaeon physically connected t",
+      "title": "Scientists discover a bizarre “devil flower” hidden in Thailand",
+      "summary": "Scientists have discovered a strange black “devil flower” in Thailand that lives mostly underground, steals nutrients from fungi, and looks strikingly unlike a typical plant. The newly named Thismia daemona is known from",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260902234514.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064217.htm"
     },
     {
       "cat": "Science",
-      "title": "September brings a dazzling Venus and a glowing Harvest Moon",
-      "summary": "September’s sky features brilliant Venus, the Milky Way’s hazy center, and the seasonal turning point of the equinox. The month ends with a glowing Harvest Moon rising near Saturn and faint Neptune.",
+      "title": "Stanford scientists discover a seafood that can reverse signs of aging",
+      "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260902234500.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm"
     },
     {
-      "cat": "Science",
-      "title": "The universe has plenty of hydrogen. So why is star formation collapsing?",
-      "summary": "Star formation across the universe has fallen dramatically over the past 4.5 billion years, but astronomers have uncovered a surprising twist: the supply of neutral hydrogen, a key ingredient for making stars, has barely",
+      "cat": "Health",
+      "title": "A longer exhale may push your brain toward bolder decisions",
+      "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling you",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260902234442.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm"
     },
     {
-      "cat": "Science",
-      "title": "Too much coffee may weaken bones, study finds",
-      "summary": "Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drinking more than five ",
+      "cat": "Health",
+      "title": "Scientists reveal the hidden instructions that build the human brain",
+      "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depend",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm"
     },
     {
-      "cat": "Science",
-      "title": "Earth may have lost the Sun’s protective shield millions of years ago",
-      "summary": "NASA-funded studies suggest Earth’s climate has been influenced by both the Sun’s travels through dense regions of the Milky Way and the violent superflares of its youth. Those events may help explain ancient ice ages as",
+      "cat": "Health",
+      "title": "Stanford scientists discover a seafood that can reverse signs of aging",
+      "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901070523.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "New injectable treatment helps the brain rebuild after stroke",
+      "summary": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the bod",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm"
     },
     {
       "cat": "Health",
@@ -289,80 +317,52 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260901070548.htm"
     },
     {
-      "cat": "Health",
-      "title": "“Broken heart syndrome” can look just like a heart attack. This test can tell them apart",
-      "summary": "“Broken heart syndrome” can mimic a heart attack so closely that patients often need invasive testing to tell the difference. Researchers have now developed the BioTAK score, which combines biological sex with blood biom",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901070518.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Mindfulness may lower blood pressure in just 8 weeks",
-      "summary": "Mindfulness, gratitude, and optimism training may improve blood pressure, inflammation, and other heart-health measures within just eight to 12 weeks. The strongest programs paired daily practice with regular reinforceme",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901010721.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "One immune switch may help drive aging across the body",
-      "summary": "Aging may be partly fueled by immune cells losing their ability to clear away damaged, inflammation-promoting cells. Blocking a single receptor restored that cleanup process in mice, reducing inflammation and helping the",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901010717.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Bats carry dangerous viruses without getting sick. This may be why",
-      "summary": "Scientists discovered that more than 500 species of vesper bats possess two separate sets of antibody genes, an immune arrangement never before found in mammals. The surprising system could help explain how bats tolerate",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm"
+      "cat": "Culture",
+      "title": "Man About the House star Richard O'Sullivan dies aged 82",
+      "summary": "His biggest roles included Robin Tripp in 70s TV sitcoms Man About the House and Robin's Nest.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/ce8eg2nnxz0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f742/live/f98d8fd0-a845-11f1-b3a7-d5de760fef6e.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Amelia Dimoldenberg to close doors of Chicken Shop Date",
-      "summary": "Amelia Dimoldenberg announces she will end her popular YouTube series after more than a decade.",
+      "title": "Russell Howard 'devastated' after his baby son died shortly after birth",
+      "summary": "The comedian says his son Felix died earlier this year shortly after his wife Cerys had given birth.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5ylg86gp4eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b41b/live/61e171b0-9ab8-11f0-b741-177e3e2c2fc7.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cg491g7rnqqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/601e/live/3504da00-a84b-11f1-aed2-8d6da8d75094.jpg"
     },
     {
       "cat": "Culture",
-      "title": "'Beautiful, vibrant' Disney star Carla Jeffery dies aged 33",
-      "summary": "Jeffery was known for playing cheerleader Bree in 2018 Disney Channel movie Zombies and two sequels.",
+      "title": "How Oasis fans cracked the Celtic Park gigs code in chip shop video",
+      "summary": "Internet sleuths spotted sets of numbers in posters suggesting the map co-ordinates for Celtic's Parkhead stadium in Glasgow.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ceq8r5gjygno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a51b/live/97a35bf0-a76f-11f1-993c-a325009c1935.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c1dlr6geeq6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2189/live/60fe27d0-a85d-11f1-aed2-8d6da8d75094.png"
     },
     {
       "cat": "Culture",
-      "title": "Dolly Parton gets new star on Hollywood Walk of Fame after vandalism",
-      "summary": "Fans laid flowers on the singer's star after her death, but vandals scratched her name off.",
+      "title": "Girl group Katseye are missing two members, but their tour still dazzles",
+      "summary": "Reduced but resilient, girl group Katseye received a hero's welcome in London.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cvgypl1gyzro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c5fb/live/d98d87e0-a78b-11f1-9bb7-af8e8fd3d806.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6de3/live/81376050-a7e7-11f1-bdc6-1b02acdb53ea.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Kirstie Allsopp airlifted to hospital after fall during birthday celebrations",
-      "summary": "The TV presenter slipped and injured her leg while walking home from a beach in Devon with her family.",
+      "title": "'Not only did I survive, I thrived' - Meera Syal",
+      "summary": "The Wolverhampton-born comedian and actress shares her experiences in her new memoir.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c89jgw0x0zgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0c8b/live/2c0532f0-a770-11f1-993c-a325009c1935.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cy5zr356l66o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0fae/live/8fafb3b0-a7b2-11f1-b5cf-8556ae508a51.png"
     },
     {
       "cat": "Culture",
-      "title": "‘I'd be the last to know’: Stars of The Gentlemen react to Meghan reports",
-      "summary": "The world premiere for series 2 of the Netflix drama took place on Wednesday night in London.",
+      "title": "'Gromit was nearly a cat!': Secrets from 50 years of Aardman",
+      "summary": "Aardman turns 50 with stories of cat-like Gromit, silent Shaun and Chicken Run's Oscar legacy.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c05rg7mj2p1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/36af/live/dcabe710-a758-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Rocky Horror star Tim Curry's cause of death revealed as coronary artery disease",
-      "summary": "The British actor had significant conditions, cited on his death certificate in Los Angeles County.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cy8z7wypzqxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2ae4/live/6a92f770-a71e-11f1-bae2-ff94dc64b981.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cn8ell3dngno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/99a1/live/0415f3a0-a609-11f1-83fc-0df57e6b3866.jpg"
     }
   ]
 }
