@@ -1,56 +1,56 @@
 {
-  "date": "2026-09-05",
-  "updated": "2026-09-05T14:58:38.642Z",
+  "date": "2026-09-06",
+  "updated": "2026-09-06T15:19:41.388Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "summary": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
+      "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+      "summary": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+      "summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9193/live/bc786310-a9bf-11f1-a47c-49756d8d78ae.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Dozens feared trapped in collapsed building in Delhi",
+      "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a286/live/1c93d200-a9f4-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png"
+    },
+    {
+      "cat": "World",
+      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
+      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e249/live/f2d95940-a934-11f1-bb81-8fbd2d2d397c.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png"
     },
     {
       "cat": "World",
-      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
-      "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+      "title": "Prince William to attend King Harald's funeral in Norway",
+      "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7a17/live/0cde6b70-a910-11f1-9eff-150801023722.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
-      "summary": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bb8c/live/47cc3ed0-a7ab-11f1-b78b-6b70b0a83270.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "At least two dead in blast at Bolivia military barracks",
-      "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cea5/live/8e7be190-a905-11f1-b109-879e35c24276.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "What different world maps get right - and what they get wrong",
-      "summary": "As the UN adopts a new world map to reflect Africa's true size, let's take a closer look at what different maps get right and wrong.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cly5r60v4mro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e80e/live/d224a510-a92f-11f1-bb81-8fbd2d2d397c.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Trump signs order to remove endangered species protection for grey wolves",
-      "summary": "The US president says the move will help ranchers, but conservationists say it could derail efforts to recover populations.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c62k677d4lzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/dcdf/live/8dedf210-a908-11f1-bddd-351282998660.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2c5f/live/c032d030-a2b2-11f1-9024-715001d09aeb.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,13 @@
     },
     {
       "cat": "Markets",
+      "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
+      "summary": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html"
+    },
+    {
+      "cat": "Markets",
       "title": "From ‘mystery vacations’ to hostels, budget travelers get thrifty as prices rise",
       "summary": "Despite rising prices and the travel industry focusing on the luxury segment, budget-minded vacationers are still finding ways to get away.",
       "source": "cnbc.com",
@@ -130,11 +137,28 @@
       "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html"
     },
     {
-      "cat": "Markets",
-      "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
-      "summary": "In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation trends.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html"
+      "cat": "Tech & AI",
+      "title": "German company becomes first in Europe to launch fully commercial orbital rocket",
+      "summary": "\"We achieved within a few years what had taken the European space industry decades before.\"",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Spectrum_mission_Onwards_and_upwards_liftoff_pillars.jpg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "Farmed salmon may not be as nutritious as it once was, new research suggests",
+      "summary": "The shift in the fish’s diet is having significant downstream impacts on the environment and climate.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2198085330.jpg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation",
+      "summary": "The US government is investigating whether the Cybercab meets vehicle safety standards.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392.jpg"
     },
     {
       "cat": "Tech & AI",
@@ -161,36 +185,28 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC",
-      "summary": "FCC tells court it is “open-minded\" about whether ABC should lose licenses.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/disney-logo-1152x648-1788549990.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Medieval manuscripts are \"biological time capsules\" for deadly sheeppox virus",
-      "summary": "Other archives and libraries around the world may also contain genetic traces of past disease outbreaks.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/sheeppox-1152x648-1788203007.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "“Trust, not features, is the real deficit”: VMware tries to appease SMBs",
-      "summary": "Broadcom admits it put “too big a focus on VCF.”",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718.jpg"
-    },
-    {
       "cat": "Crypto",
       "title": "Here’s what happened in crypto today",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "source": "cointelegraph.com",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
+      "summary": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1V60Q7PWMX34D3B56J6E2WP/hi-who-is-the-whale-from-2018.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
+      "summary": "Tether-backed Orionx is permanently closing after an audit found more than $7 million in customer assets had moved to wallets outside its custody.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1TTSPPYA631ETX2200VF1YM/orionx1.png"
     },
     {
       "cat": "Crypto",
@@ -217,20 +233,11 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PYWBWRST3XMBJ9PF2QDTTB/hi-how-a-weakening-us-labour-market-is-putting-pressure-on-bitcoin-and-crypto-prices.jpg"
     },
     {
-      "cat": "Crypto",
-      "title": "Pineapple Financial puts $1B in mortgage records on Injective",
-      "summary": "The mortgage lender plans to bring more than $10 billion in historical loans onchain, turning thousands of mortgage files into blockchain-based records.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/pineapple-financial-puts-1b-in-mortgage-records-on-injective?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PRJC4TJX7RTS99QE3AJN32/hi-tokenizing-real-estate-in-the-united-states-crypto-market-1.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "FinCEN ties $13B in crypto scams to non-US operations",
-      "summary": "The agency reported that “transnational criminal organizations” based in compounds in Southeast Asia were largely behind digital asset scams targeting US residents.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/fincen-crypto-overseas-scam-centers-analysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PW3BH4HC5DKEEBWSEEE29W/regulation-semen-lot-of-papers-fincen.jpg"
+      "cat": "Science",
+      "title": "A mysterious signal around Earth could be dark matter",
+      "summary": "Scientists used Earth’s magnetic field and atmosphere as a planet-sized detector to search for some of the lightest proposed forms of dark matter. The approach dramatically improved limits on ultralight axions and uncove",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000328.htm"
     },
     {
       "cat": "Science",
@@ -238,6 +245,13 @@
       "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling you",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/09/260904000320.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Indonesia’s most dangerous fires are burning underground",
+      "summary": "Indonesia’s dangerous peat fires are surging early in the 2026 fire season as a strengthening El Niño and severe drought dry out wetlands that can burn underground for months. These slow smoldering fires are especially d",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000318.htm"
     },
     {
       "cat": "Science",
@@ -261,20 +275,6 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm"
     },
     {
-      "cat": "Science",
-      "title": "NASA scientists discover a giant 10-sided pattern on Saturn",
-      "summary": "A huge 10-sided atmospheric pattern has appeared around Saturn’s south pole, giving the planet a surprising counterpart to its famous northern hexagon. Hubble data suggest the strange decagon only began emerging in the p",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260903064229.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Scientists discover a bizarre “devil flower” hidden in Thailand",
-      "summary": "Scientists have discovered a strange black “devil flower” in Thailand that lives mostly underground, steals nutrients from fungi, and looks strikingly unlike a typical plant. The newly named Thismia daemona is known from",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260903064217.htm"
-    },
-    {
       "cat": "Health",
       "title": "A longer exhale may push your brain toward bolder decisions",
       "summary": "Slow breathing with a prolonged exhale made people more willing to take risks by changing heart activity and increasing the brain’s sensitivity to rewards. The findings suggest that something as simple as controlling you",
@@ -287,6 +287,20 @@
       "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depend",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Scientists find a weak spot in one of the deadliest brain cancers",
+      "summary": "Researchers may have found a new way to weaken glioblastoma’s defenses against treatment. Blocking a protein called SET prevented tumors from forming in preclinical models, while targeting related proteins made cancer ce",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Compound in blueberries may help muscle cells burn excess fat",
+      "summary": "Scientists in Japan have identified a natural compound found in blueberries, grapes, and other berries that may help muscle cells burn excess fat instead of storing it. The compound, pterostilbene, reduced abnormal fat b",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064219.htm"
     },
     {
       "cat": "Health",
@@ -303,66 +317,52 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm"
     },
     {
-      "cat": "Health",
-      "title": "Too much coffee may weaken bones, study finds",
-      "summary": "Following nearly 10,000 older women for 10 years, researchers found that tea drinking was associated with slightly higher hip bone density. Moderate coffee consumption did not appear harmful, but drinking more than five ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Each extra hour of prolonged sitting linked to 9% higher cancer death risk",
-      "summary": "Sitting for long, uninterrupted stretches may carry greater health risks than sitting the same amount of time in shorter bouts. Researchers found that each extra hour of prolonged sedentary behavior was associated with a",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260901070548.htm"
+      "cat": "Culture",
+      "title": "Why Munya Chawawa is 'jumping ship' from socials to Shakespeare",
+      "summary": "The comedian is making his stage acting debut and says he wants to move away from social content.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/ce3r02z3dxno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/72ef/live/2168d460-a6ac-11f1-b048-153395f36aa1.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Lauryn Hill, Wyclef and Giggs among surprise guests at Jay-Z's long-awaited UK show",
-      "summary": "The US rapper rolled back the years for more than two hours at the first of his two shows in London.",
+      "title": "The next James Bond: The (00)7 questions fans want answered",
+      "summary": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c4g7rxgvkgdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d643/live/eafef5b0-a8c4-11f1-998e-85baf5f0ad36.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7ff0/live/291c78c0-a85e-11f1-aed2-8d6da8d75094.png"
     },
     {
       "cat": "Culture",
-      "title": "Man About the House star Richard O'Sullivan dies aged 82",
-      "summary": "His biggest roles included Robin Tripp in 70s TV sitcoms Man About the House and Robin's Nest.",
+      "title": "Natalie Imbruglia on her worst audition: 'I remember feeling icky'",
+      "summary": "The pop star talks about new music, stage fright, conspiracy theories and awkward auditions.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ce8eg2nnxz0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f742/live/f98d8fd0-a845-11f1-b3a7-d5de760fef6e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c87vpg1yvxzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/eb5d/live/4c098a70-a797-11f1-b64a-71b1e45ff5c7.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Russell Howard 'devastated' after his baby son died shortly after birth",
-      "summary": "The comedian says his son Felix died earlier this year shortly after his wife Cerys had given birth.",
+      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
+      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cg491g7rnqqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/601e/live/3504da00-a84b-11f1-aed2-8d6da8d75094.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png"
     },
     {
       "cat": "Culture",
-      "title": "Girl group Katseye are missing two members, but their tour still dazzles",
-      "summary": "Reduced but resilient, girl group Katseye received a hero's welcome in London.",
+      "title": "Boy band star swaps stage for racecourse",
+      "summary": "JJ Hamblett is taking part in a charity horse race at Doncaster Racecourse on 11 September.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqxv49z84ppo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6de3/live/81376050-a7e7-11f1-bdc6-1b02acdb53ea.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c0465l1g6zno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/eb9c/live/67c5d5d0-a7af-11f1-aed2-8d6da8d75094.png"
     },
     {
       "cat": "Culture",
-      "title": "Gavin and Stacey star Rob Brydon's regret at turning down Dolly Parton interview",
-      "summary": "The comedian visited Dollywood in his BBC series Rob Brydon's Honky Tonk road trip.",
+      "title": "The Grand Tour's new presenters: 'I hope we prove the critics wrong'",
+      "summary": "A new trio has taken the wheel of the motoring TV show from Jeremy Clarkson, Richard Hammond and James May.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cde025g1e87o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/148d/live/97a28e60-a87c-11f1-824a-0fc4c5d895ae.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "'Not only did I survive, I thrived' - Meera Syal",
-      "summary": "The Wolverhampton-born comedian and actress shares her experiences in her new memoir.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cy5zr356l66o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0fae/live/8fafb3b0-a7b2-11f1-b5cf-8556ae508a51.png"
+      "url": "https://www.bbc.co.uk/news/articles/c9865dyrjrwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bf69/live/036b5aa0-a79c-11f1-a7ad-37a1f7dc081c.jpg"
     }
   ]
 }
