@@ -1,56 +1,56 @@
 {
-  "date": "2026-09-06",
-  "updated": "2026-09-06T15:19:41.388Z",
+  "date": "2026-09-07",
+  "updated": "2026-09-07T17:39:32.056Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
-      "summary": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "summary": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7828/live/f5ab4970-a9ee-11f1-921b-6365210e1c9d.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/742c/live/a801c5d0-aa9a-11f1-ab09-7f2415c9a652.jpg"
     },
     {
       "cat": "World",
-      "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
-      "summary": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+      "title": "Thousands turn out in Serbia for funeral of 'Butcher of Bosnia' Ratko Mladić",
+      "summary": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9193/live/bc786310-a9bf-11f1-a47c-49756d8d78ae.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1cbf/live/7beeaca0-aac3-11f1-9bcd-4de40c4158ea.jpg"
     },
     {
       "cat": "World",
-      "title": "Dozens feared trapped in collapsed building in Delhi",
-      "summary": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+      "title": "Israeli strikes in southern Lebanese village kill 12",
+      "summary": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a286/live/1c93d200-a9f4-11f1-a291-b542ee92de7c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/73bc/live/047b0dc0-aa8d-11f1-b109-879e35c24276.jpg"
     },
     {
       "cat": "World",
-      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+      "title": "Probe begins into why cargo plane overran Miami runway",
+      "summary": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png"
+      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9d36/live/ead9f6b0-aa73-11f1-8722-09fc3b051866.jpg"
     },
     {
       "cat": "World",
-      "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-      "summary": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+      "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9613/live/a1c35120-a93c-11f1-a291-b542ee92de7c.png"
+      "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg"
     },
     {
       "cat": "World",
-      "title": "Prince William to attend King Harald's funeral in Norway",
-      "summary": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
+      "title": "Nepal observes national day of mourning for victims of flash flood disaster",
+      "summary": "Flags flew at half mast on the 13th day since the disaster, the last day of the Hindu mourning period.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2c5f/live/c032d030-a2b2-11f1-9024-715001d09aeb.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c2kw1qek7gdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0043/live/461239b0-aa93-11f1-a291-b542ee92de7c.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,13 @@
     },
     {
       "cat": "Markets",
+      "title": "Japan's foreign reserves drop by a record $80 billion in August following yen intervention",
+      "summary": "Finance ministry data showed that Japan's official foreign reserves stand at $1.207 trillion, down from July's figure of $1.287 trillion.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/07/japan-foreign-reserves-yen-intervention.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
       "summary": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.",
       "source": "cnbc.com",
@@ -130,11 +137,12 @@
       "url": "https://www.cnbc.com/2026/09/04/private-security-spending-crime-allied-universal.html"
     },
     {
-      "cat": "Markets",
-      "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer",
-      "summary": "August nonfarm payrolls are expected to rise by 53,000 as a subdued labor market keeps Fed attention focused on inflation.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/03/august-2026-jobs-report-payrolls.html"
+      "cat": "Tech & AI",
+      "title": "The complex corporate web behind a $3.2 billion AI data center",
+      "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/LakeMariner.png"
     },
     {
       "cat": "Tech & AI",
@@ -177,12 +185,28 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking.jpg"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths",
-      "summary": "\"It’s long past time for RFK to stop playing games with people’s lives.\"",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg"
+      "cat": "Crypto",
+      "title": "Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares",
+      "summary": "Bitcoin’s struggle to break $80,000 comes as markets price in a growing chance of a September rate hike, putting monetary conditions back in focus.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/markets/crypto-fund-flows-show-investors-trading-fed-rate-path-not-exiting-market-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1Y9G98A8H0F1JQME2K2Y5QF/teaching-bitcoin-board-fed.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Capital B adds 376 Bitcoin in $29M purchase, boosting holdings to 3,521 BTC",
+      "summary": "Capital B’s latest Bitcoin purchase was its largest in nearly a year, pushing the French company ahead of H100 Group among publicly traded BTC holders.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/capital-b-adds-376-bitcoin-in-29m-purchase-holdings-reach-3521-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1YATN0BBKTWZP5TX2YTRME4/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price.png"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Bitcoin chips away at weekend upside as $80K hangs in the balance",
+      "summary": "Bitcoin price fell 2% in low-liquidity conditions as the US Labor Day holiday saw $80,000 once again slip from bulls’ grasp.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/markets/bitcoin-chips-away-at-weekend-upside-as-80k-hangs-in-the-balance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1Y8ZNSF5WMPGFQ1661WSGAG/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold-2.jpg"
     },
     {
       "cat": "Crypto",
@@ -194,43 +218,26 @@
     },
     {
       "cat": "Crypto",
-      "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
-      "summary": "Whale Alert identified 12 mining rewards totaling 600 BTC that moved after 16 years of dormancy, with the onchain tracking platform finding no connection to Satoshi Nakamoto.",
+      "title": "Zcash hits highest price since 2016 as market cap tops $20B",
+      "summary": "ZEC gained 45% over the past week, extending its rally since Grayscale converted its Zcash Trust into an ETF that began trading Aug. 25.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-wakes-16-years-600-btc-moves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1V60Q7PWMX34D3B56J6E2WP/hi-who-is-the-whale-from-2018.jpg"
+      "url": "https://cointelegraph.com/markets/zcash-highest-price-market-cap-20-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XWJSJ8XM9PBWB2HGFX3KCS/zcash-rally-etf-grayscale-privacy-coins.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Tether-backed Orionx to shut down after audit flags $7M custody gap",
-      "summary": "Tether-backed Orionx is permanently closing after an audit found more than $7 million in customer assets had moved to wallets outside its custody.",
+      "title": "Yen intervention meets US inflation data: Five things to know in Bitcoin this week",
+      "summary": "This week’s CPI and PPI prints, along with the Fed’s Sept. 16 rate decision, could determine whether Bitcoin can secure $80,000 as a support level.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/orionx-shut-down-7-million-move-outside-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1TTSPPYA631ETX2200VF1YM/orionx1.png"
+      "url": "https://cointelegraph.com/markets/markets-tilt-toward-september-rate-hikes-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XVQV0DBV1Z4W8PX2TG1AZJ/hi-heres-how-chamber-of-digital-commerce-wants-to-make-crypto-market-great2-1.jpg"
     },
     {
-      "cat": "Crypto",
-      "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
-      "summary": "Polish lawmakers failed to overturn a presidential veto of crypto legislation as the Zondacrypto investigation expands and its Estonian operator enters bankruptcy.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1RDG59G42A1KT2B2MD6EQRF/poland.png"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Bitcoin ETF inflows hit $3.8B in strongest three-week stretch of 2026",
-      "summary": "US spot Bitcoin ETFs drew nearly $1 billion in the latest week as Friday inflows stayed positive despite Bitcoin briefly falling below $79,000.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-inflows-3-8-billion-strongest-three-week-run-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1R63FX0B48YA7B473RBB8TA/hi-bitcoin-etf-infrastructure-investment-2.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Surprise nonfarm payrolls print sends Bitcoin back below 80K",
-      "summary": "The US economy added far more jobs than expected in August, pressuring Bitcoin lower as traders repriced the odds of a Federal Reserve rate cut this month.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/surprise-labor-market-print-sends-bitcoin-back-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PYWBWRST3XMBJ9PF2QDTTB/hi-how-a-weakening-us-labour-market-is-putting-pressure-on-bitcoin-and-crypto-prices.jpg"
+      "cat": "Science",
+      "title": "Popular brain supplement linked to shorter lifespan in men",
+      "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm"
     },
     {
       "cat": "Science",
@@ -268,11 +275,18 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260904000310.htm"
     },
     {
-      "cat": "Science",
-      "title": "Scientists reveal the hidden instructions that build the human brain",
-      "summary": "UCLA researchers have discovered two powerful influences that help guide how the human brain forms before birth. Radial glia, stem cells responsible for producing much of the cerebral cortex, change their behavior depend",
+      "cat": "Health",
+      "title": "Popular brain supplement linked to shorter lifespan in men",
+      "summary": "A large study involving more than 270,000 people has linked higher blood levels of the amino acid tyrosine to a shorter lifespan in men. Using both observational data and genetic analysis, researchers found that elevated",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260904000308.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000330.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Scientists find breast cancer cells hiding behind protective “shields”",
+      "summary": "Researchers have mapped breast tumors in striking detail and uncovered hidden pockets of dormant cancer cells that may help explain why cancer can return after treatment. Unlike rapidly dividing cells, these quiet cells ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260904000326.htm"
     },
     {
       "cat": "Health",
@@ -290,31 +304,57 @@
     },
     {
       "cat": "Health",
-      "title": "Scientists find a weak spot in one of the deadliest brain cancers",
-      "summary": "Researchers may have found a new way to weaken glioblastoma’s defenses against treatment. Blocking a protein called SET prevented tumors from forming in preclinical models, while targeting related proteins made cancer ce",
+      "title": "Scientists discover a hidden problem with this popular sugar substitute",
+      "summary": "Sorbitol, a sugar alcohol commonly used in sugar-free candy, gum, and other low-calorie foods, may not be as harmless as it seems. Researchers at Washington University in St. Louis found that the body can convert sorbito",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260903064242.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064251.htm"
     },
     {
       "cat": "Health",
-      "title": "Compound in blueberries may help muscle cells burn excess fat",
-      "summary": "Scientists in Japan have identified a natural compound found in blueberries, grapes, and other berries that may help muscle cells burn excess fat instead of storing it. The compound, pterostilbene, reduced abnormal fat b",
+      "title": "This lifestyle program improved cognition 55% more than basic health advice",
+      "summary": "Older adults at risk of dementia improved their memory and thinking after following lifestyle programs combining exercise, healthy eating, cognitive training, and social engagement. Those who received regular coaching an",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260903064219.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260903064246.htm"
     },
     {
-      "cat": "Health",
-      "title": "Stanford scientists discover a seafood that can reverse signs of aging",
-      "summary": "A substance found in edible sea squirts appeared to reverse several signs of aging in older mice. Plasmalogen supplements improved memory and learning, strengthened connections between brain cells, reduced inflammation, ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260902234518.htm"
+      "cat": "Culture",
+      "title": "Oasis: Don't Look Back In Anger review - emotional documentary glosses over the hard stuff",
+      "summary": "The film captures the euphoria of Oasis' comeback, but fails to explore the story of their reunion.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cddvzm9nyz7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ca95/live/e665b360-aac5-11f1-9bcd-4de40c4158ea.jpg"
     },
     {
-      "cat": "Health",
-      "title": "New injectable treatment helps the brain rebuild after stroke",
-      "summary": "Duke researchers developed an injectable scaffold that helped stroke-damaged brains grow new blood vessels, support nerve regrowth, and recover movement in mice. The treatment appears to work partly by recruiting the bod",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260902234512.htm"
+      "cat": "Culture",
+      "title": "New Inbetweeners film confirmed by Netflix as lead stars return",
+      "summary": "Netflix has confirmed the original stars of the coming-of-age sitcom are set to reprise their roles for the film.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z0je34y1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/de56/live/c2d84b40-aa95-11f1-ab09-7f2415c9a652.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "BBC News presenter reveals she has blood cancer",
+      "summary": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/db58/live/a7e93d50-aab1-11f1-bdcc-b5edf6495ed5.png"
+    },
+    {
+      "cat": "Culture",
+      "title": "Andrew Scott feels the Pressure as 'unsung hero' in WW2 thriller",
+      "summary": "The actor reveals how he approached playing James Stagg, the \"chilly\" meteorologist key to D-Day's success.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cn0j4lz6pe9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9efb/live/965f7290-aa96-11f1-a291-b542ee92de7c.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Jorja Smith, Chase & Status and Sam Smith to head up Radio 1's Live Lounge month",
+      "summary": "Jorja Smith, Rachel Chinouriri and Blossoms also among artists set to take to the studio next month.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy63mdnr7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ec40/live/41e1ecc0-aaaf-11f1-9eba-7de947fa7cd1.jpg"
     },
     {
       "cat": "Culture",
@@ -322,47 +362,7 @@
       "summary": "The comedian is making his stage acting debut and says he wants to move away from social content.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/ce3r02z3dxno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/72ef/live/2168d460-a6ac-11f1-b048-153395f36aa1.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "The next James Bond: The (00)7 questions fans want answered",
-      "summary": "Speculation has been building recently that an announcement about Daniel Craig's successor could be close.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm2qnq0py5vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7ff0/live/291c78c0-a85e-11f1-aed2-8d6da8d75094.png"
-    },
-    {
-      "cat": "Culture",
-      "title": "Natalie Imbruglia on her worst audition: 'I remember feeling icky'",
-      "summary": "The pop star talks about new music, stage fright, conspiracy theories and awkward auditions.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c87vpg1yvxzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/eb5d/live/4c098a70-a797-11f1-b64a-71b1e45ff5c7.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-      "summary": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6328/live/f1a48620-a95d-11f1-99c3-dba02712eb49.png"
-    },
-    {
-      "cat": "Culture",
-      "title": "Boy band star swaps stage for racecourse",
-      "summary": "JJ Hamblett is taking part in a charity horse race at Doncaster Racecourse on 11 September.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c0465l1g6zno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/eb9c/live/67c5d5d0-a7af-11f1-aed2-8d6da8d75094.png"
-    },
-    {
-      "cat": "Culture",
-      "title": "The Grand Tour's new presenters: 'I hope we prove the critics wrong'",
-      "summary": "A new trio has taken the wheel of the motoring TV show from Jeremy Clarkson, Richard Hammond and James May.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c9865dyrjrwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bf69/live/036b5aa0-a79c-11f1-a7ad-37a1f7dc081c.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bf08/live/8e218dd0-aacc-11f1-9f87-35997bdaf8f4.jpg"
     }
   ]
 }
