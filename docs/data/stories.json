@@ -1,56 +1,56 @@
 {
-  "date": "2026-09-11",
-  "updated": "2026-09-11T16:17:40.926Z",
+  "date": "2026-09-12",
+  "updated": "2026-09-12T15:23:53.511Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-      "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "summary": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/090c/live/88ca35f0-ad6d-11f1-8edd-ada2fcb84b27.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/03a0/live/0047f800-ae96-11f1-b92e-1f49080ec3cb.jpg"
     },
     {
       "cat": "World",
-      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-      "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+      "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
+      "summary": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c23c/live/9ec505e0-adc9-11f1-b1d1-571ed4d7ff2c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/af5a/live/a555a260-ae9c-11f1-8972-d5c52a82c3b8.jpg"
     },
     {
       "cat": "World",
-      "title": "Israel says it has destroyed major underground Hezbollah base",
-      "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "title": "French officials investigate if malicious act caused train derailment",
+      "summary": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5eb3/live/845b2920-adc7-11f1-a540-61c3f7fc4e6c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/57a4/live/cdfa4090-aea6-11f1-8972-d5c52a82c3b8.jpg"
     },
     {
       "cat": "World",
-      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
-      "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/797d/live/a0a3a660-adc8-11f1-82c1-5ff19bf7a2f2.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/658c/live/322ba800-ae4e-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "cat": "World",
-      "title": "Princess Diana's 'revenge dress' goes up for auction",
-      "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
+      "title": "'It's like a dog set loose on us' - fear over Kenya's crackdown on foreign traders",
+      "summary": "The authorities have struggled to contain the fallout, as frightened migrants flee the country.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/712b/live/9583d4a0-ad80-11f1-b787-81bf75d2ae07.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c4g5kxw4wd7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0ee6/live/5bc27210-ad1e-11f1-826f-933990eae6f0.jpg"
     },
     {
       "cat": "World",
-      "title": "Philippine rescuers board ferry 40 hours after blaze began",
-      "summary": "Thick, toxic fumes and extreme temperatures pose a challenge to rescuers who have boarded the ship.",
+      "title": "Death toll from Philippines ferry fire rises to 76, with more still missing",
+      "summary": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c9dwx97pl5no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0d23/live/4db05bf0-ad92-11f1-89c7-2d9bd86063c9.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/28b9/live/a4414240-ae46-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,13 @@
     },
     {
       "cat": "Markets",
+      "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+      "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Consumer outlook plunges in September as inflation outlook worsens",
       "summary": "The survey's headline index hit a level of 47.8, down 7.5% from the August reading and off 13.2% from a year ago.",
       "source": "cnbc.com",
@@ -130,59 +137,84 @@
       "url": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html"
     },
     {
-      "cat": "Markets",
-      "title": "Wholesale prices rose 0.4% in August, as expected",
-      "summary": "The producer price index was expected to rise 0.4% in August, according to the Dow Jones consensus forecast.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/10/ppi-inflation-report-august-2026.html"
+      "cat": "Tech & AI",
+      "title": "I spent $4,000 on a robot dog from China",
+      "summary": "Unitree might be the world’s most important robotics company.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/80276b2c-6940-443f-adf2-2aabe4d1e838_2048x1365.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Claude users found ways around safeguards for bioweapons research",
-      "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
+      "title": "Some satellite companies still have an appetite for boutique launch services",
+      "summary": "\"Dedicated launch is pretty essential for us for most of our missions.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-app.jpg"
+      "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Engine3.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "ClickFix attacks infecting PCs and Macs are going viral",
-      "summary": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal.",
+      "title": "Random rewards enrich classic game-theory insights",
+      "summary": "Simple games gain rich strategies in the face of noise.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/malware-infected-laptop.jpg"
+      "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294031830.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "What happens when quantum mechanics and relativity meet?",
-      "summary": "Experiment put atoms in a superposition of trajectories to find out.",
+      "title": "Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland",
+      "summary": "The strain lurking in the inflatable structure was hypervirulent.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2255830341.jpg"
+      "url": "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2233742597.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Could United Launch Alliance's money problems finally force its owners to sell?",
-      "summary": "ULA is preparing to resume launching the Vulcan rocket in the coming weeks.",
+      "title": "Trump's forced coal plant extensions thrown out by judge",
+      "summary": "The Department of Energy declared an \"emergency\" when none existed.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/54036895665_60be19debd_4k.jpg"
+      "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2225114161.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Rocket Report: Europe joins the commercial launch club; a Ravn X sighting?",
-      "summary": "\"We felt like now is the time to pour gas on that fire.\"",
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "summary": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/c-Isar-Aerospace-Flight-2_2026-09-05-224332_ylbv.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
-      "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1370964080.jpg"
+      "cat": "Crypto",
+      "title": "Nvidia considers $10B investment in potential record Anthropic IPO: Reuters",
+      "summary": "Anthropic is said to be seeking to raise as much as $100 billion in the offering, which could value the AI company at about $2 trillion.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/nvidia-considers-10b-investment-in-anthropic-record-ipo-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2B2TW953PW8GZE67G0P6MYC/nvidia-anthropic-ipo-artwork.png"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Bitcoin Suisse to shift up to half of Swiss jobs abroad",
+      "summary": "The Swiss crypto financial services firm plans to move back-office functions to lower-cost international hubs as it expands its global wealth and asset management business, according to Finews.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/bitcoin-suisse-to-shift-up-to-half-of-swiss-jobs-abroad?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28YVKDSD0D0GM8BAF7TVC45/hi-layoffs-might-be-a-sign-of-the-market-maturing.png"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Hyperliquid’s biggest risk is regulation, says Ran Neuner",
+      "summary": "The Crypto Banter founder said Hyperliquid’s network effects give it a strong competitive moat, but regulatory uncertainty remains its biggest threat.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/hyperliquids-biggest-risk-is-regulation-says-ran-neuner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28T3HE65MV02Y41NGX63EDN/wall-warning-hyperliquid.png"
     },
     {
       "cat": "Crypto",
@@ -201,36 +233,18 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28K5RK67P7SEQ7376RK4TFB/hi-bitcoin-could-be-the-next-big-inflation-hedge.jpg"
     },
     {
-      "cat": "Crypto",
-      "title": "Metaplanet cuts Series 10 stock pool by 41%, plans Hong Kong subsidiary",
-      "summary": "Metaplanet will cut 131.3 million potential shares and form a $1 million Hong Kong subsidiary for trading in Bitcoin, equities and credit products.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/metaplanet-executive-stock-pool-hong-kong-subsidiary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M28870PKEWGRDMAATE4PHF9G/investmentmoneycryptodollarcrowdfunding-metaplanet.jpg"
+      "cat": "Science",
+      "title": "Scientists find Ozempic may slow aging itself",
+      "summary": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "Trading stocks against BONER is the latest trend for DeFi degens",
-      "summary": "Why would anyone want to trade a healthcare stock for a memecoin like BONER? Why wouldn’t they, ask the degens on Robinhood Chain who are building a strange new corner of DeFi.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2336QVGKKJ171MCKQFKPC2W/magazine-vlad-robinhood.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Bitcoin ETF outflows accelerate as investors pull $449M in three days",
-      "summary": "ARK 21Shares accounted for $164 million of Thursday’s Bitcoin ETF withdrawals, while Ether and Solana funds also recorded net outflows.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-282m-biggest-outflow-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M285JYCZ9QMJKNR8RK6TQCBQ/hi-what-is-a-bitcoin-bond-etf-and-how-does-it-work.jpg"
+      "cat": "Science",
+      "title": "Researchers find a Wordle strategy that wins 99% of the time",
+      "summary": "Researchers at Binghamton University have developed a mathematical strategy that can solve Wordle with a 99% success rate. Instead of simply guessing words packed with common letters or choosing the most likely answer, t",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911204910.htm"
     },
     {
       "cat": "Science",
@@ -241,38 +255,52 @@
     },
     {
       "cat": "Science",
-      "title": "Physicists just found a tiny glitch in time itself",
-      "summary": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current detection, but it cou",
+      "title": "Mercury’s surface reveals a surprisingly fiery past",
+      "summary": "Scientists have discovered that Mercury’s surface contains far less silicon dioxide than previously thought, pointing to an unexpectedly hot volcanic past. The finding suggests ancient lava may have originated from deepe",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911003854.htm"
     },
     {
       "cat": "Science",
-      "title": "UNESCO warns there’s close to a 100% chance of a Mediterranean tsunami",
-      "summary": "The Mediterranean may seem far removed from the world’s major tsunami zones, but history and modern modeling show that destructive waves can strike the French Riviera with surprisingly little warning. Some tsunamis could",
+      "title": "The secret to longer life may be hidden in bat DNA",
+      "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260910022149.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm"
     },
     {
       "cat": "Science",
-      "title": "Scientists discover the human heart can regrow muscle after a heart attack",
-      "summary": "Researchers have shown for the first time that human heart muscle cells can regrow after a heart attack. The finding overturns the idea that damaged areas of the heart are completely incapable of regeneration. Scientists",
+      "title": "66-million-year-old feather in dinosaur poop may reveal why birds survived the asteroid",
+      "summary": "A feather discovered inside 66-million-year-old fossilized dinosaur poop may help explain why modern birds survived the asteroid catastrophe. The extinct bird it came from had more primitive insulating feathers, suggesti",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909231754.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911003849.htm"
     },
     {
-      "cat": "Science",
-      "title": "Archaeologists find a 3,000-year-old Egyptian tomb before it’s too late",
-      "summary": "While clearing debris to protect ancient Egyptian tombs from flash floods, researchers near Luxor stumbled upon an unknown 3,000-year-old tomb. Its remarkably preserved paintings depict an official named Paser, his wife,",
+      "cat": "Health",
+      "title": "Who really needs a heart calcium scan?",
+      "summary": "A 10-year study of more than 6,000 adults found that popular coronary calcium scans may add little to standard heart disease risk estimates for many people. But for patients with borderline or intermediate risk, the scan",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909231746.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911214254.htm"
     },
     {
-      "cat": "Science",
-      "title": "DNA solves the mystery of a body found in the Arctic in 1859",
-      "summary": "Scientists have used DNA from living descendants to identify four more members of the doomed Franklin expedition, including Harry Peglar, whose identity had remained uncertain for 166 years. The findings offer new clues ",
+      "cat": "Health",
+      "title": "Scientists find Ozempic may slow aging itself",
+      "summary": "Semaglutide helped older healthy mice live longer while improving memory, muscle function, blood sugar control, and several biological signs of aging. Its effects went beyond those seen with calorie restriction, raising ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909231735.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911214238.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Scientists find a way to break pancreatic cancer’s protective shield",
+      "summary": "Researchers found that blocking IL1RAP could disrupt a powerful inflammatory network that helps pancreatic cancer survive treatment. In preclinical experiments, the approach reduced tumor-protecting cells and fibrosis wh",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911003856.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "The secret to longer life may be hidden in bat DNA",
+      "summary": "Long-lived bats appear to combine powerful immune defenses with unusual strategies for eliminating damaged cells, potentially helping them avoid cancer and disease for decades. Researchers hope these genetic tricks could",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260911003852.htm"
     },
     {
       "cat": "Health",
@@ -289,80 +317,52 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260911003843.htm"
     },
     {
-      "cat": "Health",
-      "title": "Study of 1.9 million people finds a striking link between ADHD and gut problems",
-      "summary": "Researchers analyzing data from more than 1.9 million people found that ADHD is associated with substantially higher rates of digestive problems. People with ADHD had nearly double the odds of constipation, 58% higher od",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260911003840.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Scientists find signs of extreme aging and youth in the same 117-year-old",
-      "summary": "A remarkably detailed study of Maria Branyas, who lived past 117, reveals that extreme longevity may involve both intense aging and powerful biological protection at the same time. Researchers found signs of advanced agi",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909231800.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Scientists discover the human heart can regrow muscle after a heart attack",
-      "summary": "Researchers have shown for the first time that human heart muscle cells can regrow after a heart attack. The finding overturns the idea that damaged areas of the heart are completely incapable of regeneration. Scientists",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909231754.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Eating only 8 hours a day may help control Type 1 diabetes",
-      "summary": "Eating only between noon and 8 p.m. improved blood sugar control in a small study of adults with Type 1 diabetes and obesity, while avoiding an increase in serious complications. The promising findings offer the first ev",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909231740.htm"
+      "cat": "Culture",
+      "title": "Five minutes to steal a Renoir: Why museum thefts are becoming bolder across Europe",
+      "summary": "Art crime investigators and security experts say burglaries from galleries across Europe are becoming more brazen.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c804dvky833o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4d48/live/a7c0a8c0-ac48-11f1-96a2-2f464854ded4.png"
     },
     {
       "cat": "Culture",
-      "title": "Stacey Solomon and Alesha Dixon to host The Voice UK in ITV revamp",
-      "summary": "The pair replace Emma Willis, who has hosted the show since 2014 but is leaving to front Strictly.",
+      "title": "We've followed their lives for six decades - now the stars of 7 Up are bowing out",
+      "summary": "70 Up is the final instalment in a series which began in 1964 and has followed the lives of 14 people.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq8je91vvzjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/840a/live/ba1eec50-ade9-11f1-b1d1-571ed4d7ff2c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/crm932el3yjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e7de/live/4f95a3f0-a782-11f1-8858-e93489ec40ef.png"
     },
     {
       "cat": "Culture",
-      "title": "Esther Rantzen says she is too fragile to travel to Switzerland to end life",
-      "summary": "The broadcaster and campaigner says she missed her chance to go before living with cancer became \"unbearable\".",
+      "title": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
+      "summary": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper Quando Rondo.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/clyk61jpgjjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/205b/live/e8ff1fc0-ad32-11f1-9bc8-3509bd1a4ead.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/42bf/live/4e811660-ae77-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Museum agrees to return remains to ancestral homeland",
-      "summary": "Oxford's Pitt Rivers Museum will return more than three dozen sets of human remains to the Naga people.",
+      "title": "The Prodigy to headline Creamfields 2027",
+      "summary": "The dance music festival Creamfields has announced The Prodigy as its first headline act.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z38jqe3eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/48f7/live/c37562a0-add7-11f1-871b-cb14676e811d.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cgmrzm17dgjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/16fa/live/76128df0-ae20-11f1-ac3c-d9de82cf7bb1.png"
     },
     {
       "cat": "Culture",
-      "title": "People long for simpler times, say Practical Magic reboot stars",
-      "summary": "Actresses Maisie Williams and Joey King feature in the upcoming sequel of the 1998 fantasy romcom.",
+      "title": "Life after Eurovision for Look Mum No Computer",
+      "summary": "The musician behind Eins, Zwei, Drei says people still stop him in the street after Eurovision.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cpq0n1q0eego?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/905e/live/454e9fb0-adc1-11f1-a540-61c3f7fc4e6c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c7v419e3r4jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a633/live/3a440300-adce-11f1-82c1-5ff19bf7a2f2.jpg"
     },
     {
       "cat": "Culture",
-      "title": "James Bay performs with broken ankle at Bon Jovi gig",
-      "summary": "The Hitchin-born star is wheeled onto the stage with his leg in a cast for his set at Wembley.",
+      "title": "How a BBC strike exterminated Doctor Who adventure",
+      "summary": "Marcus Hearn recalls the stories his father told him about the filming of episodes in Cambridge.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c046q215g03o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b45d/live/98569550-add0-11f1-a540-61c3f7fc4e6c.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Watch: Is the Bayeux Tapestry exhibition worth the hype?",
-      "summary": "Crowds have been flocking to the British Museum to see the Bayeux Tapestry as it's on public display in the UK for the first time since it was created nearly 1,000 years ago.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/videos/cy8zrnn2ekxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1d74/live/b1199af0-ad45-11f1-b1d1-571ed4d7ff2c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6d0c/live/3e4afb80-ac3d-11f1-aa42-a9647fd0ba61.jpg"
     }
   ]
 }
