@@ -1,56 +1,56 @@
 {
-  "date": "2026-09-15",
-  "updated": "2026-09-15T16:45:24.548Z",
+  "date": "2026-09-16",
+  "updated": "2026-09-16T16:38:18.649Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Denmark says Russian warship fired flares at military helicopter",
-      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+      "title": "EU chief backs plan for Canada to become 'associate member'",
+      "summary": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/663f/live/010ff400-b0e8-11f1-ae0d-6f5ba3aa85ac.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4305/live/f4857df0-b1cc-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "cat": "World",
-      "title": "What weapon could the US have put into space?",
-      "summary": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "summary": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/501e/live/92c14ad0-b105-11f1-b1d1-571ed4d7ff2c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9e43/live/ff225e50-b1b7-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "cat": "World",
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "summary": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
+      "title": "US accuses Russia of trying to kill Ukrainian allies overseas",
+      "summary": "The FBI says five men \"conspired to intimidate, threaten, or murder people on US soil and around the world\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5666/live/b70fbd00-b109-11f1-a451-6b1ff10ed362.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cjp3077led9qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/acf1/live/aa52dd30-b1aa-11f1-8b77-cd7827f05bee.jpg"
     },
     {
       "cat": "World",
-      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/61f8/live/adf23e90-b0fb-11f1-a451-6b1ff10ed362.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b490/live/dc850210-b1b4-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "cat": "World",
-      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+      "title": "Eight German state premiers back Merz amid speculation over future",
+      "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3ff7/live/4d4e0d70-b110-11f1-8907-39a652c5e20e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7f16/live/f8062b20-b1ca-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "cat": "World",
-      "title": "Canada is a 'safe harbour' for global finance, Carney says",
-      "summary": "The prime minister is hosting a major global investment summit, with the goal of attracting money into the country amid a trade war with the US.",
+      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+      "summary": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b4df/live/3ae50110-b107-11f1-a540-61c3f7fc4e6c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/01a1/live/6450ab70-b1a3-11f1-a430-4d16ee157c41.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,34 @@
     },
     {
       "cat": "Markets",
+      "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
+      "summary": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "UK inflation jumps to 3.1% as energy costs soar",
+      "summary": "The reading comes a day before the Bank of England updates its monetary policy.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/16/uk-august-inflation-energy-gasoline.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Indonesia's new finance minister faces an uphill battle on fiscal credibility",
+      "summary": "Nazara, sworn in hours after Purbaya's dismissal, spent seven years as deputy finance minister and led the ministry's fiscal policy agency from 2015 to 2019.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/16/indonesia-finance-minister-msci-prabowo-.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Why de-dollarization discussions are more talk, less action",
+      "summary": "BRICS leaders have asserted the need to use local currencies in intra-BRICS trade to cut dependency on dollar.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike",
       "summary": "Traders were pricing in a better than 92% probability of a rate increase, as well as a more than 75% chance for another one in December.",
       "source": "cnbc.com",
@@ -109,260 +137,232 @@
       "url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html"
     },
     {
-      "cat": "Markets",
-      "title": "Consumer outlook plunges in September as inflation outlook worsens",
-      "summary": "The survey's headline index hit a level of 47.8, down 7.5% from the August reading and off 13.2% from a year ago.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/11/consumer-outlook-plunges-in-september-as-inflation-outlook-worsens.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
-      "summary": "The largest outbreak, linked to shredded iceberg lettuce from Taylor Farms, sickened more than 12,000 people.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
-      "summary": "The all-items consumer price index was expected to rise 0.4% in August, with core, excluding food and energy, showing a 0.2% gain, according to the Dow Jones consensus.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
-      "summary": "The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html"
+      "cat": "Tech & AI",
+      "title": "What happens when neutrinos swap identities inside a supernova?",
+      "summary": "Identity-fluid particles may carry some energy out, leading to direct collapse.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/image.png"
     },
     {
       "cat": "Tech & AI",
-      "title": "Trump EPA moves to wipe out climate rules for power plants",
-      "summary": "EPA says power plant emissions have no material impact on climate change.",
+      "title": "macOS 27 Golden Gate: The Ars Technica review",
+      "summary": "It's both a \"Snow Leopard update\" and a major leap for Apple Intelligence.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2017/10/GettyImages-859523302.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/golden-gate-wallpaper-1152x648-1789126743.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "GM gives its most important trucks a new UI—and includes CarPlay",
-      "summary": "The new look debuts in the 2027 Chevrolet Silverado and 2027 GMC Sierra pickup trucks.",
+      "title": "The world’s best racing driver is about to race 100 karts at once",
+      "summary": "Red Bull, Disney+, and ESPN are streaming the race at noon Eastern today.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Chevrolet_Silverado_HighCountry_AP1_2.jpg"
+      "url": "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/SI202608250383.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "This Atlantic hurricane season is about to do something that hasn't happened in 175 years",
-      "summary": "But there may be a price to pay for a quiet Atlantic hurricane season.",
+      "title": "Lawmakers target Flock cameras with a threat to highway funding",
+      "summary": "A bipartisan bill would restrict Flock cameras to a handful of public safety uses.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ccd69f88-1d4c-4310-b001-22083aa5625e.jpeg"
+      "url": "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/noflock.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost",
-      "summary": "Ars previewed Mozilla’s report on how cheap open models caught up on capability.",
+      "title": "How chimps teach their kids tool tricks",
+      "summary": "Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/China-US-AI-race.jpg"
+      "url": "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chimps1.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Volvo increases the batteries for 2028 XC60 and XC90 plug-in refresh",
-      "summary": "The refreshed Volvos also get new infotainment systems with Gemini onboard.",
+      "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+      "summary": "The Nancy Grace Roman Space Telescope is the first NASA observatory designed for in-space refueling.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/The_new_Volvo_XC60_and_the_Volvo_XC90_DuoAngle01_HERO.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "For the first time, the US military confirms it has deployed weapons in orbit",
-      "summary": "\"The United States now has on-orbit space control weapons capable of defending the joint force.\"",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/9718607.jpg"
+      "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/KSC-20260821-PH-SPX01_0007large.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin price falls to $75.6K September low as global bonds hit multidecade highs",
-      "summary": "Bitcoin price action weakened over market nerves prior to the Senate CLARITY Act vote, while surging bond yields pressured risk assets across the board.",
+      "title": "Anchorage expands institutional custody to Etherlink, tokenized uranium",
+      "summary": "Anchorage Digital Bank added custody support for Etherlink and several Etherlink-based assets, including xU3O8, a token representing physical uranium.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-falls-to-756k-september-low-as-global-bonds-hit-multidecade-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JWDC9JXEQB4J55MT31ZEK2/hi-what-are-bonds-and-how-do-they-work-for-crypto-red.jpg"
+      "url": "https://cointelegraph.com/news/anchorage-digital-brings-tokenized-uranium-custody-to-federally-chartered-crypto-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NDB0Z3PMHZBGW6VE69Z32A/coin-crypto-silver.png"
     },
     {
       "cat": "Crypto",
-      "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
-      "summary": "Standard Chartered sees Robinhood Chain as an early sign that tokenization could transform Arbitrum’s economics and drive ARB sharply higher by 2030.",
+      "title": "Coinbase faces greater fallout from CLARITY Act setback: Saxo",
+      "summary": "A strategist at the Danish bank said Coinbase has more at stake in the CLARITY setback because its trading business is directly exposed to US market-structure rules.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JRTG1Y6S9M2Y37M3XPJ1PC/hi-arbitrum-a-beginners-guide-to-the-next-generation-layer-2-for-ethereum-1.jpg"
+      "url": "https://cointelegraph.com/news/coinbase-clarity-act-exposure-saxo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NBVNQWMFT4B98DXZHZWR69/c-man-reading-a-news-paper-coinbase.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "ETH wallet exploit backfires as MEV bot captures $7.7M, Kelp freezes address",
-      "summary": "An MEV bot known as “Yoink” front-ran an attacker attempting to exploit a custom Safe module, capturing the stolen rsETH before Kelp temporarily froze the receiving address.",
+      "title": "Bitcoin awaits Fed rate decision below $76K as analysis discounts ‘dovish surprise’ odds",
+      "summary": "Bitcoin price support materialized around $68,000 as markets saw a 93% chance of the Fed hiking rates by 0.25% on Wednesday.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/mev-bot-intercepts-77m-in-rseth-from-ethereum-wallet-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JRVDXPPS1RFJ7HQKY6AX30/hi-transactions-stopped-danger-1.jpg"
+      "url": "https://cointelegraph.com/markets/bitcoin-awaits-fed-rate-decision-below-76k-as-analysis-discounts-dovish-surprise-odds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2NDCKGG8297RQRGC1PX6SV9/hi-impact-of-fed-interest-rates-on-crypto-holders.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "USDT payments feature in Polish energy giant’s failed $230M oil deal: FT",
-      "summary": "Tether’s USDT stablecoin was part of a failed oil trade that reportedly cost a Polish energy giant $230 million in late 2023.",
+      "title": "Revolut ID thefts highlight KYC’s dangers: Here’s how to fix it",
+      "summary": "Zero-knowledge technology could let companies verify who you are without storing your identity documents. So why isn’t it already standard practice?",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/usdt-payments-polish-energy-giants-failed-230m-oil-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2JGJQHSGWT0JCBGJ8YAJD8X/oil-tether-blockchain-sky-platform-production.jpg"
+      "url": "https://cointelegraph.com/magazine/revolut-id-thefts-highlight-kycs-dangers-heres-how-to-fix-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27YNMN0B998XM580ZT1ETJS/magazine-pinkdrainer.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "US House crypto tax package omits mining, staking reward deferral",
-      "summary": "The 114-page bill would change the tax treatment of crypto fees, stablecoins and lending while leaving existing reward-tax timing unchanged.",
+      "title": "Bernstein expects ‘aggressive’ rulemaking from SEC, CFTC, following CLARITY Act failure",
+      "summary": "Bernstein said the federal agencies will publish new regulations to compensate for the time lost negotiating the CLARITY Act, after its cloture vote failed on Tuesday.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/us-house-crypto-tax-bill-mining-staking-reward-deferral?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J6TX6A7KEPZNSA4AMER8KE/regulations-us-tax.jpg"
+      "url": "https://cointelegraph.com/news/bernstein-aggressive-rulemaking-sec-cftc-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2N0MK84B62M60XV8Q5G8MYA/hi-trumps-strategic-reserve-and-clarity-act-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Ethereum, Base wallet standards talks fail, Ethlabs researcher says",
-      "summary": "Ethereum and Base are pursuing different account abstraction designs after talks failed, according to Ethlabs researcher Derek Chiang.",
+      "title": "Zcash holders back 25-second blocks, vote to keep ZEC halving schedule",
+      "summary": "Nearly 99% of ZEC holders voted to reduce block times to 25 seconds, while keeping ZEC issuance and halving schedules unchanged.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/ethereum-base-wallet-standards-collaboration-breaks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2J4CY20932Q9DX6CEYR4793/robotethereum.jpg"
+      "url": "https://cointelegraph.com/news/zcash-nu7-poll-faster-blocks-zec-halvings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1XWJSJ8XM9PBWB2HGFX3KCS/zcash-rally-etf-grayscale-privacy-coins.jpg"
     },
     {
       "cat": "Science",
-      "title": "Smelling chocolate helped men complete more reps without feeling more tired",
-      "summary": "Simply smelling chocolate helped men complete more leg extension repetitions without making the workout feel harder, with dark chocolate producing the strongest effect. The researchers think familiar food aromas may infl",
+      "title": "Scientists “truly astonished” by discovery that challenges Earth’s origin story",
+      "summary": "A new study suggests Earth formed almost entirely from material in the inner Solar System, challenging the idea that water-rich material from beyond Jupiter played a major role. If correct, Earth’s water may have been pr",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102445.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232132.htm"
     },
     {
       "cat": "Science",
-      "title": "This Australian cave hid 25,000 years of ritual secrets",
-      "summary": "Microscopic plant remains are revealing how GunaiKurnai ancestors used Cloggs Cave for ritual practices over thousands of years. People deliberately gathered whole grasses, carried them into the dark cave, and burned the",
+      "title": "Scientists find an immune “false alarm” that may drive rapid aging",
+      "summary": "Scientists have discovered that some severe genetic disorders linked to rapid aging may be driven not just by damaged DNA, but by the body’s overreaction to that damage. When broken DNA fragments leak into the wrong part",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102443.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm"
     },
     {
       "cat": "Science",
-      "title": "Scientists discover a major brain shift between ages 50 and 75",
-      "summary": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other neurodegenerat",
+      "title": "A 240-million-year-old fossil just changed the dinosaur timeline",
+      "summary": "A newly identified 240-million-year-old animal from Tanzania is forcing scientists to rethink the early dinosaur timeline. Dinodontosaurus isiyavamanda belongs to a group previously known only from South America, linking",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232128.htm"
     },
     {
       "cat": "Science",
-      "title": "UV light reveals possible camouflage on a 125-million-year-old crocodile",
-      "summary": "A 125-million-year-old crocodile fossil has revealed preserved skin, possible sensory organs, sophisticated respiratory structures, and an unexpected pattern on its tail. Ultraviolet light exposed alternating bands that ",
+      "title": "James Webb reveals Chariklo’s mysterious rings are changing faster than expected",
+      "summary": "The James Webb Space Telescope has revealed surprising changes in the rings around Chariklo, a small object orbiting between Saturn and Uranus. Over just a few years, its inner ring became more opaque while its outer rin",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102436.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232124.htm"
     },
     {
       "cat": "Science",
-      "title": "The shape behind the Einstein problem just revealed strange new physics",
-      "summary": "A mathematical shape famous for covering a surface without ever repeating has revealed an unexpected ability to twist light into unusual chiral patterns. The discovery could lead to new ways of controlling light, polariz",
+      "title": "Venus may have swallowed its own moon",
+      "summary": "Venus may have once had a moon, but new research suggests the planet’s incredibly slow rotation could have doomed it. Computer simulations showed that instead of gradually drifting away like Earth’s moon, a Venusian moon",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102432.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232122.htm"
     },
     {
       "cat": "Science",
-      "title": "Supermassive black hole winds are 100 times more powerful than scientists thought",
-      "summary": "Astronomers have discovered that winds from a supermassive black hole are about 100 times more powerful than previously thought. XRISM observations showed the resulting turbulence spreading roughly 300,000 light-years, e",
+      "title": "Scientists turn seawater into fresh water without harmful brine",
+      "summary": "Scientists have developed a solar-powered desalination system that turns seawater into fresh water while removing nearly all of the leftover salt as a solid instead of producing harmful brine. The self-cleaning technolog",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102429.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915100137.htm"
     },
     {
       "cat": "Health",
-      "title": "Smelling chocolate helped men complete more reps without feeling more tired",
-      "summary": "Simply smelling chocolate helped men complete more leg extension repetitions without making the workout feel harder, with dark chocolate producing the strongest effect. The researchers think familiar food aromas may infl",
+      "title": "Scientists find an immune “false alarm” that may drive rapid aging",
+      "summary": "Scientists have discovered that some severe genetic disorders linked to rapid aging may be driven not just by damaged DNA, but by the body’s overreaction to that damage. When broken DNA fragments leak into the wrong part",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102445.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232130.htm"
     },
     {
       "cat": "Health",
-      "title": "Scientists discover a major brain shift between ages 50 and 75",
-      "summary": "Scientists have uncovered sweeping changes in how the human brain controls and organizes its genome beginning in midlife, offering new clues to why aging sharply increases the risk of Alzheimer’s and other neurodegenerat",
+      "title": "Scientists find the whole grain “sweet spot” for better heart health",
+      "summary": "Eating four to six servings of whole grains a day may deliver meaningful benefits for heart health, according to a large review of 87 clinical trials. Researchers found improvements in body weight, waist size, blood pres",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102441.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915232126.htm"
     },
     {
       "cat": "Health",
-      "title": "The U.S. Eradicated this flesh-eating parasite. Now it’s back",
-      "summary": "The flesh eating New World screwworm has returned to the United States, threatening livestock, wildlife, pets and potentially people as it spreads north. A new UC San Diego tracking system aims to predict where the paras",
+      "title": "Scientists reversed biological age in older adults in just 4 weeks",
+      "summary": "Older adults who changed the balance of fat, carbohydrates, and animal protein in their diets showed signs of reduced biological age after just four weeks. The strongest result appeared in participants eating an omnivoro",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914102439.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260915100000.htm"
     },
     {
       "cat": "Health",
-      "title": "Scientists discover strange link between low vitamin D and pain",
-      "summary": "Low vitamin D levels may make recovery from breast cancer surgery more painful, according to a study of 184 women undergoing mastectomy. Patients with vitamin D deficiency were three times more likely to experience moder",
+      "title": "Ultra-processed foods linked to hidden muscle fat that may threaten your knees",
+      "summary": "Eating more ultra-processed foods was linked to greater fat buildup inside thigh muscles, according to MRI scans of 615 adults at risk for knee osteoarthritis. Surprisingly, the association remained even after researcher",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260914042053.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102452.htm"
     },
     {
       "cat": "Health",
-      "title": "Nearly 10,000 patients reveal what works best for knee arthritis pain relief",
-      "summary": "A major analysis of 139 clinical trials involving nearly 10,000 people suggests that some of the simplest treatments may work best for knee osteoarthritis. Knee braces ranked highest overall for reducing pain, stiffness,",
+      "title": "Scientists recreated what mice saw from brain activity alone",
+      "summary": "Scientists reconstructed videos from the brain activity of mice, producing 10-second clips based only on signals from neurons in the visual cortex. The breakthrough could help reveal how the brain reshapes what we see be",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260913082208.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102449.htm"
     },
     {
       "cat": "Health",
-      "title": "Plague was killing entire families thousands of years before the Black Death",
-      "summary": "Ancient DNA reveals that plague was already killing hunter-gatherers in Siberia 5,500 years ago, long before cities and flea-driven epidemics. The prehistoric strains may have been especially dangerous because they carri",
+      "title": "Scientists find a hidden retinal defense against vision loss",
+      "summary": "A naturally occurring molecule called erucamide may help the retina fight back against diseases that cause progressive vision loss. Restoring the molecule activated protective immune responses that helped stabilize retin",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260913082203.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260914102447.htm"
     },
     {
       "cat": "Culture",
-      "title": "Ed Sheeran says it was 'not my decision' to drop Macklemore from tour",
-      "summary": "The star says tour promoters took the decision, after Macklemore made pro-Palestinian statements on stage.",
+      "title": "How being music's Mr Nice Guy contributed to biggest crisis of Ed Sheeran's career",
+      "summary": "Sheeran tries to stay away from politics and controversy, but that stance has come in for criticism.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cm17jz89rxevo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4117/live/d03a0410-b1eb-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+      "summary": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fec9/live/093de4c0-b066-11f1-b9fd-8be7457ad079.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/16f8/live/3cfae5c0-b128-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Five things you may not know about Emmy history-maker Matthew Rhys",
-      "summary": "The Welsh actor became the first person to win two lead acting prizes in one night at the Emmy Awards.",
+      "title": "Writer and broadcaster Bonnie Greer dies aged 77",
+      "summary": "Her husband says the playwright and cultural and political commentator died after a brief illness.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ck790x9d74vvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/95eb/live/1525c960-b11a-11f1-a540-61c3f7fc4e6c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c39w4xqw4r2jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/402c/live/b5617f70-b1c7-11f1-8493-1910d79d53eb.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Home Alone and Schitt's Creek stars pay tribute to late Catherine O'Hara",
-      "summary": "Tributes were also paid at the Emmy Awards to Rob Reiner, Hayden Panettiere and Dolly Parton.",
+      "title": "Earl Spencer's unreleased book on Diana stolen in the Netherlands",
+      "summary": "The theft of Earl Spencer's memoir about his late sister comes one week ahead of the book's release.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgvkn6yyxyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b61e/live/aa9ca160-b0ef-11f1-8d94-cf0ec84c39cd.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cjqlw4773rqyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ae9e/live/3142dec0-9aff-11f1-a27d-25dca26018ed.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-      "summary": "He becomes the first person to win two lead acting prizes in one night at the prestigious TV ceremony.",
+      "title": "'Luck and timing': Matthew Rhys on his historic Emmy Awards double win",
+      "summary": "Speaking to the BBC, the Welsh actor described the \"surreal\" experience of becoming the first person to win two lead acting prizes in one night.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4e1b/live/15051b70-b0ed-11f1-a540-61c3f7fc4e6c.jpg"
+      "url": "https://www.bbc.co.uk/news/videos/cq0m3k8n8xm2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9b2e/live/510c03c0-b1a8-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "cat": "Culture",
-      "title": "In pictures: Stars on red carpet at Emmy Awards in LA",
-      "summary": "Stars from the latest hit TV shows turn out at the biggest night in the US TV calendar.",
+      "title": "Pokémon fans queue for 30th anniversary release",
+      "summary": "Avid collectors of the Japanese trading card game call it \"the biggest day in a decade\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c98r632g6p76o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8eb7/live/df0c4b10-b0b5-11f1-bc1f-3f186ca4140c.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Memorable moments from the Emmys and everything you couldn't see on TV",
-      "summary": "Backstage, the winners continued the celebrations off-screen and addressed some of the ceremony's most viral moments.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq9v9j2rxpxxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/66da/live/c0676110-b0d1-11f1-a540-61c3f7fc4e6c.jpg"
+      "url": "https://www.bbc.co.uk/news/videos/cm4gk0lrex5vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2ba9/live/3ccd9f80-b1bd-11f1-bc1f-3f186ca4140c.jpg"
     }
   ]
 }
