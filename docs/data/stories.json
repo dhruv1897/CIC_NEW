@@ -1,56 +1,56 @@
 {
-  "date": "2026-09-23",
-  "updated": "2026-09-23T16:39:36.676Z",
+  "date": "2026-09-24",
+  "updated": "2026-09-24T16:57:42.001Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Iran's president tells Trump it will never 'bend the knee'",
-      "summary": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
+      "title": "White House restores access to media outlets banned by Trump after judge's order",
+      "summary": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fe3f/live/8c85eb50-b766-11f1-b1d1-571ed4d7ff2c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/706e/live/5280a470-b821-11f1-9173-8b6ede38f022.jpg"
     },
     {
       "cat": "World",
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9b8d/live/5b472620-b767-11f1-a7b2-f3bdba1cd194.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f010/live/69f3ee00-b795-11f1-a430-4d16ee157c41.jpg"
     },
     {
       "cat": "World",
-      "title": "White House rolling out red carpet for historic Xi Jinping visit",
-      "summary": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
+      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
+      "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/15e9/live/9da0b090-b6d1-11f1-b2fe-f10f693c3bae.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c694/live/dc86c7a0-a870-11f1-bbad-43eaf67b94b6.jpg"
     },
     {
       "cat": "World",
-      "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
-      "summary": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
+      "title": "Poland says fire at Starlink station is sabotage as Denmark warns of rising Russian threat",
+      "summary": "The satellite station is used in part to provide internet coverage to neighbouring Ukraine, the government says.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3750/live/bcba89f0-b759-11f1-a430-4d16ee157c41.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmp30r1klk37o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/34f4/live/bd885cd0-b7ff-11f1-97e1-83bf52ec4acd.jpg"
     },
     {
       "cat": "World",
-      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
-      "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
+      "title": "Ethiopia's army says it has repelled attacks in first comment on fresh fighting",
+      "summary": "The military says its soldiers inflicted casualties as fears grow of a resumption of a full-blown civil war.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a68a/live/f463e6c0-b75f-11f1-b1d1-571ed4d7ff2c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqevwm09w4xmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/16fa/live/2ae842f0-b813-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
       "cat": "World",
-      "title": "Harvey Weinstein sentenced to 15 years in prison for sexual assault",
-      "summary": "The disgraced Hollywood producer is already serving a sentence of 23 years for rape and sexual assault in another case.",
+      "title": "105-year-old investigated for crimes at Nazi PoW camp in Germany",
+      "summary": "The suspect is alleged to have been an accessory to murder at the Stalag 326 camp, where tens of thousands of Soviet PoWs died.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm98626n260yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/27d6/live/b340ed80-b766-11f1-a7b2-f3bdba1cd194.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwzrzjy3pynvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a1b2/live/b86b4a70-b811-11f1-a430-4d16ee157c41.jpg"
     },
     {
       "cat": "Business",
@@ -96,125 +96,109 @@
     },
     {
       "cat": "Markets",
+      "title": "Global debt tops $365 trillion as economists sound alarm over 'vicious cycle'",
+      "summary": "More is being paid out by advanced economies in debt interest than the whole world spends on AI, defense or clean technology.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/24/global-debt-bond-yields-inflation.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Switzerland is keeping rates at 0% — for now",
+      "summary": "The Swiss National Bank held rates at 0% as low inflation and a strong franc enable it to diverge from other central banks, though markets expect hikes ahead.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/24/swiss-national-bank-interest-rates-inflation.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "France's fresh budget battle threatens to topple another government",
+      "summary": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+      "summary": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Here's what happens to the economy when Treasury yields soar like they are now",
+      "summary": "Government debt costs leaped higher Wednesday, the product of multiple factors.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html"
+    },
+    {
+      "cat": "Markets",
       "title": "France’s wine production nears a 70-year low, leaving winemakers with tough choices",
       "summary": "As the French wine industry reaches a crisis point, key players are considering new markets, products and generations.",
       "source": "cnbc.com",
       "url": "https://www.cnbc.com/2026/09/20/france-wine-production-70-year-low-heatwaves-drought.html"
     },
     {
-      "cat": "Markets",
-      "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
-      "summary": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
-      "summary": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Bank of England defies Fed’s rate-hike lead, leaving rates unchanged",
-      "summary": "The Bank of England kept rates steady Thursday, even after U.K. inflation rose to 3.1% and energy costs put pressure on prices.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/17/bank-of-england-interest-rate-decision-fed-rate-hike-uk-inflation.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices",
-      "summary": "Prices for diesel, the fuel type used to power trucks and trains, came in at an all-time high of $6.31 per gallon on Wednesday.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/16/transport-economy-diesel-prices-iran.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Consumers hit by one-two punch of oil and rates from Iran war. The estimated bill is $1,700 per household",
-      "summary": "Rising oil prices and Treasury yields are lifting energy and borrowing costs for U.S. households, pushing consumers to draw more heavily on savings.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/09/16/oil-prices-treasury-yields-consumers-iran.html"
+      "cat": "Tech & AI",
+      "title": "NASA chief concerned China may deny access to parts of South Pole",
+      "summary": "\"If you come up short with who comes down the ladder first, the impact is felt around the world.\"",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2292466102.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-      "summary": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
+      "title": "Meta puts its AI assistant on a keychain",
+      "summary": "Meta says the keychain-sized Muse Charm will ship in December.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1572803728.jpg"
+      "url": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/musecharm.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "America gave up its rare earth edge. China took full advantage.",
-      "summary": "Decades of cheaper imports left US dependent on China for crucial rare earth processing.",
+      "title": "There's a new way to break RSA that's faster than anything we've seen before",
+      "summary": "Until now, cryptographers thought factoring was the only way to break RSA. Not anymore.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/mpmaterials-1152x648-1790170607.jpg"
+      "url": "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/breaking-digital-chain.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Small undersea volcanoes may unleash outsized tsunamis",
-      "summary": "Post-eruption imaging of the Hunga caldera gives new details of its collapse.",
+      "title": "Review: Apple's hyper-pricey M5 Ultra Mac Studio made me into a vibe coder",
+      "summary": "Usable local AI is a lot of fun, but how much would you pay for it?",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1248375228.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_3740.jpeg"
     },
     {
       "cat": "Tech & AI",
-      "title": "A new report from Europe raises serious alarms about orbital collisions",
-      "summary": "\"I think we are going to lose the ability to use certain orbits.\"",
+      "title": "RFK Jr.'s CDC isn’t letting states order COVID-19 shots for kids, blocking access",
+      "summary": "US health deptartment said it wants to ensure the vaccine orders are \"appropriate.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/debris.jpg"
+      "url": "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/GettyImages-1241447966.jpeg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Woman's brain worm infection confirmed after eggs grow tails in lab test",
-      "summary": "There is no single definitive test for these worms, but the tail is fairly convincing.",
+      "title": "FBI rushes to investigate if ShinyHunters hack of thousands of employees is real",
+      "summary": "It's unclear what will happen if FBI misses ShinyHunters' deadline.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2280570746.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "summary": "The frontier AI model race has entered its comparison shopping phase.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Claude-ChatGPT-1152x648-1790110487.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294919440.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "NYSE, Blockchain.com in tie-up to bring tokenized US stocks to crypto users",
-      "summary": "Blockchain.com users could gain access to tokenized US stocks and ETFs through NYSE’s planned digital trading platform under a new partnership, as bourses rush to deliver new trading.",
+      "title": "SoFi tie-up shows stablecoins can provide alternative blockchain settlement rail",
+      "summary": "SoFi dives deeper into payments as it moves its entire card program to blockchain-based settlement using its SoFiUSD stablecoin, with more than $25 billion in expected annualized volume.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/nyse-blockchaincom-team-up-to-bring-tokenized-us-stocks-to-crypto-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M37EH0Z8ZWVTWRY7BAG5D2K4/new-york-stock-exchange-nyse.png"
+      "url": "https://cointelegraph.com/news/sofi-moves-25b-card-program-to-stablecoin-settlement-with-mastercard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3518SYSJ7A5FP4GPX8VM1S8/hi-what-is-the-significance-of-the-statement-that-cbdc-and-stablecoins-can-co-exist.png"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin long liquidations hit $280M as BTC price dips under $84K",
-      "summary": "Bitcoin long liquidations mounted as BTC/USD briefly traded below $84,000, while analysis flagged key support to hold.",
+      "title": "New York sues Polymarket over alleged illegal gambling business",
+      "summary": "The action filed by state lawmakers followed a similar lawsuit against prediction markets company Kalshi in July that alleged the platform was running an illegal gambling operation.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-long-liquidations-hit-280m-as-btc-price-dips-under-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1HEBC31STJ1V8Y61W60PS20/analytics-red-market-falling-drop-bitcoin-3.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Raiffeisen to offer crypto trading across 11 European markets via Bitpanda",
-      "summary": "Bitpanda will provide crypto infrastructure to Raiffeisen network banks, potentially extending digital asset access to about 18 million customers.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/raiffeisen-crypto-11-european-markets-bitpanda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "ESMA to prioritize EU-wide AI and tokenization supervision in 2027",
-      "summary": "National regulators will map client-facing uses of the technologies, check a subset of firms and develop common approaches to oversight.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/esma-to-focus-eu-wide-supervision-on-ai-and-tokenization-from-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M376QJPE26SWHVGZ22MP3VXK/tokenization-gear-blockchain-european-union.png"
+      "url": "https://cointelegraph.com/news/new-york-polymarket-illegal-gambling-operation-lawsuit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39Y31J42742R275K5880DRD/hi-new-york-lawsuit.png"
     },
     {
       "cat": "Crypto",
@@ -226,95 +210,151 @@
     },
     {
       "cat": "Crypto",
-      "title": "Winners and losers of the SEC’s new tokenized stocks rules",
-      "summary": "The SEC has opened a five-year path for tokenized stocks, but only some products and venues fit the model. Will Uniswap, Robinhood, Coinbase or Kraken come out on top?",
+      "title": "IBM opens beta Swift ledger link for 24/7 tokenized deposits",
+      "summary": "IBM’s beta link lets banks instruct tokenized deposit transfers on Swift’s ledger using existing payment messages and compliance processes.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/winners-and-losers-of-the-secs-new-tokenized-stocks-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34K2P2TV319V36C0BE6PVPR/magazine-the-fundamentals-of-token-economics.jpg"
+      "url": "https://cointelegraph.com/news/ibm-banks-swift-ledger-tokenized-deposit-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39Q3HZQAQ8T6Z7985VV8ZGP/hi-ibm-and-blockchain.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Solana Foundation hires ex-Binance CMO and payments exec as new partnerships expand",
+      "summary": "Rachel Conlan will oversee institutional partnerships and ecosystem growth, while Jamal Raees will focus on stablecoins and tokenized deposits, following a wave of new partnerships.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/solana-foundation-binance-cmo-payments-executive?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39JWHV7JJM2NSF9JN0CNNVM/hi-are-the-big-corporations-that-are-joining-the-crypto-market-now-still-early-adopters-solana.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "HIFI raises $37M to expand stablecoin payments, tokenized markets",
+      "summary": "HIFI CEO Zach Walsh told Cointelegraph the $37 million Series A is the company’s first priced funding round, though HIFI did not disclose its valuation.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/hifi-raises-37m-to-expand-stablecoin-payments-tokenized-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M390ZDNMWGT7WNAEH74N5PN7/raise-37m.png"
     },
     {
       "cat": "Science",
-      "title": "One of America’s largest reservoirs just hit a record low",
-      "summary": "Lake Powell has fallen to its lowest level on record after an exceptionally dry and warm winter left the Colorado River Basin with little mountain snow to melt. Lake Mead also reached record lows, raising concerns for a ",
+      "title": "ADHD and autism diagnoses have surged. A massive study may help explain why",
+      "summary": "A large Danish study found that children diagnosed with ADHD or autism today more closely resemble their peers in the general population than those diagnosed 10 years ago. The shift suggests that rising diagnosis rates m",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260922005701.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260924020353.htm"
     },
     {
       "cat": "Science",
-      "title": "The end of humanity? What would happen if the Yellowstone supervolcano erupted now",
-      "summary": "A Yellowstone super-eruption would begin not with a sudden surprise, but with weeks of increasingly alarming warning signs such as migrating earthquake swarms, rapid ground uplift, changing geysers, and rising volcanic g",
+      "title": "“We just need to go back” – Uranus’ moon Ariel may have hidden a 100-mile-deep ocean",
+      "summary": "Ariel, one of Uranus’ moons, may once have contained a subsurface ocean more than 100 miles deep beneath its fractured icy shell. The finding, combined with similar evidence from Miranda, suggests the distant Uranian sys",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260922005655.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035951.htm"
     },
     {
       "cat": "Science",
-      "title": "The LHC just ruled out another hiding place for quantum black holes",
-      "summary": "Physicists searching through Large Hadron Collider data found no evidence that the machine has been producing microscopic quantum black holes, but the result sharply narrows where such exotic physics could still be hidin",
+      "title": "Scientists find two tiny new snails with shells that close like doors",
+      "summary": "Scientists discovered two tiny new snail species in Montenegro, showing that even Europe still holds animals unknown to science. One lives in the threatened Komarnica Canyon, where a proposed hydropower reservoir could d",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260922005649.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035936.htm"
     },
     {
       "cat": "Science",
-      "title": "Stem cells reverse stroke damage and restore movement in mice",
-      "summary": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier, ",
+      "title": "Distant time crystals can somehow fall into the same rhythm",
+      "summary": "Researchers have shown that multiple time crystals inside a semiconductor can synchronize their oscillations, much like pendulum clocks gradually falling into the same rhythm. The coupling is carried by spin-polarized el",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm"
     },
     {
       "cat": "Science",
-      "title": "This new concrete is stronger and pulls CO2 from the air",
-      "summary": "Researchers have created a concrete mixture that is both stronger and capable of absorbing carbon dioxide. The best formula, combining zeolite with bamboo biochar, boosted compressive strength by 7.48% and tensile streng",
+      "title": "Scientists thought they knew how this 70-year-old leukemia drug worked",
+      "summary": "A 70-year-old leukemia drug is still revealing new secrets. Researchers found that removing a protein called NUDT5 protected cells from the drug, even though simply blocking the protein had little effect. The unexpected ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260921081105.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035932.htm"
     },
     {
       "cat": "Science",
-      "title": "A strange circle on satellite maps turned out to be a 390-million-year-old impact crater",
-      "summary": "An amateur astronomer searching satellite maps for a Quebec camping spot accidentally discovered a massive ancient impact crater. Scientists later found shatter cones that confirmed the 25-kilometer-wide structure was bl",
+      "title": "More REM sleep linked to lower risk of 83 diseases",
+      "summary": "A large study tracking more than 95,000 people suggests that how you sleep may be linked to your risk of developing dozens of diseases. People who spent more time in REM sleep had lower risks of 83 conditions, including ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260921081101.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035930.htm"
     },
     {
       "cat": "Health",
-      "title": "This emerging treatment could help people avoid knee replacement surgery",
-      "summary": "A minimally invasive procedure called genicular artery embolization could offer a new middle ground between conservative treatments and knee replacement for osteoarthritis. By blocking tiny blood vessels associated with ",
+      "title": "Scientists thought they knew how this 70-year-old leukemia drug worked",
+      "summary": "A 70-year-old leukemia drug is still revealing new secrets. Researchers found that removing a protein called NUDT5 protected cells from the drug, even though simply blocking the protein had little effect. The unexpected ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260922052030.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035932.htm"
     },
     {
       "cat": "Health",
-      "title": "Coffee doesn’t have to keep you awake to disrupt your sleep",
-      "summary": "Caffeine may make sleep less restorative even when you fall asleep normally and stay in bed for eight hours, with EEG recordings revealing fewer of the slow brain waves associated with deep sleep. Individual sensitivity ",
+      "title": "More REM sleep linked to lower risk of 83 diseases",
+      "summary": "A large study tracking more than 95,000 people suggests that how you sleep may be linked to your risk of developing dozens of diseases. People who spent more time in REM sleep had lower risks of 83 conditions, including ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260922005719.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035930.htm"
     },
     {
       "cat": "Health",
-      "title": "Stem cells reverse stroke damage and restore movement in mice",
-      "summary": "Stem cell transplants helped regenerate stroke-damaged brain tissue in mice, producing new neurons and restoring lost motor function. The treatment also improved blood vessels, inflammation, and the blood-brain barrier, ",
+      "title": "When what you see doesn’t make sense, your brain does something remarkable",
+      "summary": "The brain may have a built-in way to quickly settle disagreements between regions processing the same scene. Researchers found that matching signals between two visual areas lasted longer, while conflicting signals rapid",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035929.htm"
     },
     {
       "cat": "Health",
-      "title": "This new drug could break cancer’s resistance to treatment",
-      "summary": "A new experimental drug called CS18 may help break through cancer drug resistance by disabling several of the defenses tumors use to survive treatment. It strengthened existing therapies, restored drug sensitivity in res",
+      "title": "GLP-1 weight loss and diabetes drugs linked to nutritional deficiencies in nearly 1 in 6 children",
+      "summary": "Children taking GLP-1 medications (such as Victoza, Saxenda, Trulicity, and Ozempic) for weight loss, prediabetes, or type 2 diabetes may face an overlooked risk: nutritional deficiencies. A new study found that nearly 1",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260921081112.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035926.htm"
     },
     {
       "cat": "Health",
-      "title": "Scientists create a needle-thin brain implant that can do three jobs at once",
-      "summary": "A new needle-thin brain implant can record neural activity, deliver drugs, and stimulate multiple brain regions using a single flexible fiber. Successful tests in mice suggest it could give scientists a more precise, les",
+      "title": "Aging muscles may be losing strength for a reason scientists missed",
+      "summary": "A newly identified breakdown in communication between nerves and muscles could help explain why people lose strength as they age. Researchers were able to improve muscle strength in an animal model by targeting a key pro",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260920222416.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260923035924.htm"
     },
     {
       "cat": "Health",
-      "title": "Stopping Ozempic may raise heart attack and stroke risk",
-      "summary": "A large study suggests the cardiovascular benefits of GLP-1 drugs such as Ozempic, Wegovy, Mounjaro, and Zepbound can disappear surprisingly quickly when treatment stops. After two years off the medications, patients had",
+      "title": "Breakthrough drug reverses skin aging and dramatically speeds healing",
+      "summary": "A topical drug that removes aging, damaged cells helped older mice heal skin wounds significantly faster. The treatment appeared to reactivate repair pathways involved in inflammation, collagen production, and new blood ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260920222414.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/09/260922223008.htm"
+    },
+    {
+      "cat": "Culture",
+      "title": "Greek PM urges Burnham to return Elgin Marbles permanently",
+      "summary": "Andy Burnham said in 2023 the sculptures should be returned to Greece with \"no strings attached\".",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2mgk6mlddo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/00fa/live/d58230e0-b836-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Harry Potter play producer says cost of living made two-part show 'impossible'",
+      "summary": "The London production, which has been running for 10 years, will reopen next month as a one-part show.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cr15819w3vllo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/52d9/live/de289110-b824-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Teen rocker Nene Royal becomes first Thai to win America's Got Talent",
+      "summary": "Her heavy metal performance trumped nine other finalists, including magicians and even a robot crew.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cqzjzl3d1409o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/18bf/live/ffcf3ea0-b7e2-11f1-b86f-f9f95031dc8c.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Federal judge delays ruling on White House media ban",
+      "summary": "During a roughly 45-minute hearing, a lawyer for CNN, Politico and MS NOW disputed Trump administration arguments that the ban was over national security concerns.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5038/live/fc68f0f0-b718-11f1-8d21-19ad84e0e822.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "The chef turned award-winning author unfazed by 'second book syndrome'",
+      "summary": "Louise Kennedy, the author of Trespasses, says everyone \"should give anything they fancy a lash\".",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cd68nq0q4n9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/60da/live/d6041130-b66c-11f1-b711-df5e4d50c2fd.jpg"
     },
     {
       "cat": "Culture",
@@ -323,46 +363,6 @@
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cmvgy4yydj1do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/72dc/live/a69e7b20-b765-11f1-8e7f-6f99c81f3136.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Nigella Lawson is 'icing on the cake', TV critics say as she enters Bake Off tent",
-      "summary": "The TV chef joined Paul Hollywood in the tent as the Channel 4 competition returned for a new series.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq2dwy1w9kpdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f34d/live/afe9b330-b719-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Dolly Parton's manager accuses her nephew of 'threats and intimidation'",
-      "summary": "Bryan Seaver, who announced Parton's death to the world, is accused of trying to extort her estate.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a68a/live/f463e6c0-b75f-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Oasis add shows in Knebworth, Rome and Munich",
-      "summary": "The band says it is adding new dates after \"phenomenal demand\".",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c607lyyx3yvvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/aa2f/live/84de4c60-b74a-11f1-8846-e70401199dae.png"
-    },
-    {
-      "cat": "Culture",
-      "title": "Angry Anderson, rock star who soundtracked Kylie's wedding in Neighbours, dies aged 79",
-      "summary": "He fronted the rock band Rose Tattoo, but became best known for his solo hit Suddenly.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqn745px55nno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6ca4/live/652a9c30-b73f-11f1-aa9c-3d062fa3aea7.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Prince and Princess of Wales share a laugh with Tom Cruise at film premiere",
-      "summary": "William and Catherine renew their friendship with the Hollywood star at the premiere for his film Digger.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e3y7qzv1ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f265/live/53816e50-b73f-11f1-b1d1-571ed4d7ff2c.jpg"
     }
   ]
 }
