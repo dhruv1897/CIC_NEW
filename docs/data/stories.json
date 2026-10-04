@@ -1,56 +1,56 @@
 {
-  "date": "2026-10-03",
-  "updated": "2026-10-03T16:04:54.289Z",
+  "date": "2026-10-04",
+  "updated": "2026-10-04T16:46:25.246Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-      "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
+      "summary": "Footage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9749/live/fb482ba0-c000-11f1-babe-4199b0e7ccea.jpg"
     },
     {
       "cat": "World",
-      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+      "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+      "summary": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/554e/live/87c08780-bf1b-11f1-9b47-174f268aae1d.jpg"
+      "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/df42/live/012a8270-bff2-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "cat": "World",
-      "title": "Protesters across Spain demand action over housing crisis",
-      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
+      "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/225b/live/a58f5d00-bf24-11f1-bc2e-018d645d8d21.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7653/live/2853dd30-bffa-11f1-8c3e-3b2eab095459.jpg"
     },
     {
       "cat": "World",
-      "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
+      "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/44c3/live/c89e9510-beff-11f1-babe-4199b0e7ccea.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/965b/live/ca8ca230-bfeb-11f1-8c3e-3b2eab095459.jpg"
     },
     {
       "cat": "World",
-      "title": "Medical plane with 6 on board missing off Massachusetts coast",
-      "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
+      "summary": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5084/live/3748e6a0-bf41-11f1-8acc-0bb5649ca116.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c825/live/b05bacc0-c00a-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "cat": "World",
-      "title": "Why has Brazil accused the US of election interference?",
-      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6a8e/live/a3940800-bebd-11f1-8d3f-711f85e5e3bb.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7389/live/cde58c00-bffd-11f1-a6d2-b3be352f49ed.jpg"
     },
     {
       "cat": "Business",
@@ -138,6 +138,22 @@
     },
     {
       "cat": "Tech & AI",
+      "title": "All hail electrification. But let’s talk about the hard part.",
+      "summary": "The IEA and climate negotiators want to set a target for shifting the economy to run on electricity.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/GettyImages-1463437040.jpg"
+    },
+    {
+      "cat": "Tech & AI",
+      "title": "Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",
+      "summary": "\"...we were making history.\"",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/news-100326a-lg.jpg"
+    },
+    {
+      "cat": "Tech & AI",
       "title": "The dawn of the age of the exoskeleton",
       "summary": "The devices continue to show noticeable benefits for users in various real-world tasks.",
       "source": "arstechnica.com",
@@ -169,20 +185,36 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2292181016.jpg"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
-      "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1227666052.jpg"
+      "cat": "Crypto",
+      "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
+      "summary": "President Donald Trump said US intel chief Clayton will lead the SIF, reporting to the president and Chief of Staff Susie Wiles.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M43HDDKT65TRCAPN5G00GZPC/white-house-tron.png"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Lyft settles landmark driver misclassification lawsuit for $272.5M",
-      "summary": "Critics say workers are still owed far more.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288109986.jpg"
+      "cat": "Crypto",
+      "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
+      "summary": "Garantex was previously sanctioned by the US, the EU and other jurisdictions for helping Russian entities evade financial restrictions.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M43EQ7PEEE3Z1JRGK2E12RMJ/hi-crypto-offers-russia-no-way-out-from-western-sanctions2.png"
+    },
+    {
+      "cat": "Crypto",
+      "title": "El Salvador receives $138 million from IMF after Bitcoin waivers granted",
+      "summary": "Efforts will continue to reduce the state’s involvement in Bitcoin-related activities and to strengthen crypto‑asset regulation and governance, the IMF said.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M434D7ZXME5ND5M2XADZCGVE/hi-how-bitcoin-is-transforming-lives-in-el-salvador.png"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Russia’s Finance Ministry pays wages in digital rubles for first time",
+      "summary": "Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M42W4H59F8TR0F58VVB4T7YG/russia-kremlin-moscow-red-square-digital-rouble-ruble-national-cryptocurrency.png"
     },
     {
       "cat": "Crypto",
@@ -201,36 +233,11 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40T1J9CWEBBB07G6QG02X27/hi-5-greatest-hacks-in-the-cryptocurrency-industry.png"
     },
     {
-      "cat": "Crypto",
-      "title": "Community banks sue OCC over trust bank charters of crypto firms",
-      "summary": "Community banking group’s lawsuit claims OCC has overstepped its mandate from Congress.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M40GZ6STY7R8TJPNFCZ17PJ8/courtroom-court-lawsuit-justice-jurisdiction-breaking-news-3.png"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Trump is expected to appoint Jay Clayton as new AI czar: Reports",
-      "summary": "US intel chief Clayton may be asked to also oversee AI innovation and development along with “self policing” tech CEOs.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/trump-is-expected-to-appoint-jay-clayton-as-new-ai-czar-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M408YEEABFWBFJG6GQ567JX7/hi-china-own-ai.png"
-    },
-    {
-      "cat": "Crypto",
-      "title": "European crypto users have ‘more faith’ in regulated firms under MiCA: Bitpanda co-CEO",
-      "summary": "Speaking on Cointelegraph’s Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3Z204Z5E8HCQ1YYBGG9YAK4/hi-self-custody-of-cryptocurrencies-is-your-own-wallet-really-safer-for-private-investors.png"
-    },
-    {
-      "cat": "Crypto",
-      "title": "$4.2B crypto bank Anchorage Digital cuts 17% of workforce: Report",
-      "summary": "The reported cuts come as Anchorage expands its institutional footprint, including stablecoin issuance and a $100 million investment from Tether.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3YXTXPJFKWR2XDKAZGD2DR2/layoffs-fired-human-resource-hr-leaving-quit-1.jpg"
+      "cat": "Science",
+      "title": "Scientists find a surprising clue to why the universe’s expansion doesn’t add up",
+      "summary": "Tiny magnetic fields created shortly after the Big Bang may help explain the long-running disagreement over how fast the universe is expanding. Detailed simulations show that these primordial fields could have changed th",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261002080026.htm"
     },
     {
       "cat": "Science",
@@ -241,38 +248,31 @@
     },
     {
       "cat": "Science",
-      "title": "ESA’s Juice just used Earth as a slingshot to Jupiter",
-      "summary": "ESA’s Juice spacecraft raced past Earth on September 28, using our planet’s gravity to dramatically reshape its path toward Jupiter without burning much fuel. The flyby changed its direction by 20 degrees and increased i",
+      "title": "Diet drinks work as well as water for weight loss, major trial finds",
+      "summary": "A two-year randomized clinical trial involving 493 adults with overweight or obesity found that diet soft drinks were essentially as effective as water for long-term weight loss and weight maintenance. Participants drink",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm"
     },
     {
       "cat": "Science",
-      "title": "NASA’s Roman telescope just opened its planet-hunting eye",
-      "summary": "NASA’s Roman Space Telescope has demonstrated remarkable pointing stability and given its powerful planet-imaging coronagraph its first look at the cosmos. The telescope can already stay locked on a target with precision",
+      "title": "A meteor hit Oklahoma 100 million years later than scientists thought",
+      "summary": "A meteor crater buried beneath Oklahoma has turned out to be nearly 100 million years younger than scientists thought. Zircon crystals show the Ames impact occurred about 370 million years ago, meaning it was not part of",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261002080012.htm"
     },
     {
       "cat": "Science",
-      "title": "Chang’e-6 lunar soil contains a surprising magnetic time capsule",
-      "summary": "Scientists studying Chang’e-6 lunar soil have discovered a previously unknown magnetic mineral in natural Moon samples: a form of metallic iron called γ-Fe. Found inside tiny impact-glass particles, the nanoscale iron ca",
+      "title": "A forgotten 30-year forest experiment just delivered a huge surprise",
+      "summary": "A 30-year forestry experiment in Australia found that heavily thinned mountain ash forests grew unusually large trees while recovering enough carbon to match or exceed untouched areas. The results suggest carefully manag",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261001214015.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214120.htm"
     },
     {
       "cat": "Science",
-      "title": "Powerful simulations reveal how the first stars changed the universe",
-      "summary": "Ultra-detailed simulations are showing how the first stars lit up the dark Universe and seeded space with elements such as carbon, oxygen, and iron. The MEGATRON project could bridge JWST observations of the earliest gal",
+      "title": "Your gut bacteria may reveal how fast your brain is aging",
+      "summary": "A UCLA study links faster brain aging to specific gut bacteria and chemical byproducts, with older-looking brains also associated with poorer memory, focus, and mood. The findings suggest that biological signs of brain a",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261001214012.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Scientists find an “earthquake gate” as California fault stress hits a 1,000-year high",
-      "summary": "Researchers say stress on Southern California’s San Andreas and San Jacinto faults has reached some of the highest levels seen in a 1,000-year simulation. Because both faults are highly stressed at the same time, the Caj",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261001095521.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm"
     },
     {
       "cat": "Health",
@@ -280,6 +280,27 @@
       "summary": "Scientists have identified an enzyme that may act as a natural defense against the worsening of fatty liver disease, which affects an estimated 100 million Americans. The enzyme, called UBE2N, helps liver cells clear awa",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/10/261002080020.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Diet drinks work as well as water for weight loss, major trial finds",
+      "summary": "A two-year randomized clinical trial involving 493 adults with overweight or obesity found that diet soft drinks were essentially as effective as water for long-term weight loss and weight maintenance. Participants drink",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261002080017.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Your gut bacteria may reveal how fast your brain is aging",
+      "summary": "A UCLA study links faster brain aging to specific gut bacteria and chemical byproducts, with older-looking brains also associated with poorer memory, focus, and mood. The findings suggest that biological signs of brain a",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "This common vitamin could help fight one of the deadliest brain cancers",
+      "summary": "High-dose vitamin B3 is showing intriguing early promise as an addition to standard glioblastoma treatment, with 82% of patients in a small trial remaining progression-free after six months. Researchers believe niacin ma",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001095423.htm"
     },
     {
       "cat": "Health",
@@ -296,33 +317,28 @@
       "url": "https://www.sciencedaily.com/releases/2026/09/260930225503.htm"
     },
     {
-      "cat": "Health",
-      "title": "Your gut may be making a molecule that raises Alzheimer’s risk",
-      "summary": "Scientists have linked a gut bacterial compound called ImP to greater Alzheimer’s risk, harmful brain protein buildup, and faster cognitive decline. The finding raises the possibility that reducing ImP in the blood could",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930225459.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Vitamin C linked to fewer deaths in blood disorder trial",
-      "summary": "Vitamin C may do more than support the immune system. In a phase 2 trial of people with precancerous or low risk blood cancers, daily vitamin C did not slow abnormal cell growth, but it was linked to favorable changes in",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930225454.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Alzheimer’s risk gene APOE4 may have a reversible weakness",
-      "summary": "The Alzheimer’s risk gene APOE4 may actively damage brain blood vessels and sabotage the cellular systems that remove harmful proteins. Researchers were able to reverse some of these effects in experiments, revealing pro",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260930225450.htm"
+      "cat": "Culture",
+      "title": "Glastonbury 2027 tickets sell out in 42 minutes",
+      "summary": "Thousands of people joined the queue in the hope of securing tickets to Worthy Farm.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cmpd0wev8v38o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/85b0/live/be229010-3638-11f0-a37a-396a0d1059f3.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
-      "summary": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
+      "title": "British Museum announces changes to ease Bayeux Tapestry queues",
+      "summary": "Measures include extended opening hours, as well as an audio guide and additional seating for visitors.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6da4/live/555d3890-bea5-11f1-babe-4199b0e7ccea.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrle6dx2lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7355/live/9ef2eba0-bffc-11f1-a6d2-b3be352f49ed.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "The Celebrity Traitors connections that might surprise you",
+      "summary": "Lots of the stars have worked together, some are good friends - and that can impact the show's dynamics.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgx895g9vzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/55c6/live/bcd74b30-bf24-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "cat": "Culture",
@@ -334,11 +350,11 @@
     },
     {
       "cat": "Culture",
-      "title": "Spoiler alert! Is social media ruining big gig surprises?",
-      "summary": "Big moments from headline acts are shared online long before many fans see their favourite artists.",
+      "title": "Traitors claim their first victim as Richard E Grant tries to save his skin",
+      "summary": "There was a murder and a recruitment in the latest episode, and that was just in the opening minutes.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq62j2l2lx4lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cda6/live/92a85390-bf06-11f1-bc2e-018d645d8d21.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/czxe30796xno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6da4/live/555d3890-bea5-11f1-babe-4199b0e7ccea.jpg"
     },
     {
       "cat": "Culture",
@@ -347,22 +363,6 @@
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c933k3gk72x6o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c1fd/live/edad3980-0012-11f1-a8b8-bdd2c5f9bcad.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "K-pop giants Stray Kids join BTS in boycotting the Grammys",
-      "summary": "Stray Kids become the second major act to withdraw from the Grammys over the new best Asian Pop award.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5398kkx27ewo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/213a/live/03511bd0-be59-11f1-8828-9d9deece30a1.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Noel Gallagher guitar sells for £12,000 at auction",
-      "summary": "The instrument was one of a number of items which belonged to a former Oasis sound engineer.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyeg1r9xe9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e7db/live/9bdac220-bf2b-11f1-b10d-f956452c9061.jpg"
     }
   ]
 }
