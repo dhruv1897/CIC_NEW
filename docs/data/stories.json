@@ -1,56 +1,56 @@
 {
-  "date": "2026-10-06",
-  "updated": "2026-10-06T18:13:28.801Z",
+  "date": "2026-10-07",
+  "updated": "2026-10-07T18:46:45.556Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Former German spy chief arrested for espionage and treason",
-      "summary": "August Hanning is accused of obtaining classified information for a foreign power.",
+      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
+      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9ff2/live/9164de70-c174-11f1-babe-4199b0e7ccea.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b147/live/114ad2c0-c229-11f1-babe-4199b0e7ccea.jpg"
     },
     {
       "cat": "World",
-      "title": "Ship sinks and crew missing after Black Sea drone attack",
-      "summary": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+      "title": "Israelis demand accountability over 7 October failures three years after attacks",
+      "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4ac4/live/33a7d8a0-c192-11f1-babe-4199b0e7ccea.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/80cb/live/9b494cf0-c25f-11f1-babe-4199b0e7ccea.jpg"
     },
     {
       "cat": "World",
-      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-      "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
+      "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6e38/live/ca132f80-c177-11f1-bed0-05ebd781c53c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/304d/live/e5ca5340-c26a-11f1-b278-615cdfb74f16.jpg"
     },
     {
       "cat": "World",
-      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-      "summary": "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
+      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
+      "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6613/live/f2cf53b0-c189-11f1-83c7-97e75190a976.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3744/live/6325d7d0-c18d-11f1-83c7-97e75190a976.png"
     },
     {
       "cat": "World",
-      "title": "'Ghost particles' from space telescope wins physics Nobel",
-      "summary": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+      "summary": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/73fd/live/3d7299c0-c16e-11f1-a003-8be783290413.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/519e/live/6e49e580-c268-11f1-babe-4199b0e7ccea.jpg"
     },
     {
       "cat": "World",
-      "title": "Kenya confirms its first Ebola death as outbreak spreads",
-      "summary": "The patient had been living in DR Congo, where more than 4,000 people have died from the disease this year.",
+      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+      "summary": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/535c/live/9ad923b0-c167-11f1-bc2e-018d645d8d21.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fd24/live/cf2b2a00-c22f-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,34 @@
     },
     {
       "cat": "Markets",
+      "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
+      "summary": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "ICE came to town and left behind weakened economies",
+      "summary": "Research links ICE enforcement surges to lasting declines in local spending, foot traffic and jobs. In Minneapolis, businesses are still recovering.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/07/ice-raids-local-economies.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Why AI is both the hope and the hazard for world leaders, according to IMF chief Georgieva",
+      "summary": "Kristalina Georgieva warns that the technology lifting growth hopes is also pushing up inflation and yields, just as public debt levels rose.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
+      "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
       "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
       "source": "cnbc.com",
@@ -109,128 +137,128 @@
       "url": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html"
     },
     {
-      "cat": "Markets",
-      "title": "The 2029 tipping point: Western populations are about to start shrinking, piling pressure on public finances",
-      "summary": "Moody's predicts that the world's aging populations will have fundamental impacts on the global economy and lead to difficult policy decisions.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Men are losing ground in the labor market. Here's why",
-      "summary": "Women outnumbered men in the workforce for eight straight months as of September, according to one analysis.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/02/men-labor-market-jobs-report.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
-      "summary": "Nonfarm payrolls rose by just 29,000 in September, well below the 84,000 forecast, and the unemployment rate rose to 4.2%, the Bureau of Labor Statistics said.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "The September jobs report will be released Friday. Here's what to expect",
-      "summary": "Wall Street is looking for job growth of 84,000 to close out the summer.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/01/the-september-jobs-report-will-be-released-friday-heres-what-to-expect.html"
+      "cat": "Tech & AI",
+      "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
+      "summary": "Car design sure riles people up on the Internet these days. Goes double for EVs.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ext_Macro_Headlight_Blue.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Big Oil asks Supreme Court to kill climate lawsuits before trial",
-      "summary": "Oil companies say federal law should block state climate deception claims.",
+      "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
+      "summary": "Trump's aggressive reshoring push could cost tech firms $230 billion, CTA estimates.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/oilprotest.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1030875166.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "summary": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
+      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking.jpg"
+      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistral_header_2.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
-      "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+      "title": "Google rolls out improved SynthID AI content detector, now available globally",
+      "summary": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1934095718.jpg"
+      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
-      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "title": "AI/ML is becoming a performance factor in motorsport",
+      "summary": "More than just a sponsor: OpenAI has been helping Ganassi with setups.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents.jpg"
+      "url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ZSH01597-1545.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
-      "summary": "Cable industry to sue, says FCC can't repeal TV ownership limit set by Congress.",
+      "title": "Review: Fine, let's talk about Digger",
+      "summary": "Its excesses may try one’s patience at times, but the film sticks the landing with a savagely moving finale.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/brendan-carr-fcc-crest-1152x648-1771622570.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Texas city demands $2M for public records on Flock usage",
-      "summary": "Prices of public records tracking cops' use of Flock go up as backlash swells.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2288945998.jpg"
+      "url": "https://arstechnica.com/culture/2026/10/review-digger-is-both-frustrating-and-brilliant-by-design/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/digger4-1152x648-1791232015.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Bill aims at stopping US lawmaker bets on their own elections ahead of midterms",
-      "summary": "The No Betting on Your Own Race Act will not be addressed before the 2026 US midterms as Congress is on recess until after the election.",
+      "title": "Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps",
+      "summary": "“Trump’s coin was max extraction, and I wanted to troll every grift like it,“ said Hunter Biden in a breakdown of the memecoin launch and fallout.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48ZN28YVPH0H62HJ9RM67FF/hi-betting-elections.png"
+      "url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1YD6ZJP44HSCKV9AHX0ECEZ/hunter-biden-memecoin.png"
     },
     {
       "cat": "Crypto",
-      "title": "Affluent investors seen boosting crypto exposure: Survey",
-      "summary": "Most affluent investors across seven countries own and are increasing their crypto holdings despite financial advisers who remain overly cautious about digital assets.",
+      "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
+      "summary": "The layer-1 blockchain said its programmable offchain tunnels reached the milestone during a live stress test designed to simulate high-frequency activity between AI agents.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M491RZNB6KVC3GF52NXPZPNH/hi-the-revival-of-general-partnership-in-the-age-of-tokenomics-part-2.png"
+      "url": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BPXB6KYBV02CEGGX5YB926/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms.png"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin grinds toward $87K as US equities hit new record highs",
-      "summary": "Bitcoin price action was kept in check by overhead ask liquidity while US stocks broke out to new all-time highs.",
+      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+      "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48Y4PJ2GGMHEEAY807E953G/hi-why-bitcoin-has-recently-reacted-more-to-liquidity-conditions-than-rate-cuts.jpg"
+      "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BG8ZH12EYMX71E9T5NGZRV/hi-tether-seen-as-a-thread-to-us-financial-system-as-more-fud-around-reserves-emerges-us.png"
     },
     {
       "cat": "Crypto",
-      "title": "Securitize stock jumps 8% amid South Korea tokenization push",
-      "summary": "The LG CNS partnership gives Securitize a foothold as the Seoul prepares new rules for tokenized stocks, bonds and funds beginning in February 2027.",
+      "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
+      "summary": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48YCR57ADWYMKFRMPMVX99K/real-world-assets-rwa-crypto.jpg"
+      "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BDBYZXWRGYC55QX8JFFZ4N/hi-sec-cftc-and-clarity.png"
     },
     {
       "cat": "Crypto",
-      "title": "ECB policymaker warns of fragmentation without digital euro",
-      "summary": "A ECB executive board member said the potential introduction of a digital euro ”would not to take over the role of banks,” but ensure they have a role in the EU’s monetary system.",
+      "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
+      "summary": "US institutions will gain access to Deribit’s options and perpetual futures through Coinbase, with US retail options expected later this year.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48SGQ09ZEND1Z4RFZ0R0KKQ/hi-digital-euro-fragmentation.png"
+      "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BD33W46QKNCCBYY2GVZDZD/crypto-programming-searching-research-coinbase2.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Ripple expands Brevan Howard deal with prime brokerage services",
-      "summary": "Ripple Prime will provide prime brokerage, clearing and financing services to funds managed by the $35 billion alternative investment manager.",
+      "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
+      "summary": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/ripple-expands-brevan-howard-deal-with-prime-brokerage-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M48VPXTAZCF52SY8JR6AA45A/handshake-agreement-union-partnership-cooperation-collaboration-join-deal-breaking-news-1.png"
+      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BEBEZ7QSY6YC27Z3G1WAYE/oil-bitcoin-petrol-iran-3.jpg"
+    },
+    {
+      "cat": "Science",
+      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
+      "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Scientists changed how zoo lions eat. Their wild side came out",
+      "summary": "Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of food, and rested mo",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Humans may not be as hardwired for violence as we thought",
+      "summary": "A study comparing 100 primate species, including humans, suggests that everyday aggression and lethal violence did not evolve as part of the same simple behavioral spectrum. Species that frequently fight or show mild agg",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Webb finds a surprising atmosphere on a scorching lava world",
+      "summary": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery could help scientists ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm"
     },
     {
       "cat": "Science",
@@ -241,38 +269,31 @@
     },
     {
       "cat": "Science",
-      "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
-      "summary": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent oste",
+      "title": "Earth’s center is moving, and NASA just measured it",
+      "summary": "Earth’s center of mass is constantly on the move, shifting by a few millimeters as enormous amounts of water, ice, and even air migrate around the planet with the seasons. NASA scientists have developed a more precise wa",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071520.htm"
     },
     {
-      "cat": "Science",
-      "title": "Physicists just saw quarks make waves in the Big Bang’s primordial soup",
-      "summary": "Physicists at CERN’s Large Hadron Collider have captured the clearest evidence yet that quark-gluon plasma, the scorching-hot matter that filled the newborn universe, behaves like a true liquid. By tracking individual qu",
+      "cat": "Health",
+      "title": "Taking antibiotics? Sugar may be making the damage worse",
+      "summary": "Eating more sugar while taking antibiotics was linked to greater disruption of the gut microbiome and increased growth of potentially harmful bacteria. Researchers say temporarily cutting back on sweets during and after ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261004002556.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042059.htm"
     },
     {
-      "cat": "Science",
-      "title": "Scientists say this simple habit could strengthen your marriage",
-      "summary": "Couples who exercise together report better communication, healthier conflict resolution, and lower marital stress than those who work out alone. Even something as simple as taking a walk together may create valuable opp",
+      "cat": "Health",
+      "title": "Scientists reprogram immune cells inside the body to fight cancer",
+      "summary": "Scientists at UC San Francisco have developed a way to create cancer-fighting CAR-T cells directly inside the body, potentially avoiding the slow and extremely expensive process of removing, engineering, and reinfusing a",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261004001843.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071532.htm"
     },
     {
-      "cat": "Science",
-      "title": "Scientists finally see how nature moves energy so efficiently",
-      "summary": "Researchers have captured key steps in a chemical reaction that helps nature transfer energy with remarkable efficiency. Ultrafast X-rays revealed how changes involving electrons and protons are closely linked to the rea",
+      "cat": "Health",
+      "title": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
+      "summary": "Blocking a receptor called P2X7 significantly reduced inflammation in human brain tissue, revealing a potential new treatment strategy for neurological and psychiatric disorders. The discovery could help researchers repu",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Archaeologists may have finally solved a 100-year-old Florida mystery",
-      "summary": "Ancient pottery from Tampa Bay appears to have been made by migrant craftspeople who brought specialized Mississippian pottery-making knowledge hundreds of miles south. Remarkably, they even incorporated crushed fragment",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261004001835.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm"
     },
     {
       "cat": "Health",
@@ -283,70 +304,25 @@
     },
     {
       "cat": "Health",
+      "title": "A new way to fight gum disease without wiping out good bacteria",
+      "summary": "Scientists discovered that disrupting the chemical messages bacteria use to communicate can push dental plaque toward a healthier microbial balance. The approach could lead to new treatments for gum disease that control ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005012230.htm"
+    },
+    {
+      "cat": "Health",
       "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
       "summary": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent oste",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
     },
     {
-      "cat": "Health",
-      "title": "Scientists say this simple habit could strengthen your marriage",
-      "summary": "Couples who exercise together report better communication, healthier conflict resolution, and lower marital stress than those who work out alone. Even something as simple as taking a walk together may create valuable opp",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261004001843.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Colorectal cancer is rising in young people and often found too late",
-      "summary": "Colorectal cancer in young people is often diagnosed at an advanced stage, with researchers finding most patients age 21 or younger already had Stage III or IV disease. Because symptoms like rectal bleeding, weight loss,",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261003234019.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "One simple addition to postpartum care made a major difference",
-      "summary": "New mothers paired with patient navigators were much more likely to receive postpartum care, depression screening, preventive testing, and ongoing primary care. By helping with barriers such as transportation, childcare,",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261003234017.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "MIT scientists find a hidden cancer risk of the keto diet",
-      "summary": "A ketogenic diet increased small-intestinal tumors in cancer-prone mice while reducing tumors in the colon, revealing a strikingly different response within neighboring parts of the gut. Researchers traced the increased ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261002080037.htm"
-    },
-    {
       "cat": "Culture",
-      "title": "Queen pays tribute to 'irrepressible' Jeffrey Archer",
-      "summary": "The bestselling author and former politician died on Monday at the age of 86.",
+      "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+      "summary": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm3wvq4jj64yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3d1d/live/ac47b690-c188-11f1-83c7-97e75190a976.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-      "summary": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ed6f/live/020cc800-c1a6-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Rosie O'Donnell and Julie Hesmondhalgh to appear in play about Gisele Pelicot case",
-      "summary": "The four-hour one-off performance will also star Adjoa Andoh and Juliet Stevenson and",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwn73mzly7v4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b42d/live/eb5f0250-c176-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Chart-topping singer and television host Lena Martell dies aged 86",
-      "summary": "The Glasgow-born singer was the first solo Scottish female singer to top the UK singles chart with One Day at a Time.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c9x28lrzg427o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/16a1/live/f25b68c0-c174-11f1-bed0-05ebd781c53c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/98d6/live/7a402d70-c229-11f1-babe-4199b0e7ccea.jpg"
     },
     {
       "cat": "Culture",
@@ -358,11 +334,35 @@
     },
     {
       "cat": "Culture",
-      "title": "British Museum boss 'sorry' for Bayeux Tapestry visitor issues",
-      "summary": "Changes to how visitors see the Bayeux Tapestry exhibition were made after concerns over long queues and overcrowding.",
+      "title": "Gavin and Stacey creators Jones and Corden reveal celebrity cast of new show",
+      "summary": "Ruth Jones and James Corden's new show also stars X-Men's James McAvoy and Harry Potter's Jim Broadbent.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx395grzzko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8b12/live/b692d310-c0e7-11f1-a64c-550be9e3c66b.png"
+      "url": "https://www.bbc.co.uk/news/articles/ckjrw4xvvglgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/28c5/live/aa3f8c70-c236-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Xbox bets on Gears of War in battle of gaming giants",
+      "summary": "Unlike other flagship titles, E-Day will only be available on Xbox at a time of rising console costs.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c50mezp822peo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2e7d/live/3002b9d0-c260-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Stephen King's Carrie returns to explore the horrors of social media",
+      "summary": "Another beloved classic gets a modern-day twist. Its cast and creator argue why it needed to be remade.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxnw01z4n3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c413/live/31fc5740-c1ad-11f1-93a9-f546f29a5f8e.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "King Charles and Elton John in the audience for Apple music workshop",
+      "summary": "Charles and Sir Elton visit an Apple x King's Trust Creative Labs music event offering industry skills to young people.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c6398n8x13zyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/141c/live/f4765dd0-c256-11f1-bc2e-018d645d8d21.jpg"
     }
   ]
 }
