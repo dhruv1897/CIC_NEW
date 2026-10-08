@@ -1,56 +1,56 @@
 {
-  "date": "2026-10-07",
-  "updated": "2026-10-07T18:46:45.556Z",
+  "date": "2026-10-08",
+  "updated": "2026-10-08T18:44:41.497Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "France halts use of stun grenades after boy's hand blown off in student protests",
-      "summary": "The step comes after several groups complained of police using disproportionate force towards teenagers.",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjx7z2r4gko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b147/live/114ad2c0-c229-11f1-babe-4199b0e7ccea.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0a5b/live/25d71060-c2fa-11f1-b8c6-6d610e41a5d9.jpg"
     },
     {
       "cat": "World",
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
-      "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
+      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+      "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/80cb/live/9b494cf0-c25f-11f1-babe-4199b0e7ccea.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/afaf/live/3e4f37a0-c2ee-11f1-89a3-9b445bfcfe23.jpg"
     },
     {
       "cat": "World",
-      "title": "Canada suspends plans to expand assisted dying to people with mental illness",
-      "summary": "People with mental illness alone were to be eligible for assisted dying in Canada in March 2027, but that has now been paused indefinitely.",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09g0gj50ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/304d/live/e5ca5340-c26a-11f1-b278-615cdfb74f16.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bcd9/live/df938ae0-c329-11f1-9981-cf94ea240e40.jpg"
     },
     {
       "cat": "World",
-      "title": "Trump to speak to Putin about plague lab worker's death in Russia",
-      "summary": "Fears that the death may have been caused by pneumonic plague has prompted calls for more transparency from Russia.",
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "summary": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3744/live/6325d7d0-c18d-11f1-83c7-97e75190a976.png"
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f394/live/470aaad0-c2fa-11f1-b8c6-6d610e41a5d9.jpg"
     },
     {
       "cat": "World",
-      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-      "summary": "Five children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+      "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/519e/live/6e49e580-c268-11f1-babe-4199b0e7ccea.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d6b9/live/1e2c3920-c30a-11f1-8f04-85217d686658.jpg"
     },
     {
       "cat": "World",
-      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
-      "summary": "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations.",
+      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "summary": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fd24/live/cf2b2a00-c22f-11f1-bc2e-018d645d8d21.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/85e7/live/fdeabc50-c308-11f1-8f04-85217d686658.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,13 @@
     },
     {
       "cat": "Markets",
+      "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+      "summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Inflation fears on the rise as one-year outlook in Fed survey hits highest level since May 2023",
       "summary": "The Survey of Consumer Expectations indicated that the median outlook for inflation over the next 12 months rose to 3.9%.",
       "source": "cnbc.com",
@@ -130,107 +137,128 @@
       "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html"
     },
     {
-      "cat": "Markets",
-      "title": "World Bank warns of AI concentration risks as it lifts East Asia and Pacific growth outlook to 4.5%",
-      "summary": "The World Bank now expects the region to grow 4.5% this year, but flagged that trade growth outside AI-related goods has been \"weak or negative.\"",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html"
+      "cat": "Tech & AI",
+      "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+      "summary": "Amazon killed its app store, so Google Play it is.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/assets.aboutamazon.png"
     },
     {
       "cat": "Tech & AI",
-      "title": "Jaguar Type 01 debuts; now, no one remembers the electric Ferrari",
-      "summary": "Car design sure riles people up on the Internet these days. Goes double for EVs.",
+      "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
+      "summary": "\"If this was easy, everybody else would be doing it.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/10/jaguar-makes-its-controversial-all-ev-return-with-the-type-01/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Ext_Macro_Headlight_Blue.jpg"
+      "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Satellite-1000.png"
     },
     {
       "cat": "Tech & AI",
-      "title": "Trade group crunches numbers on Trump’s impossible push for 100% US-made tech",
-      "summary": "Trump's aggressive reshoring push could cost tech firms $230 billion, CTA estimates.",
+      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
+      "summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/10/trade-group-crunches-numbers-on-trumps-impossible-push-for-100-us-made-tech/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1030875166.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/refinery.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistral_header_2.jpg"
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Google rolls out improved SynthID AI content detector, now available globally",
-      "summary": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
+      "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
+      "summary": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/blanche-kalshi-sports-1152x648-1791305860.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "AI/ML is becoming a performance factor in motorsport",
-      "summary": "More than just a sponsor: OpenAI has been helping Ganassi with setups.",
+      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+      "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/10/ai-ml-setups-became-a-tool-in-indycar-champion-alex-palous-toolbox/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ZSH01597-1545.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Review: Fine, let's talk about Digger",
-      "summary": "Its excesses may try one’s patience at times, but the film sticks the landing with a savagely moving finale.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/10/review-digger-is-both-frustrating-and-brilliant-by-design/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/digger4-1152x648-1791232015.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened.png"
     },
     {
       "cat": "Crypto",
-      "title": "Hunter Biden confirms LAPTOP token ‘not a rug pull,’ just trolling Trumps",
-      "summary": "“Trump’s coin was max extraction, and I wanted to troll every grift like it,“ said Hunter Biden in a breakdown of the memecoin launch and fallout.",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1YD6ZJP44HSCKV9AHX0ECEZ/hunter-biden-memecoin.png"
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
-      "summary": "The layer-1 blockchain said its programmable offchain tunnels reached the milestone during a live stress test designed to simulate high-frequency activity between AI agents.",
+      "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
+      "summary": "Sam Bankman-Fried remains in federal prison following his 2023 conviction, while Caroline Ellison was released in January.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BPXB6KYBV02CEGGX5YB926/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms.png"
+      "url": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E9874D134FZFY2WSZBNXKY/hi-from-ellison-to-bankman-fried.png"
     },
     {
       "cat": "Crypto",
-      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
-      "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
+      "title": "IMF warns tokenized markets could amplify financial risks",
+      "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BG8ZH12EYMX71E9T5NGZRV/hi-tether-seen-as-a-thread-to-us-financial-system-as-more-fud-around-reserves-emerges-us.png"
+      "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E33RFBJJSYXE4M7F92S5P1/hi-imf-and-blockchain.png"
     },
     {
       "cat": "Crypto",
-      "title": "House Finance panel chair says regulator actions on crypto ‘fall short’ of CLARITY bill",
-      "summary": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren’t sufficient",
+      "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
+      "summary": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BDBYZXWRGYC55QX8JFFZ4N/hi-sec-cftc-and-clarity.png"
+      "url": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E31FD5W40BBWD1JCVBH0A8/hi-beyond-bitcoin-the-future-of-digital-assets-bitcoin-price-us-iran-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
-      "summary": "US institutions will gain access to Deribit’s options and perpetual futures through Coinbase, with US retail options expected later this year.",
+      "title": "US government moves $1B in seized Bitcoin after $770M transfers",
+      "summary": "Blockchain analysts identified the US government wallet tied to the recovery of funds from the Bitfinex hack.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BD33W46QKNCCBYY2GVZDZD/crypto-programming-searching-research-coinbase2.jpg"
+      "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DZ1JGVGB95RQTVV556XSXB/hi-the-united-states-turns-its-attention-to-bitcoin-regulation.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
-      "summary": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.",
+      "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
+      "summary": "Tokenization offers structural advantages to financial institutions and helps asset managers reach new markets, according to Fidelity’s head of digital asset strategists.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4BEBEZ7QSY6YC27Z3G1WAYE/oil-bitcoin-petrol-iran-3.jpg"
+      "url": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DTXW3K631JQCMDGZKV9MNS/hi-harmless-for-now-dangerous-in-the-future-heres-what-researches-think-of-cryptocurrencies-rwa-1.jpg"
+    },
+    {
+      "cat": "Science",
+      "title": "NASA is searching for hidden caves to build its first Moon base",
+      "summary": "NASA is preparing for humanity’s first Moon base with three investigations that will hunt for underground shelters, uncover hidden ice, and track dangerous conditions on the lunar surface. The findings could reveal how a",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008005247.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Scientists accidentally discover a genetic code that breaks the rules of life",
+      "summary": "Scientists accidentally discovered a microscopic organism with a genetic code that breaks a rule researchers thought was nearly universal. While testing a new DNA sequencing technique, they examined a previously unknown ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007233136.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "This “golden tree” coral was too strange for any known family",
+      "summary": "A brilliant yellow coral discovered off Costa Rica proved so unusual that scientists had to create an entirely new family to classify it. The meter-tall colonies rise from seafloors covered in brittle stars, inspiring th",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Scientists found Homo erectus 200,000 years earlier than expected",
+      "summary": "New fossils from South Africa are reshaping the story of early human evolution. Researchers have described 18 hominin fossils from Drimolen Cave, including an adult Homo erectus skull fragment dated to about 2 million ye",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm"
     },
     {
       "cat": "Science",
@@ -241,38 +269,17 @@
     },
     {
       "cat": "Science",
-      "title": "Scientists changed how zoo lions eat. Their wild side came out",
-      "summary": "Giving zoo lions whole carcasses on a feast-and-fast schedule appears to bring out more natural behavior. The lions spent nearly three times longer feeding, engaged in more tearing and manipulating of food, and rested mo",
+      "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
+      "summary": "Researchers at Yale have identified a promising new approach to osteoarthritis that could do more than simply ease pain. The epilepsy drug lacosamide appears to block a protein involved in both pain signaling and cartila",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005071535.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm"
     },
     {
-      "cat": "Science",
-      "title": "Humans may not be as hardwired for violence as we thought",
-      "summary": "A study comparing 100 primate species, including humans, suggests that everyday aggression and lethal violence did not evolve as part of the same simple behavioral spectrum. Species that frequently fight or show mild agg",
+      "cat": "Health",
+      "title": "Scientists warn a popular vitamin D supplement may have a hidden downside",
+      "summary": "Not all vitamin D supplements are created equal, and new research suggests that one popular form may have an unexpected downside. Scientists found that taking vitamin D2 can actually lower the body&#039;s levels of vitam",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005071529.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Webb finds a surprising atmosphere on a scorching lava world",
-      "summary": "The James Webb Space Telescope has found strong evidence that the rocky lava world HD 3167 b has an atmosphere, despite circling its star every 24 hours under extreme heat. The surprising discovery could help scientists ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005071526.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Don&#039;t miss: Watch Saturn shine and Halley’s Comet debris streak across the sky",
-      "summary": "October skywatchers can see Saturn at opposition, catch meteors from Halley’s Comet during the Orionid peak, and watch the Moon sweep past the famous Pleiades star cluster. Moonlight may obscure some Orionids, but the be",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005071523.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Earth’s center is moving, and NASA just measured it",
-      "summary": "Earth’s center of mass is constantly on the move, shifting by a few millimeters as enormous amounts of water, ice, and even air migrate around the planet with the seasons. NASA scientists have developed a more precise wa",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005071520.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007232940.htm"
     },
     {
       "cat": "Health",
@@ -283,86 +290,79 @@
     },
     {
       "cat": "Health",
-      "title": "Scientists reprogram immune cells inside the body to fight cancer",
-      "summary": "Scientists at UC San Francisco have developed a way to create cancer-fighting CAR-T cells directly inside the body, potentially avoiding the slow and extremely expensive process of removing, engineering, and reinfusing a",
+      "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
+      "summary": "Researchers at Yale have identified a promising new approach to osteoarthritis that could do more than simply ease pain. The epilepsy drug lacosamide appears to block a protein involved in both pain signaling and cartila",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005071532.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm"
     },
     {
       "cat": "Health",
-      "title": "Drug target could block brain inflammation linked to Alzheimer’s and Parkinson’s",
-      "summary": "Blocking a receptor called P2X7 significantly reduced inflammation in human brain tissue, revealing a potential new treatment strategy for neurological and psychiatric disorders. The discovery could help researchers repu",
+      "title": "Just 7 days of strength training started shrinking fat cells in mice",
+      "summary": "Just seven strength-training sessions helped obese mice shrink visceral fat cells and reactivate molecular pathways involved in burning stored fat, despite no change in overall body weight. The findings suggest some bene",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005071515.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261006234509.htm"
     },
     {
       "cat": "Health",
-      "title": "Scientists reveal what seven days of fasting does to the human body",
-      "summary": "Scientists found that prolonged fasting triggers major changes throughout the body, but many of the most interesting effects only appeared after about three days without food. The results suggest fasting may influence he",
+      "title": "Not all trans fats are bad, major review finds",
+      "summary": "A large analysis of 22 studies found that the trans fats naturally present in dairy foods such as milk, butter, yogurt, and cheese do not appear to raise the risk of heart disease or type 2 diabetes. Unlike industrial tr",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005012444.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261006234505.htm"
     },
     {
       "cat": "Health",
-      "title": "A new way to fight gum disease without wiping out good bacteria",
-      "summary": "Scientists discovered that disrupting the chemical messages bacteria use to communicate can push dental plaque toward a healthier microbial balance. The approach could lead to new treatments for gum disease that control ",
+      "title": "Dads are dying after their kids are born, and almost no one is tracking it",
+      "summary": "A study of more than 130,000 babies born in Georgia found that hundreds of fathers died within the first five years of their child’s life, and about 60% of those deaths were potentially preventable. Homicide, accidental ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005012230.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
-      "summary": "Scientists have found a surprising way to regrow damaged knee cartilage by blocking a protein that becomes more abundant with age. In old mice, the treatment restored naturally lost cartilage and also helped prevent oste",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261005071537.htm"
     },
     {
       "cat": "Culture",
-      "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
-      "summary": "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest.",
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "summary": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/98d6/live/7a402d70-c229-11f1-babe-4199b0e7ccea.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1051/live/460511f0-c30b-11f1-babe-4199b0e7ccea.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-      "summary": "The merger of two of Hollywood's biggest movie studios comes after months of legal disputes and concern over competition.",
+      "title": "BBC to cut raft of Radio 4 programmes including You and Yours",
+      "summary": "The corporation said it would be investing in a new consumer programme, while announcing more cuts.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2e88/live/f4495f40-c136-11f1-bcd8-493e192378a4.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmlyknj8wj30o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/462e/live/1b241520-c2fd-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Gavin and Stacey creators Jones and Corden reveal celebrity cast of new show",
-      "summary": "Ruth Jones and James Corden's new show also stars X-Men's James McAvoy and Harry Potter's Jim Broadbent.",
+      "title": "Actor Simon Pegg reveals ADHD diagnosis: 'It's just who I am'",
+      "summary": "The Shaun of the Dead and Mission: Impossible films star had previously put symptoms down to \"character fault\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrw4xvvglgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/28c5/live/aa3f8c70-c236-11f1-bc2e-018d645d8d21.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckn9rg24drw1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5325/live/082a16c0-c31d-11f1-babe-4199b0e7ccea.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Xbox bets on Gears of War in battle of gaming giants",
-      "summary": "Unlike other flagship titles, E-Day will only be available on Xbox at a time of rising console costs.",
+      "title": "Gaten Matarazzo on life after Stranger Things as he makes West End debut",
+      "summary": "The actor opens up about finding his way in the West End as he makes his debut in a revival of Rent.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c50mezp822peo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2e7d/live/3002b9d0-c260-11f1-bc2e-018d645d8d21.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwp8g197m5z8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/149b/live/cca20820-c271-11f1-b278-615cdfb74f16.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Stephen King's Carrie returns to explore the horrors of social media",
-      "summary": "Another beloved classic gets a modern-day twist. Its cast and creator argue why it needed to be remade.",
+      "title": "How boxing inspired a play about men's mental health",
+      "summary": "The play explores the difficulty some men have talking about their mental health and the support they can find in each other.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckqxnw01z4n3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c413/live/31fc5740-c1ad-11f1-93a9-f546f29a5f8e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6j47vj4xeego?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cb23/live/6e0334d0-c242-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "cat": "Culture",
-      "title": "King Charles and Elton John in the audience for Apple music workshop",
-      "summary": "Charles and Sir Elton visit an Apple x King's Trust Creative Labs music event offering industry skills to young people.",
+      "title": "Suffragette role 'a gift' says Beverley Knight",
+      "summary": "The Wolverhampton-born singer stars as suffragette leader Emmeline Pankhurst in Sylvia the musical.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6398n8x13zyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/141c/live/f4765dd0-c256-11f1-bc2e-018d645d8d21.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckwy4xygw1rxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/90bc/live/131269f0-c306-11f1-a64c-550be9e3c66b.png"
     }
   ]
 }
