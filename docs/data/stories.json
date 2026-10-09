@@ -1,56 +1,56 @@
 {
-  "date": "2026-10-08",
-  "updated": "2026-10-08T18:44:41.497Z",
+  "date": "2026-10-09",
+  "updated": "2026-10-09T18:15:10.785Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
-      "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
+      "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0a5b/live/25d71060-c2fa-11f1-b8c6-6d610e41a5d9.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg"
     },
     {
       "cat": "World",
-      "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-      "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+      "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+      "summary": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/afaf/live/3e4f37a0-c2ee-11f1-89a3-9b445bfcfe23.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/de59/live/0e911af0-c3df-11f1-95ba-dba767ffba7e.jpg"
     },
     {
       "cat": "World",
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "title": "Firing squad execution to be livestreamed, Pentagon says",
+      "summary": "Pete Hegseth says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bcd9/live/df938ae0-c329-11f1-9981-cf94ea240e40.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2c51/live/097ea900-c3c7-11f1-9a39-31b474234113.jpg"
     },
     {
       "cat": "World",
-      "title": "Residents airlifted to safety after flooding in central Chile",
-      "summary": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+      "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f394/live/470aaad0-c2fa-11f1-b8c6-6d610e41a5d9.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e67c/live/c75f8690-c3fb-11f1-9a39-31b474234113.jpg"
     },
     {
       "cat": "World",
-      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-      "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+      "title": "Thieves steal 30,000 bottles of wine worth €5m in Italy, reports say",
+      "summary": "The heist at the Florence-based winery is believed to be one of the largest thefts of its kind in Italy.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d6b9/live/1e2c3920-c30a-11f1-8f04-85217d686658.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cme3xl8ln2vko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9adf/live/c4e00ca0-c3c4-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "cat": "World",
-      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
-      "summary": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
+      "title": "Man named Hitler Mussolini elected mayor in Peru",
+      "summary": "The left-wing candidate won a narrow victory in a remote district in the Peruvian Andes, exit polls show.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/85e7/live/fdeabc50-c308-11f1-8f04-85217d686658.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmdxwn9dr42yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2b8a/live/e5e46370-c3f5-11f1-9a39-31b474234113.png"
     },
     {
       "cat": "Business",
@@ -96,6 +96,20 @@
     },
     {
       "cat": "Markets",
+      "title": "Americans' debt problems are flashing a warning not seen since the Great Recession",
+      "summary": "Researchers found that while wealth disparities narrowed somewhat, the ability to meet debt payments deteriorated significantly.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor",
+      "summary": "Shelton's controversial economic ideas led the Senate to block her nomination to the Fed. Now she's going to be a counselor to the Treasury secretary.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
       "summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
       "source": "cnbc.com",
@@ -123,114 +137,114 @@
       "url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html"
     },
     {
-      "cat": "Markets",
-      "title": "India’s central bank hikes rates for the first time since 2023 as inflation risks build",
-      "summary": "HSBC and Goldman Sachs expect the RBI to raise interest rates in December as well.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-      "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html"
+      "cat": "Tech & AI",
+      "title": "Microsoft barred from sponsoring foreign workers for US residency",
+      "summary": "The US says Microsoft abused immigration rules; the company disputes the claim.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2019/04/microsoft-logo-lights.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
-      "summary": "Amazon killed its app store, so Google Play it is.",
+      "title": "Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?",
+      "summary": "\"I can say we’re weeks away from launching on Vulcan.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/assets.aboutamazon.png"
+      "url": "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/55092272338_83965929d0_o-1152x648-1776275319.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Amazon builds 1,000th satellite, will launch space internet service by end of year",
-      "summary": "\"If this was easy, everybody else would be doing it.\"",
+      "title": "Volkswagen's replacement for the ID.4 crossover is here",
+      "summary": "The new EV’s digital cockpit can mimic instrument displays from VWs of old.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Satellite-1000.png"
+      "url": "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/DB2026AU00895.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-      "summary": "Court filings reveal new details about Exxon's decades of internal climate deliberations.",
+      "title": "SpaceX calls for better coordination in orbit after near-misses with Starlink",
+      "summary": "\"These led to conjunctions of tens of meters to hundreds of meters. Way too close to comfort.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/refinery.jpg"
+      "url": "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/starshipflight14_deploy-1152x648-1791410362.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "summary": "Full-stack safety solution for physical AI is being used by robotics companies.",
+      "title": "Judge weighs if Trump can charge $100K for early access to Truth Social posts",
+      "summary": "Judge questioned if Trump delaying access to Truth Social posts by a second harms the press.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2279085532.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist",
-      "summary": "Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.",
+      "title": "Trump Mobile hack and apparent lack of FCC authorization raise security alarms",
+      "summary": "After hack and data breach, senator asks why Trump Mobile lacks some FCC filings.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/blanche-kalshi-sports-1152x648-1791305860.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
-      "summary": "Get ready for more AI in your Windows and more AI on the desktop.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Surface-Laptop-Ultra-Opened.png"
+      "url": "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/trump-mobile-1152x648-1791486838.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
+      "summary": "The technical trial showed how AI agents could discover services and make micropayments using HSBC’s tokenized deposits, with real-time settlement and risk checks.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+      "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GS7BG4ZGWXJ6GRW1QETMHP/hi-trading-bots-vs-ai-agents-everything-you-need-to-know2-3.png"
     },
     {
       "cat": "Crypto",
-      "title": "Netflix drops trailer for series based on FTX’s SBF and Caroline Ellison",
-      "summary": "Sam Bankman-Fried remains in federal prison following his 2023 conviction, while Caroline Ellison was released in January.",
+      "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+      "summary": "Hardware wallet maker Ledger probes losses tied to reseller CryptoBilis, as researchers separately estimate more than $72 million to $86 million in suspected crypto thefts.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E9874D134FZFY2WSZBNXKY/hi-from-ellison-to-bankman-fried.png"
+      "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GQZR5EE6DC45BS4MEHM47N/hi-got-crypto-losses-wallet-shutdown-2.png"
     },
     {
       "cat": "Crypto",
-      "title": "IMF warns tokenized markets could amplify financial risks",
-      "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading.",
+      "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+      "summary": "The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction markets cases.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E33RFBJJSYXE4M7F92S5P1/hi-imf-and-blockchain.png"
+      "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1MD85WHZ0X0XYT5WKK8H3PD/man-documents-cftc-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
-      "summary": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.",
+      "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren’t sold",
+      "summary": "Wealthy investors are embracing crypto faster than their advisers, while OKX attracts new funding and Strategy shifts more capital toward preferred stock buybacks.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4E31FD5W40BBWD1JCVBH0A8/hi-beyond-bitcoin-the-future-of-digital-assets-bitcoin-price-us-iran-1.jpg"
+      "url": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GNSX9H9TAR1WVGN6VK00JF/rope-and-some-sand.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "US government moves $1B in seized Bitcoin after $770M transfers",
-      "summary": "Blockchain analysts identified the US government wallet tied to the recovery of funds from the Bitfinex hack.",
+      "title": "Bitcoin consolidates near $82.5K as crypto weathers Ledger theft reports",
+      "summary": "Bitcoin and crypto markets eyed a recovery from Thursday’s drop despite concerns of another hardware wallet exploit.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DZ1JGVGB95RQTVV556XSXB/hi-the-united-states-turns-its-attention-to-bitcoin-regulation.jpg"
+      "url": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GJTJRRZ47S1YP6DQSY53GK/hand-coin-laptop-hack-bitcoin.webp"
     },
     {
       "cat": "Crypto",
-      "title": "‘No going back’ for institutions moving toward tokenized onchain future, says Fidelity",
-      "summary": "Tokenization offers structural advantages to financial institutions and helps asset managers reach new markets, according to Fidelity’s head of digital asset strategists.",
+      "title": "Dragonfly partner rejects ‘bunker mode’ doomerism, calls for proactive blockchain measures",
+      "summary": "Dragonfly’s Qureshi argued that asset migration is not a real solution in case of AI models breaking cryptographic signatures, and urged blockchains to adopt proactive measures.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4DTXW3K631JQCMDGZKV9MNS/hi-harmless-for-now-dangerous-in-the-future-heres-what-researches-think-of-cryptocurrencies-rwa-1.jpg"
+      "url": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GCWY4XX0MD3NEZQFT038VE/hi-using-ai-in-crypto-do-it-at-your-own-risk.jpg"
+    },
+    {
+      "cat": "Science",
+      "title": "NASA astronauts splash down after 100 million miles in space",
+      "summary": "NASA’s SpaceX Crew-12 astronauts have returned to Earth after 237 days in space, traveling more than 100 million miles and completing over 3,792 orbits while conducting research to prepare for future missions to the Moon",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008232629.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "October’s night sky is full of cosmic tricks and treats",
+      "summary": "October’s skies are packed with celestial surprises, from Jupiter disappearing behind the Moon to two meteor showers lighting up the darkness. NASA highlights four must-see events, including shooting stars from Halley’s ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008102704.htm"
     },
     {
       "cat": "Science",
@@ -248,31 +262,24 @@
     },
     {
       "cat": "Science",
+      "title": "Scientists find hidden materials that could improve batteries and solar fuels",
+      "summary": "Scientists have uncovered a hidden world of “in-between” materials that briefly form as chemical ingredients are heated, revealing structures that conventional methods can miss. Among the discoveries is a previously unkn",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042118.htm"
+    },
+    {
+      "cat": "Science",
       "title": "This “golden tree” coral was too strange for any known family",
       "summary": "A brilliant yellow coral discovered off Costa Rica proved so unusual that scientists had to create an entirely new family to classify it. The meter-tall colonies rise from seafloors covered in brittle stars, inspiring th",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/10/261007042116.htm"
     },
     {
-      "cat": "Science",
-      "title": "Scientists found Homo erectus 200,000 years earlier than expected",
-      "summary": "New fossils from South Africa are reshaping the story of early human evolution. Researchers have described 18 hominin fossils from Drimolen Cave, including an adult Homo erectus skull fragment dated to about 2 million ye",
+      "cat": "Health",
+      "title": "Only one workout helped older adults lose fat and keep muscle",
+      "summary": "A six-month study suggests that high-intensity interval training (HIIT) may offer older adults a powerful advantage: losing body fat while keeping their muscle. Unlike moderate-intensity workouts, which led to a small lo",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261007042113.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "NASA’s Webb finds signs of Mars-sized worlds smashing together",
-      "summary": "NASA’s James Webb Space Telescope is giving astronomers a glimpse of the kinds of violent collisions that may have shaped our own solar system, including the giant impact thought to have created the Moon. By studying 21 ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261007042108.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "FDA-approved epilepsy drug may help reverse osteoarthritis damage",
-      "summary": "Researchers at Yale have identified a promising new approach to osteoarthritis that could do more than simply ease pain. The epilepsy drug lacosamide appears to block a protein involved in both pain signaling and cartila",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007233348.htm"
     },
     {
       "cat": "Health",
@@ -283,10 +290,24 @@
     },
     {
       "cat": "Health",
+      "title": "Bacteria turn a virus’ own weapon against it",
+      "summary": "Researchers have uncovered a new way bacteria detect viral attacks: a virus-produced enzyme cuts a bacterial sensor protein, triggering a self-destructing immune response. The discovery could lead to more effective phage",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261007042100.htm"
+    },
+    {
+      "cat": "Health",
       "title": "Taking antibiotics? Sugar may be making the damage worse",
       "summary": "Eating more sugar while taking antibiotics was linked to greater disruption of the gut microbiome and increased growth of potentially harmful bacteria. Researchers say temporarily cutting back on sweets during and after ",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/10/261007042059.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Scientists tested 5 natural compounds on cancer cells. One stood out",
+      "summary": "Five natural compounds, including curcumin and berberine, were tested for their effects on cancer cells and healthy muscle cells. All disrupted cancer cell energy production and pushed many of the cells into a non-dividi",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261006234531.htm"
     },
     {
       "cat": "Health",
@@ -296,73 +317,52 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261006234528.htm"
     },
     {
-      "cat": "Health",
-      "title": "Just 7 days of strength training started shrinking fat cells in mice",
-      "summary": "Just seven strength-training sessions helped obese mice shrink visceral fat cells and reactivate molecular pathways involved in burning stored fat, despite no change in overall body weight. The findings suggest some bene",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261006234509.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Not all trans fats are bad, major review finds",
-      "summary": "A large analysis of 22 studies found that the trans fats naturally present in dairy foods such as milk, butter, yogurt, and cheese do not appear to raise the risk of heart disease or type 2 diabetes. Unlike industrial tr",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261006234505.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Dads are dying after their kids are born, and almost no one is tracking it",
-      "summary": "A study of more than 130,000 babies born in Georgia found that hundreds of fathers died within the first five years of their child’s life, and about 60% of those deaths were potentially preventable. Homicide, accidental ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261005071537.htm"
+      "cat": "Culture",
+      "title": "Alison Hammond: 'I thought I was having heart attack on air'",
+      "summary": "The host says a health scare on live TV was one of the \"scariest things I've ever been through\".",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yn75pgyjjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d1d2/live/2852f9e0-c3cb-11f1-8fc5-335d62f6730b.jpg"
     },
     {
       "cat": "Culture",
-      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
-      "summary": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+      "title": "Emotions run high at the round table as Celebrity Traitors banish two players",
+      "summary": "Viewers watched to see whether Richard E Grant could save himself at the first round table of the series.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1051/live/460511f0-c30b-11f1-babe-4199b0e7ccea.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cm9dzl7wx2qyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a332/live/a4b45e30-c375-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "cat": "Culture",
-      "title": "BBC to cut raft of Radio 4 programmes including You and Yours",
-      "summary": "The corporation said it would be investing in a new consumer programme, while announcing more cuts.",
+      "title": "Olivia Colman on viral Wicker memes: 'This has never happened to me before'",
+      "summary": "Steamy jokes have flooded social media ahead of the release of the actress's latest film.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyknj8wj30o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/462e/live/1b241520-c2fd-11f1-a64c-550be9e3c66b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cry4xpyzl7qwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/27e1/live/b73fb250-c2ff-11f1-9955-5d2e13ff2bea.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Actor Simon Pegg reveals ADHD diagnosis: 'It's just who I am'",
-      "summary": "The Shaun of the Dead and Mission: Impossible films star had previously put symptoms down to \"character fault\".",
+      "title": "Crazy Rich Asians to return as TV show with original film's stars",
+      "summary": "It will pick up after the hit 2018 film, starring Constance Wu, Henry Golding, Michelle Yeoh and Ronny Chieng.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckn9rg24drw1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5325/live/082a16c0-c31d-11f1-babe-4199b0e7ccea.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cm5yne8k6zw8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3b16/live/28721870-c3bc-11f1-9798-abffda1e61e7.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Gaten Matarazzo on life after Stranger Things as he makes West End debut",
-      "summary": "The actor opens up about finding his way in the West End as he makes his debut in a revival of Rent.",
+      "title": "Two Renoir paintings stolen from French museum are recovered",
+      "summary": "The two works were seized last month when thieves cut through a fence and smashed a window at the Renoir Museum on the French Riviera.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwp8g197m5z8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/149b/live/cca20820-c271-11f1-b278-615cdfb74f16.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwkg50v1vn07o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/001c/live/84c5d730-c3d3-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "cat": "Culture",
-      "title": "How boxing inspired a play about men's mental health",
-      "summary": "The play explores the difficulty some men have talking about their mental health and the support they can find in each other.",
+      "title": "Video game Cyberpunk 2077 to get live-action movie adaptation",
+      "summary": "The smash hit from the studio behind The Witcher series is to be turned into a film by Paramount Pictures.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6j47vj4xeego?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cb23/live/6e0334d0-c242-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Suffragette role 'a gift' says Beverley Knight",
-      "summary": "The Wolverhampton-born singer stars as suffragette leader Emmeline Pankhurst in Sylvia the musical.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckwy4xygw1rxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/90bc/live/131269f0-c306-11f1-a64c-550be9e3c66b.png"
+      "url": "https://www.bbc.co.uk/news/articles/c60e048r02lgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/21d0/live/b8bcb880-c3c7-11f1-bc2e-018d645d8d21.png"
     }
   ]
 }
