@@ -1,56 +1,56 @@
 {
-  "date": "2026-10-20",
-  "updated": "2026-10-20T16:43:17.572Z",
+  "date": "2026-10-21",
+  "updated": "2026-10-21T17:00:54.944Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-      "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+      "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f072/live/051b0900-cc94-11f1-a64c-550be9e3c66b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/808c/live/f0408560-cd64-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "cat": "World",
-      "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-      "summary": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+      "title": "Macron accuses foreign leaders of exploiting French riots",
+      "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a834/live/7aae38a0-cc89-11f1-bed8-c51b95c602ec.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b6f4/live/ad9474c0-cd63-11f1-9a39-31b474234113.jpg"
     },
     {
       "cat": "World",
-      "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
-      "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+      "title": "Australian MP loses both legs after alleged car attack, husband says",
+      "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/35a8/live/1183bed0-cc76-11f1-a64c-550be9e3c66b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/16b5/live/2cbe53a0-cd29-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "cat": "World",
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/008d/live/4e35d850-cc8e-11f1-bc2e-018d645d8d21.png"
+      "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png"
     },
     {
       "cat": "World",
-      "title": "Alberta votes overwhelmingly to remain part of Canada",
-      "summary": "The vote has been hailed by Prime Minister Mark Carney as \"a clear choice\" in favour of national unity.",
+      "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
+      "summary": "Faheem Akram allegedly sold more than 5 million fake postage labels for a fixed price of $2 a piece.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3f36/live/37d43d30-cc67-11f1-b1a3-5bda642ff934.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckdd8m1z1z3yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e26e/live/12c0e130-cd0f-11f1-92f9-3b44ce9ad221.jpg"
     },
     {
       "cat": "World",
-      "title": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-      "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
+      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+      "summary": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1f2b/live/cb87ca70-cc75-11f1-baeb-8d65d4bcd7ab.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4f1a/live/3e1812e0-cd32-11f1-9a39-31b474234113.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,27 @@
     },
     {
       "cat": "Markets",
+      "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+      "summary": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
+      "summary": "Bain says tech leads purchase considerations in China while price remains No. 1 in the U.S. and Europe, as pressure mounts on Western carmakers.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+      "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
       "summary": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
       "source": "cnbc.com",
@@ -116,105 +137,76 @@
       "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html"
     },
     {
-      "cat": "Markets",
-      "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-      "summary": "Investors expect the Fed to pause rate hikes in October, but Kevin Warsh's rejection of traditional communications practices and continued concern about inflation leave the decision uncertain.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Economists: Hot PPI shows Fed's work is not done",
-      "summary": "'We see real risks the Fed will deliver another rate hike in two weeks' time,' one Fedwatcher warns",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "U.S. Treasury dismisses IMF debt warning and 'messy' forecasting",
-      "summary": "The exchange comes as U.S. debt exceeds $40 trillion and 10-year Treasury yields remain above 5%, intensifying scrutiny of the fiscal outlook.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html"
+      "cat": "Tech & AI",
+      "title": "PHP warns it plans to release 2 emergency patches imminently",
+      "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape.jpeg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "summary": "A single query is all that's required to find thousands of conversations listed by title.",
+      "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+      "summary": "\"I do think there's a lot of merit to combining the companies.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-robot-hand-caution.jpg"
+      "url": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/tesla-in-space.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Visiting Slate’s first showroom as its $25,000 electric truck nears production",
-      "summary": "Slate's first showroom sells the promise. Mass production will determine the rest.",
+      "title": "Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies",
+      "summary": "Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an investigation.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/slate-visit-chicago-intro.jpg"
+      "url": "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1234276092.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-      "summary": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
+      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+      "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/52568167027_27ac36afb5_o.jpg"
+      "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/xbox-dominoes.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
-      "summary": "Congenital measles can be fatal, and survivors require monitoring for years.",
+      "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+      "summary": "A lifetime ad-free subscription is available.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/10/GettyImages-509481102-scaled-1152x648-1729196833.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Global_banner_preview.png"
     },
     {
       "cat": "Tech & AI",
-      "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
-      "summary": "\"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36.\"",
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ICEYE_assembling_satellite_06_3x2.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-      "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299491134.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
-      "summary": "About 25% of the US-listed companies in OKXICE’s initial tokenized stock platform proposal are asking to opt-out of the venture.",
+      "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+      "summary": "Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CW3NTKT5PSES4HTCWWPBKD/new-york-stock-exchange-nyse.jpg"
+      "url": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FH88750HFGGVZ9ZQN6BBTV/hi-token-burning-explained-sec.png"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls",
-      "summary": "High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line.",
+      "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+      "summary": "Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KCZXGV1C50ET53JWS4RJ0V/hi-can-bitcoins-hard-cap-be-changed-3.jpg"
+      "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5FFNBMBTT9KJFWC3TVMA71T/hi-what-is-spacex-ipo-and-binance-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Agents can trade 24/7 — but Yat Siu warns you could lose access at any time",
-      "summary": "The Animoca Brands chairman explains that AI agents can make trades while you sleep, but users need to plan for the day they lose access to the bots.",
+      "title": "Solana’s Alpenglow launches on mainnet, targets 99% faster finality",
+      "summary": "Solana’s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5A2NQ7V86JRXXH8Y521EE8Y/yat-siu-trade-secrets.png"
-    },
-    {
-      "cat": "Crypto",
-      "title": "FINMA approves Switzerland’s first Bitcoin ETF for retail investors",
-      "summary": "The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CM5K1VY11KXJASBKDSS5M2/hi-inside-the-swiss-city-where-you-can-pay-for-almost-everything-in-bitcoin.jpg"
+      "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F9M5QVFXDEA42YHSF756WB/hi-despite-the-markets-being-down-the-blockchain-industry-is-still-thriving-solana.jpg"
     },
     {
       "cat": "Crypto",
@@ -226,53 +218,96 @@
     },
     {
       "cat": "Crypto",
-      "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
-      "summary": "The April 1 hack caused about $295 million in losses and was later attributed to a North Korean threat group in a Mandiant investigation.",
+      "title": "Big Tech’s eMudhra fixes may leave crypto bots exposed, CertiK warns",
+      "summary": "CertiK says crypto trading bots and exchange applications may remain exposed to the eMudhra certificate flaw because browser fixes may not protect all software.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2FK6GAEQRFQBFCE1EBGAMG5/hi-what-is-a-crypto-money-mule-scam-and-how-to-avoid-it-1.jpg"
+      "url": "https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5F7BDZS98A483J2RAEAA5FE/hi-transactions-stopped-warning.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "5 alternatives to Ledger to store your Bitcoin",
+      "summary": "Hardware wallets aren’t the only way to protect your crypto, but from ETFs and passkeys to multisig accounts, each alternative has its own risks and trade-offs.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/magazine/5-alternatives-to-ledger-to-store-your-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CK9G3Z3RXSRTZS1TKE0MXV/magazineq-day-bitcoin-could-take-7-years-to-upgrade-to-post-quantum.jpg"
     },
     {
       "cat": "Science",
-      "title": "Scientists finally uncover why statins can cause muscle pain",
-      "summary": "Scientists have uncovered a surprising reason why statins, the widely prescribed cholesterol-lowering drugs that help prevent heart attacks and strokes, can sometimes cause muscle pain, weakness, and even severe muscle d",
+      "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
+      "summary": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth rough",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm"
     },
     {
       "cat": "Science",
-      "title": "Hurricane warning maps are improving, but a dangerous problem remains",
-      "summary": "A new study reveals that improved hurricane forecast graphics may help people identify threatened areas without making them more likely to recognize the danger or take protective action. Researchers also found that a wid",
+      "title": "Too much RNA can starve cells of energy, scientists discover",
+      "summary": "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally essential messenger ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093443.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm"
     },
     {
       "cat": "Science",
-      "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
-      "summary": "Scientists have achieved a major breakthrough in understanding the Universe’s earliest moments, measuring the amount of helium formed in the first five minutes after the Big Bang with unprecedented precision. Using one o",
+      "title": "A train was delayed by a solar storm. But something didn&#039;t add up.",
+      "summary": "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841. The discovery rewrites the early history of space weather",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm"
     },
     {
       "cat": "Science",
-      "title": "Scientists discover a surprising link between vitamin C and cancer survival",
-      "summary": "A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers. Patients receiving the supplement had fewer adverse event",
+      "title": "Astronauts’ hearts just passed a surprising test for Mars",
+      "summary": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts&#039; heart",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm"
     },
     {
       "cat": "Science",
-      "title": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
-      "summary": "Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago. The exceptionally rare fossils reveal a creature unl",
+      "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
+      "summary": "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm"
     },
     {
       "cat": "Science",
-      "title": "Your aging brain may be trading memory for something more valuable",
-      "summary": "The aging brain may be undergoing a remarkable transformation rather than simply losing its abilities, shifting its focus from remembering details to understanding the bigger picture. Scientists suggest this change could",
+      "title": "NASA’s Perseverance Mars rover just shattered the all-time off-world driving record",
+      "summary": "NASA’s Perseverance rover has shattered a historic space exploration record, traveling farther across another world than any vehicle before it. Its advanced self-driving system helped it surpass Opportunity’s 28.06-mile ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093357.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Just 4 minutes a day can dramatically improve strength after 65",
+      "summary": "A new Penn State study suggests that just four minutes of daily strength training can significantly improve mobility and physical function in older adults. After 12 weeks, participants showed meaningful gains in balance,",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085025.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Too much RNA can starve cells of energy, scientists discover",
+      "summary": "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy. A new study found that excess RNA, including the normally essential messenger ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Astronauts’ hearts just passed a surprising test for Mars",
+      "summary": "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight. Researchers found that astronauts&#039; heart",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Massive study of 460,000 people challenges ultra-processed food cancer fears",
+      "summary": "A massive study of more than 460,000 Americans found that ultra-processed foods were not associated with increased colorectal cancer risk overall, challenging a widely held assumption. While processed meat was linked to ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085014.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
+      "summary": "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory. The discovery offers a new",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm"
     },
     {
       "cat": "Health",
@@ -282,87 +317,52 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm"
     },
     {
-      "cat": "Health",
-      "title": "Scientists discover a surprising link between vitamin C and cancer survival",
-      "summary": "A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers. Patients receiving the supplement had fewer adverse event",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Your aging brain may be trading memory for something more valuable",
-      "summary": "The aging brain may be undergoing a remarkable transformation rather than simply losing its abilities, shifting its focus from remembering details to understanding the bigger picture. Scientists suggest this change could",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093357.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau",
-      "summary": "Scientists have found a promising way to protect the brain from Alzheimer’s-related damage by blocking immune cells that contribute to the destruction of neurons. In mice, the treatment preserved roughly 40% more tissue ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093355.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Scientists discover a way to kill dangerous gut bacteria without killing the good",
-      "summary": "Scientists have discovered a natural compound that targets dangerous C. difficile bacteria without wiping out the gut&#039;s beneficial microbes. Successful early tests suggest it could lead to a gentler, more effective ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261019093353.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Just 3,000 steps a day may help slow Alzheimer&#039;s, scientists find",
-      "summary": "Walking just 3,000 steps a day could help slow Alzheimer’s-related brain changes, according to new research. Scientists discovered that physical activity was linked to less buildup of harmful tau proteins and nearly half",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261018205058.htm"
+      "cat": "Culture",
+      "title": "Don't Stop Believin'! - high school musical Glee set for reboot",
+      "summary": "Ryan Murphy's popular musical comedy-drama is set to return on Hulu and Disney+ after a decade away.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2vpn4xy0yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d05d/live/765a5ae0-cd65-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "cat": "Culture",
-      "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
-      "summary": "The closures are announced as the corporation continues to try to save £500m over two years.",
+      "title": "Ali G is back. But is the character past its sell-by date?",
+      "summary": "Borat and Bruno creator Sacha Baron Cohen returns as Ali G, more than two decades after the release of Ali G Indahouse.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6148/live/a1deed10-c172-11f1-b328-ff5d39da8090.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckge4vn2rnxgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8805/live/ba1e83f0-be4c-11f1-8828-9d9deece30a1.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Woman says she 'couldn't speak or breathe' during alleged rape by Russell Brand",
-      "summary": "The entertainer denies three counts of rape, three charges of sexual assault and one of indecent assault.",
+      "title": "Actor Noel Clarke pleads not guilty to sexual offence charges",
+      "summary": "The former Doctor Who and Kidulthood star appeared at Westminster Magistrates Court on Wednesday.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ck240rr10jdqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9c93/live/e0334860-cc60-11f1-b1a3-5bda642ff934.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cm9wzvj0v4q9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/96a5/live/85bef820-cd32-11f1-935f-b9c228680c6f.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Katie Razzall: BBC closures make business sense, but far more savings are needed",
-      "summary": "The BBC announced it will close its BBC Three, BBC Scotland and Radio 4 Extra broadcast channels.",
+      "title": "Author Helen Fielding launches award to find the next Bridget Jones's Diary",
+      "summary": "The Bridget Jones Prize will go to the author of the funniest 1,000-word diary-style piece of writing.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c63eln34yle3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5e19/live/02934fe0-cc98-11f1-bc2e-018d645d8d21.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6wyd53yg9n1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/000d/live/122bf790-cd38-11f1-935f-b9c228680c6f.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Rantzen felt 'deprived of choice' over her own death",
-      "summary": "A note written by Dame Esther Rantzen is released by her family following a private funeral.",
+      "title": "Woman told Russell Brand he 'treated her like an animal', court hears",
+      "summary": "The comedian and actor is on trial for charges including rape and sexual assault, which he denies.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cky93njxlwjjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/06a8/live/c8687080-b181-11ef-97e6-3bd47a1e90d7.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmje5k3q9ello?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7eca/live/945eab00-cd3c-11f1-8177-0f8bd59b54c4.jpg"
     },
     {
       "cat": "Culture",
-      "title": "McCartney and Starr back new Beatles attraction",
-      "summary": "The surviving Beatles have welcomed plans for an immersive visitor experience in Liverpool.",
+      "title": "Glastonbury coach tickets oversold in admin error",
+      "summary": "Bookings will automatically be converted into a general admission ticket and coach fare refunded.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cr3wv555ew6lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e7dc/live/4c415b50-cc8e-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "cat": "Culture",
-      "title": "'Alice Cooper is a character, like Jekyll and Hyde'",
-      "summary": "Alice Cooper reflects on faith, fame and addiction ahead of his Wolverhampton book tour appearance.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c59vz78kvgv9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a9ed/live/5a4c64d0-cbd3-11f1-8825-01bdb552361e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynqkgwr69o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6a0b/live/0dfe5e30-cd5e-11f1-b962-b7ff822cde72.jpg"
     }
   ]
 }
