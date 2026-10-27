@@ -1,56 +1,56 @@
 {
-  "date": "2026-10-26",
-  "updated": "2026-10-26T18:35:34.321Z",
+  "date": "2026-10-27",
+  "updated": "2026-10-27T17:50:56.921Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Lula wins fourth term in dramatic Brazil election comeback",
-      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
+      "summary": "The defeated presidential candidate is under investigation for alleged money laundering and barred from leaving Brazil.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/eab1/live/a6b767f0-d15c-11f1-a701-fddedf244c16.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8c0d/live/6e225510-d226-11f1-b8e4-17c9744a7f8e.jpg"
     },
     {
       "cat": "World",
-      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
+      "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f0c7/live/712973e0-d110-11f1-b441-2b33b063138f.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/24e8/live/8fbba870-d221-11f1-b441-2b33b063138f.jpg"
     },
     {
       "cat": "World",
-      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-      "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/49e6/live/50a614d0-d14b-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg"
     },
     {
       "cat": "World",
-      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg"
     },
     {
       "cat": "World",
-      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
-      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+      "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9660/live/4332a8c0-d148-11f1-9eb5-811878e0f07d.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f138/live/2d67b730-d204-11f1-b441-2b33b063138f.png"
     },
     {
       "cat": "World",
-      "title": "US Marine indicted for murder and robbery of woman in Japan",
-      "summary": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports.",
+      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+      "summary": "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f0a6/live/4658dae0-d13b-11f1-8d4e-ef1672a07d66.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,20 @@
     },
     {
       "cat": "Markets",
+      "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+      "summary": "World Bank President Ajay Banga came on CNBC's \"Squawk Box\" on Oct. 27, 2026.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Fed rate hikes are coming, but not this week: CNBC survey",
+      "summary": "The CNBC Fed Survey shows that 93% of respondent expect a pause at the Federal Reserve meeting taking place this week.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
       "summary": "Initial filings for unemployment insurance slipped to a seasonally adjusted 194,000.",
       "source": "cnbc.com",
@@ -123,106 +137,76 @@
       "url": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html"
     },
     {
-      "cat": "Markets",
-      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-      "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why",
-      "summary": "The history of technological progress suggests that as AI spreads, the employment impact will hit women more than men.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html"
+      "cat": "Tech & AI",
+      "title": "Apple iPhone Duo review: Two screens, two experiences, two thousand dollars",
+      "summary": "I respect Apple's first crack at a foldable phone, but I'm not sure I like it.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/IMG_3790.jpeg"
     },
     {
       "cat": "Tech & AI",
-      "title": "F1 in Texas: The American race that fans love to attend",
-      "summary": "Ars spends the weekend with the Audi Revolut F1 team at the Circuit of the Americas.",
+      "title": "Some iPhone Duo screens are already failing, Apple says only a \"small number\" are affected",
+      "summary": "Apple's \"precision-engineered\" hinge is apparently damaging some iPhone Duo screens.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/A2621582.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/iphone-duo-oops.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race",
-      "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
+      "title": "Sculpture recreates odd optical effects of famed Lycurgus Cup",
+      "summary": "University of Sheffield researchers figured out how to recreate the 1600-year-old glass recipe.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/roadster.jpg"
+      "url": "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/lycurgusTOP-1152x648-1793103945.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "From impulse purchase to pocket studio: The M-Vave FM-1",
-      "summary": "M-Vave's cheap FM-1 pocket synth has exploded as a community firmware playground.",
+      "title": "US officials want Section 702 renewed before damaging court ruling goes public",
+      "summary": "Senators say officials hid a ruling on warrantless searches past its release deadline.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/PXL_20261020_212659503.PORTRAIT.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/court-spy.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
-      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "title": "Microsoft offers to buy out a quarter of its workforce",
+      "summary": "Employees in the US, Canada, India, and the UK may receive offers to leave MS today.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/marscloud.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/microsoft.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
-      "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+      "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+      "summary": "Case study gives a whole new meaning to \"bedroom eyes.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1458824614.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
-      "summary": "\"We have the mandate, we have the resources, and the support from our stakeholders.\"",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/centaur.jpg"
+      "url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/larvae-released.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
-      "summary": "The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading.",
+      "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+      "summary": "The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WJM4BTG04MJ97MCD20VJ26/hi-a-beginners-guide-to-nba-top-shot-nfts.png"
+      "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Z1HSZ4K8KMEHK6XPMYYZ30/hi-crypto-goes-for-nasdaq-solana.png"
     },
     {
       "cat": "Crypto",
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-      "summary": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials.",
+      "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+      "summary": "USDC’s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchanges restrict USDT under MiCA.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5WCFCMYFBV1HM5DA9T73R6P/hi-south-korea-virtual-currency-taxes-explained-basic-knowledge-for-beginners-including-calculation-methods-1.jpg"
+      "url": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YYH4W8ZJZR3K8EWNZDKXQ3/coin-crushing-euro.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-      "summary": "The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets.",
+      "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+      "summary": "Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2R2Q54WS905SXC3VAXKD1PM/hi-what-will-sp-500-wager-predictions-look.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "PHP flaw shows AI ‘vulnerability apocalypse’ is on schedule: Immunefi CEO",
-      "summary": "Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "summary": "Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W4P12K292NZBRSP8W9DG6M/michael-saylors-big-bet-institutional-investments-role-in-bitcoins-price3-1.jpg"
+      "url": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W5ECKJ4SW0V5ZA2BKG1Q5H/trade-secrets-jordi-visser.png"
     },
     {
       "cat": "Crypto",
@@ -233,6 +217,50 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
+      "cat": "Crypto",
+      "title": "Hayes details FLOP’s AI compute derivatives vision after selling his altcoins",
+      "summary": "Arthur Hayes revealed the derivatives market design for Flop Network and how he expects its native token could transform AI compute into a tradable commodity.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YN0CT8F4HNHWRJS1ST7JTJ/arthur-hayes.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
+      "summary": "Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YDNW5100FXXDD1HKRTGV6P/hi-institutional-trading-and-cryptocurrency-industry-investment.jpg"
+    },
+    {
+      "cat": "Science",
+      "title": "Common drugs may help dangerous viruses spread through the body",
+      "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and ot",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "James Webb discovers a scorching lava planet with a “giant sunscreen”",
+      "summary": "A scorching lava planet 280 light-years away has surprised astronomers by apparently maintaining a thick atmosphere despite conditions that should have stripped it away billions of years ago. James Webb Space Telescope o",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261026225603.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Smithsonian scientists just recreated the first 2 billion years of the Universe",
+      "summary": "Scientists have created one of the largest and most detailed simulations of the early universe ever made, offering an extraordinary new glimpse into the cosmos shortly after the Big Bang. Called Lumina, the groundbreakin",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261026225600.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Do spiders dream? Scientists just found a surprising clue",
+      "summary": "Scientists have discovered that spiders may sleep in ways surprisingly similar to humans, complete with distinct sleep stages and a dream-like REM state. Researchers at the University of Bonn studied the Australian jumpi",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm"
+    },
+    {
       "cat": "Science",
       "title": "Exercise doesn&#039;t just strengthen your heart. It rewires it",
       "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides ",
@@ -241,38 +269,31 @@
     },
     {
       "cat": "Science",
-      "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
-      "summary": "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth&#039;s rotation and the Sun&#039;s ancient behavior. By correcting an eight-kilometer error in the location of an ancient Chi",
+      "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
+      "summary": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Research",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm"
     },
     {
-      "cat": "Science",
-      "title": "Tiny magnetic vortices could help computers work more like your brain",
-      "summary": "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures. The breakthrough could help make brain-lik",
+      "cat": "Health",
+      "title": "Low testosterone may make sugar far more harmful to your liver",
+      "summary": "Scientists have discovered that low testosterone and a high-fructose diet can work together to worsen fatty liver disease in mice. Unexpectedly, changes in gut bacteria appear to drive this harmful interaction, revealing",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261026225622.htm"
     },
     {
-      "cat": "Science",
-      "title": "Archaeologists may have just found the world&#039;s oldest shipwreck",
-      "summary": "A mysterious shipwreck off Turkey’s coast may be the oldest ever discovered, dating back approximately 4,500 years to the age of the Egyptian pyramids. Although the wooden vessel has disappeared, its surviving pottery ca",
+      "cat": "Health",
+      "title": "The secret to slower aging may be hiding in your gut",
+      "summary": "The secret to aging more slowly may be hiding in your gut. Scientists discovered that certain gut bacteria are strongly linked to how quickly the body ages, with microbial differences accounting for about 15% of the vari",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261025073036.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261026225620.htm"
     },
     {
-      "cat": "Science",
-      "title": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
-      "summary": "Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind. Dubbed “D-rex,” its evolutionary lineage appears to have emer",
+      "cat": "Health",
+      "title": "Common drugs may help dangerous viruses spread through the body",
+      "summary": "A surprising discovery reveals that widely used anti-inflammatory drugs may unintentionally help dangerous viruses spread through the body. Scientists found that JAK inhibitors, prescribed for rheumatoid arthritis and ot",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Low-dose aspirin linked to 70% lower dementia risk, but there&#039;s a catch",
-      "summary": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose as",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261026225606.htm"
     },
     {
       "cat": "Health",
@@ -280,6 +301,13 @@
       "summary": "Regular exercise does more than strengthen the heart. New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides ",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Scientists discover a surprising clue to why some brains resist Alzheimer’s",
+      "summary": "Why do some people stay mentally sharp even when their brains show signs of Alzheimer’s disease? Scientists in the Netherlands may have uncovered an important clue hidden in a rare group of immature brain cells. Research",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm"
     },
     {
       "cat": "Health",
@@ -289,80 +317,52 @@
       "url": "https://www.sciencedaily.com/releases/2026/10/261025222339.htm"
     },
     {
-      "cat": "Health",
-      "title": "AI detects “invisible” signs of pancreatic cancer years before diagnosis",
-      "summary": "A powerful new AI system could help doctors detect pancreatic cancer years before it becomes visible on conventional scans. The technology, called REDMOD, identified hidden warning signs an average of 475 days before dia",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261024222031.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Just two drinks a day may be far riskier than you think",
-      "summary": "A major new study reveals that drinking just two alcoholic beverages a day is associated with a 1 in 25 lifetime risk of death from alcohol-related causes, challenging the idea that moderate drinking is harmless. Researc",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261024222030.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Scientists reveal the hidden danger of missing blood pressure medication",
-      "summary": "Missing blood pressure medication could mean losing much of its protection against heart attacks and strokes, according to an analysis of more than 91,000 people. Patients who consistently took their medication experienc",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261024222028.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Low-dose aspirin linked to 70% lower dementia risk, but there&#039;s a catch",
-      "summary": "A common, inexpensive medication could hold an unexpected clue to preventing dementia. Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose as",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm"
+      "cat": "Culture",
+      "title": "Meghan to co-host Junior MasterChef Australia",
+      "summary": "The Duchess of Sussex says she \"can't wait\" to take part in the programme, which will air next year.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/dd14/live/1cb54f90-d1bb-11f1-8746-37a49ff44886.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-      "summary": "The R&B star previously pleaded guilty to affray, after attacking a music producer with a glass bottle.",
+      "title": "Netherlands pulls out of Eurovision again over Israel participation",
+      "summary": "A Dutch broadcaster reverses a decision to take part, citing \"sensitivities\" over Israel's participation.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/49e6/live/50a614d0-d14b-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmr4y5dvlzneo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0cb2/live/07dc3780-d208-11f1-b3b6-c1e79e957e40.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Russell Brand asked assistant for female fan phone numbers, court hears",
-      "summary": "Helen Berger said she left her job working for Brand after she became \"sick of him.\"",
+      "title": "Unnamed celebrity accused of 'inappropriate sexual activities', court hears",
+      "summary": "The man is asking the High Court to prevent two news organisations from publishing the allegations.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwly02l45ny3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e091/live/29c876d0-d148-11f1-9eb5-811878e0f07d.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6j47z0g4nwpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2690/live/a1d46200-d216-11f1-8f84-ebd3099fed63.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Sharon Osbourne: 'I visit Ozzy's grave every day'",
-      "summary": "The TV presenter says she can see Ozzy's burial site from her window, and regularly talks to him.",
+      "title": "Russell Brand told police he never had non-consensual sex",
+      "summary": "His trial hears statements he gave to police between 2023 and 2025, denying allegations against him.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6g7xn8p2n0ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c16e/live/016ed620-cde2-11f1-8443-776dd2459391.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cm74p7w4dwpko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/49a8/live/f3006fb0-d1f9-11f1-8c9f-8d21fef6ffad.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-      "summary": "Bauza had voiced a number of characters in this summer's animated hit Coyote vs. Acme.",
+      "title": "Busted's James Bourne says 'hero' brother saved his life with kidney donation",
+      "summary": "The guitarist says doctors had given him \"a few years left to live\", but is now recovering well.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2ba1/live/0257f500-d100-11f1-9d25-c3fafb2ab4de.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cm0rljq0dzvxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d8a8/live/698b5f80-d170-11f1-9d71-6d5ae0660afe.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Spotify uploads lyrics for Dolly Parton's Welsh version of Jolene in Irish",
-      "summary": "The single is the second posthumous release from Parton - who was of Welsh descent.",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "summary": "The rapper has been involved with the show for years but has never before performed at the NFL championship game.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xpl5xl8mo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/27e8/live/7cdbd990-d114-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Excitement grows for new ACOTAR book",
-      "summary": "Dozens will be gathering at Wolverhampton Arts Centre to celebrate the series' newest release.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ck4g1vgj6q39o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2f8d/live/3aab4ba0-d141-11f1-8d4e-ef1672a07d66.png"
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9d63/live/e4feb0b0-d1d2-11f1-a701-fddedf244c16.jpg"
     }
   ]
 }
