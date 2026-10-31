@@ -1,56 +1,56 @@
 {
-  "date": "2026-10-30",
-  "updated": "2026-10-30T17:55:18.621Z",
+  "date": "2026-10-31",
+  "updated": "2026-10-31T17:08:05.295Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-      "summary": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg"
     },
     {
       "cat": "World",
-      "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-      "summary": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e22e/live/c1455920-d46c-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
     },
     {
       "cat": "World",
-      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/21db/live/aec4b500-d482-11f1-a701-fddedf244c16.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg"
     },
     {
       "cat": "World",
-      "title": "Prominent Russian newspaper shuts down under pressure from authorities",
-      "summary": "Novaya Gazeta has been one of the most high-profile independent news outlets in Russia over the last three decades.",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/13b1/live/6aa032d0-d44d-11f1-bfc7-afe23fc6cf5b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/308f/live/f44b1080-d50c-11f1-9db5-95ff6e967be3.jpg"
     },
     {
       "cat": "World",
-      "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-      "summary": "Óscar Puente has been facing calls to resign after two high-speed trains collided earlier in the week, killing at least 69 people.",
+      "title": "Ethiopian PM puts ministers through military training",
+      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d136/live/66f1d300-d45c-11f1-a701-fddedf244c16.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/edb0/live/55b5ceb0-d534-11f1-b64c-03717a6e5b71.jpg"
     },
     {
       "cat": "World",
-      "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c8a0/live/e3a84f00-d470-11f1-9dda-1ba6fcc7d159.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "cat": "Business",
@@ -138,83 +138,67 @@
     },
     {
       "cat": "Tech & AI",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "summary": "Low costs and offline security mean magnetic tape still has a job.",
+      "title": "Seabirds racing home over the ocean can get jet-lagged",
+      "summary": "A long flight home from feeding grounds messes with birds' internal clocks.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793.jpg"
+      "url": "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/image-4.jpeg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-      "summary": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+      "title": "The FDA wants to pull its approval of a drug. It’s not so easy.",
+      "summary": "The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1425343562.jpg"
+      "url": "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2193810869.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
-      "summary": "There's no evidence that Starship will launch traditional satellites, either.",
+      "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
+      "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/falcon-9.jpeg"
+      "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/hst_vantor.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "GM to pay $220 million after selling customer Smart Driver data",
-      "summary": "Owners of GM cars found their driving data had been sold to insurance companies.",
+      "title": "Flesh-eating screwworms spread to third state and are attacking pets",
+      "summary": "USDA has identified 74 animal cases in US since parasitic flies invaded in June.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/05/myBuick-App-01.jpg"
+      "url": "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/11/CSIRO_ScienceImage_115_The_Tip_of_a_Screw_Worm_Fly_Larvae.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-      "summary": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea.",
+      "title": "Oh captain, our captain: Ars staff remembers Patrick Stewart",
+      "summary": "\"For huge numbers of people, I will always be Jean-Luc Picard. ... We created an admirable individual.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/binance.jpg"
+      "url": "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Screenshot-2026-10-30-at-4.17.03-PM-1152x648-1793391748.png"
     },
     {
       "cat": "Tech & AI",
-      "title": "2027 Nissan Rogue Hybrid: Drives like an EV, but there's no plug involved",
-      "summary": "Nissan’s series hybrid e-Power system has been retuned for American roads.",
+      "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+      "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/2027-Nissan-Rogue-Hybrid_34.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Superpower-Superfactory.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
-      "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF.",
+      "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+      "summary": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66WK9FWJATF4KMADN8DRH10/hi-will-googles-quantum-supremacy-break-bitcoin-in-2022.jpg"
+      "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M699FRTD1VV81MBCZE1W7405/binance-robot-hands.png"
     },
     {
       "cat": "Crypto",
-      "title": "Recap: How Binance’s record $6.3B hack unfolded",
-      "summary": "A recap of Cointelegraph’s live coverage of the Binance hack, including early breach reports and the exchange’s full reimbursement pledge.",
+      "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+      "summary": "Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66TN01T6CSZ7TMBS3C4EWKE/digitally-locked-binance.png"
-    },
-    {
-      "cat": "Crypto",
-      "title": "As it happened: Binance’s record $6.3B crypto hack",
-      "summary": "How Binance’s $6.3 billion hack unfolded, from the first onchain alerts to $3 billion in frozen funds and a widening security investigation.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M65VKEHPWZPADDH0AZM1CR3Q/trying-to-open-monitor-1.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
-      "summary": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66RSMA8MM7W9WSFC6PFHK6S/hi-bull-market-vs-bear-market-whats-the-difference.jpg"
+      "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6784E305ZRSTBDYV0WKG4RR/hi-true-or-false-91-of-surveys-about-bitcoin-and-crypto-are-totally-wrong.png"
     },
     {
       "cat": "Crypto",
@@ -226,11 +210,41 @@
     },
     {
       "cat": "Crypto",
-      "title": "Will gold’s ‘infinite mint bug’ make Bitcoin more valuable?",
-      "summary": "A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin’s claim to be a better form of digital gold?",
+      "title": "Bitcoin turns 18: Has the original rebel grown up?",
+      "summary": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M63WZ15V7ZF12NWAD2K229V7/hi-magazine-unexpected-crypto-millionaires.png"
+      "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66D6NEJQ63776RRBN8K6ZNJ/magazine-crypto-idealism.png"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
+      "summary": "Home invasions became the most common form of crypto wrench attacks worldwide during the first half of 2026, rising to 20 incidents from one.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M692SNKAR10X68EF1R0WFNT5/hi-break-these-singapore-crypto-rulesand-face-200k-fines-or-jail.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
+      "summary": "The company said some non-sensitive customer data was exposed, including user IDs, names and email addresses.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M68V2D1TX4051JHJ9QKN8R4P/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms-chainalysis.jpg"
+    },
+    {
+      "cat": "Science",
+      "title": "A mysterious 4,000-year-old wall is rewriting North Africa’s history",
+      "summary": "A remarkable 4,000-year-old defensive structure discovered in Morocco is rewriting what scientists thought they knew about ancient North African civilizations. The massive fortifications reveal unexpectedly sophisticated",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030003022.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
+      "summary": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller, lo",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm"
     },
     {
       "cat": "Science",
@@ -248,31 +262,31 @@
     },
     {
       "cat": "Science",
-      "title": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
-      "summary": "Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once. Nickn",
+      "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
+      "summary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm"
     },
     {
       "cat": "Science",
-      "title": "Scientists reveal a hidden snakebite crisis killing up to 513,000 people a year",
-      "summary": "A startling new study suggests that venomous snakebites are killing far more people worldwide than official statistics indicate, with an estimated 274,000 to 513,000 deaths every year. Researchers found that as many as 7",
+      "title": "Scientists discover metals that defy the deep freeze at -424°F",
+      "summary": "Scientists have discovered a surprising mechanism that allows certain metals to resist cracking at temperatures as low as -253°C (-424°F), when similar materials typically become dangerously brittle. Instead of breaking,",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261029072117.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm"
     },
     {
-      "cat": "Science",
-      "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
-      "summary": "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago. Scientists once be",
+      "cat": "Health",
+      "title": "Scientists finally discover how a common gut bacterium can trigger colon cancer",
+      "summary": "Scientists at Johns Hopkins have uncovered a crucial missing link between a common gut bacterium and colorectal cancer, solving a mystery that has puzzled researchers for nearly two decades. The bacterium, Bacteroides fr",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031012912.htm"
     },
     {
-      "cat": "Science",
-      "title": "Physicists created a tiny universe and watched time emerge without a clock",
-      "summary": "Scientists have created a miniature universe in the laboratory that could help answer one of the biggest mysteries in physics: What is time, and where does it come from? Using 24,000 ultracold atoms, a University of Birm",
+      "cat": "Health",
+      "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
+      "summary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm"
     },
     {
       "cat": "Health",
@@ -283,38 +297,40 @@
     },
     {
       "cat": "Health",
+      "title": "Scientists discover a bacterial defense so strange they thought it was broken",
+      "summary": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "A surprising vitamin A discovery is changing what scientists know about vision",
+      "summary": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms. Using miniature human retinas gr",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm"
+    },
+    {
+      "cat": "Health",
       "title": "Six popular sugar substitutes linked to faster brain aging",
       "summary": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. ",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm"
     },
     {
-      "cat": "Health",
-      "title": "Why some “lower-risk” childhood cancers turn deadly",
-      "summary": "Scientists have uncovered hidden aggressive cancer cells in children whose tumors were previously considered lower risk, revealing why some cases of rhabdomyosarcoma become unexpectedly deadly. The discovery could help d",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261028232717.htm"
+      "cat": "Culture",
+      "title": "Celebrity Traitors comes to a climax in nail-biting final",
+      "summary": "The second series of the hit show reached its climax on Friday after attracting 15 million viewers.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g17z11l45o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b017/live/6daf0760-d477-11f1-9dda-1ba6fcc7d159.jpg"
     },
     {
-      "cat": "Health",
-      "title": "Less than 42 minutes of bright daylight linked to higher dementia risk",
-      "summary": "Getting more daylight could be linked to a surprisingly powerful benefit for brain health. In a study of more than 87,000 adults, researchers found that higher daytime light exposure was associated with a 16% lower risk ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261028232707.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Scientists discover why chronic back pain feels so personal",
-      "summary": "A surprising discovery at UC San Diego suggests that chronic lower back pain may become deeply embedded in the brain&#039;s sense of personal identity. Researchers found that movement-triggered pain activates a brain net",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Scientists discover that cranberry juice may help fight tooth decay",
-      "summary": "Cranberry juice may offer an unexpected benefit beyond its reputation for helping prevent urinary tract infections: protecting teeth from decay. Researchers at the University of Illinois Chicago discovered that pure, uns",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261028232701.htm"
+      "cat": "Culture",
+      "title": "The final reveal of the Celebrity Traitors",
+      "summary": "The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven before the final.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/videos/cmeq3ppg7wrno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7f1a/live/a0bd79b0-d509-11f1-a701-fddedf244c16.jpg"
     },
     {
       "cat": "Culture",
@@ -334,35 +350,19 @@
     },
     {
       "cat": "Culture",
-      "title": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
-      "summary": "The English actor began his career on stage before finding fame as the captain of the USS Enterprise.",
+      "title": "Party Rock Anthem singer struggled with mental health before death",
+      "summary": "Lauren Bennett, who featured on LMFAO's hit song, was found dead by her husband.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cye0l23lx15o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/adb5/live/d10f2630-d44c-11f1-b441-2b33b063138f.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqp8gpw15e8yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4767/live/50402a70-7990-11f1-afb1-2578d3620d58.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Sir Patrick Stewart: A life in pictures",
-      "summary": "His career on stages and screens spanned seven decades but came to be defined by his roles on some of the most popular sci-fi franchises in history.",
+      "title": "Brit School North arts college plan given go-ahead",
+      "summary": "Inspired by the world-famous Brit School, the college will be built in the centre of Bradford.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cj1dw9dynn2xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/85f7/live/793dcad0-d3ff-11f1-b497-e5f21e10c3e0.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Bombshell confession in The Traitors as faithfuls finally turn the screw",
-      "summary": "Could the faithfuls finally come good in Thursday's penultimate episode?",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5y12r081zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/764a/live/19b3a550-d44d-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Footage of Seoul crush to be removed from Call of Duty after backlash",
-      "summary": "Bereaved families say they were appalled to see footage of the Itaewon disaster included in Modern Warfare 4.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ex26lgqlqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8e54/live/0ba9ece0-d46f-11f1-a701-fddedf244c16.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6lykpepxk0eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/606f/live/c75ad9e0-b1ab-11f1-8b77-cd7827f05bee.jpg"
     }
   ]
 }
