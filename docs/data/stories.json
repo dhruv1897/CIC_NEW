@@ -1,56 +1,56 @@
 {
-  "date": "2026-10-31",
-  "updated": "2026-10-31T17:08:05.295Z",
+  "date": "2026-11-01",
+  "updated": "2026-11-01T17:50:44.273Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0ace/live/3e4ef120-d5d4-11f1-8629-7b9503d639be.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c922/live/4fe4c8d0-d5fa-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+      "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5cde/live/f5e426a0-d586-11f1-a6a4-9b195a139571.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ab52/live/e490a850-d5d2-11f1-8629-7b9503d639be.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/053a/live/d1a9e840-d54c-11f1-bcb7-8f812b44c2e5.jpg"
+    },
+    {
+      "cat": "World",
       "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
       "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/41b8/live/9f93a310-d532-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5071/live/dc9ee270-d531-11f1-866a-b522399149a0.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Police deployed during stand-off over control of top Poland court",
-      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/308f/live/f44b1080-d50c-11f1-9db5-95ff6e967be3.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Ethiopian PM puts ministers through military training",
-      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/edb0/live/55b5ceb0-d534-11f1-b64c-03717a6e5b71.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Spain train disaster clouds Sánchez chances of re-election",
-      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a970/live/20e78ee0-d4ed-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "cat": "Business",
@@ -186,6 +186,38 @@
     },
     {
       "cat": "Crypto",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "DeepSeek developing AI agent requiring less human input: Report",
+      "summary": "The proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, the SCMP said.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6BNBCY09X57GCM10X7FBK0P/make-ai-great1-1.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Binance says phase one of withdrawals opens after $6.3B hack",
+      "summary": "The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on North Korea.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B7GCDKCRNR2Z23KSY172H6/hi-binance-unchained.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "FBI blames North Korea for record $6.3B Binance hack",
+      "summary": "US agency seeks private-sector help to block further money-laundering of stolen digital assets.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6B0XQQ2RWMNW96K4XFZN2DN/kimjong-unnorth-korea.jpg"
+    },
+    {
+      "cat": "Crypto",
       "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
       "summary": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.",
       "source": "cointelegraph.com",
@@ -201,36 +233,25 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M6784E305ZRSTBDYV0WKG4RR/hi-true-or-false-91-of-surveys-about-bitcoin-and-crypto-are-totally-wrong.png"
     },
     {
-      "cat": "Crypto",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+      "cat": "Science",
+      "title": "Scientists say a forgotten particle may explain why the universe exists",
+      "summary": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and ma",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "Bitcoin turns 18: Has the original rebel grown up?",
-      "summary": "In typical Bitcoin style, the number one cryptocurrency turns 18 today, amid AI-driven security threats, quantum fears and the biggest exchange hack in crypto history.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/bitcoin-turns-18-has-the-original-rebel-grown-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M66D6NEJQ63776RRBN8K6ZNJ/magazine-crypto-idealism.png"
+      "cat": "Science",
+      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+      "summary": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson&#039;s disease. Scientists also uncovered how the chemical damages brain cells and identified a pro",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
-      "summary": "Home invasions became the most common form of crypto wrench attacks worldwide during the first half of 2026, rising to 20 incidents from one.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M692SNKAR10X68EF1R0WFNT5/hi-break-these-singapore-crypto-rulesand-face-200k-fines-or-jail.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
-      "summary": "The company said some non-sensitive customer data was exposed, including user IDs, names and email addresses.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M68V2D1TX4051JHJ9QKN8R4P/hi-how-to-utilize-ai-agents-in-decentralized-finance-defi-platforms-chainalysis.jpg"
+      "cat": "Science",
+      "title": "Ancient ape fossil in Egypt could rewrite the story of human origins",
+      "summary": "A 17- to 18-million-year-old ape fossil discovered in Egypt is challenging long-held beliefs about where the ancestors of humans and other modern apes first evolved. Scientists now suspect that North Africa and the Middl",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031011638.htm"
     },
     {
       "cat": "Science",
@@ -241,38 +262,31 @@
     },
     {
       "cat": "Science",
-      "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
-      "summary": "Scientists have recreated a primordial state of matter from the dawn of the universe by colliding oxygen nuclei at nearly the speed of light. The surprising results show that this exotic substance can form in smaller, lo",
+      "title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
+      "summary": "Scientists at the University of Virginia have developed a promising new strategy to fight glioblastoma, one of the deadliest and most difficult-to-treat forms of brain cancer. Their experimental approach combines focused",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm"
     },
     {
       "cat": "Science",
-      "title": "Astronauts just gave the International Space Station a powerful upgrade",
-      "summary": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade. Once the final array is installed on Novembe",
+      "title": "Scientists discover the hidden “muscles” trees use to straighten themselves",
+      "summary": "Scientists have discovered that trees can sense their own shape and straighten their trunks using specialized wood that acts like opposing muscles. This remarkable ability helps trees maintain their posture and could lea",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030003006.htm"
     },
     {
-      "cat": "Science",
-      "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
-      "summary": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs. A sweeping analysis of fossils and ancient climates suggests that their preference for warm env",
+      "cat": "Health",
+      "title": "Drinking tea may help protect your heart, but there’s a surprising catch",
+      "summary": "A massive study of nearly 486,000 adults found that regularly drinking tea was associated with an 11% lower risk of heart and blood vessel diseases. The lowest risk was linked to drinking roughly six to eight cups per da",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031221203.htm"
     },
     {
-      "cat": "Science",
-      "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
-      "summary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within",
+      "cat": "Health",
+      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
+      "summary": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson&#039;s disease. Scientists also uncovered how the chemical damages brain cells and identified a pro",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Scientists discover metals that defy the deep freeze at -424°F",
-      "summary": "Scientists have discovered a surprising mechanism that allows certain metals to resist cracking at temperatures as low as -253°C (-424°F), when similar materials typically become dangerously brittle. Instead of breaking,",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261029072127.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
     },
     {
       "cat": "Health",
@@ -283,38 +297,32 @@
     },
     {
       "cat": "Health",
-      "title": "A simple blood test could reveal Alzheimer’s risk 10 years before symptoms",
-      "summary": "A major international study found that a simple blood test could help predict Alzheimer’s-related cognitive decline years before symptoms appear, with the highest-risk individuals facing a 38% chance of impairment within",
+      "title": "Scientists use sound waves to deliver a new attack on deadly brain cancer",
+      "summary": "Scientists at the University of Virginia have developed a promising new strategy to fight glioblastoma, one of the deadliest and most difficult-to-treat forms of brain cancer. Their experimental approach combines focused",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261029072142.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030003017.htm"
     },
     {
       "cat": "Health",
-      "title": "Type 2 diabetes breakthrough as 54% achieve remission in just 6 months",
-      "summary": "A promising new study suggests that more than half of younger adults with type 2 diabetes could achieve remission in just six months through a combination of a low-calorie diet and structured exercise. Researchers found ",
+      "title": "Scientists discover a hidden driver of high cholesterol and a way to stop it",
+      "summary": "Scientists have uncovered a hidden mechanism that allows high-cholesterol diets to undermine the body&#039;s natural cholesterol defenses, and blocking it dramatically lowered harmful LDL cholesterol in mice. Even more p",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030003003.htm"
     },
     {
       "cat": "Health",
-      "title": "Scientists discover a bacterial defense so strange they thought it was broken",
-      "summary": "Scientists have discovered a bizarre bacterial defense system that works almost completely backward from anything seen before. Unlike typical bacterial immune systems that keep a deadly toxin under control until a virus ",
+      "title": "Scientists discover a surprising brain benefit of eating peanuts every day",
+      "summary": "A surprising new study suggests that eating peanuts every day could help support brain health and memory in older adults. Researchers found that consuming about two servings of unsalted, skin-roasted peanuts daily for 16",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/10/261030003001.htm"
     },
     {
-      "cat": "Health",
-      "title": "A surprising vitamin A discovery is changing what scientists know about vision",
-      "summary": "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms. Using miniature human retinas gr",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Six popular sugar substitutes linked to faster brain aging",
-      "summary": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging. ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm"
+      "cat": "Culture",
+      "title": "Who are the real winners of Celebrity Traitors?",
+      "summary": "Certain stars have been tipped by industry experts as getting the biggest career boost after the show.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f2d7/live/d14e6dc0-d47b-11f1-93e1-3b657b665bcf.png"
     },
     {
       "cat": "Culture",
@@ -326,19 +334,19 @@
     },
     {
       "cat": "Culture",
-      "title": "The final reveal of the Celebrity Traitors",
-      "summary": "The second series of BBC One's The Celebrity Traitors reached its climax on Friday, with the 21 original contestants having been reduced to seven before the final.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/videos/cmeq3ppg7wrno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7f1a/live/a0bd79b0-d509-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "cat": "Culture",
       "title": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
       "summary": "The women involved in the case had \"nothing to gain\" apart from \"some closure\", the prosecutor says.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cx4g1ve5ylg7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c4ef/live/abbe8340-d469-11f1-9dda-1ba6fcc7d159.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Sir Tom Jones mentors Welsh singer to victory on The Voice UK",
+      "summary": "Cate McHugh was congratulated by her coach Sir Tom Jones after she was crowned winner on Saturday.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c8y56vp10075o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bfd0/live/28b38530-d5fa-11f1-b437-279121eb1cd9.jpg"
     },
     {
       "cat": "Culture",
@@ -355,14 +363,6 @@
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cqp8gpw15e8yo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4767/live/50402a70-7990-11f1-afb1-2578d3620d58.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Brit School North arts college plan given go-ahead",
-      "summary": "Inspired by the world-famous Brit School, the college will be built in the centre of Bradford.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6lykpepxk0eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/606f/live/c75ad9e0-b1ab-11f1-8b77-cd7827f05bee.jpg"
     }
   ]
 }
