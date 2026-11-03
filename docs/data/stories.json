@@ -1,56 +1,56 @@
 {
-  "date": "2026-11-02",
-  "updated": "2026-11-02T21:37:57.984Z",
+  "date": "2026-11-03",
+  "updated": "2026-11-03T19:22:33.081Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ee1e/live/8480acc0-d6eb-11f1-a741-236ee91c2e25.png"
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/db91/live/79069d70-d79d-11f1-84dd-e55f4bec0ecd.png"
     },
     {
       "cat": "World",
-      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
-      "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+      "title": "Tenerife striker De Miguel dies after on-field collision",
+      "summary": "Tenerife forward Jesus de Miguel dies aged 30 after an on-field collision during a Spanish second-division match.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6fc4/live/ff862190-d6f8-11f1-b983-c357054e4d1e.jpg"
+      "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/71f9/live/08251a60-d779-11f1-9539-05485195b558.png"
     },
     {
       "cat": "World",
-      "title": "Shop freezers in seven European countries hit by cyber-attack",
-      "summary": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b517/live/8d68c970-d7a0-11f1-84dd-e55f4bec0ecd.jpg"
     },
     {
       "cat": "World",
-      "title": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "summary": "Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.",
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e5be/live/174cc760-d6d2-11f1-a701-fddedf244c16.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/617d/live/6d097ab0-d7bb-11f1-8a3d-5320e3fab176.jpg"
     },
     {
       "cat": "World",
-      "title": "Legal challenge to Australia's social media ban to start in High Court",
-      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a365/live/15a45a60-d789-11f1-9440-953b82c8f55a.jpg"
     },
     {
       "cat": "World",
-      "title": "Man guilty of stealing cash from farm owned by South African president",
-      "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ee6f/live/1399f160-d6fa-11f1-b983-c357054e4d1e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a890/live/d92739f0-d778-11f1-9539-05485195b558.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,20 @@
     },
     {
       "cat": "Markets",
+      "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
+      "summary": "The BLS reported job openings at 7.52 million, up 333,000 from August and well above the Dow Jones consensus outlook for 7.15 million",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Australia hikes rates to 18-year high to fight inflation",
+      "summary": "The Reserve Bank of Australia's decision was in line with expectations from economists polled by Reuters, and marked its fifth rate increase this year.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html"
+    },
+    {
+      "cat": "Markets",
       "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
       "summary": "The 2027 budget will rise 12.8% to 820.9 trillion won, and will include a 21.3 trillion won investment into semiconductors, physical AI and AI data centers.",
       "source": "cnbc.com",
@@ -123,156 +137,170 @@
       "url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html"
     },
     {
-      "cat": "Markets",
-      "title": "The politics of President Lagarde's European Central Bank early exit — and who could replace her",
-      "summary": "European Central Bank President Christine Lagarde will step down on Feb. 7 next year, she announced Thursday.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool",
-      "summary": "The new chairman made clear he leans toward higher interest rates, but left himself options depending on how the data comes in.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html"
+      "cat": "Tech & AI",
+      "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+      "summary": "Google has cut ties with the company behind the botnet campaign.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/mecool-malware.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Googling \"Zelda\" today offers a glimpse of how search worked in 1998",
-      "summary": "\"The flow of time is always cruel.\"",
+      "title": "This space company is betting its future on a propellant available everywhere",
+      "summary": "Is that water in your spacecraft, or are you just happy to see the delta-V?",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelda-google.jpg"
+      "url": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Argonaut-Transit-to-Moon-16x9-1.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Most of our measures of a key cognitive process don't agree",
-      "summary": "A big study with very little beyond negative results still gets published.",
+      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2182089944.jpg"
+      "url": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/10/malware.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-      "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
+      "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
+      "summary": "Meta faces pressure to protect No Kings Instagram on election day.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/zuck-trump-no-kings.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-      "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
+      "title": "EPA throws in the towel on policing air pollution from factory farms",
+      "summary": "Critics say EPA is effectively abandoning Clean Air Act enforcement at factory farms.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/factory-farm.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "China publicly discloses plan for a lunar landing within three years",
-      "summary": "The plan does not include a mission similar to Apollo 8 or Artemis II.",
+      "title": "Beyond screens: Mercedes-Benz's new holographic heads-up display",
+      "summary": "After pioneering the passenger screen, Mercedes has designs on the windshield.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/china-1.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "F1 in Mexico City: Yet another Ferrari fiasco, but that’s not all",
-      "summary": "There was plenty of drama on and off the track for Formula 1 this weekend.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302218135.jpg"
+      "url": "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/26C0308_008.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
-      "summary": "A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000.",
+      "title": "Wall Street killed Bitcoin’s wild rallies: 10x’s Markus Thielen",
+      "summary": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EXKTXJV69233G9DJ6YY0M6/hi-victim-of-a-scam-heres-what-to-do-next-1.jpg"
+      "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E9GCA5SEXXY937BRRK6D7T/interview-markus-thielen-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
-      "summary": "Slowing trading activity and fallout from the Binance hack are clouding Coinbase’s revenue prospects, prompting Morgan Stanley to lower its rating on the stock.",
+      "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+      "summary": "Hackers exploited compromised employee computers and stolen credentials to breach Binance’s wallet infrastructure, according to the exchange’s investigation.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ERG219T9H0636SG6JB00H1/hi-taxes-doesnt-apply-coinbasemanlaptop.png"
+      "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6H1WEHAQHGGSH08YS33AB97/hi-crimeware-as-a-service-a-new-threat-to-crypto-users.png"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-      "summary": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
+      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in ‘political gridlock’",
+      "summary": "Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ER84KWFRV6AB54PVPNX1S9/oil-bitcoin-petrol-2-960x640.webp"
+      "url": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GYWTMJRC5WVDCDG7QCTRRJ/article-covers-180463-us-cpi-lower-expected-rate-cuts-coming-1280x853.webp"
     },
     {
       "cat": "Crypto",
-      "title": "Mercado Bitcoin wallets show post-hack transfers after $46M theft",
-      "summary": "Brazil’s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe.",
+      "title": "What’s at stake for crypto as the US votes in the 2026 midterms?",
+      "summary": "Crypto groups spent about $176 million ahead of the US midterms, with control of Congress and the future of crypto legislation at stake.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EWA1DBSVSDFZVCPZQ3HZ8W/mercado-bitcoin-hack.png"
+      "url": "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GJSJ59W2DHF2WQ7ED3NHF6/news-city-town-billboard-1-elections.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
-      "summary": "The former mobile games company is building out its fund management business in Abu Dhabi as it targets institutional demand for stablecoins and tokenized assets.",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6EKKJWC0SAK1Q9MXWA0N87Y/ai-abu-dhabi-businessmen-2.png"
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
-      "summary": "Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while allocating $98.5 million to its USD Cash balance.",
+      "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+      "summary": "Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia’s new law, with annual purchase limits for non-qualified investors.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6E7B8B7FY6FQZ83QZRCGQHD/hi-who-is-michael-j-saylor-us-flag-1.jpg"
+      "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6GN6W7C4H29GR4MQT2Q1EN2/moscow-btc-eth-tether.png"
     },
     {
       "cat": "Science",
-      "title": "NASA reveals a haunting skull hidden in Antarctica’s ice",
-      "summary": "NASA satellites have captured an eerie, skull-shaped formation on a remote Antarctic island, but its haunting appearance conceals a troubling warning about melting glaciers. Unusually warm winter temperatures have expose",
+      "title": "NASA smashed into an asteroid. Now Hera is closing in to see what happened",
+      "summary": "Europe’s Hera spacecraft has captured its first clear view of two asteroids involved in NASA’s historic 2022 experiment to redirect a potentially dangerous space rock. Now approaching the pair, Hera will investigate the ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261103003154.htm"
     },
     {
       "cat": "Science",
-      "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
-      "summary": "Mysterious particles called neutrinos constantly stream through our bodies, and scientists are now detecting incredibly powerful versions arriving from distant cosmic sources using a massive observatory buried in Antarct",
+      "title": "Scientists identify two overlooked skills that predict reading success",
+      "summary": "A massive new study reveals that intelligence plays a surprisingly limited role in children&#039;s reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are so",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261101010533.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm"
     },
     {
       "cat": "Science",
-      "title": "NASA&#039;s Hubble and Webb discover ancient worlds that remember their past",
-      "summary": "NASA’s Hubble and James Webb Space Telescopes have uncovered surprising clues about the solar system’s origins by studying 27 tiny, distant objects beyond Neptune. Scientists discovered that these ancient building blocks",
+      "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
+      "summary": "A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species. Remarkably, ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm"
     },
     {
       "cat": "Science",
-      "title": "Scientists say a forgotten particle may explain why the universe exists",
-      "summary": "A mysterious particle overlooked for decades may hold the key to why matter survived the Big Bang, allowing stars, planets, and life to exist. Scientists believe this forgotten neutrino reshaped the early universe and ma",
+      "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
+      "summary": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality, scienti",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031221201.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm"
     },
     {
       "cat": "Science",
-      "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
-      "summary": "Scientists have uncovered surprising DNA evidence that Europeans living more than 30,000 years ago were connected across vast distances, challenging the idea that ancient populations remained largely isolated. Genetic cl",
+      "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
+      "summary": "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago. The remarkable findin",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm"
     },
     {
       "cat": "Science",
-      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
-      "summary": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson&#039;s disease. Scientists also uncovered how the chemical damages brain cells and identified a pro",
+      "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
+      "summary": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in hum",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Scientists identify two overlooked skills that predict reading success",
+      "summary": "A massive new study reveals that intelligence plays a surprisingly limited role in children&#039;s reading success, while visual processing showed no meaningful connection at all. Instead, the strongest predictors are so",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
+      "summary": "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly. By observing brain activity in mice using augmented reality, scienti",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Scientists discover a surprising clue to autism&#039;s origins hidden in the placenta",
+      "summary": "Scientists have uncovered an unexpected connection between inflammation during pregnancy, placental damage, and autism-like traits in male mice, while females appeared naturally protected. The discovery could help explai",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102202824.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
+      "summary": "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation. Already tested for initial safety in hum",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm"
     },
     {
       "cat": "Health",
@@ -283,86 +311,58 @@
     },
     {
       "cat": "Health",
-      "title": "Drinking tea may help protect your heart, but there’s a surprising catch",
-      "summary": "A massive study of nearly 486,000 adults found that regularly drinking tea was associated with an 11% lower risk of heart and blood vessel diseases. The lowest risk was linked to drinking roughly six to eight cups per da",
+      "title": "Extra weight may be aging your brain faster than you think",
+      "summary": "A major 24-year study involving more than 8,200 adults suggests that excess body weight may accelerate brain aging, leading to faster declines in memory, concentration, and decision-making skills. The connection was part",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031221203.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Even moderate drinking linked to cancer and early death, major study finds",
-      "summary": "A major new study challenges the idea that moderate drinking is safe, finding that even relatively small amounts of alcohol increase the risk of cancer, heart disease, and premature death. Researchers found no overall he",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031221159.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Scientists find surprisingly little evidence that medical cannabis helps you sleep",
-      "summary": "A major new review challenges the growing enthusiasm for medical cannabis as an insomnia treatment, finding little reliable evidence that it improves sleep quality, sleep duration, or daytime functioning. Researchers cau",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031221157.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "New diabetes implant uses electricity to lower blood sugar and promote weight loss",
-      "summary": "Researchers have developed a remarkable new electronic implant that could transform type 2 diabetes treatment by lowering blood sugar without insulin or traditional drugs. The device uses a special electrically powered c",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031221151.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
-      "summary": "A UCLA study found that long-term exposure to a common pesticide was linked to more than 2.5 times the risk of Parkinson&#039;s disease. Scientists also uncovered how the chemical damages brain cells and identified a pro",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261031013035.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261101010559.htm"
     },
     {
       "cat": "Culture",
-      "title": "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
-      "summary": "Brand's defence barrister told jurors that Brand \"had an immense amount of sex\", but that \"none of it was unlawful\".",
+      "title": "Celebrity loses injunction bid but will stay anonymous pending appeal",
+      "summary": "The unnamed man asked for an injunction to stop his identity being reported in connection with allegations against him.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwkg5dnypdn4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1386/live/e3326c40-d6a0-11f1-aabc-e9dc7201ad53.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjdgg045o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b716/live/ea4a32c0-d776-11f1-9539-05485195b558.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Martha Stewart says she 'really screwed up' with homeless Halloween costume",
-      "summary": "The veteran lifestyle guru has deleted a photo of herself wearing torn clothes and dirt on her face.",
+      "title": "Jury in Russell Brand rape trial begins considering verdicts",
+      "summary": "The media personality has been on trial for three weeks, after pleading not guilty to all charges.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c8zxle6qq4q0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f7cc/live/d88a2d50-d6cd-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckly4ed521emo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d509/live/f1e01d40-d778-11f1-9539-05485195b558.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Who are the real winners of Celebrity Traitors?",
-      "summary": "Certain stars have been tipped by industry experts as getting the biggest career boost after the show.",
+      "title": "James Blunt on Traitors: I tried - and failed - to get banished",
+      "summary": "The pop star on new music, The Traitors, and what really went down at James Acaster's banishment.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qg0nezrgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f2d7/live/d14e6dc0-d47b-11f1-93e1-3b657b665bcf.png"
+      "url": "https://www.bbc.co.uk/news/articles/ckvg7l8p0ezgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f08f/live/883c6e10-d760-11f1-b441-2b33b063138f.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Jack Lowden says James Bond speculation is 'flattering'",
-      "summary": "The Slow Horses star is among three actors reported to be in the running for the iconic movie role.",
+      "title": "The Crown star Josh O'Connor reacts to Bond rumours",
+      "summary": "BAFTA nominated actor Josh O'Connor says he is \"honoured\" by the speculation he could be next Bond.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq0ld5zw3eg3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5cdd/live/970abd30-d6c9-11f1-ac20-7783925c811f.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmqxn7p1qpqno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6870/live/02f05e20-d787-11f1-9440-953b82c8f55a.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Jamal Edwards' sister on celebrating SBTV's 20-year legacy and hopes of discovering new talent",
-      "summary": "The online music platform helped launch the careers of acts like Dave, Ed Sheeran and Jessie J.",
+      "title": "'Mogging' is Collins' word of the year... but do you know what it means?",
+      "summary": "The slang term, which relates to outshining or upstaging someone, is one of 10 words celebrated.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c54g1xnm3pezo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b7fd/live/05142230-d6bb-11f1-93e1-3b657b665bcf.png"
+      "url": "https://www.bbc.co.uk/news/articles/cve8rp085zzjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f668/live/3bd75400-d6dd-11f1-a701-fddedf244c16.jpg"
     },
     {
       "cat": "Culture",
-      "title": "'I decided I was going to be Taylor Swift' - singer goes from busking to The Voice UK winner",
-      "summary": "Cate McHugh has gone from busking on the streets of Cardiff to winner of The Voice UK.",
+      "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+      "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cked3j989ex0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b28b/live/7c8d9e30-d6d5-11f1-b2be-0146bf989691.jpg"
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/34a0/live/de5f6350-d743-11f1-93df-c3d1391a27f8.jpg"
     }
   ]
 }
