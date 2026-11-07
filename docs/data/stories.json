@@ -1,56 +1,56 @@
 {
-  "date": "2026-11-06",
-  "updated": "2026-11-06T19:12:19.176Z",
+  "date": "2026-11-07",
+  "updated": "2026-11-07T17:40:47.909Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "AI stocks climb after trillions wiped from market values",
-      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "title": "No clear winner after tight New Zealand general election",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg"
     },
     {
       "cat": "World",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/613a/live/900577b0-d9ed-11f1-b441-2b33b063138f.png"
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "cat": "World",
-      "title": "Two dead after bus crashes in France, officials say",
-      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5740/live/92c81290-d9cb-11f1-bb8e-efaa31738708.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"
     },
     {
       "cat": "World",
-      "title": "New wave of bomb threats hit European airlines",
-      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c047/live/33f77d10-d9ed-11f1-a701-fddedf244c16.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
     },
     {
       "cat": "World",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9676/live/4f47ccc0-d9f0-11f1-bb10-cdca6001fbcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/15d3/live/886b05a0-da75-11f1-85ad-fd31eff31154.jpg"
     },
     {
       "cat": "World",
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,13 @@
     },
     {
       "cat": "Markets",
+      "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
+      "summary": "The average jobless worker's bout of unemployment surpassed 27 weeks in October, the highest outside of the pandemic period in a decade.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html"
+    },
+    {
+      "cat": "Markets",
       "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
       "summary": "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
       "source": "cnbc.com",
@@ -130,99 +137,52 @@
       "url": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html"
     },
     {
-      "cat": "Markets",
-      "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
-      "summary": "The next debt-ceiling confrontation could reverse Washington's traditional political roles, raising the possibility of spending concessions, market volatility and a damaging default.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html"
+      "cat": "Tech & AI",
+      "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
+      "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/great-zimbabwe.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "The folks behind John Wick are back with Karōshi trailer",
-      "summary": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-12.24.52-PM.png"
+      "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2290156853.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "You know the launch market is tough when satellite companies start building rockets",
-      "summary": "\"The Blacklift rocket is the springboard to significantly expand our total addressable market.\"",
+      "title": "Doctors pull knife from man's eye that went through his brain—and he's fine now",
+      "summary": "It's the exact path, not the apparent severity that matters most, doctors say.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Abel__Jason.jpg"
+      "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bmjcr-2026-November-19-11-F2.large_-1152x648-1794006532.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-      "summary": "Meta won't force Facebook page owners to allow AI training on linked content.",
+      "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+      "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1363244761.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
-      "summary": "Next week, experts will determine if the US has lost its measles elimination status.",
+      "title": "Re-releases of Wing Commander, Ultima titles hit Steam and GOG",
+      "summary": "It's mostly bad news from EA lately, but preservation efforts are nice to see.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534.jpg"
+      "url": "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif"
     },
     {
       "cat": "Tech & AI",
-      "title": "Could potential AI clones of GTA VI force a quicker official port?",
-      "summary": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/gta6.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
-      "summary": "It has the best laptop screen we've used, but there may be reasons to wait.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/MacBook-Pro-closed-lid.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
-      "summary": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RZKYX3G2AZB93NGGBV65NX/digital-bank-russia.png"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
-      "summary": "Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5D4R4SY5YQGHZN1M57JSE8D/hi-five-bitcoin-narratives-analysts-are-watching-beyond-price-2.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
-      "summary": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M500AA327W2X1RAET1WJ9AW5/article-covers-257087-bitcoin-dips-3percent-analysis-70k-btc-price-not-obviously-bearish.webp"
-    },
-    {
-      "cat": "Crypto",
-      "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
-      "summary": "The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6R79GK8R2493NTQFW6VGRDS/magazine-republicans-vs-democrats-and-crypto-as-a-point-of-contention.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
-      "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6RFZC8EDJXT26642DWHC0EV/hi-the-crypto-act-explained-nigeria-1.jpg"
+      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain.jpg"
     },
     {
       "cat": "Crypto",
@@ -231,6 +191,46 @@
       "source": "cointelegraph.com",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "summary": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6V5PT52GJ6H06ZRY3P4BHFK/arrest-crime-police-hacker-fbi.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Bitcoin holders have received eCash — What can you do with it?",
+      "summary": "Bitcoin’s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NTSVE1D4C4XEP4NP4HXZRA/magazine-stablecoins-effect-the-genius-stablecoin-bill-will-have-on-bitcoin-adoption.png"
+    },
+    {
+      "cat": "Crypto",
+      "title": "US sanctions Canadian money-exchange firms over Iran ties",
+      "summary": "US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TV46HT5722N7KQ7PPJEREP/hi-crypto-users-in-iran-sanctions-1.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Suspicious prediction market activity seen before election poll release: NYT",
+      "summary": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TKZ82M5JMRKRWCTC3GH1QA/hi-one-month-left-to-polymarket-season.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Nvidia may face a more hostile post-election Washington: Report",
+      "summary": "CEO Jensen Huang’s relationship with President Donald Trump probably won’t save the company from a more adversarial Washington, Semafor says.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg"
     },
     {
       "cat": "Science",
@@ -262,17 +262,17 @@
     },
     {
       "cat": "Science",
-      "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
-      "summary": "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism. Using specialized X-rays, they uncovered a unique magnet",
+      "title": "Scientists discover Europe&#039;s ancient forests were nothing like we imagined",
+      "summary": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The sur",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm"
     },
     {
       "cat": "Science",
-      "title": "NASA is racing against time to save the Hubble Space Telescope",
-      "summary": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth&#039;s atmosphere. After more than 35 years of groundbreaking discoveries, Hubble is slowly losing al",
+      "title": "Human bodies produce 2 billion metric tons of CO2 a year just by staying alive",
+      "summary": "Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning food into energy, a 74% increase over three decades largely driven by population growth. Unlike fossil fuel emissions, how",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm"
     },
     {
       "cat": "Health",
@@ -280,6 +280,13 @@
       "summary": "A study of nearly 5,800 adults found that heart scans measuring calcium buildup in the arteries led to the same observed rate of major cardiovascular events as traditional risk assessments, despite recommending statins t",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/11/261105224604.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Drinking 2–3 cups of coffee a day linked to dramatically lower dementia risk",
+      "summary": "Drinking two to three cups of caffeinated coffee daily was linked to a dramatically lower risk of dementia and better cognitive functioning in a study spanning up to 43 years. The benefits appeared regardless of genetic ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224550.htm"
     },
     {
       "cat": "Health",
@@ -297,32 +304,49 @@
     },
     {
       "cat": "Health",
-      "title": "A surprising discovery could help aging muscles repair themselves",
-      "summary": "Scientists have discovered a compound that transforms a natural muscle-repair protein into a more powerful version dubbed \"Super HGF,\" more than doubling its ability to bind to a key receptor while protecting it from age",
+      "title": "Magic mushrooms rewire the brain in a way scientists didn&#039;t expect",
+      "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differe",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104005226.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm"
     },
     {
       "cat": "Health",
-      "title": "Goodbye, cavities? Scientists create gel that could regrow tooth enamel",
-      "summary": "Scientists have developed a revolutionary gel that could regrow lost tooth enamel by harnessing minerals naturally found in saliva, potentially overcoming one of dentistry’s biggest limitations. The regenerated enamel be",
+      "title": "A compound hidden in broccoli could help fight a devastating genetic disease",
+      "summary": "A compound naturally found in broccoli could help fight Friedreich ataxia, a devastating genetic disease that progressively damages the nervous system, by boosting a vital protein and protecting nerve cells. Scientists h",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104005059.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
-      "summary": "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common dig",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104012259.htm"
     },
     {
       "cat": "Culture",
-      "title": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
-      "summary": "The comedian had previously spoken about an unnamed \"predator\" in the entertainment industry.",
+      "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
+      "summary": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cxyvrr686lzqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3b84/live/76485280-d9e7-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f8e7/live/d1af1d60-d9f7-11f1-84c1-dbcae60402d7.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
+      "summary": "The show was cancelled after a BBC Panorama investigation heard allegations from three former cast members.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8a50/live/ef30ec60-502c-11f1-89a3-d1f559421220.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Gladiator II stuntman sues over injuries from on-set explosion",
+      "summary": "Edward Sarsfield says he suffered \"excruciating\" burns while filming a scene on a burning ship.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/ck9dzwd85235o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/93a3/live/d2421090-d9e1-11f1-bbe5-797ee05bee69.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Knicks defend Taylor Swift after players name her 'fakest celebrity fan'",
+      "summary": "The pop superstar's appearances at NBA games were deemed \"a little performative\" by New York Knicks point guards Tyler Kolek and Miles McBride.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c6rmyymw1zz1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/73dc/live/9f7d7c60-daab-11f1-9da2-b11e4d68c08e.jpg"
     },
     {
       "cat": "Culture",
@@ -330,7 +354,7 @@
       "summary": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0a3b/live/5a892120-d9f4-11f1-bb10-cdca6001fbcf.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/85c4/live/0ca7fd10-da2f-11f1-a701-fddedf244c16.jpg"
     },
     {
       "cat": "Culture",
@@ -339,30 +363,6 @@
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c438/live/d83946e0-d87d-11f1-a364-a1fce50dd192.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Met Police boss 'wouldn't be surprised' if more allegations made about Brand",
-      "summary": "Sir Mark Rowley tells the BBC that what he heard reported from Brand's trial came close to \"victim blaming\".",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6cc3/live/52586f50-d9c8-11f1-bb8e-efaa31738708.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "'We had no idea how ill she was': Bono on recording Dolly Parton's last song",
-      "summary": "The rock group discuss Parton's final recording before her death, and why they refuse to be censored on stage.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwyvrzle4g98o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5886/live/de8b6570-d9ed-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Olivia Rodrigo's Christmas song sounds familiar... on purpose",
-      "summary": "The pop star sought permission from cult 80s band The Waitresses before releasing her festive single.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/crje55yzjw47o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ef3a/live/c645a760-d9ce-11f1-9e5a-c30c5e3d8c85.jpg"
     }
   ]
 }
