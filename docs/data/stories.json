@@ -1,56 +1,56 @@
 {
-  "date": "2026-11-07",
-  "updated": "2026-11-07T17:40:47.909Z",
+  "date": "2026-11-08",
+  "updated": "2026-11-08T17:50:51.406Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "No clear winner after tight New Zealand general election",
-      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3578/live/a76cb0d0-dab5-11f1-a701-fddedf244c16.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e5f9/live/5b43f440-db76-11f1-b1f1-3be4e895d0fe.jpg"
     },
     {
       "cat": "World",
-      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d1cd/live/cc05a720-d9d5-11f1-b441-2b33b063138f.jpg"
     },
     {
       "cat": "World",
-      "title": "With Stephen Miller pick, Trump readies for a battle",
-      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/492d/live/41326240-da17-11f1-bba7-b50f1faa7672.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d304/live/bfc281c0-db53-11f1-98f5-8d1276fd5e57.jpg"
     },
     {
       "cat": "World",
-      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Paraguay's former president charged after bank collapse",
       "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Pope in 'pretty good health' as he starts Latin America tour",
-      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/15d3/live/886b05a0-da75-11f1-85ad-fd31eff31154.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Italian foreign minister says hackers leaked his personal data",
-      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "cat": "Business",
@@ -138,6 +138,14 @@
     },
     {
       "cat": "Tech & AI",
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-90737843.jpg"
+    },
+    {
+      "cat": "Tech & AI",
       "title": "The Bantu expansion changed Africa. Scientists are still tracing how.",
       "summary": "Genes and archaeology are revealing how Bantu speakers spread across much of Africa.",
       "source": "arstechnica.com",
@@ -177,20 +185,36 @@
       "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/EACOM-News-EA_Classics_Feature_Article_16x9-Screenshot_09.avif"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain.jpg"
-    },
-    {
       "cat": "Crypto",
       "title": "Here’s what happened in crypto today",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "source": "cointelegraph.com",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
+      "summary": "Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6XKMA4GCCY02X2C5H5XBVBP/hi-consortium-open-doors-binance.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+      "summary": "Dutch police said they detained 150-200 people for trespassing during the protest.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Binance’s finance chief Kaiser Ng to leave company, report says",
+      "summary": "Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X3D6NBXVQ58B0WF2EB2C96/bank-building-hall-entrance-door-binance.png"
     },
     {
       "cat": "Crypto",
@@ -209,28 +233,39 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6NTSVE1D4C4XEP4NP4HXZRA/magazine-stablecoins-effect-the-genius-stablecoin-bill-will-have-on-bitcoin-adoption.png"
     },
     {
-      "cat": "Crypto",
-      "title": "US sanctions Canadian money-exchange firms over Iran ties",
-      "summary": "US also offers as much as $20 million and possible relocation for information about Iran’s nuclear program.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TV46HT5722N7KQ7PPJEREP/hi-crypto-users-in-iran-sanctions-1.jpg"
+      "cat": "Science",
+      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+      "summary": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating chemical reactions an",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "Suspicious prediction market activity seen before election poll release: NYT",
-      "summary": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TKZ82M5JMRKRWCTC3GH1QA/hi-one-month-left-to-polymarket-season.jpg"
+      "cat": "Science",
+      "title": "A nuclear blast could save Earth from an asteroid, but there&#039;s a catch",
+      "summary": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid&#039;s irregula",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "Nvidia may face a more hostile post-election Washington: Report",
-      "summary": "CEO Jensen Huang’s relationship with President Donald Trump probably won’t save the company from a more adversarial Washington, Semafor says.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg"
+      "cat": "Science",
+      "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+      "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surroun",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+      "summary": "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground. The discovery could point to hidden pockets of warm",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Stronger flu shot linked to nearly 55% lower Alzheimer&#039;s risk",
+      "summary": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer&#039;s disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm"
     },
     {
       "cat": "Science",
@@ -240,39 +275,18 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm"
     },
     {
-      "cat": "Science",
-      "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
-      "summary": "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia. Originally designed to last just two years, the pioneering space teles",
+      "cat": "Health",
+      "title": "Scientists discover a hidden warning sign of cannabis addiction",
+      "summary": "A study of more than 17,700 US adults found that people who use cannabis in multiple forms have dramatically higher rates of daily consumption and addiction symptoms than those who stick primarily to one method. Nearly 6",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261106174520.htm"
     },
     {
-      "cat": "Science",
-      "title": "Scientists just found dinosaur blood that survived 115 million years",
-      "summary": "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive. The extraordinary preservation ",
+      "cat": "Health",
+      "title": "Stronger flu shot linked to nearly 55% lower Alzheimer&#039;s risk",
+      "summary": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer&#039;s disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "An anti-aging drug may help protect the brain before Alzheimer&#039;s symptoms begin",
-      "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer&#039;s disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flo",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Scientists discover Europe&#039;s ancient forests were nothing like we imagined",
-      "summary": "Scientists have uncovered evidence that Europe was dominated for more than 20 million years by open woodlands, colorful meadows, and large grazing animals, not the dense forests long considered its natural state. The sur",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104012333.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Human bodies produce 2 billion metric tons of CO2 a year just by staying alive",
-      "summary": "Humans collectively produce more than 2 billion tonnes of carbon dioxide annually just by turning food into energy, a 74% increase over three decades largely driven by population growth. Unlike fossil fuel emissions, how",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104012305.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm"
     },
     {
       "cat": "Health",
@@ -297,32 +311,10 @@
     },
     {
       "cat": "Health",
-      "title": "An anti-aging drug may help protect the brain before Alzheimer&#039;s symptoms begin",
-      "summary": "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer&#039;s disease. Researchers found that just four weeks of low-dose rapamycin improved brain blood flo",
+      "title": "A 24-hour fast triggers a surprising repair response in the gut",
+      "summary": "Scientists have discovered that fasting for just 24 hours increases a beneficial gut bacterium that helps the intestines regenerate after radiation damage. The preclinical findings could pave the way for new treatments t",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Magic mushrooms rewire the brain in a way scientists didn&#039;t expect",
-      "summary": "A surprising discovery reveals how psilocybin, the active compound in magic mushrooms, rapidly reshapes the brain by creating new neural connections and strengthening them. Researchers found that the drug behaves differe",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104012308.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "A compound hidden in broccoli could help fight a devastating genetic disease",
-      "summary": "A compound naturally found in broccoli could help fight Friedreich ataxia, a devastating genetic disease that progressively damages the nervous system, by boosting a vital protein and protecting nerve cells. Scientists h",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261104012259.htm"
-    },
-    {
-      "cat": "Culture",
-      "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
-      "summary": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f8e7/live/d1af1d60-d9f7-11f1-84c1-dbcae60402d7.jpg"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261104084024.htm"
     },
     {
       "cat": "Culture",
@@ -331,6 +323,14 @@
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/crx233lx94n7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8a50/live/ef30ec60-502c-11f1-89a3-d1f559421220.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
+      "summary": "The head gardener on the long-running BBC TV series signed off from Longmeadow garden on Friday.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyrrwj9xlro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f8e7/live/d1af1d60-d9f7-11f1-84c1-dbcae60402d7.jpg"
     },
     {
       "cat": "Culture",
