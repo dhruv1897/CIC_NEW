@@ -1,56 +1,56 @@
 {
-  "date": "2026-11-09",
-  "updated": "2026-11-09T22:11:55.641Z",
+  "date": "2026-11-10",
+  "updated": "2026-11-10T19:34:26.727Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "France accuses Iran of supermarket fridge hacking",
-      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f0bc/live/eec149b0-dc5d-11f1-8fe6-5becaee5408f.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4d8b/live/22dad050-dd25-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "cat": "World",
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/59a5/live/b9ccd5d0-dd2a-11f1-ab46-9fae224bbf6f.jpg"
     },
     {
       "cat": "World",
-      "title": "Trump questions midterm elections integrity after previously accepting results",
-      "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/36f9/live/603c9f80-dcf5-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "cat": "World",
-      "title": "Turkey steel factory blast kills at least 17 people",
-      "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+      "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
+      "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5625/live/fd460940-dc61-11f1-8fe6-5becaee5408f.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bd6f/live/934efd20-dcfd-11f1-933b-ff2499ee76f6.jpg"
     },
     {
       "cat": "World",
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
+      "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d932/live/81424720-dd2c-11f1-ab46-9fae224bbf6f.jpg"
     },
     {
       "cat": "World",
-      "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
+      "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c8c0/live/5d2b0080-dc36-11f1-95cf-a38331e6cb4b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b46b/live/32b5bef0-dd06-11f1-a701-fddedf244c16.jpg"
     },
     {
       "cat": "Business",
@@ -96,8 +96,22 @@
     },
     {
       "cat": "Markets",
-      "title": "3 unexpected reasons why the October jobs report was so strong",
-      "summary": "October's jobs report blew past economist forecasts. Here are three reasons why.",
+      "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+      "summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
+      "summary": "China's trade surplus topped $1 trillion as of October, potentially intensifying complaints from trading partners already wary over the glut of cheap Chinese goods.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "3 unexpected reasons the October jobs report was so strong",
+      "summary": "October's jobs report blew past economist forecasts. Here are three reasons.",
       "source": "cnbc.com",
       "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html"
     },
@@ -123,66 +137,92 @@
       "url": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html"
     },
     {
-      "cat": "Markets",
-      "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-      "summary": "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "The October jobs report is out Friday. Here's everything to expect",
-      "summary": "The Bureau of Labor Statistics releases the October nonfarm payrolls report Friday at 8:30 a.m. ET.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
+      "cat": "Tech & AI",
+      "title": "Steam Deck performance gets a reality check with Valve's new FPS data",
+      "summary": "Benchmark tools for generic gaming rigs could be coming soon.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/IMG_8144-scaled-1152x648-1794329069.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
-      "summary": "Producer and former Kevin Feige protege Jeremy Latcham will replace Gunn and Safran.",
+      "title": "High oil prices have led to a dip in global carbon emissions",
+      "summary": "Bucking recent trends, fossil fuel emissions look to be down 0.4 percent.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/lanterns3.jpg"
+      "url": "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2297120164.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Man who lost $308,000 on sports bets sues Kalshi for offering illegal gambling",
-      "summary": "Lawsuit demands Kalshi return losses because online betting is illegal in Washington.",
+      "title": "One space station company sues another for copying its work",
+      "summary": "\"NASA advised that Vast’s submission in some locations substituted 'the PAM Provider' for Axiom\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/kalshi-baseball-1152x648-1794257974.jpg"
+      "url": "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/KSC-20230521-PH-CSH01_0001large.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "A Sam Altman parody offers an amusing lesson in memory management",
-      "summary": "We verified the RAM numbers are real without sending any emails to OpenAI.",
+      "title": "DeepMind reveals Gemini Robotics 2.5 and open safety benchmark \"ASIMOV-jailbreak\"",
+      "summary": "The new model is up to twice as successful at some tasks.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1723107474.jpg"
+      "url": "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Credit_-Apptronik_-Mercedes-Benz-Apollo-2-using-Gemini-Robotics-2.5-to-autonomously-perform-automotive-kitting-at-a-Mercedes-Benz-factory.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-      "summary": "\"*sshole\" poses a serious threat to Internet security.",
+      "title": "Nvidia has a Jensen Huang problem—and no obvious successor",
+      "summary": "Huang faces a board probe as investors fret over Nvidia’s lack of a clear successor.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg"
+      "url": "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/11/jensen_huang.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Pentagon mulls placing fleet of military satellites around the Moon",
-      "summary": "\"Please jump on my cislunar bandwagon because I need some more friends here.\"",
+      "title": "FDA warns GLP-1 drugs may pose risk of rare condition that causes vision loss",
+      "summary": "The risk appears small and data is mixed, but FDA wants patients to be aware.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/55199774765_6e77d97b51_o.jpg"
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1716643505.jpg"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Claude Code is accidentally exposing secrets all over GitHub",
-      "summary": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/claude-github-leaks.jpg"
+      "cat": "Crypto",
+      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+      "summary": "Starting next week, customers can deposit and withdraw money through Brazil’s instant payment system. Crypto transfers remain suspended.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M732NFDQVGSJE1VGENNVNKQT/trading-app-crypto-messenger-phone.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "summary": "US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7336RAJMBE41VQRYSYWFP63/us-federal-reserve-1.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Polymarket US trading volume jumps 266% despite regulatory battles",
+      "summary": "Trading volume on Polymarket’s US exchange surged from June to October, fueled by sports betting, even as the platform faces mounting regulatory scrutiny.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M733KDA3PZPHNST4578G33HY/hi-9-bets-declined-bad-influence-on-the-market-polymarket.png"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
+      "summary": "Bitcoin and US stocks initially fall after October inflation tops forecasts, with traders expecting a quarter-point Fed rate hike in December.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7321EC4JJA90DW6KN2X8639/us-inflation-1.webp"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
+      "summary": "The bill is now before the Senate and would broaden the grounds for adding people and companies to Poland’s national sanctions list.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72PYD519ZQBWS31RRW4K0PX/edited-cointelegraph-illustration.png"
     },
     {
       "cat": "Crypto",
@@ -193,44 +233,18 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
-      "cat": "Crypto",
-      "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
-      "summary": "Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6PYG369J9CZ9P8D881P56WG/singapore-celebration-full.png"
+      "cat": "Science",
+      "title": "Alzheimer’s may have early warning signs outside the brain",
+      "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
-      "summary": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70X59B82FS5F3H9N89JXV87/hi-north-korea-hack-3.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
-      "summary": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70VDA13QECV5XSQ4V1SKPEE/hi-crypto-goes-for-nasdaq-solana-1.png"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
-      "summary": "Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4GS2W4DFN9GTK5VFGEJ9190/cover-b415ec149cce052d.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "PNC Bank tests turning USDC payments into dollar deposits",
-      "summary": "The pilot lets eligible corporate and institutional clients accept USDC on Ethereum, with each token converted to one US dollar before deposit.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/pnc-bank-launches-usdc-payment-pilot-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M70HRDZHPXXKF87Y3Z5B9631/hi-a-list-of-most-prominent-fiat-backed-stablecoins-uk-2.png"
+      "cat": "Science",
+      "title": "Scientists finally discover why we learn to love bitter coffee",
+      "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to c",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm"
     },
     {
       "cat": "Science",
@@ -238,6 +252,13 @@
       "summary": "NASA has revealed an accelerated plan to land astronauts on the Moon in 2028, with SpaceX and Blue Origin developing competing lunar landers and a crucial orbital test scheduled for 2027. Faster rocket preparations, new ",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/11/261108233054.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+      "summary": "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years. The breakthrough could help physicists uncover ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm"
     },
     {
       "cat": "Science",
@@ -254,25 +275,18 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
     },
     {
-      "cat": "Science",
-      "title": "An ancient ocean full of giant predators reveals a surprising twist in evolution",
-      "summary": "A remarkable fossil discovery in Colombia is challenging how scientists understand major evolutionary changes in Earth&#039;s history. Researchers uncovered an incredibly diverse ancient marine ecosystem where giant rept",
+      "cat": "Health",
+      "title": "Alzheimer’s may have early warning signs outside the brain",
+      "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261106174535.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm"
     },
     {
-      "cat": "Science",
-      "title": "A nuclear blast could save Earth from an asteroid, but there&#039;s a catch",
-      "summary": "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster. Scientists found that an asteroid&#039;s irregula",
+      "cat": "Health",
+      "title": "Scientists finally discover why we learn to love bitter coffee",
+      "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to c",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
-      "summary": "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects. The remarkable find, surroun",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm"
     },
     {
       "cat": "Health",
@@ -303,26 +317,28 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261106174520.htm"
     },
     {
-      "cat": "Health",
-      "title": "Scientists discover a surprising link between acorns and lyme disease",
-      "summary": "After more than 35 years of research, scientists have uncovered surprising clues about what really drives Lyme disease risk. Contrary to longstanding assumptions, deer populations appear less important than mice, which c",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261106174518.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Stronger flu shot linked to nearly 55% lower Alzheimer&#039;s risk",
-      "summary": "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer&#039;s disease. Researchers at UTHealth Houston analyzed nearly 200,000 adults ages 65 ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm"
+      "cat": "Culture",
+      "title": "David Walliams' career and controversies including Britain's Got Talent and Little Britain",
+      "summary": "The entertainer shot to fame on Little Britain and also has best-selling series of children's books.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q98z1yz3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/55f4/live/3d180d10-d86c-11f1-85ab-b3cc3b5498c6.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
-      "summary": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.",
+      "title": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
+      "summary": "M John Harrison becomes the oldest ever winner of the prestigious literary award at the age of 81.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e1c3/live/e7281af0-dc47-11f1-b441-2b33b063138f.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cw0737kv52lko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1686/live/6fa51a10-dcd2-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "cat": "Culture",
+      "title": "Met Police investigating more 'potential criminal allegations' about Brand",
+      "summary": "Det Supt Andy Furphy says the force had received \"several reports during the trial and since the trial\".",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy7ydg4264o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2a7f/live/9f8b6970-dcf8-11f1-9ef0-4b5930e2f80e.jpg"
     },
     {
       "cat": "Culture",
@@ -342,27 +358,11 @@
     },
     {
       "cat": "Culture",
-      "title": "Find out who's in the running for this year's Booker Prize",
-      "summary": "The winner of this year's literary award will be announced in London on Monday.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqzjz8dk4wddo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/358e/live/d6f67f70-dc27-11f1-a5b1-adf9c8e8d692.jpg"
-    },
-    {
-      "cat": "Culture",
       "title": "'I've got a band now' - Club anthem star Shygirl on why she's switching up her sound",
       "summary": "Fans know her for big electronic bangers, but the singer and DJ has come back with an indie-tinged sound.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cxyvrr5rz282o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b843/live/af14a480-da3a-11f1-959c-e95bd2c2a35f.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Maya Jama steps down as host of reality TV show Love Island",
-      "summary": "The presenter tells fans it is \"time to throw myself into something new\" after recent Celebrity Traitors success.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwzrd5jj47ndo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2f2c/live/327b8220-dbb3-11f1-b35d-8ff000e4934a.jpg"
     }
   ]
 }
