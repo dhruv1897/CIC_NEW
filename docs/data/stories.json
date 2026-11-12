@@ -1,56 +1,56 @@
 {
-  "date": "2026-11-11",
-  "updated": "2026-11-11T19:28:08.015Z",
+  "date": "2026-11-12",
+  "updated": "2026-11-12T19:46:09.275Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
     },
     {
       "cat": "World",
-      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8cf0/live/2eb174e0-ddef-11f1-b441-2b33b063138f.jpg"
+      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/333a/live/e63a2ff0-dea1-11f1-93e1-3b657b665bcf.png"
     },
     {
       "cat": "World",
-      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/274f/live/14e2f1f0-dde6-11f1-9204-cdcddf7d901c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg"
     },
     {
       "cat": "World",
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
     },
     {
       "cat": "World",
-      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-      "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg"
     },
     {
       "cat": "World",
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a91e/live/b13e3560-ddd6-11f1-b865-d17d8611efca.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg"
     },
     {
       "cat": "Business",
@@ -96,7 +96,14 @@
     },
     {
       "cat": "Markets",
-      "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
+      "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
+      "summary": "The U.K. economy grew 0.7% in the third quarter of the year, in line with estimates.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
       "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
       "source": "cnbc.com",
       "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"
@@ -130,107 +137,100 @@
       "url": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html"
     },
     {
-      "cat": "Markets",
-      "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
-      "summary": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"
+      "cat": "Tech & AI",
+      "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+      "summary": "Gemini 4 Hydrogen isn't getting a slow, security-conscious release like Carbon and Argon.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-6.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Big Walk used AI to fix a bug. Now the indie gaming world is having a reckoning.",
-      "summary": "Any amount of AI coding is too much for many Indie Game Festival judges.",
+      "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
+      "summary": "Report: Ukraine suspects speeds limits are intended to help Russia in peace talks.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bigwalkdebate.png"
+      "url": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/zelenskyy-1152x648-1794506400.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Apple is shuttering its 28-year-old online community forum",
-      "summary": "Apple has already made the forum read-only.",
+      "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+      "summary": "Families confront Google after teen’s lawsuit labels Gemini a “suicide coach.”",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1560398364.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Win-win.jpeg"
     },
     {
       "cat": "Tech & AI",
-      "title": "IBM to offer access to a dual-processor quantum system in 2027",
-      "summary": "The company plans on linking two 520-qubit chips before next year is over.",
+      "title": "Netflix releases new trailer for Ray Gunn",
+      "summary": "\"It's hard being the only honest players in a crooked game.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison.jpg"
+      "url": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/raygunn.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Trump wanted little Kei trucks for America, Toyota makes it happen",
-      "summary": "Does this herald the start of a small car revolution, or is it a meaningless distraction?",
+      "title": "Building a rocket is hard. AST SpaceMobile thinks it&#039;s \"simple.\"",
+      "summary": "\"We're not doing this thing because we like rockets.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Scion_Kei_Truck_2027-06.jpg"
+      "url": "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/black-lift.webp"
     },
     {
       "cat": "Tech & AI",
-      "title": "Google DeepMind just mathematically verified key parts of Signal",
-      "summary": "The four-week project hints that AI could make formal verification far more practical.",
+      "title": "Man&#039;s secret use of synthetic testosterone for cows nearly destroyed his heart",
+      "summary": "Doctors warn that such life-threatening cases are becoming more common.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/signal_icon.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "summary": "The FireCuda Forge revisits an old idea, with some familiar questions.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3.jpg"
+      "url": "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-595668825.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
-      "summary": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity.",
+      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+      "summary": "Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75S911M6Z2QY1MHSS3BEKGB/hi-how-binance-plans-to-bring-tokenized-us-stocks-5.png"
+      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7859A9F3JFAC903AM8D1SAR/hi-beyond-bitcoin-the-future-of-digital-assets-bitcoin-price-us-iran.webp"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
-      "summary": "Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data.",
+      "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
+      "summary": "Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75N52D7VC58F2MJTGJCRMV1/bungee-jumping-bitcoin-1.webp"
+      "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78FFGSYBN954VJZWS39264X/jensen-with-exact-cointelegraph-branding-1.png"
     },
     {
       "cat": "Crypto",
-      "title": "Deutsche Bank launches crypto custody for companies and institutions",
-      "summary": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys.",
+      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+      "summary": "Bit Digital’s $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75D0RVNVRMGT5GMDFRH6PZQ/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought.jpg"
+      "url": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4B3MMABZE2GV838GSA8JBR1/hi-crypto-market-trading-trader-breaking-news-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+      "summary": "Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+      "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77Y7BBV3T43FJ34BFN7FBGA/thailand-sec-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
-      "summary": "Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline.",
+      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
+      "summary": "Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK’s research director.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72P50QB7YYQYFYB7ABTSVZ2/magazineai-banking-the-unbanked-in-africa-1.png"
+      "url": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P1ZHH851JBMYW8FC0YFCV0/hi-top-crypto-hacks-and-scams-to-beware-of-in-october-2024.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
-      "summary": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs.",
+      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+      "summary": "L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages become too hard to resist.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YMN410HHB04XQCTHZ2P4NF/crypto-bitcoin-storage.jpg"
+      "url": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75B6EF6HGNZVZQ0Z43SYG66/magazineback-to-ethereum-1.jpg"
     },
     {
       "cat": "Science",
@@ -241,10 +241,24 @@
     },
     {
       "cat": "Science",
+      "title": "Earth&#039;s fiery birth may have created hundreds of oceans&#039; worth of water",
+      "summary": "Earth&#039;s water may have been born in the planet&#039;s fiery atmosphere rather than delivered by icy comets or asteroids. Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm"
+    },
+    {
+      "cat": "Science",
       "title": "NASA reveals Earth&#039;s ozone hole has grown to a size not seen in a decade",
       "summary": "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum. Scientists say international restrictions on ozone-destr",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "A massive new simulation reveals how the universe emerged from darkness",
+      "summary": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 billion years of early c",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm"
     },
     {
       "cat": "Science",
@@ -261,18 +275,25 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm"
     },
     {
-      "cat": "Science",
-      "title": "The mystery of how hair knows where to grow may finally be solved",
-      "summary": "Scientists have discovered that the intricate patterns of hair follicles on mammals may arise from a remarkably simple process involving cells following chemical signals. The findings challenge a long-standing theory and",
+      "cat": "Health",
+      "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
+      "summary": "An NIH study found that women with high levels of two common “forever chemicals” had up to 93% higher rates of an aggressive form of breast cancer. The discovery raises concerns about the potential health effects of pers",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm"
     },
     {
-      "cat": "Science",
-      "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
-      "summary": "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater. Discovered in China, the giant salamander-sized creature may be ",
+      "cat": "Health",
+      "title": "Scientists discover a common sugar may help cancer cells break free and spread",
+      "summary": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy r",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "Walking and weight training may not be enough to keep your bones strong",
+      "summary": "A surprising new study suggests that walking, jogging, and even traditional weight training may be less effective at stimulating bone formation than high-intensity sports involving explosive movements and sudden changes ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042601.htm"
     },
     {
       "cat": "Health",
@@ -296,73 +317,52 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm"
     },
     {
-      "cat": "Health",
-      "title": "Obesity linked to up to 27% lower risk of death in dementia",
-      "summary": "A surprising study of more than 4,500 older adults found that people who were overweight or obese when diagnosed with dementia had a 16% to 27% lower risk of death than those at a normal weight. Researchers suspect that ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261109205401.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Alzheimer’s may have early warning signs outside the brain",
-      "summary": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Scientists finally discover why we learn to love bitter coffee",
-      "summary": "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time. The discovery reveals how the brain learns to c",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm"
+      "cat": "Culture",
+      "title": "Schools, libraries and parents face 'difficult decision' over David Walliams books",
+      "summary": "Some schools remove the children's author's books from their libraries after allegations against him.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cvkg5jkpl2pno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/bf48/live/30659f30-de8c-11f1-b88b-3f1671ea859d.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
-      "summary": "The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago.",
+      "title": "Russell Brand's social media accounts disabled by Meta",
+      "summary": "It comes after the 51-year-old disgraced entertainer was sentenced to 10-and-a-half-years in prison.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a3da/live/be8fbc60-ddeb-11f1-a701-fddedf244c16.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckedq1dxwylxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5445/live/65df25e0-dea1-11f1-a701-fddedf244c16.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Dua Lipa to become first female British headliner at Coachella 2027",
-      "summary": "Tame Impala and SZA join the top of the bill for the US festival, which also features Madonna and Diljit Dosanjh.",
+      "title": "DJ Tim Westwood denies two more sexual offences",
+      "summary": "His latest pleas of not guilty mean he now denies a total of 17 charges concerning allegations from 1983 to 2016.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cjr4g0n9d1g5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8ca9/live/cefe7370-ddb4-11f1-90cd-85e940e3a009.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1635xkkdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/408b/live/2498e9d0-de7f-11f1-b88b-3f1671ea859d.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Wayne Rooney leads I'm A Celebrity... Get Me Out of Here! line-up",
-      "summary": "The football star will be joined by Gavin and Stacey star Joanna Page and YouTuber Sharky among others.",
+      "title": "Bond producer first female president of film school",
+      "summary": "Barbara Broccoli is succeeding David Puttnam in the role in February.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwj3462yz21lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5ce9/live/e2d43030-ddb2-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cq36gngnk09do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8d88/live/edb4f5e0-3afa-11f0-9a86-f7906cd4e14e.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
-      "summary": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.",
+      "title": "King Charles appears on Sir Elton John's radio show",
+      "summary": "The latest episode of Rocket Hour will air on the monarch's 78th birthday on Saturday.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8079/live/b95c6cb0-dd6a-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c3qj5lnee5n0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/65df/live/b2e69780-de81-11f1-b88b-3f1671ea859d.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Police helped remove Russell Brand after 'violent incident' at Jemima Goldsmith's home",
-      "summary": "Police confirm they asked Brand to leave his ex-girlfriend's house after she reported an alleged assault.",
+      "title": "Resident Evil Requiem sweeps Golden Joystick Awards",
+      "summary": "The latest instalment in the franchise, which is marking 30 years, bagged the top prize.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqde1yddwk17o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fc6f/live/9dd1bab0-dc78-11f1-b23d-9526db010e6c.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-      "summary": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7671/live/0710fae0-ddd2-11f1-b441-2b33b063138f.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmg46y76kz5no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/017a/live/9f5c4cb0-1261-11f1-808c-3f897f9a068e.jpg"
     }
   ]
 }
