@@ -1,56 +1,56 @@
 {
-  "date": "2026-11-13",
-  "updated": "2026-11-13T19:29:09.733Z",
+  "date": "2026-11-14",
+  "updated": "2026-11-14T17:52:11.336Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ce07/live/190ced90-e04c-11f1-88e1-eb4e155225b3.jpg"
     },
     {
       "cat": "World",
-      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e30a/live/54c2fe10-df57-11f1-a701-fddedf244c16.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
     },
     {
       "cat": "World",
-      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
-      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7a8d/live/606ff370-df85-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
     },
     {
       "cat": "World",
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
     },
     {
       "cat": "World",
-      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4a89/live/8263f580-df76-11f1-b844-3146c4983677.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/103b/live/ed70d6c0-e040-11f1-88e1-eb4e155225b3.jpg"
     },
     {
       "cat": "World",
-      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/566c/live/8649d9e0-df84-11f1-a8e2-5b59832bb2f1.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,13 @@
     },
     {
       "cat": "Markets",
+      "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+      "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
       "summary": "The producer price index was expected to increase 0.4% in October, according to the Dow Jones consensus.",
       "source": "cnbc.com",
@@ -130,75 +137,52 @@
       "url": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html"
     },
     {
-      "cat": "Markets",
-      "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
-      "summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+      "cat": "Tech & AI",
+      "title": "James Webb telescope finds ice older than the star it orbits",
+      "summary": "Radiation and collisions reshape the planetary building materials.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1.jpeg"
     },
     {
       "cat": "Tech & AI",
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
+      "title": "Winemakers are learning that conservation can be good for business",
+      "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination.jpg"
+      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-      "summary": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "summary": "One way or another, the company will get some more data on Saturday.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1237693734-1152x648-1783631068.jpg"
+      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Microsoft’s global outage may be worse than Amazon&#039;s or CrowdStrike&#039;s, expert says",
-      "summary": "Governments, hospitals, courts scrambled by global Microsoft outage.",
+      "title": "FAA has lifted its third-ever nationwide ground stop",
+      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2191081646.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "It&#039;s the end of the world as we know it, per a physicist&#039;s 1960 prediction",
-      "summary": "Heinz von Foerster thought population would grow exponentially and \"squeeze\" us all to death.",
+      "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+      "summary": "Cost and access barriers are pushing people to modified use and unapproved versions.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cometTOP.jpg"
+      "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2291507729.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Screenless GPS: Slate Auto says, \"Remember the road atlas\"",
-      "summary": "What’s more fitting than a spiral-bound map for a bare-bones two-door pickup?",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Slate-GPS-1-of-3.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
-      "summary": "Climate action has stalled for five years as fossil fuel development keeps growing.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/cop31.jpg"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
-      "summary": "Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company’s earnings despite higher revenue and operating profit.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7AWR4AB715ADV7EW9WZVKDA/hi-how-a-small-crypto-trader-turned-k-into-m-using-a-high-risk-high-precision-strategy-metaplanet.png"
-    },
-    {
-      "cat": "Crypto",
-      "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
-      "summary": "Bitcoin was down about 4% on the day amid a tepid market reaction to October’s US PPI reading, which came in below expected levels.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7AS165R9P1Y8G39SM0M5CFQ/bitcoin-crypto-desk-graph-chart.webp"
+      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure.jpg"
     },
     {
       "cat": "Crypto",
@@ -210,27 +194,71 @@
     },
     {
       "cat": "Crypto",
-      "title": "Arthur Hayes ‘flattered’ as Coinbase backs US stock perps",
-      "summary": "Arthur Hayes said he was “flattered” by Coinbase’s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps.",
+      "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+      "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YN0CT8F4HNHWRJS1ST7JTJ/arthur-hayes.jpg"
+      "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
-      "summary": "A $5.8 million Bitcoin options loss pushed Nakamoto’s quarterly operating revenue below zero, while the company extended repayment of $60 million in Kraken debt to 2027.",
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project’s blockchain, wallet and ecosystem.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1Y8ZNSF5WMPGFQ1661WSGAG/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold-2.jpg"
+      "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7CHQ8H5VMWGN9MBP9CQVNVC/layoffs-fired-human-resource-hr-leaving-quit-people-ai-2.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
-      "summary": "Police suspect the group drew up fictitious loan agreements to disguise crypto trading proceeds it transferred directly into bank accounts.",
+      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
+      "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding $41.9 million.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7A9KC13WNDH9B0FYB99Y1X5/hi-fundraising-101-a-beginners-guide-on-raising-funds-using-cryptocurrencies-israel.jpg"
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FQAANP3H5Z0XYV77PNYB10/hi-will-the-blockchain-stop-leaks-of-crypto.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+      "summary": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BD90N5TZ75ZZMC6V10AW2D/hi-what-is-elon-musk-and-openai.png"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+      "summary": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BCCR5CYZHHWDA4BH24H4DA/portraitadam-back.png"
+    },
+    {
+      "cat": "Science",
+      "title": "Scientists find a simple daily routine linked to less pain and depression",
+      "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules r",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "A giant icy world hiding beyond Pluto could be our sixth dwarf planet",
+      "summary": "Astronomers have uncovered a potentially enormous new dwarf planet beyond Pluto, hidden for years in one of the most crowded regions of the night sky. The discovery of 2026 ED138 could expand the solar system&#039;s offi",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+      "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt&#039;s first kings",
+      "summary": "A 5,000-year-old mystery surrounding the tombs of Egypt’s first kings has taken a disturbing turn. Scientists reexamining 46 ancient skulls discovered evidence of potentially fatal head injuries in 18, suggesting that at",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm"
     },
     {
       "cat": "Science",
@@ -247,32 +275,32 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm"
     },
     {
-      "cat": "Science",
-      "title": "Superheated magma could fuel towering lava fountains",
-      "summary": "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly? Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference. Experiment",
+      "cat": "Health",
+      "title": "Scientists find a simple daily routine linked to less pain and depression",
+      "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules r",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm"
     },
     {
-      "cat": "Science",
-      "title": "NASA’s Perseverance confirms a key ingredient for life hidden in ancient Mars rocks",
-      "summary": "NASA&#039;s Perseverance rover has confirmed complex organic carbon just beneath the surface of ancient Martian rocks, raising intriguing questions about the Red Planet&#039;s potential to have supported life. The remark",
+      "cat": "Health",
+      "title": "Yale scientists reveal what really slows aging and what doesn&#039;t",
+      "summary": "Yale researchers have discovered that certain prescription drugs, healthy diets, and exercise can measurably slow biological aging, while popular anti-aging supplements appear largely ineffective. Their analysis of 51 st",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230452.htm"
     },
     {
-      "cat": "Science",
-      "title": "The Sun unleashed a monster storm. Earth may have made it worse",
-      "summary": "The massive solar storm that illuminated skies worldwide in May 2024 has uncovered an unexpected twist: Earth&#039;s own atmosphere may have helped make the storm so powerful. Satellite measurements revealed that roughly",
+      "cat": "Health",
+      "title": "A new fiber supplement could help millions suffering from irritable bowel syndrome",
+      "summary": "Scientists have developed a promising new fiber supplement that improves gut health in people with irritable bowel syndrome (IBS) without worsening bloating, pain, or other digestive symptoms. The specially designed blen",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230450.htm"
     },
     {
-      "cat": "Science",
-      "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
-      "summary": "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago. Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark energ",
+      "cat": "Health",
+      "title": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+      "summary": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
     },
     {
       "cat": "Health",
@@ -283,38 +311,34 @@
     },
     {
       "cat": "Health",
-      "title": "Stopping statins after 70 may be safer than expected, but there&#039;s a catch",
-      "summary": "A major study of nearly 1,900 older adults suggests that stopping statins after age 70 may be relatively safe in the short term for people who have never experienced a heart attack or stroke. However, a higher rate of se",
+      "title": "Exercise after ACL surgery may protect knees from early osteoarthritis",
+      "summary": "A new study suggests that the right kind of exercise could help protect young adults from early knee osteoarthritis following ACL surgery. Researchers found that a four-month supervised rehabilitation program improved pa",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112025534.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261112025538.htm"
     },
     {
-      "cat": "Health",
-      "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
-      "summary": "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear. Researchers found that mice recovering from an acute infection experienced lasting changes to t",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
+      "cat": "Culture",
+      "title": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
+      "summary": "The Great British Bake Off presenter says he has not been in contact with the convicted rapist \"for many years\".",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cw808ll7x093o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e601/live/a305b450-e033-11f1-9ca9-b3b288fceb81.jpg"
     },
     {
-      "cat": "Health",
-      "title": "Common forever chemicals linked to nearly double the rate of aggressive breast cancer",
-      "summary": "An NIH study found that women with high levels of two common “forever chemicals” had up to 93% higher rates of an aggressive form of breast cancer. The discovery raises concerns about the potential health effects of pers",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112025527.htm"
+      "cat": "Culture",
+      "title": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
+      "summary": "Noor Nanji, culture correspondent, explores how these stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3c24/live/0b3d63c0-dfc5-11f1-81d0-51c2d6384bd2.jpg"
     },
     {
-      "cat": "Health",
-      "title": "Without this protein, damaged muscle fills with fat and scar tissue",
-      "summary": "Researchers have uncovered a surprising hidden function of a protein that may hold the key to repairing damaged muscles and treating muscular dystrophy. Known for protecting chromosomes, TRF2 also helps muscle stem cells",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261111221643.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Scientists discover a common sugar may help cancer cells break free and spread",
-      "summary": "Scientists have uncovered a surprising way that fructose, a sugar commonly found in sweetened foods and drinks, may help aggressive ovarian cancer spread. Researchers discovered that cancer cells surviving chemotherapy r",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261111221501.htm"
+      "cat": "Culture",
+      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+      "summary": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1c12/live/8c3025e0-e005-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "cat": "Culture",
@@ -326,7 +350,7 @@
     },
     {
       "cat": "Culture",
-      "title": "Radio 2's Owain Wyn Evans raises almost £4m on Children In Need bike ride",
+      "title": "'Hardest challenge of my life' - Owain Wyn Evans completes Children in Need ride",
       "summary": "Owain Wyn Evans cycled almost 400 miles, setting off from Glasgow and finishing in Cardiff.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cr86895201y9o?at_medium=RSS&at_campaign=rss",
@@ -334,35 +358,11 @@
     },
     {
       "cat": "Culture",
-      "title": "More women make allegations against Russell Brand",
-      "summary": "The new claims are in the Times and a Netflix documentary, following Brand's recent conviction for rape.",
+      "title": "Bonnie Tyler remembers loved ones in posthumous Christmas single",
+      "summary": "Christmas single Love, Light and Peace was Bonnie Tyler's last studio recording, and was released on Friday.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cme3dwydp857o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/29e9/live/8dd88650-df63-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
-      "summary": "Viewers of the annual TV charity event will see the actor playing a prank on Rylan.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqly4lnxn031o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8023/live/c0a54e10-df2c-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Rosalía scoops historic third best album award at Latin Grammys",
-      "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/09dd/live/69ef2110-df6b-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Catherine Zeta-Jones says US move humbled her before big break with Steven Spielberg",
-      "summary": "The Swansea-born star got her big break in The Mask of Zorro which cemented her place as an A-lister.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm3gn4k7dno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b97b/live/90083690-df6e-11f1-8112-6b9154c79b48.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6y493wzkxgko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a135/live/c8585270-d6a7-11f1-b441-2b33b063138f.jpg"
     }
   ]
 }
