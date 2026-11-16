@@ -1,56 +1,56 @@
 {
-  "date": "2026-11-15",
-  "updated": "2026-11-15T18:42:35.276Z",
+  "date": "2026-11-16",
+  "updated": "2026-11-16T21:52:40.642Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg"
     },
     {
       "cat": "World",
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0351/live/2e8de2e0-e106-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "cat": "World",
-      "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-      "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0fb0/live/ed275c50-e0dd-11f1-a701-fddedf244c16.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
     },
     {
       "cat": "World",
-      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/32ab/live/d67148b0-e0ef-11f1-97b9-9110abfffc70.png"
+      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "cat": "World",
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "title": "When will we see Robert Pattinson as Bond in cinemas?",
+      "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg"
+      "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6849/live/22d15940-e1ed-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "cat": "World",
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
+      "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,13 @@
     },
     {
       "cat": "Markets",
+      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
+    },
+    {
+      "cat": "Markets",
       "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
       "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
       "source": "cnbc.com",
@@ -130,107 +137,128 @@
       "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"
     },
     {
-      "cat": "Markets",
-      "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
-      "summary": "Retail sales rose at their slowest pace in nearly a year in October as American consumers showed signs of strain from high prices.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html"
+      "cat": "Tech & AI",
+      "title": "Hyperscale data centers use 2% of US electricity",
+      "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "How the world’s fires changed while humanity hit pause",
-      "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+      "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
+      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2293683755.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "SpaceX returned its Starship rocket on Saturday—but there&#039;s a catch",
-      "summary": "It felt like stepping into the future.",
+      "title": "Comcast&#039;s \"fiber-powered Wi-Fi\" is just cable, AT&#038;T says in false advertising case",
+      "summary": "AT&#038;T demands Comcast give AT&#038;T profits it made from advertising cable as fiber.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "James Webb telescope finds ice older than the star it orbits",
-      "summary": "Radiation and collisions reshape the planetary building materials.",
+      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
+      "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/image-1.jpeg"
+      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302915568.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Winemakers are learning that conservation can be good for business",
-      "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
+      "title": "When will humans actually fly on Starship?",
+      "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/savineyard1.jpg"
+      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX.jpeg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-      "summary": "One way or another, the company will get some more data on Saturday.",
+      "title": "Meet the new James Bond: Robert Pattinson",
+      "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954.jpg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "FAA has lifted its third-ever nationwide ground stop",
-      "summary": "Secretary of Transportation Sean Duffy blamed obsolete equipment for the outage.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic.jpg"
+      "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bond1-1152x648-1794853599.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Enterprise blockchain is going to come back from the dead",
-      "summary": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
+      "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
+      "summary": "Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg"
+      "url": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JZ53YRDRJQGKMN9M3767RB/hi-10-public-companies-that-quietly-turned-their-balance-sheets-into-bitcoin-treasuries.png"
     },
     {
       "cat": "Crypto",
-      "title": "Here’s what happened in crypto today",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
+      "summary": "Johnson was joined by Lord Ross Kempsell who called for regulators to work with industry participants to bring the UK to the forefront.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+      "url": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KWG2BF4FVCFASCKG2BAG5D/peace-and-friendship-uk-1.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
-      "summary": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
+      "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
+      "summary": "The proposed standard aims to connect tokenized stockholders with corporate disclosures and voting materials across digital wallets, but would not create shareholder rights.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7FBMZXNH6CNG3W9M8RNBHCN/hi-meet-the-trader-who-lost-bitcoin-bear-market.jpg"
+      "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JTN734VB6CHE3TCTHAYQMT/digital-bonds-on-blockchain-2.png"
     },
     {
       "cat": "Crypto",
-      "title": "Coinone warns of phishing, identity theft after customer data breach",
-      "summary": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
+      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
+      "summary": "Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and approvals.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7F3YVA7631KKAGKFRGDJWMH/coinone.png"
+      "url": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JEWHRV64CGR31PRV4XXWS7/hi-the-power-in-energy-and-how-new-technologies-can-shift-bitcoin-ai.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
-      "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
+      "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
+      "summary": "Zodiac’s co-founder said a likely compromised key and overly permissive wallet settings enabled the theft, rather than a flaw in its smart contracts.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg"
+      "url": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png"
     },
     {
       "cat": "Crypto",
-      "title": "Microsoft confirms global outage resolved, rules out cyberattack",
-      "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.",
+      "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+      "summary": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg"
+      "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JHP4NCX2Y0XJ53GG2CQ9P5/article-covers-251323-bitcoin-market-enters-full-capitulation-price-dips-below-63k.webp"
+    },
+    {
+      "cat": "Science",
+      "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
+      "summary": "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact. The mission could uncover new clues about ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "The secret to building Moon bases may be hiding in emergency blankets",
+      "summary": "Scientists have turned the thin plastic used in emergency blankets into remarkably strong insulation that could help astronauts survive the Moon&#039;s extreme temperatures. Built from hundreds of stacked layers, the mat",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
+      "summary": "NASA is offering $1 million in its new Moon Base Challenge, inviting U.S. students to develop innovative solutions for building humanity’s first permanent lunar outpost. From power systems to astronaut safety, their idea",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+      "summary": "New research reveals that biological sex, genetics, and menopause may dramatically influence Alzheimer&#039;s risk, treatment responses, and chronic pain conditions such as fibromyalgia. Scientists also uncovered surpris",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm"
     },
     {
       "cat": "Science",
@@ -241,38 +269,45 @@
     },
     {
       "cat": "Science",
-      "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
-      "summary": "The strange, wildly tilted magnetic fields of Uranus and Neptune have puzzled scientists since NASA&#039;s Voyager 2 spacecraft explored the planets in the 1980s. New simulations suggest that extreme conditions deep insi",
+      "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
+      "summary": "Scientists have unexpectedly discovered how to control the magnetic spin inside a single atom&#039;s nucleus using radio waves, overturning previous assumptions about atomic behavior. The breakthrough could pave the way ",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm"
     },
     {
-      "cat": "Science",
-      "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-      "summary": "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star. The breakthrough also re",
+      "cat": "Health",
+      "title": "New wearable ultrasound patch boosts REM sleep without drugs or surgery",
+      "summary": "A revolutionary new wearable patch could help people get more restorative sleep without medication or surgery. Developed by University of Texas researchers, the device uses gentle ultrasound to stimulate deep brain regio",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm"
     },
     {
-      "cat": "Science",
-      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
-      "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shr",
+      "cat": "Health",
+      "title": "Vitamin B12 may hold the key to treating a rare genetic disorder",
+      "summary": "Scientists discovered that vitamin B12 largely reversed developmental abnormalities in worms carrying a genetic mutation linked to Verheij syndrome, a rare disorder that causes growth problems and developmental delays. S",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085552.htm"
     },
     {
-      "cat": "Science",
-      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
-      "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for",
+      "cat": "Health",
+      "title": "Scientists discover that the heart doesn&#039;t age the way we thought",
+      "summary": "Scientists have discovered that the heart ages unevenly, with surprising hotspots of inflammation and scarring concentrated in the valves and major blood vessels rather than the heart muscle. The findings challenge long-",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085550.htm"
     },
     {
-      "cat": "Science",
-      "title": "A simple supplement could help your immune system fight cancer and viral infections",
-      "summary": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with ",
+      "cat": "Health",
+      "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
+      "summary": "New research reveals that biological sex, genetics, and menopause may dramatically influence Alzheimer&#039;s risk, treatment responses, and chronic pain conditions such as fibromyalgia. Scientists also uncovered surpris",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm"
+    },
+    {
+      "cat": "Health",
+      "title": "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
+      "summary": "MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm"
     },
     {
       "cat": "Health",
@@ -282,129 +317,52 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm"
     },
     {
-      "cat": "Health",
-      "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
-      "summary": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shr",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
-      "summary": "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines. The discovery could pave the way for",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "A simple supplement could help your immune system fight cancer and viral infections",
-      "summary": "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections. Scientists found that low arginine levels interfere with ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "Scientists find a simple daily routine linked to less pain and depression",
-      "summary": "A simple change to your daily routine could make a surprising difference in how you feel, both physically and mentally. University of Missouri researchers found that older adults who followed consistent daily schedules r",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm"
-    },
-    {
-      "cat": "Health",
-      "title": "AI discovers a hidden heart signal that could predict sudden death",
-      "summary": "Scientists have uncovered a hidden warning sign in routine heart scans that could predict sudden cardiac death before it strikes. The AI-powered discovery outperformed conventional screening methods, potentially revealin",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261112230456.htm"
-    },
-    {
-      "cat": "Sports",
-      "title": "Falling stars: Pats' Maye, Lions' Hutchinson injured on same play in Munich",
-      "summary": "Patriots QB Drake Maye and Lions DE Aidan Hutchinson were injured on the same play Sunday, taking star power out of the Munich game.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/nfl/story/_/id/50490533/patriots-drake-maye-lions-aidan-hutchinson-injured"
-    },
-    {
-      "cat": "Sports",
-      "title": "Manning shows 'competitive spirit,' shakes off 3 INTs to lead Texas' comeback over LSU",
-      "summary": "Arch Manning found Raleek Brown for a 4-yard touchdown pass along the left sideline with 3 seconds left as Texas escaped Tiger Stadium with a victory over LSU",
-      "source": "espn.com",
-      "url": "https://www.espn.com/college-football/story/_/id/50487515/arch-manning-leads-game-winning-drive-texas-stuns-lsu"
-    },
-    {
-      "cat": "Sports",
-      "title": "Rory, fighting tears, dedicates latest Dubai title to ailing father: 'This one's for him'",
-      "summary": "Rory McIlroy captured the seasonlong Race to Dubai golf title for a record-tying eighth time when he secured a top-two finish at the World Tour Championship.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/golf/story/_/id/50489716/rory-mcilroy-wins-season-long-race-dubai-title"
-    },
-    {
-      "cat": "Sports",
-      "title": "U.S. shuts out Finland to reach women's hockey worlds final",
-      "summary": "Captain Hilary Knight had a goal and an assist to help lead the United States to a 5-0 win over Finland and a trip to the final of the women's ice hockey worlds.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/olympics/hockey/story/_/id/50491132/us-blanks-finland-reach-women-hockey-worlds-final"
-    },
-    {
-      "cat": "Sports",
-      "title": "Sources: Mayfield's status uncertain for Bucs' Week 11 game vs. Lions",
-      "summary": "Baker Mayfield's status against the Lions in Week 11 is in question because of an injury he suffered to his foot and ankle area, sources told NFL Network.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/nfl/story/_/id/50486637/sources-baker-mayfield-status-uncertain-vs-lions"
-    },
-    {
-      "cat": "Sports",
-      "title": "Working double shifts: Four NFL refs to officiate 2 games due to FAA ground stop",
-      "summary": "Four NFL officials will pull a rare double shift Sunday, officiating two games as a result of travel issues created by Friday's FAA ground stop.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/nfl/story/_/id/50490305/four-nfl-refs-officiate-2-games-due-faa-ground-stop"
+      "cat": "Culture",
+      "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+      "summary": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2657/live/f59bc570-e1db-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
-      "summary": "The singer felt forced to compete with her female peers, until she realised the power of longevity.",
+      "title": "Robert Pattinson: How the Twilight star became 007",
+      "summary": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cw77p7yj42k5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c05e/live/272ae280-e0f4-11f1-b441-2b33b063138f.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5f95/live/31a7c6d0-e1e7-11f1-9f14-b33806cfd783.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
-      "summary": "The presenter says she has received a 'five-year clear' after having a hysterectomy in her thirties.",
+      "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
+      "summary": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cw62p4n3n1xyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/36ca/live/a5a42090-e06d-11f1-99e6-531f8829f5a3.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ee22/live/2a20af90-e1c8-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Alleged Russell Brand rape victim wants age of consent law changed",
-      "summary": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+      "title": "James Bond: What we know so far about the next 007 film",
+      "summary": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2a7f/live/9f8b6970-dcf8-11f1-9ef0-4b5930e2f80e.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1679/live/08f260c0-e1d2-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
-      "summary": "Noor Nanji, culture correspondent, explores how these stories represent the consequences of changes that began years ago, rather than being a sudden cultural shift.",
+      "title": "Emma Barnett to leave Radio 4's Today for new BBC Show",
+      "summary": "Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqn70lz71lg8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3c24/live/0b3d63c0-dfc5-11f1-81d0-51c2d6384bd2.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a85c/live/36fe5760-e1e3-11f1-9f14-b33806cfd783.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
+      "summary": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Philippines wins first Eurovision Song Contest Asia",
-      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/965c/live/69643890-e04f-11f1-8d5a-49633fbae59d.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a6a9/live/58ecf9b0-e1bd-11f1-99b6-a35a62fa4264.jpg"
     }
   ]
 }
