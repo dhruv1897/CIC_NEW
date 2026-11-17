@@ -1,56 +1,56 @@
 {
-  "date": "2026-11-16",
-  "updated": "2026-11-16T21:52:40.642Z",
+  "date": "2026-11-17",
+  "updated": "2026-11-17T20:43:22.638Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
     },
     {
       "cat": "World",
-      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
-      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "title": "How the attack on Crimean Bridge unfolded",
+      "summary": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/82dd/live/f7995500-e29d-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "cat": "World",
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "cat": "World",
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg"
     },
     {
       "cat": "World",
-      "title": "When will we see Robert Pattinson as Bond in cinemas?",
-      "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+      "title": "Russian military plane crashes killing all 19 on board",
+      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6849/live/22d15940-e1ed-11f1-99a1-253766e7ad8b.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3ead/live/4d71a050-e2bb-11f1-b083-69f1e69220f8.jpg"
     },
     {
       "cat": "World",
-      "title": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
-      "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,20 @@
     },
     {
       "cat": "Markets",
+      "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+      "summary": "The forecast represents one of the most hawkish views among policymakers.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html"
+    },
+    {
+      "cat": "Markets",
+      "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+      "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
       "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
       "source": "cnbc.com",
@@ -123,114 +137,100 @@
       "url": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html"
     },
     {
-      "cat": "Markets",
-      "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
-      "summary": "The U.K. economy grew 0.7% in the third quarter of the year, in line with estimates.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html"
-    },
-    {
-      "cat": "Markets",
-      "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-      "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"
+      "cat": "Tech & AI",
+      "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+      "summary": "“I love our country”: Jensen Huang’s apology comes amid escalating Nvidia probes.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Huang-Trump-billboard-via-TOP.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Hyperscale data centers use 2% of US electricity",
-      "summary": "Study attempts to tally hyperscalers’ energy use and emissions.",
+      "title": "Civilization studio Firaxis Games lays off a third of staff",
+      "summary": "Studio head Heather Hazen is among those departing.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2263547912.jpg"
+      "url": "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/civ7-graphics-1-1152x648-1738360684.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Shareholders sue Intel, its CEO and CFO after stock drops 28.6 percent in one day",
-      "summary": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
+      "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+      "summary": "“Wake up! They haven’t come 24 trillion miles to negotiate. They are coming to exterminate us.”",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847.jpg"
+      "url": "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/body2-1152x648-1794938366.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Comcast&#039;s \"fiber-powered Wi-Fi\" is just cable, AT&#038;T says in false advertising case",
-      "summary": "AT&#038;T demands Comcast give AT&#038;T profits it made from advertising cable as fiber.",
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/11/getty-comcast-van.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/openai-chip-logo.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Supreme Court keeps injunction against DEI grant defunding in place",
-      "summary": "Appeals court ruling rejected grant cancellations on First Amendment grounds.",
+      "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+      "summary": "Information about the Vulcan failure is being closely held by ULA and Blue Origin.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2302915568.jpg"
+      "url": "https://arstechnica.com/features/2026/11/sources-vulcan-launch-anomaly-investigation-is-complex/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304790493.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "When will humans actually fly on Starship?",
-      "summary": "All estimates of human spaceflight on Starship should be taken with a gigantic grain of salt.",
+      "title": "Google makes it easier to use Gemini without training AI on your data",
+      "summary": "AI training and chat history will now have separate toggles in the Gemini activity settings.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/11/when-will-humans-actually-fly-on-starship/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/spaceX.jpeg"
-    },
-    {
-      "cat": "Tech & AI",
-      "title": "Meet the new James Bond: Robert Pattinson",
-      "summary": "Producers cite \"his fearlessness as an actor, his self-deprecating wit\" and continual reinvention as factors.",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/culture/2026/11/meet-the-new-james-bond-robert-pattinson/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/bond1-1152x648-1794853599.jpg"
+      "url": "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-5.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
-      "summary": "Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash.",
+      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+      "summary": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukraine continued amid the ongoing war.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JZ53YRDRJQGKMN9M3767RB/hi-10-public-companies-that-quietly-turned-their-balance-sheets-into-bitcoin-treasuries.png"
+      "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N9V9STHF6S9E0M81Y5Q7RA/hi-eastern-europe.png"
     },
     {
       "cat": "Crypto",
-      "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
-      "summary": "Johnson was joined by Lord Ross Kempsell who called for regulators to work with industry participants to bring the UK to the forefront.",
+      "title": "Lighter incident exposes risks beyond withdrawal controls",
+      "summary": "Crypto platforms need enforceable limits on every route an API key can use to transfer value, including trades, internal transfers and shared pools.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KWG2BF4FVCFASCKG2BAG5D/peace-and-friendship-uk-1.jpg"
+      "url": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N1GK3FJ1PBDSJP9B84C5F0/blockchain-tangled-cats-cradle-defi-2.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
-      "summary": "The proposed standard aims to connect tokenized stockholders with corporate disclosures and voting materials across digital wallets, but would not create shareholder rights.",
+      "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+      "summary": "Fed Governor Christopher Waller questioned who bears responsibility for fraud, compromised keys and failed transactions as traditional financial assets move onto blockchains.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JTN734VB6CHE3TCTHAYQMT/digital-bonds-on-blockchain-2.png"
+      "url": "https://cointelegraph.com/news/feds-waller-cites-binance-hack-in-warning-over-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N66YD4VEG6WKSNQ9ZJSDDF/hi-impact-of-fed-interest-rates-on-crypto-holders-stablecoin-2.png"
     },
     {
       "cat": "Crypto",
-      "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
-      "summary": "Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and approvals.",
+      "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
+      "summary": "Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JEWHRV64CGR31PRV4XXWS7/hi-the-power-in-energy-and-how-new-technologies-can-shift-bitcoin-ai.jpg"
+      "url": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N46854SJGNK5GMN2W9MWH0/article-covers-256498-bitcoin-hints-regime-shift-btc-price-dips-69-5k-iran-nerves.webp"
     },
     {
       "cat": "Crypto",
-      "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
-      "summary": "Zodiac’s co-founder said a likely compromised key and overly permissive wallet settings enabled the theft, rather than a flaw in its smart contracts.",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png"
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     },
     {
       "cat": "Crypto",
-      "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-      "summary": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement.",
+      "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+      "summary": "Solana Foundation now holds a majority interest in CoinGecko, its product chief said, as the crypto data platform explores trading features.",
       "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JHP4NCX2Y0XJ53GG2CQ9P5/article-covers-251323-bitcoin-market-enters-full-capitulation-price-dips-below-63k.webp"
+      "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MRRJPQ774RM2VSE27T59EP/hi-how-to-buy-nfts-on-solana.jpg"
     },
     {
       "cat": "Science",
@@ -241,38 +241,66 @@
     },
     {
       "cat": "Science",
+      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+      "summary": "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy. A new technique developed at UC San Diego could help rule",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "The hidden language of psychopathy is not what scientists expected",
+      "summary": "Scientists have discovered that psychopathic traits are associated with surprisingly different patterns of language, with some individuals using more positive words and others expressing greater negativity or less anxiet",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+      "summary": "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful. Researche",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm"
+    },
+    {
+      "cat": "Science",
+      "title": "A material just one atom thick reveals a strange quantum secret",
+      "summary": "Researchers at the University of Osaka have discovered a remarkable quantum state forming at the boundary between a one-atom-thick material and a metal. They observed electrons behaving as though they were unusually heav",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm"
+    },
+    {
+      "cat": "Science",
       "title": "The secret to building Moon bases may be hiding in emergency blankets",
       "summary": "Scientists have turned the thin plastic used in emergency blankets into remarkably strong insulation that could help astronauts survive the Moon&#039;s extreme temperatures. Built from hundreds of stacked layers, the mat",
       "source": "sciencedaily.com",
       "url": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm"
     },
     {
-      "cat": "Science",
-      "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
-      "summary": "NASA is offering $1 million in its new Moon Base Challenge, inviting U.S. students to develop innovative solutions for building humanity’s first permanent lunar outpost. From power systems to astronaut safety, their idea",
+      "cat": "Health",
+      "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
+      "summary": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm"
     },
     {
-      "cat": "Science",
-      "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
-      "summary": "New research reveals that biological sex, genetics, and menopause may dramatically influence Alzheimer&#039;s risk, treatment responses, and chronic pain conditions such as fibromyalgia. Scientists also uncovered surpris",
+      "cat": "Health",
+      "title": "The hidden language of psychopathy is not what scientists expected",
+      "summary": "Scientists have discovered that psychopathic traits are associated with surprisingly different patterns of language, with some individuals using more positive words and others expressing greater negativity or less anxiet",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm"
     },
     {
-      "cat": "Science",
-      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-      "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taki",
+      "cat": "Health",
+      "title": "Cannabis addiction linked to 57% higher odds of suicidal thoughts",
+      "summary": "A massive study involving more than 415,000 Americans has uncovered a concerning connection between cannabis use disorder and suicidal thoughts. Researchers found that adults with the disorder had 57% higher odds of expe",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023342.htm"
     },
     {
-      "cat": "Science",
-      "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
-      "summary": "Scientists have unexpectedly discovered how to control the magnetic spin inside a single atom&#039;s nucleus using radio waves, overturning previous assumptions about atomic behavior. The breakthrough could pave the way ",
+      "cat": "Health",
+      "title": "Wine, beer, or spirits? Massive study reveals a surprising health divide",
+      "summary": "A massive study of more than 340,000 adults found that moderate wine drinkers had a 21% lower risk of cardiovascular death, while even light consumption of beer, cider, or spirits was linked to increased risk. Although h",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116015104.htm"
     },
     {
       "cat": "Health",
@@ -283,38 +311,42 @@
     },
     {
       "cat": "Health",
-      "title": "Vitamin B12 may hold the key to treating a rare genetic disorder",
-      "summary": "Scientists discovered that vitamin B12 largely reversed developmental abnormalities in worms carrying a genetic mutation linked to Verheij syndrome, a rare disorder that causes growth problems and developmental delays. S",
+      "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
+      "summary": "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful. Researche",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261115085552.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm"
     },
     {
-      "cat": "Health",
-      "title": "Scientists discover that the heart doesn&#039;t age the way we thought",
-      "summary": "Scientists have discovered that the heart ages unevenly, with surprising hotspots of inflammation and scarring concentrated in the valves and major blood vessels rather than the heart muscle. The findings challenge long-",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261115085550.htm"
+      "cat": "Culture",
+      "title": "Batman to James Bond: The clues about what to expect from Robert Pattinson's 007",
+      "summary": "What can Robert Pattinson's past movie roles tell us about what he might be like as James Bond?",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c8x2r6gyy2pzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/457e/live/091e9740-e28a-11f1-99b6-a35a62fa4264.png"
     },
     {
-      "cat": "Health",
-      "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
-      "summary": "New research reveals that biological sex, genetics, and menopause may dramatically influence Alzheimer&#039;s risk, treatment responses, and chronic pain conditions such as fibromyalgia. Scientists also uncovered surpris",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm"
+      "cat": "Culture",
+      "title": "Channel 4 admits it doesn't know number of Married At First Sight UK sex abuse complaints",
+      "summary": "C4's chief executive is questioned by MPs after a string of allegations were made about the show.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2xvdpy2ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/0a4e/live/c621a3a0-5603-11f1-ad45-8ffb2d2085e2.jpg"
     },
     {
-      "cat": "Health",
-      "title": "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
-      "summary": "MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm"
+      "cat": "Culture",
+      "title": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
+      "summary": "Sunrise on the Reaping, the franchise's sixth film, is both criticised and praised by film critics.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c9vg2xgn0xe5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/22ee/live/daa8b410-e2a0-11f1-8dda-8925a81c3da5.jpg"
     },
     {
-      "cat": "Health",
-      "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-      "summary": "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites. A new mathematical model suggests that taki",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm"
+      "cat": "Culture",
+      "title": "Brad Pitt and Florence Pugh pitch for James Bond villain role",
+      "summary": "The two A-list stars throw their hats into the ring to be the villain facing Robert Pattinson's 007.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gnpgl0zkxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cca1/live/480e0780-e2ab-11f1-a094-5fdc692f3e33.png"
     },
     {
       "cat": "Culture",
@@ -322,47 +354,15 @@
       "summary": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/2657/live/f59bc570-e1db-11f1-a094-5fdc692f3e33.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/6cce/live/ac752f20-e209-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Robert Pattinson: How the Twilight star became 007",
-      "summary": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
+      "title": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
+      "summary": "Mia Latter spoke to the BBC after the jailed comedian claimed he was innocent of offences against four other women, in comments on a podcast following his convction.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5f95/live/31a7c6d0-e1e7-11f1-9f14-b33806cfd783.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
-      "summary": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/ee22/live/2a20af90-e1c8-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "James Bond: What we know so far about the next 007 film",
-      "summary": "Josh O'Connor, Jack Lowden and Callum Turner are reportedly in the frame to replace Daniel Craig.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ck79p0lev47po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1679/live/08f260c0-e1d2-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Emma Barnett to leave Radio 4's Today for new BBC Show",
-      "summary": "Barnett, who has presented Today and Woman's Hour, will front a multiplatform show in the New Year.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrgw2p52l5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a85c/live/36fe5760-e1e3-11f1-9f14-b33806cfd783.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
-      "summary": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/a6a9/live/58ecf9b0-e1bd-11f1-99b6-a35a62fa4264.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cqvg27zyrd99o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/1329/live/41714e10-e27d-11f1-a094-5fdc692f3e33.jpg"
     }
   ]
 }
