@@ -1,56 +1,56 @@
 {
-  "date": "2026-11-20",
-  "updated": "2026-11-20T19:54:08.915Z",
+  "date": "2026-11-21",
+  "updated": "2026-11-21T18:59:26.775Z",
   "brand": "PULSE",
   "stories": [
     {
       "cat": "World",
       "lead": true,
-      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "cat": "World",
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg"
     },
     {
       "cat": "World",
-      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
-      "summary": "Russia launched one of its biggest air attacks yet as it rejected the prospect of security guarantees for Ukraine.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg"
-    },
-    {
-      "cat": "World",
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
       "source": "bbc.co.uk",
       "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
     },
     {
       "cat": "World",
-      "title": "Nearly 600 women killed in South Africa within three months",
-      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/b54a/live/170dbfd0-e4fa-11f1-a8e4-b1e12a49db15.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
     },
     {
       "cat": "World",
-      "title": "Texas death-row inmate screams as execution takes more than one hour",
-      "summary": "This prolonged execution comes weeks after Christa Pike survived the lethal injection of the same drug.",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/19f8/live/7c960b40-e4ce-11f1-8ebd-0fa6091698b5.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "cat": "World",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "cat": "Business",
@@ -96,6 +96,13 @@
     },
     {
       "cat": "Markets",
+      "title": "Tech outages are fueling a new doomsday economy",
+      "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html"
+    },
+    {
+      "cat": "Markets",
       "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
       "summary": "The core inflation figure — which strips out prices of food — was lower than the 2.3% expected by Reuters-polled economists.",
       "source": "cnbc.com",
@@ -130,59 +137,84 @@
       "url": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html"
     },
     {
-      "cat": "Markets",
-      "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-      "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
-      "source": "cnbc.com",
-      "url": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html"
+      "cat": "Tech & AI",
+      "title": "“Race realism” isn’t realistic—and it isn’t good science",
+      "summary": "Modern genetics does not support claims of innate racial differences in intelligence.",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2201567552.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Army delays detonating \"catastrophically hazardous\" lead azide amid fear, anger",
-      "summary": "Modeling predicts plume of neurotoxic lead could reach up to 100 miles away.",
+      "title": "Trump FCC declares California isn&#039;t allowed to enforce phone service rules",
+      "summary": "FCC preempts state rules that require AT&#038;T to keep offering home phone service.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305973751.jpg"
+      "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Valve says it might have to raise the price of supply-limited Steam Machines",
-      "summary": "\"We don't yet know the number we are able to make, and at what price...\"",
+      "title": "SpaceX&#039;s Starshield troubles in Ukraine could threaten its broader military business",
+      "summary": "\"Explain the changes that were made to the Starshield service in October 2026.\"",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/sm1.jpg"
+      "url": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2292512757.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "US will soon announce root cause behind FAA nationwide ground stop",
-      "summary": "Former FAA insider on reducing the risks of upgrading a decades-old network.",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "summary": "Google search is making it even easier to access AI tools on the search page.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Travelers-during-FAA-ground-stop.jpg"
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/google-sign-logo.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
-      "summary": "Bondholders want SpaceX’s valuable chip collateral kept on Earth and within reach.",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/HS7_82eXsAAa-Hx.jpeg"
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center.jpg"
     },
     {
       "cat": "Tech & AI",
-      "title": "Rocket Report: A weekend of ups and downs; Stoke celebrates engine milestone",
-      "summary": "Russia launched a Soyuz rocket with satellites to help enable drone attacks over Ukraine.",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
       "source": "arstechnica.com",
-      "url": "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/1795097197088.jpg"
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage.jpg"
     },
     {
-      "cat": "Tech & AI",
-      "title": "Only the Seminole Tribe can offer online gambling in Florida—and they&#039;re furious at DraftKings",
-      "summary": "Gambling? We're just swapping contracts!",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-186821059.jpg"
+      "cat": "Crypto",
+      "title": "Here’s what happened in crypto today",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+      "summary": "Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+      "summary": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M3TG0M8S1BAV7KN2AJ34JJE9/prediction-market.jpg"
+    },
+    {
+      "cat": "Crypto",
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "summary": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
+      "source": "cointelegraph.com",
+      "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Y9VC5TT6XQ46DCK68VGC0X/regulation-hong-kong.jpg"
     },
     {
       "cat": "Crypto",
@@ -201,36 +233,32 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X2CXDXB4B5SGSAMFZAXXE0/hi-kraken-ipo-1.png"
     },
     {
-      "cat": "Crypto",
-      "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
-      "summary": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg"
+      "cat": "Science",
+      "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+      "summary": "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously. Using atomic clocks with dramatically enhanced sensitivity, researchers ho",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
-      "summary": "The Senate-approved bill would ban prediction market contracts tied to war, assassination and death amid concerns over potential insider trading on military events.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WS7SH44A7MXA0Q21TD4GY8/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-2.png"
+      "cat": "Science",
+      "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+      "summary": "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption. NASA’s James Webb Space ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
-      "summary": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WQNA6474S1X1PQY3N7WJMX/hi-bollinger-band-explained2.webp"
+      "cat": "Science",
+      "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+      "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us. Nearly 50 years after launch, the a",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
     },
     {
-      "cat": "Crypto",
-      "title": "DBS bets it can lose the deposit and keep the client",
-      "summary": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s helping companies turn deposits into stablecoins they can spend without it.",
-      "source": "cointelegraph.com",
-      "url": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WNFYH0FRWPZX615E3RNKNQ/sponsored-marina-bay-sand-singapore-light-water11-1.jpg"
+      "cat": "Science",
+      "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
+      "summary": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected. The instrument ",
+      "source": "sciencedaily.com",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm"
     },
     {
       "cat": "Science",
@@ -241,38 +269,24 @@
     },
     {
       "cat": "Science",
-      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
-      "summary": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles. The break",
+      "title": "Who was buried in Westminster Abbey&#039;s Roman coffin? A 150-year mystery may be solved",
+      "summary": "A mysterious skeleton discovered in a Roman sarcophagus at Westminster Abbey may finally be identified after more than 150 years. New dating evidence suggests the remains belonged to a high-ranking medieval abbot who was",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm"
     },
     {
-      "cat": "Science",
-      "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
-      "summary": "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon. The experimental blocks still need to be strengthened, but the",
+      "cat": "Health",
+      "title": "AI may not work like the human brain after all, scientists discover",
+      "summary": "AI may not think like the human brain after all, according to a striking new discovery that challenges how scientists understand artificial intelligence. Researchers found that even AI models that closely predict brain a",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm"
     },
     {
-      "cat": "Science",
-      "title": "Experimental compound burns fat without sacrificing muscle",
-      "summary": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted",
+      "cat": "Health",
+      "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
+      "summary": "Microplastics may be doing something far more dangerous than simply accumulating in our bodies. Scientists have discovered that tiny plastic particles can interact with water to generate highly reactive molecules capable",
       "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
-      "summary": "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks. Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and ",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
-    },
-    {
-      "cat": "Science",
-      "title": "A 3-million-year-old child just made human evolution far more complicated",
-      "summary": "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary f",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm"
+      "url": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm"
     },
     {
       "cat": "Health",
@@ -303,60 +317,20 @@
       "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
     },
     {
-      "cat": "Health",
-      "title": "This simple habit is linked to a 33% lower risk of Alzheimer&#039;s",
-      "summary": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings t",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm"
+      "cat": "Culture",
+      "title": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
+      "summary": "Pattinson’s announcement as 007 has completely upped the game, and commentators say his leading lady will need a \"very strong identity\".",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1l7x52jno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/361f/live/d7808b20-e4e7-11f1-99b6-a35a62fa4264.png"
     },
     {
-      "cat": "Health",
-      "title": "Powerful new weight-loss drug helps patients cut knee pain in half",
-      "summary": "A powerful experimental weight-loss drug helped people with knee osteoarthritis lose about 25% of their body weight at the highest dose, while roughly two-thirds experienced at least a 50% reduction in knee pain. The fin",
-      "source": "sciencedaily.com",
-      "url": "https://www.sciencedaily.com/releases/2026/11/261118065534.htm"
-    },
-    {
-      "cat": "Sports",
-      "title": "Colts cut ties with QB Jones, turn to Richardson for next start",
-      "summary": "The Colts have cut quarterback Daniel Jones after a challenging 11-game stint in 2026 and are turning to Anthony Richardson Sr. to start going forward.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans"
-    },
-    {
-      "cat": "Sports",
-      "title": "Sources: Pats QB Maye has fractured fibula, return this season uncertain",
-      "summary": "Patriots quarterback Drake Maye has a fractured right fibula, and receiver A.J. Brown has a hamstring injury, sources told ESPN's Mike Reiss and Adam Schefter.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say"
-    },
-    {
-      "cat": "Sports",
-      "title": "Sources: Tom Brady buys shares in Chelsea after Birmingham exit",
-      "summary": "Seven-time Super Bowl champion quarterback Tom Brady has invested in Chelsea soccer club, sources confirmed to ESPN and NFL Network.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources"
-    },
-    {
-      "cat": "Sports",
-      "title": "Rams' suspended Nacua has MCL surgery, likely done for regular season",
-      "summary": "Rams WR Puka Nacua, who is serving a three-game suspension while on IR, had surgery on his MCL and likely will miss at least the rest of the regular season.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season"
-    },
-    {
-      "cat": "Sports",
-      "title": "Miami WR Toney 'close' to return, coach says, with ACC title game a possibility",
-      "summary": "Miami star wide receiver Malachi Toney is about a week and a half from returning from surgery for a high ankle sprain, coach Mario Cristobal told \"The Pat McAfee Show.\"",
-      "source": "espn.com",
-      "url": "https://www.espn.com/college-football/story/_/id/50542494/malachi-toney-nearing-return-ankle-surgery-coach-says"
-    },
-    {
-      "cat": "Sports",
-      "title": "Cardinals QB Beck dealing with back spasms; Johnson may start vs. Chiefs",
-      "summary": "The Cardinals are preparing veteran quarterback Josh Johnson to start Sunday vs. the Chiefs as rookie Carson Beck deals with back spasms, coach Mike LaFleur said Friday.",
-      "source": "espn.com",
-      "url": "https://www.espn.com/nfl/story/_/id/50542595/cardinals-qb-beck-dealing-back-spasms-johnson-start"
+      "cat": "Culture",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "source": "bbc.co.uk",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg"
     },
     {
       "cat": "Culture",
@@ -368,43 +342,27 @@
     },
     {
       "cat": "Culture",
-      "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "title": "How Westside Cowboy went from student gigs to rising stars in two years",
+      "summary": "The four-piece band joins a prestigious list that includes Myles Smith, Olivia Dean, Tom Grennan.",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/crjeqxedzpnko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/7598/live/a30e8b60-e4bc-11f1-bd65-4bcf15946188.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Next round of BBC cuts will be more noticeable to audiences, report warns",
-      "summary": "The BBC has already cut jobs, programmes and services but has further to go to reach its £500m target.",
+      "title": "Rings of Power filming allows Morfydd Clark to see 'secret bits' of Wales",
+      "summary": "Rings of Power actress Morfydd Clark sees 'secret bits' of Wales in filming",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmpdwev0jgp6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e693/live/c254bab0-e42d-11f1-a630-a951c13e48b7.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c615egvdd59xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/4b2b/live/41c94520-e359-11f1-a8cd-2ff5ed84046e.jpg"
     },
     {
       "cat": "Culture",
-      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
-      "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
+      "title": "Gérard Depardieu and French author investigated over sexual allegations",
+      "summary": "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\".",
       "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/179e/live/c4afc3a0-e4db-11f1-9cc5-e9713e77fd78.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Babydoll singer Jamie Miller covers Christmas classic",
-      "summary": "It's Beginning To Look A Lot Like Christmas for the number one hitmaker from Cardiff.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/cq62pe2jdg08o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/fe6a/live/bb5478e0-e4cd-11f1-8ebd-0fa6091698b5.jpg"
-    },
-    {
-      "cat": "Culture",
-      "title": "Percy Jackson returns as teen stars adapt to life in the limelight",
-      "summary": "Percy Jackson's lead Walker Scobell admits there are ups and downs to fame as the series returns.",
-      "source": "bbc.co.uk",
-      "url": "https://www.bbc.co.uk/news/articles/ckge37rdrp1eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e17c/live/6fd57170-e4ec-11f1-99b6-a35a62fa4264.jpg"
+      "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/800/cpsprodpb/e9a6/live/0355fa40-e51b-11f1-99a1-253766e7ad8b.jpg"
     }
   ]
 }
